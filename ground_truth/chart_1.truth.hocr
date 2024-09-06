@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title></title>
+	<meta name='font-metrics' content='{"SansDefault":{"normal":{"width":{"40":0.416667,"41":0.416667,"47":0.81,"48":0.9999997500000001,"49":0.784313137255,"50":0.833333125,"51":0.833333125,"52":0.9411757647060001,"53":0.833333125,"54":0.8627451176470001,"55":0.833333125,"56":0.8627451176470001,"57":0.9166664375000001,"65":1.083333,"66":0.769231,"67":0.923077,"68":1.083333,"69":0.769231,"70":0.75,"71":1.083333,"72":1,"73":0.1875,"75":0.9375,"76":0.666667,"77":1.5,"78":1.076923,"79":1.125,"80":0.833333,"82":0.875,"83":0.833333,"84":0.916667,"87":1.6875,"97":0.75,"98":0.846154,"99":0.75,"100":0.916667,"101":0.833333,"102":0.5,"103":0.916667,"104":0.833333,"105":0.25,"107":0.8125,"108":0.25,"109":1.333333,"110":0.833333,"111":0.916667,"112":0.916667,"114":0.583333,"115":0.666667,"116":0.5,"117":0.916667,"118":0.833333,"119":1.25,"120":0.692308,"121":0.916667,"123":0.416667,"125":0.416667},"height":{"40":1.583333,"41":1.692308,"47":1.814286,"48":1.333333,"49":1.333333,"50":1.333333,"51":1.333333,"52":1.333333,"53":1.333333,"54":1.333333,"55":1.333333,"56":1.333333,"57":1.333333,"65":1.333333,"66":1.230769,"67":1.230769,"68":1.333333,"69":1.307692,"70":1.333333,"71":1.333333,"72":1.230769,"73":1.1875,"75":1.1875,"76":1.333333,"77":1.333333,"78":1.230769,"79":1.1875,"80":1.333333,"82":1.3125,"83":1.333333,"84":1.25,"87":1.375,"97":1,"98":1.153846,"99":1,"100":1.333333,"101":1,"102":1.416667,"103":1.333333,"104":1.333333,"105":1.333333,"107":1.4375,"108":1.416667,"109":1,"110":1,"111":1,"112":1.333333,"114":1,"115":1,"116":1.166667,"117":0.916667,"118":1,"119":1,"120":1,"121":1.333333,"123":1.666667,"125":1.75},"kerning":{"87,105":0.125,"105,99":0.083333,"99,107":0.125,"107,108":0.125,"108,105":0.1875,"105,110":0.25,"110,101":0.125,"40,48":0.083333,"48,48":-0.166666625,"48,49":0.0833333125,"49,52":0.0833333125,"52,51":0.07843198039200001,"51,51":0.07843198039200001,"51,56":0.15686262745100002,"56,41":0.15686262745100002,"83,97":0.083333,"97,108":0.166667,"108,101":0.166667,"101,115":0.083333,"68,105":0.166667,"105,114":0.25,"80,104":0.083333,"104,97":0.166667,"97,114":0.166667,"114,109":0.166667,"109,97":0.166667,"66,111":0.076923,"72,97":0.076923,"97,109":0.230769,"109,105":0.153846,"105,108":0.153846,"108,116":0.153846,"116,111":0.076923,"111,110":0.083333,"67,104":0.076923,"104,114":0.153846,"114,105":0.166667,"105,115":0.083333,"115,116":0.153846,"111,112":0.076923,"112,104":0.076923,"104,101":0.153846,"101,114":0.076923,"78,101":0.076923,"101,119":0.153846,"119,98":0.153846,"98,101":0.076923,"114,114":0.153846,"114,121":0.076923,"114,108":0.153846,"108,111":0.076923,"111,116":0.076923,"116,116":0.153846,"116,101":0.076923,"48,57":0.0833333125,"57,49":0.166666625,"49,48":0.0833333125,"48,54":0.0833333125,"54,56":0.0833333125,"83,112":0.153846,"112,101":0.083333,"101,99":0.083333,"105,101":0.166667,"101,108":0.083333,"108,100":0.166667,"52,47":0,"47,50":0.08,"50,54":0.166666625,"54,47":0,"50,48":0.0833333125,"57,47":0.0833333125,"50,55":0.166666625,"55,47":0,"76,105":0.166667,"115,97":0.083333,"77,121":0.083333,"121,101":0,"114,115":0,"49,51":0.166666625,"51,48":0.166666625,"48,51":0.0833333125,"51,50":0.166666625,"48,41":0.0833333125,"71,111":0.166667,"111,111":0.083333,"111,99":0.083333,"99,104":0.166667,"84,101":0.083333,"114,101":0.083333,"67,114":0.083333,"114,97":0.083333,"97,119":0.083333,"119,102":0.25,"102,111":0.083333,"111,114":0.166667,"114,100":0.166667,"54,48":0.0833333125,"52,41":0.166666625,"111,100":0.083333,"100,100":0.166667,"100,97":0.083333,"70,105":0.083333,"116,114":0.166667,"99,116":0.083333,"77,103":0.083333,"103,114":0.166667,"49,47":0,"47,49":0.169811,"49,54":0.166666625,"49,50":0.0833333125,"48,47":0,"49,49":0.24999993750000002,"83,105":0.166667,"105,100":0.083333,"83,101":0.083333,"101,103":0.083333,"103,97":0.083333,"68,101":0.083333,"101,110":0.166667,"110,105":0.166667,"115,101":0.083333,"68,97":0.166667,"97,118":0.166667,"118,105":0.083333,"83,104":0.083333,"97,110":0.166667,"110,110":0.25,"110,111":-0.25,"65,110":0.25,"51,49":0.24999993750000002,"49,57":0.0833333125,"57,41":0.0833333125,"80,97":0.083333,"97,117":0.166667,"117,108":0.166667,"123,48":0.083333,"49,53":0.166666625,"53,50":0.14035063157900002,"50,125":0.24999993750000002,"56,47":0.0833333125,"47,56":0.090714,"48,53":0.14035063157900002,"69,108":0.153846,"108,97":0.076923,"97,105":0.153846,"110,100":0.153846,"100,101":0.153846,"115,111":0.076923,"50,47":0.07843198039200001,"82,111":0.153846,"111,120":0.076923,"120,97":0.076923,"48,55":0.07843198039200001,"55,51":0.07843198039200001,"51,55":0.15686262745100002,"55,50":0.07843198039200001,"50,56":0.07843198039200001,"77,78":0.1875,"78,75":0.25,"75,79":0.0625,"79,73":0.1875,"50,50":0.14035063157900002,"48,50":0.070175982456,"50,51":0.14035063157900002},"kerning2":{"87,105":0.125,"105,99":0.125,"99,107":0.125,"107,108":0.0625,"108,105":0.1875,"105,110":0.229167,"110,101":0.166667,"40,48":0.08333325000000003,"48,48":-0.058823985294000014,"48,49":0.07843198039200017,"49,52":0.07843198039200006,"52,51":0.029411992647000118,"51,51":0.029411992647000118,"51,56":0.156862627451,"56,41":0.13235286274500002,"83,97":0.166667,"97,108":0.166667,"108,101":0.166667,"101,115":0.08333299999999999,"68,105":0.166667,"105,114":0.166667,"80,104":0.166667,"104,97":0.166667,"97,114":0.166667,"114,109":0.1666669999999999,"109,97":0.166667,"66,111":0.08333299999999999,"72,97":0.09615399999999996,"97,109":0.1282049999999999,"109,105":0.211538,"105,108":0.13461499999999998,"108,116":0.11538499999999996,"116,111":0.006410000000000027,"111,110":0.08974400000000005,"67,104":0.012820999999999971,"104,114":0.03205199999999997,"114,105":0.166667,"105,115":0.08333299999999999,"115,116":0.11538499999999996,"111,112":0.08333299999999999,"112,104":0.012820999999999971,"104,101":0.08974400000000005,"101,114":0.03205199999999997,"78,101":0.012820999999999971,"101,119":0.05769200000000008,"119,98":0.15384600000000004,"98,101":0.08974400000000005,"114,114":0.10897500000000004,"114,121":-0.147436,"114,108":0.13461499999999998,"108,111":0.08333299999999999,"111,116":0.038461999999999996,"116,116":0.19230800000000003,"116,101":0.012820999999999971,"48,57":0.08333331249999998,"57,49":0.13235330024500014,"49,48":0.08333331250000009,"48,54":0.13725463235299995,"54,56":0.05392131985299997,"83,112":0.08333299999999999,"112,101":0.08333400000000002,"101,99":0.166667,"105,101":0.166667,"101,108":0.166667,"108,100":0.08333299999999999,"52,47":-0.060000187500000024,"47,50":0.14957687499999994,"50,54":0.13725463235299995,"54,47":-0.025686862745000094,"50,48":0.08333331250000009,"57,47":-0.060000187500000024,"50,55":0.16666662500000007,"55,47":0.023333124999999955,"76,105":0.25,"115,97":0.166667,"77,121":0.08333299999999999,"121,101":0.166667,"114,115":0.08333299999999999,"49,51":0.16666662500000007,"51,48":0.16666662500000007,"48,51":0.08333331250000009,"51,50":0.16666662500000007,"48,41":0.08333287500000003,"71,111":0.1666660000000001,"111,111":0.1666660000000001,"111,99":0,"99,104":0.166667,"84,101":0.166667,"114,101":0.166667,"67,114":0.08333400000000002,"114,97":0.166667,"97,119":0.0833330000000001,"119,102":0.25,"102,111":0,"111,114":0.166667,"114,100":0.1666660000000001,"54,48":0,"52,41":0.16666618750000006,"111,100":0.08333299999999999,"100,100":0.1666660000000001,"100,97":0.08333299999999999,"70,105":0.166667,"116,114":0.166667,"99,116":0.166667,"77,103":0.08333299999999999,"103,114":0.08333400000000002,"49,47":0.023333124999999955,"47,49":0.149648862745,"49,54":0.13725463235299995,"49,50":0.10784263970600005,"48,47":0.05274511764700007,"49,49":0.2990199252450002,"83,105":0.166667,"105,100":0.08333299999999999,"83,101":0.08333400000000002,"101,103":0.08333299999999999,"103,97":0.08333299999999999,"68,101":0.08333400000000002,"101,110":0.166667,"110,105":0.25,"115,101":0.166667,"68,97":0.166667,"97,118":0.166667,"118,105":0.08333299999999999,"83,104":0.08333400000000002,"97,110":0.166667,"110,110":0.416667,"110,111":-0.08333400000000002,"65,110":0.166667,"51,49":0.21568661274500012,"49,57":0.08333331249999998,"57,41":0.16666618750000006,"80,97":0.08333299999999999,"97,117":0.1666660000000001,"117,108":0.166667,"123,48":0.16666724999999982,"49,53":0.16666662500000007,"53,50":0.14912262938600007,"50,125":0.24999950000000004,"56,47":0.023333124999999955,"47,56":0.22582588235299983,"48,53":0.14912262938600007,"69,108":0.13461499999999998,"108,97":0.09615399999999996,"97,105":0.211538,"110,100":0.08333299999999999,"100,101":0.08974400000000005,"115,111":0.08333299999999999,"50,47":0.023333124999999955,"82,111":0.08333299999999999,"111,120":0.07692299999999996,"120,97":0.09615399999999996,"48,55":0.029411992647000118,"55,51":0.029411992647000118,"51,55":0.1862746200980001,"55,50":0.10784263970600005,"50,56":0.07843064705899994,"77,78":0.048076999999999925,"78,75":0.25,"75,79":0.0625,"79,73":0.1875,"50,50":0.14912262938600007,"48,50":0.14912262938600007,"50,51":0.14912262938600007},"variants":{},"heightCaps":1.333333,"obs":564,"obsCaps":78},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":564},"Default":{"normal":{"width":{"47":0.8,"48":0,"49":0,"50":0,"53":0,"58":0.153846},"height":{"47":1.68,"48":0,"49":0,"50":0,"53":0,"58":1},"kerning":{"50,47":0,"47,49":0.24,"49,53":0,"53,47":0,"47,50":0.08,"50,48":0,"48,49":0,"49,48":0},"kerning2":{"50,47":-0.8,"47,49":0.88,"49,53":0,"53,47":-0.8,"47,50":0.88,"50,48":0,"48,49":0,"49,48":0},"variants":{},"heightCaps":0,"obs":10,"obsCaps":0},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":10},"SerifDefault":{"normal":{"width":{"48":0,"49":0,"50":0},"height":{"48":0,"49":0,"50":0},"kerning":{"49,47":0,"49,49":0,"50,48":0,"48,49":0,"49,48":0},"kerning2":{"49,47":null,"49,49":0,"50,48":0,"48,49":0,"49,48":0},"variants":{},"heightCaps":0,"obs":7,"obsCaps":0},"italic":{"width":{"48":0,"49":0,"50":0,"56":0,"57":0},"height":{"48":0,"49":0,"50":0,"56":0,"57":0},"kerning":{"56,47":0,"50,57":0,"57,47":0,"50,48":0,"48,49":0,"49,49":0},"kerning2":{"56,47":null,"50,57":0,"57,47":null,"50,48":0,"48,49":0,"49,49":0},"variants":{},"heightCaps":0,"obs":7,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":14}}'></meta>
+	<meta name='default-font' content='SansDefault'></meta>
+	<meta name='sans-font' content='Carlito'></meta>
+	<meta name='serif-font' content='Century'></meta>
+	<meta name='enable-opt' content='undefined'></meta>
+	<meta name='layout' content='[{"default":true,"boxes":{}}]'></meta>
+	<meta name='layout-data-table' content='[{"default":true,"tables":[]}]'></meta>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<meta name='ocr-system' content='scribeocr' />
+	<meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf ocrp_lang ocrp_dir ocrp_font ocrp_fsize'/>
+</head>
+<body>
+	<div class='ocr_page' title='bbox 0 0 2000 1577'>
+		<span class='ocr_line' title="bbox 1560 78 1686 101; baseline 0 0; x_x_height 16; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_4_1' title='bbox 1560 79 1572 101;x_wconf 100;x_font SerifDefault;x_fsize 29' lang='eng' style='font-family:SerifDefault'>R</span>
+			<span class='ocrx_word' id='word_1_4_2' title='bbox 1582 78 1686 101;x_wconf 100;x_font SerifDefault;x_fsize 29' lang='eng' style='font-family:SerifDefault'>Wickline</span>
+		</span>
+		<span class='ocr_line' title="bbox 1502 950 1779 971; baseline 0 -3; x_x_height 12; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_5_1' title='bbox 1502 951 1557 968;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Elaine</span>
+			<span class='ocrx_word' id='word_1_5_2' title='bbox 1565 950 1654 967;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Anderson</span>
+			<span class='ocrx_word' id='word_1_5_3' title='bbox 1664 950 1779 971;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000135811)</span>
+		</span>
+		<span class='ocr_line' title="bbox 1531 977 1754 998; baseline 0 -3; x_x_height 12; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_6_1' title='bbox 1531 977 1571 995;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Field</span>
+			<span class='ocrx_word' id='word_1_6_2' title='bbox 1580 978 1625 995;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_6_3' title='bbox 1633 979 1674 998;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Spec</span>
+			<span class='ocrx_word' id='word_1_6_4' title='bbox 1684 979 1754 995;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 1591 1005 1691 1025; baseline 0 -2; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_7_1' title='bbox 1591 1005 1691 1025;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>9/24/2012</span>
+		</span>
+		<span class='ocr_line' title="bbox 247 752 527 772; baseline -0.004902 -3; x_x_height 12; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_8_1' title='bbox 247 752 305 769;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Gerald</span>
+			<span class='ocrx_word' id='word_1_8_2' title='bbox 315 752 401 768;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Robinson</span>
+			<span class='ocrx_word' id='word_1_8_3' title='bbox 409 752 527 772;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000060726)</span>
+		</span>
+		<span class='ocr_line' title="bbox 265 780 508 800; baseline 0 -3; x_x_height 13; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_9_1' title='bbox 265 781 330 797;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>District</span>
+			<span class='ocrx_word' id='word_1_9_2' title='bbox 338 781 383 797;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_9_3' title='bbox 393 781 427 800;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Mgr</span>
+			<span class='ocrx_word' id='word_1_9_4' title='bbox 436 780 508 797;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 337 806 437 827; baseline 0 -3; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_10_1' title='bbox 337 806 437 827;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>1/11/2010</span>
+		</span>
+		<span class='ocr_line' title="bbox 275 554 500 575; baseline -0.006211 -3; x_x_height 12; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_11_1' title='bbox 275 555 306 572;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Lisa</span>
+			<span class='ocrx_word' id='word_1_11_2' title='bbox 316 555 374 575;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Myers</span>
+			<span class='ocrx_word' id='word_1_11_3' title='bbox 381 554 500 573;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000130320)</span>
+		</span>
+		<span class='ocr_line' title="bbox 275 582 499 601; baseline 0 -2; x_x_height 13; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_12_1' title='bbox 275 582 316 599;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Field</span>
+			<span class='ocrx_word' id='word_1_12_2' title='bbox 325 582 370 599;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_12_3' title='bbox 378 583 420 601;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Spec</span>
+			<span class='ocrx_word' id='word_1_12_4' title='bbox 429 583 499 599;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 338 609 435 629; baseline -0.016393 0; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_13_1' title='bbox 338 609 435 629;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>1/16/2012</span>
+		</span>
+		<span class='ocr_line' title="bbox 660 356 950 377; baseline 0.004444 -5; x_x_height 12; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_14_1' title='bbox 660 356 772 376;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Christopher</span>
+			<span class='ocrx_word' id='word_1_14_2' title='bbox 778 356 824 373;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Clark</span>
+			<span class='ocrx_word' id='word_1_14_3' title='bbox 831 356 950 377;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000130316)</span>
+		</span>
+		<span class='ocr_line' title="bbox 693 383 917 405; baseline 0 -4; x_x_height 13; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_15_1' title='bbox 693 383 734 401;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Field</span>
+			<span class='ocrx_word' id='word_1_15_2' title='bbox 742 384 788 401;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_15_3' title='bbox 796 385 838 405;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Spec</span>
+			<span class='ocrx_word' id='word_1_15_4' title='bbox 846 385 917 401;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 756 410 853 432; baseline -0.048387 0; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_16_1' title='bbox 756 410 853 432;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>1/16/2012</span>
+		</span>
+		<span class='ocr_line' title="bbox 693 752 914 773; baseline 0.007519 -5; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_17_1' title='bbox 693 752 721 768;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sid</span>
+			<span class='ocrx_word' id='word_1_17_2' title='bbox 727 753 787 773;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Segars</span>
+			<span class='ocrx_word' id='word_1_17_3' title='bbox 795 752 914 773;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000127818)</span>
+		</span>
+		<span class='ocr_line' title="bbox 691 780 917 800; baseline 0 -3; x_x_height 12; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_18_1' title='bbox 691 780 733 797;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Field</span>
+			<span class='ocrx_word' id='word_1_18_2' title='bbox 742 781 787 797;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_18_3' title='bbox 795 781 837 800;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Spec</span>
+			<span class='ocrx_word' id='word_1_18_4' title='bbox 845 781 917 797;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 754 806 854 827; baseline 0 -3; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_19_1' title='bbox 754 806 854 827;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>8/29/2011</span>
+		</span>
+		<span class='ocr_line' title="bbox 1112 949 1334 970; baseline 0 -4; x_x_height 12; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_20_1' title='bbox 1112 950 1151 966;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Paul</span>
+			<span class='ocrx_word' id='word_1_20_2a' title='bbox 1156 950 1209 966;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Jones</span>
+			<span class='ocrx_word' id='word_1_20_2b' title='bbox 1216 949 1334 970;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000060152)</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 977 1356 998; baseline 0 -3; x_x_height 13; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_21_1' title='bbox 1089 979 1107 995;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sr</span>
+			<span class='ocrx_word' id='word_1_21_2' title='bbox 1114 979 1178 995;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>District</span>
+			<span class='ocrx_word' id='word_1_21_3' title='bbox 1187 977 1232 995;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_21_4' title='bbox 1242 979 1279 998;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Mgr</span>
+			<span class='ocrx_word' id='word_1_21_5' title='bbox 1285 978 1356 995;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 1174 1004 1272 1025; baseline 0 -3; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_22_1' title='bbox 1174 1004 1272 1025;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>11/2/2009</span>
+		</span>
+		<span class='ocr_line' title="bbox 267 355 509 377; baseline 0 -5; x_x_height 12; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_23_1' title='bbox 267 356 290 372;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Bo</span>
+			<span class='ocrx_word' id='word_1_23_2' title='bbox 297 356 383 372;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Hamilton</span>
+			<span class='ocrx_word' id='word_1_23_3' title='bbox 390 355 509 377;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000131923)</span>
+		</span>
+		<span class='ocr_line' title="bbox 277 383 500 404; baseline 0 -3; x_x_height 13; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_24_1' title='bbox 277 383 317 401;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Field</span>
+			<span class='ocrx_word' id='word_1_24_2' title='bbox 325 383 371 401;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_24_3' title='bbox 378 385 422 404;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Spec</span>
+			<span class='ocrx_word' id='word_1_24_4' title='bbox 429 383 500 401;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 344 410 431 431; baseline 0 -3; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_25_1' title='bbox 344 410 431 431;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>4/9/2012</span>
+		</span>
+		<span class='ocr_line' title="bbox 1095 752 1350 773; baseline 0 -3; x_x_height 13; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_26_1' title='bbox 1095 753 1157 770;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Denise</span>
+			<span class='ocrx_word' id='word_1_26_2' title='bbox 1167 753 1225 770;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Davies</span>
+			<span class='ocrx_word' id='word_1_26_3' title='bbox 1235 752 1350 773;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000060733)</span>
+		</span>
+		<span class='ocr_line' title="bbox 1102 781 1343 801; baseline 0 -4; x_x_height 12; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_27_1' title='bbox 1102 781 1169 797;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>District</span>
+			<span class='ocrx_word' id='word_1_27_2' title='bbox 1174 781 1221 797;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_27_3' title='bbox 1229 781 1265 801;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Mgr</span>
+			<span class='ocrx_word' id='word_1_27_4' title='bbox 1273 781 1343 797;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 1175 807 1274 828; baseline 0 -4; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_28_1' title='bbox 1175 807 1274 828;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>1/11/2010</span>
+		</span>
+		<span class='ocr_line' title="bbox 879 121 1150 142; baseline 0 -3; x_x_height 12; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_29_1' title='bbox 879 122 949 139;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>William</span>
+			<span class='ocrx_word' id='word_1_29_2' title='bbox 956 123 1025 139;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Nichols</span>
+			<span class='ocrx_word' id='word_1_29_3' title='bbox 1031 121 1150 142;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000014338)</span>
+		</span>
+		<span class='ocr_line' title="bbox 891 151 1137 172; baseline 0 -4; x_x_height 12; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_30_1' title='bbox 891 151 970 172;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Regional</span>
+			<span class='ocrx_word' id='word_1_30_2' title='bbox 978 152 1023 168;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_30_3' title='bbox 1033 151 1057 168;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Dir</span>
+			<span class='ocrx_word' id='word_1_30_4' title='bbox 1065 152 1137 168;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 960 178 1070 199; baseline 0 -3; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_31_1' title='bbox 960 178 1070 199;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>12/21/2001</span>
+		</span>
+		<span class='ocr_line' title="bbox 1082 356 1361 377; baseline 0 -3; x_x_height 13; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_32_1' title='bbox 1082 358 1137 374;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>James</span>
+			<span class='ocrx_word' id='word_1_32_2' title='bbox 1148 358 1236 377;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Newberry</span>
+			<span class='ocrx_word' id='word_1_32_3' title='bbox 1246 356 1361 377;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000073853)</span>
+		</span>
+		<span class='ocr_line' title="bbox 1112 385 1336 405; baseline 0 -4; x_x_height 12; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_33_1' title='bbox 1112 385 1153 401;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Field</span>
+			<span class='ocrx_word' id='word_1_33_2' title='bbox 1160 385 1207 401;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_33_3' title='bbox 1215 385 1256 405;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Spec</span>
+			<span class='ocrx_word' id='word_1_33_4' title='bbox 1264 385 1336 401;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 1177 412 1272 432; baseline -0.032258 0; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_34_1' title='bbox 1173 412 1272 432;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>4/26/2010</span>
+		</span>
+		<span class='ocr_line' title="bbox 676 554 932 575; baseline 0 -3; x_x_height 13; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_36_1' title='bbox 676 555 739 572;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Dennis</span>
+			<span class='ocrx_word' id='word_1_36_2' title='bbox 749 555 805 572;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Gooch</span>
+			<span class='ocrx_word' id='word_1_36_3' title='bbox 814 554 932 575;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000060729)</span>
+		</span>
+		<span class='ocr_line' title="bbox 686 583 926 603; baseline 0 -4; x_x_height 13; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_37_1' title='bbox 686 583 749 600;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>District</span>
+			<span class='ocrx_word' id='word_1_37_2' title='bbox 757 583 801 599;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_37_3' title='bbox 812 583 846 603;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Mgr</span>
+			<span class='ocrx_word' id='word_1_37_4' title='bbox 855 583 926 599;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 755 609 855 630; baseline 0 -3; x_asc_height 15">
+			<span class='ocrx_word' id='word_1_38_1' title='bbox 755 609 855 630;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>1/11/2010</span>
+		</span>
+		<span class='ocr_line' title="bbox 959 669 967 676; baseline 0 0; x_asc_height 6">
+			<span class='ocrx_word' id='word_1_39_1' title='bbox 959 669 967 676;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>2.</span>
+		</span>
+		<span class='ocr_line' title="bbox 1502 754 1780 774; baseline 0 -4; x_x_height 13; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_40_1' title='bbox 1502 754 1582 770;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Shannon</span>
+			<span class='ocrx_word' id='word_1_40_2' title='bbox 1591 754 1657 770;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Palmer</span>
+			<span class='ocrx_word' id='word_1_40_3' title='bbox 1664 754 1780 774;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000014106)</span>
+		</span>
+		<span class='ocr_line' title="bbox 1520 781 1763 801; baseline 0 -3; x_x_height 12; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_41_1' title='bbox 1520 781 1585 798;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>District</span>
+			<span class='ocrx_word' id='word_1_41_2' title='bbox 1593 781 1638 798;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_41_3' title='bbox 1649 782 1683 801;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Mgr</span>
+			<span class='ocrx_word' id='word_1_41_4' title='bbox 1691 781 1763 798;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 1593 808 1691 828; baseline 0 -2; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_42_1' title='bbox 1593 808 1691 828;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>7/27/2001</span>
+		</span>
+		<span class='ocr_line' title="bbox 1492 555 1790 576; baseline 0.003704 -4; x_x_height 12; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_43_1' title='bbox 1492 556 1577 573;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Matthew</span>
+			<span class='ocrx_word' id='word_1_43_2' title='bbox 1584 556 1665 573;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Goddard</span>
+			<span class='ocrx_word' id='word_1_43_3' title='bbox 1675 555 1790 576;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000126496)</span>
+		</span>
+		<span class='ocr_line' title="bbox 1529 583 1754 604; baseline 0 -3; x_x_height 13; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_44_1' title='bbox 1529 584 1571 601;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Field</span>
+			<span class='ocrx_word' id='word_1_44_2' title='bbox 1578 583 1625 601;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_44_3' title='bbox 1633 584 1674 604;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Spec</span>
+			<span class='ocrx_word' id='word_1_44_4' title='bbox 1684 584 1754 601;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 1593 610 1690 631; baseline 0 -3; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_45_1' title='bbox 1593 610 1690 631;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>6/20/2011</span>
+		</span>
+		<span class='ocr_line' title="bbox 1487 357 1795 377; baseline 0 -3; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_46_1' title='bbox 1487 357 1575 374;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Charlotte</span>
+			<span class='ocrx_word' id='word_1_46_2' title='bbox 1582 358 1667 375;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Raciboski</span>
+			<span class='ocrx_word' id='word_1_46_3' title='bbox 1676 357 1795 377;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000091068)</span>
+		</span>
+		<span class='ocr_line' title="bbox 1529 385 1754 406; baseline 0 -3; x_x_height 13; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_47_1' title='bbox 1529 385 1570 403;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Field</span>
+			<span class='ocrx_word' id='word_1_47_2' title='bbox 1579 385 1624 403;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_47_3' title='bbox 1633 386 1674 406;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Spec</span>
+			<span class='ocrx_word' id='word_1_47_4' title='bbox 1684 385 1754 402;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 1592 412 1692 432; baseline 0 -2; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_48_1' title='bbox 1592 412 1692 432;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>9/27/2010</span>
+		</span>
+		<span class='ocr_line' title="bbox 1081 554 1361 575; baseline 0 -3; x_x_height 13; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_49_1' title='bbox 1081 555 1142 572;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Teresa</span>
+			<span class='ocrx_word' id='word_1_49_2' title='bbox 1152 555 1236 572;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Crawford</span>
+			<span class='ocrx_word' id='word_1_49_3' title='bbox 1247 554 1361 575;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000060914)</span>
+		</span>
+		<span class='ocr_line' title="bbox 1111 583 1336 603; baseline 0 -3; x_x_height 13; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_50_1' title='bbox 1111 583 1152 600;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Field</span>
+			<span class='ocrx_word' id='word_1_50_2' title='bbox 1161 583 1206 600;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_50_3' title='bbox 1214 583 1256 603;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Spec</span>
+			<span class='ocrx_word' id='word_1_50_4' title='bbox 1264 583 1336 599;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 1174 610 1274 630; baseline -0.015625 -2; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_51_1' title='bbox 1174 610 1274 630;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>2/15/2010</span>
+		</span>
+		<span class='ocr_line' title="bbox 276 949 492 970; baseline 0.005405 -4; x_x_height 12; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_52_1' title='bbox 276 950 321 966;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Alice</span>
+			<span class='ocrx_word' id='word_1_52_2' title='bbox 329 950 368 966;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Lum</span>
+			<span class='ocrx_word' id='word_1_52_3' title='bbox 377 949 492 970;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000037465)</span>
+		</span>
+		<span class='ocr_line' title="bbox 264 977 507 998; baseline 0 -3; x_x_height 13; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_53_1' title='bbox 264 979 331 995;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>District</span>
+			<span class='ocrx_word' id='word_1_53_2' title='bbox 337 978 383 995;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_53_3' title='bbox 393 979 428 998;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Mgr</span>
+			<span class='ocrx_word' id='word_1_53_4' title='bbox 436 977 507 995;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 342 1004 429 1025; baseline 0 -3; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_54_1' title='bbox 342 1004 429 1025;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>8/8/2005</span>
+		</span>
+		<span class='ocr_line' title="bbox 457 1069 477 1075; baseline 0 0; x_asc_height 6">
+			<span class='ocrx_word' id='word_1_55_1' title='bbox 457 1069 477 1075;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>3505:</span>
+		</span>
+		<span class='ocr_line' title="bbox 676 950 930 970; baseline 0 -4; x_x_height 12; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_56_1' title='bbox 676 950 726 966;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Anne</span>
+			<span class='ocrx_word' id='word_1_56_2' title='bbox 733 950 804 966;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Holmes</span>
+			<span class='ocrx_word' id='word_1_56_3' title='bbox 811 950 930 970;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000130319)</span>
+		</span>
+		<span class='ocr_line' title="bbox 691 977 916 999; baseline 0 -4; x_x_height 13; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_57_1' title='bbox 691 978 733 995;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Field</span>
+			<span class='ocrx_word' id='word_1_57_2' title='bbox 741 977 787 995;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_57_3' title='bbox 794 979 838 999;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Spec</span>
+			<span class='ocrx_word' id='word_1_57_4' title='bbox 845 979 916 995;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 755 1005 854 1026; baseline 0 -4; x_asc_height 15">
+			<span class='ocrx_word' id='word_1_58_1' title='bbox 755 1005 854 1026;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>1/16/2012</span>
+		</span>
+		<span class='ocr_line' title="bbox 655 1150 952 1171; baseline 0 -4; x_x_height 12; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_59_1' title='bbox 655 1151 723 1167;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Roxane</span>
+			<span class='ocrx_word' id='word_1_59_2' title='bbox 731 1150 827 1167;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Holbrooks</span>
+			<span class='ocrx_word' id='word_1_59_3' title='bbox 833 1150 952 1171;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(000073728)</span>
+		</span>
+		<span class='ocr_line' title="bbox 691 1179 916 1199; baseline 0 -4; x_x_height 12; x_asc_height 16">
+			<span class='ocrx_word' id='word_1_60_1' title='bbox 691 1179 734 1195;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Field</span>
+			<span class='ocrx_word' id='word_1_60_2' title='bbox 740 1179 788 1195;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sales</span>
+			<span class='ocrx_word' id='word_1_60_3' title='bbox 794 1179 838 1199;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Spec</span>
+			<span class='ocrx_word' id='word_1_60_4' title='bbox 845 1179 916 1195;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
+		</span>
+		<span class='ocr_line' title="bbox 753 1205 854 1226; baseline 0 -3; x_asc_height 15">
+			<span class='ocrx_word' id='word_1_61_1' title='bbox 753 1205 854 1226;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>4/12/2010</span>
+		</span>
+		<span class='ocr_line' title="bbox 329 1402 392 1422; baseline -0.025 0; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_62_1' title='bbox 329 1402 392 1422;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>4/1/13</span>
+		</span>
+		<span class='ocr_line' title="bbox 177 1482 836 1503; baseline 0 0; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_63_1' title='bbox 177 1483 514 1503;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>CONFIDENTIAL—SUBJECT</span>
+			<span class='ocrx_word' id='word_1_63_3' title='bbox 522 1482 558 1502;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>TO</span>
+			<span class='ocrx_word' id='word_1_63_4' title='bbox 569 1482 732 1503;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>PROTECTIVE</span>
+			<span class='ocrx_word' id='word_1_63_5' title='bbox 742 1482 836 1502;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>ORDER</span>
+		</span>
+		<span class='ocr_line' title="bbox 1560 1482 1812 1502; baseline 0 0; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_64_1' title='bbox 1560 1482 1812 1502;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>MNK-T1_0000000279</span>
+		</span>
+		<span class='ocr_line' title="bbox 624 1541 1371 1570; baseline 0.002041 -7; x_x_height 17; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_65_1' title='bbox 624 1541 1371 1570;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>https://www.industrydocuments.ucsf.edu/docs/ntmy0251</span>
+		</span>
+		<span class='ocr_line' title="bbox 1722 1549 1949 1567; baseline 0 0; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_66_1' title='bbox 1722 1549 1801 1567;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>MNKOI</span>
+			<span class='ocrx_word' id='word_1_66_2' title='bbox 1812 1549 1949 1567;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>0005226023</span>
+		</span>
+	</div>
+</body>
+</html>

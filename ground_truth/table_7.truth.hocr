@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title></title>
+	<meta name='font-metrics' content='{"SansDefault":{"normal":{"width":{"38":1,"44":0.2,"45":0.357143,"46":0.133333,"47":0.533333,"48":0.866667494737,"49":0.466666722807,"50":0.800000277193,"51":0.866667494737,"52":0.866667494737,"53":0.844445088889,"54":0.800000277193,"55":0.800000277193,"56":0.866667494737,"57":0.866667494737,"64":1.666667,"65":1.066667,"66":0.933333,"67":1.066667,"68":1,"69":0.933333,"70":0.8,"71":1.2,"72":0.933333,"73":0.2,"74":0.8,"75":1.133333,"76":0.866667,"77":1.2,"78":1,"80":0.866667,"82":1.066667,"83":1,"84":1,"85":1,"86":1.066667,"89":1.066667,"97":0.866667,"98":0.8,"99":0.8,"100":0.8,"101":0.866667,"102":0.428571,"103":0.8,"104":0.733333,"105":0.2,"106":0.333333,"107":0.733333,"108":0.133333,"109":1.2,"110":0.733333,"111":0.8,"112":0.8,"114":0.466667,"115":0.733333,"116":0.4,"117":0.733333,"118":0.8,"119":1.266667,"121":0.733333,"122":0.8},"height":{"38":1.266667,"44":0.466667,"45":0.133333,"46":0.133333,"47":1.333333,"48":1.266667,"49":1.199999782456,"50":1.199999782456,"51":1.266667,"52":1.199999782456,"53":1.266667,"54":1.266667,"55":1.199999782456,"56":1.266667,"57":1.266667,"64":1.6,"65":1.266667,"66":1.266667,"67":1.333333,"68":1.266667,"69":1.266667,"70":1.266667,"71":1.333333,"72":1.266667,"73":1.266667,"74":1.333333,"75":1.266667,"76":1.266667,"77":1.266667,"78":1.266667,"80":1.266667,"82":1.266667,"83":1.333333,"84":1.266667,"85":1.266667,"86":1.266667,"89":1.266667,"97":1,"98":1.333333,"99":1,"100":1.266667,"101":1,"102":1.357143,"103":1.333333,"104":1.266667,"105":1.266667,"106":1.666667,"107":1.266667,"108":1.266667,"109":0.933333,"110":0.933333,"111":1,"112":1.333333,"114":0.933333,"115":1,"116":1.2,"117":1,"118":0.933333,"119":0.933333,"121":1.266667,"122":0.933333},"kerning":{"83,104":0.2,"104,97":0.2,"97,103":0.066667,"103,117":0.2,"117,110":0.266667,"83,105":0.2,"105,110":0.2,"110,103":0.2,"103,104":0.266667,"67,104":0.2,"97,100":0.133333,"100,104":0.2,"97,44":0.266667,"83,101":0.066667,"101,110":0.2,"110,105":0.2,"105,111":0.2,"111,114":0.2,"86,105":0.133333,"105,99":0.2,"99,101":0.066667,"80,114":0.266667,"114,101":0.066667,"101,115":0.133333,"115,105":0.2,"105,100":0.133333,"100,101":0.2,"110,116":0.133333,"50,48":0.133333168421,"48,51":0.133333168421,"51,41":0.200000385965,"53,54":0.133333168421,"54,57":0.133333168421,"57,45":0.133333168421,"52,51":0.133333168421,"51,52":0.133333168421,"52,53":0.133333168421,"115,115":0.2,"104,64":0.2,"64,99":0.133333,"99,114":0.066667,"114,116":0,"116,108":0.2,"108,108":0.2,"108,99":0.2,"99,46":0.133333,"46,99":0.214286,"99,111":0.133333,"111,109":0.2,"77,101":0.2,"101,100":0.133333,"100,105":0.2,"99,97":0.133333,"97,108":0.133333,"84,101":0.133333,"101,99":0.133333,"99,104":0.142857,"104,110":0.2,"110,111":0.2,"111,108":0.2,"108,111":0.2,"111,103":0.133333,"103,121":0.266667,"74,97":0.133333,"97,99":0.066667,"99,107":0.133333,"97,110":0.133333,"110,44":0.2,"82,101":0.133333,"115,101":0.133333,"101,97":0.133333,"97,114":0.133333,"114,99":0.066667,"65,115":0.133333,"115,111":0.133333,"111,99":0.133333,"99,105":0.133333,"105,97":0.133333,"97,116":0,"116,101":0.133333,"51,53":0.133333168421,"53,49":0.200000385965,"106,99":0.2,"110,64":0.2,"71,101":0.133333,"110,101":0.2,"101,114":0.2,"114,97":0.066667,"108,105":0.2,"105,115":0.2,"115,116":0.066667,"116,44":0.266667,"68,105":0.2,"116,114":0.2,"100,44":0.333333,"72,105":0.266667,"105,103":0.2,"104,45":0.266667,"45,89":0.2,"89,105":0.066667,"105,101":0.2,"101,108":0.2,"108,100":0.2,"83,112":0.133333,"112,101":0.133333,"105,116":0.133333,"116,117":0.2,"117,97":0.133333,"116,105":0.133333,"111,110":0.2,"110,115":0.2,"84,105":0.133333,"105,109":0.2,"104,105":0.266667,"103,44":0.266667,"77,97":0.2,"110,97":0.2,"103,105":0.2,"105,114":0.2,"99,116":0.066667,"116,111":0.133333,"66,114":0.2,"110,100":0.2,"100,111":0.2,"70,111":0.133333,"108,107":0.214286,"107,101":0.133333,"115,44":0.266667,"67,70":0.266667,"70,65":0.133333,"65,44":0.2,"53,53":0.066667217544,"51,50":0.140740637037,"50,50":0.070370951852,"116,99":0.133333,"103,64":0.133333,"98,102":0.142857,"102,111":0.071429,"115,64":0.142857,"108,116":0.133333,"116,121":0.133333,"121,47":0,"47,71":0.066667,"114,105":0.066667,"80,104":0.266667,"114,109":0.066667,"109,97":0.266667,"101,117":0.2,"117,116":0.133333,"108,115":0.2,"77,105":0.2,"97,101":0.133333,"68,101":0.2,"66,101":0.133333,"109,44":0.266667,"53,52":0.133333168421,"51,49":0.266666336842,"49,55":0.399999505263,"109,100":0.2,"98,115":0.2,"115,104":0.2,"109,64":0.2,"65,105":0.133333,"114,108":0.214286,"65,101":0.133333,"114,111":0,"111,115":0.133333,"115,112":0.266667,"112,97":0.2,"101,44":0.214286,"84,114":0.133333,"112,111":0.133333,"116,97":0.133333,"78,101":0.2,"101,105":0.2,"105,108":0.266667,"68,111":0.133333,"105,44":0.333333,"82,111":0.133333,"111,98":0.133333,"98,101":0.2,"67,111":0.133333,"111,111":0.133333,"108,98":0.266667,"98,114":0.2,"116,104":0.133333,"104,44":0.333333,"52,56":0.200000385965,"56,45":0.133333168421,"56,50":0.133333168421,"50,52":0.133333168421,"52,54":0.133333168421,"105,64":0.133333,"73,110":0.266667,"114,110":0.066667,"101,116":0.066667,"105,118":0.133333,"118,101":0.133333,"68,97":0.133333,"97,118":0.2,"118,105":0.066667,"69,112":0.133333,"112,115":0.133333,"50,56":0.133333168421,"101,112":0.2,"110,118":0.2,"105,98":0.266667,"98,108":0.133333,"108,101":0.2,"75,105":0.133333,"80,97":0.2,"116,110":0.2,"51,54":0.133333168421,"54,56":0.133333168421,"109,107":0.266667,"107,105":0.133333,"82,69":0.2,"69,73":0.266667,"73,84":0.2,"84,115":0.066667,"72,111":0.2,"109,101":0.2,"101,98":0.2,"98,117":0.214286,"117,105":0.2,"114,115":0.066667,"66,117":0.2,"111,100":0.133333,"100,117":0.266667,"117,99":0.133333,"116,115":0.133333,"65,114":0.142857,"100,97":0.142857,"76,101":0.142857,"101,101":0.214286,"104,46":0.333333,"46,68":0.357143,"68,46":0.285714,"46,44":0.285714,"50,53":0.070370951852,"101,64":0.071429,"66,105":0.2,"111,116":0.066667,"114,107":0.133333,"76,117":0.133333,"117,100":0.2,"100,116":0.2,"116,107":0.2,"111,45":0.214286,"45,72":0.285714,"72,101":0.2,"111,102":0.142857,"83,99":0.133333,"116,116":0,"80,101":0.2,"54,49":0.200000385965,"51,56":0.133333168421,"56,49":0.200000385965,"107,108":0.133333,"108,117":0.2,"97,64":0.066667,"65,117":0.133333,"117,115":0.2,"70,105":0.133333,"110,99":0.266667,"108,44":0.266667,"51,55":0.200000385965,"55,51":0.066667217544,"112,109":0.133333,"108,64":0.133333,"82,117":0.2,"110,98":0.214286,"117,114":0.2,"114,44":0.2,"101,121":0.133333,"65,108":0.2,"54,51":0.133333168421,"49,51":0.333333554386,"114,117":0.142857,"114,64":0.066667,"99,117":0.133333,"121,44":0.2,"101,102":0.133333,"102,101":0.133333,"104,101":0.2,"114,121":0.066667,"121,108":0.133333,"82,46":0.2,"83,107":0.2,"107,111":0.133333,"108,110":0.266667,"107,44":0.266667,"75,101":0.133333,"101,118":0.133333,"83,116":0.066667,"53,57":0.133333168421,"54,52":0.133333168421,"52,50":0.133333168421,"50,49":0.200000385965,"115,107":0.2,"107,64":0.066667,"107,115":0.066667,"104,99":0.2,"114,118":0,"65,109":0.133333,"105,119":0.133333,"119,97":0.133333,"76,97":0.066667,"110,122":0.2,"122,97":0.133333,"111,44":0.266667,"51,51":0.133333168421,"55,54":0.066667217544,"108,118":0.133333,"98,116":0.066667,"111,64":0.133333,"74,105":0.2,"118,111":0.066667,"82,105":0.2,"101,109":0.2,"110,110":0.266667,"55,53":0.066667217544,"106,118":0.2,"110,114":0.2,"107,112":0.2,"112,114":0.2,"85,116":0.133333},"kerning2":{"83,104":0.266667,"104,97":0.20000000000000007,"97,103":0.06666699999999992,"103,117":0.266667,"117,110":0.333334,"83,105":0.13333299999999998,"105,110":0.19999999999999996,"110,103":0.19999999999999996,"103,104":0.266667,"67,104":0.19999999999999996,"97,100":0.13333299999999992,"100,104":0.333334,"97,44":0.266667,"83,101":0.066666,"101,110":0.19999999999999996,"110,105":0.266667,"105,111":0.19999999999999996,"111,114":0.2,"86,105":0.2,"105,99":0.19999999999999996,"99,101":0.066666,"80,114":0.266666,"114,101":0.066666,"101,115":0.13333399999999995,"115,105":0.2,"105,100":0.13333299999999992,"100,101":0.13333300000000003,"110,116":0.13333299999999992,"50,48":0.13333316842100007,"48,51":0.13333316842100007,"51,41":null,"53,54":0.13333316842099996,"54,57":0.13333316842100007,"57,45":0.17619094035100002,"52,51":0.13333316842100007,"51,52":0.066665950877,"52,53":0.15555557426900002,"115,115":0.19999999999999996,"104,64":0.20000000000000018,"64,99":0.13333299999999992,"99,114":0.13333299999999998,"114,116":0,"116,108":0.19999999999999998,"108,108":0.266667,"108,99":0.19999999999999996,"99,46":0.13333399999999998,"46,99":0.266667,"99,111":0.13333299999999992,"111,109":0.19999999999999996,"77,101":0.13333300000000003,"101,100":0.13333299999999992,"100,105":0.2,"99,97":0.13333300000000003,"97,108":0.13333399999999998,"84,101":0.066666,"101,99":0.06666699999999992,"99,104":0.19999999999999996,"104,110":0.19999999999999996,"110,111":0.266667,"111,108":0.19999999999999998,"108,111":0.266667,"111,103":0.13333299999999992,"103,121":0.266667,"74,97":0.20000000000000007,"97,99":0,"99,107":0.13333399999999995,"97,110":0.13333399999999995,"110,44":0.266667,"82,101":0.066666,"115,101":0.13333300000000003,"101,97":0.13333300000000003,"97,114":0.13333299999999998,"114,99":0,"65,115":0.06666700000000003,"115,111":0.19999999999999996,"111,99":0.13333299999999992,"99,105":0.13333299999999998,"105,97":0.20000000000000007,"97,116":0.06666699999999998,"116,101":0.066666,"51,53":0.15555557426900002,"53,49":0.20000038596499997,"106,99":0.19999999999999996,"110,64":0.20000000000000018,"71,101":0.13333300000000003,"110,101":0.20000000000000007,"101,114":0.2,"114,97":0.066666,"108,105":0.2,"105,115":0.19999999999999996,"115,116":0.06666699999999998,"116,44":0.266667,"68,105":0.15714299999999998,"116,114":0.2,"100,44":0.33333299999999993,"72,105":0.2,"105,103":0.13333299999999992,"104,45":0.242857,"45,89":0.19999999999999996,"89,105":0.06666699999999998,"105,101":0.13333300000000003,"101,108":0.19999999999999998,"108,100":0.19999999999999996,"83,112":0.13333299999999992,"112,101":0.13333300000000003,"105,116":0.13333299999999992,"116,117":0.19999999999999996,"117,97":0.20000000000000007,"116,105":0.13333299999999998,"111,110":0.19999999999999996,"110,115":0.19999999999999996,"84,105":0.2,"105,109":0.266667,"104,105":0.2,"103,44":0.33333299999999993,"77,97":0.20000000000000007,"110,97":0.20000000000000007,"103,105":0.15714299999999998,"105,114":0.24761899999999998,"99,116":0.06666699999999998,"116,111":0.13333299999999992,"66,114":0.2,"110,100":0.13333299999999992,"100,111":0.266667,"70,111":0.19999999999999996,"108,107":0.266667,"107,101":0.13333300000000003,"115,44":0.266667,"67,70":0.266667,"70,65":0.13333299999999992,"65,44":0.266667,"53,53":0.08888835672499995,"51,50":0.2555551339179999,"50,50":0.1851854487329999,"116,99":0.13333299999999992,"103,64":0.13333300000000015,"98,102":0.14285799999999998,"102,111":0.19999999999999996,"115,64":0.26190400000000014,"108,116":0.13333299999999992,"116,121":0.13333399999999995,"121,47":0,"47,71":0.06666700000000003,"114,105":0.06666699999999998,"80,104":0.266667,"114,109":0.06666700000000003,"109,97":0.26666599999999996,"101,117":0.19999999999999996,"117,116":0.17142899999999994,"108,115":0.19999999999999996,"77,105":0.266667,"97,101":0.13333300000000003,"68,101":0.13333300000000003,"66,101":0.066666,"109,44":0.33333299999999993,"53,52":0.066665950877,"51,49":0.266666336842,"49,55":0.399999505263,"109,100":0.19999999999999996,"98,115":0.13333399999999995,"115,104":0.19999999999999996,"109,64":0.20000000000000018,"65,105":0.06666699999999998,"114,108":0.36666699999999997,"65,101":0.066666,"114,111":0.06666699999999992,"111,115":0.13333399999999995,"115,112":0.19999999999999996,"112,97":0.20000000000000007,"101,44":0.266667,"84,114":0.13333299999999998,"112,111":0.13333299999999992,"116,97":0.13333300000000003,"78,101":0.13333300000000003,"101,105":0.2,"105,108":0.266667,"68,111":0.19999999999999996,"105,44":0.33333299999999993,"82,111":0.13333299999999992,"111,98":0.13333299999999992,"98,101":0.13333300000000003,"67,111":0.19999999999999996,"111,111":0.19999999999999996,"108,98":0.266667,"98,114":0.2,"116,104":0.13333399999999995,"104,44":0.33333299999999993,"52,56":0.13333316842100007,"56,45":0.17619094035100002,"56,50":0.20000038596500003,"50,52":0.066665950877,"52,54":0.20000038596500003,"105,64":0.13333300000000015,"73,110":0.266667,"114,110":0.06666700000000003,"101,116":0.06666699999999998,"105,118":0.13333299999999992,"118,101":0.066666,"68,97":0.066666,"97,118":0.266667,"118,105":0.13333299999999998,"69,112":0.19999999999999996,"112,115":0.266667,"50,56":0.13333316842100007,"101,112":0.19999999999999996,"110,118":0.13333299999999992,"105,98":0.266667,"98,108":0.13333399999999998,"108,101":0.20000000000000007,"75,105":0.2,"80,97":0.20000000000000007,"116,110":0.19999999999999996,"51,54":0.13333316842099996,"54,56":0.13333316842100007,"109,107":0.266667,"107,105":0.06666699999999998,"82,69":0.19999999999999996,"69,73":0.266667,"73,84":0.19999999999999996,"84,115":0.06666700000000003,"72,111":0.266667,"109,101":0.20000000000000007,"101,98":0.13333299999999992,"98,117":0.266667,"117,105":0.13333299999999998,"114,115":0.06666700000000003,"66,117":0.19999999999999996,"111,100":0.13333299999999992,"100,117":0.266667,"117,99":0.13333299999999992,"116,115":0.06666700000000003,"65,114":0.17619,"100,97":0.13333300000000003,"76,101":0.13333300000000003,"101,101":0.204762,"104,46":0.333334,"46,68":0.42857100000000004,"68,46":0.36666699999999997,"46,44":0.33333299999999993,"50,53":0.1407406370369999,"101,64":0.13333300000000015,"66,105":0.13333299999999998,"111,116":0.06666699999999998,"114,107":0.19999999999999996,"76,117":0.266667,"117,100":0.19999999999999996,"100,116":0.333333,"116,107":0.19999999999999996,"111,45":0.21428599999999998,"45,72":0.35238100000000006,"72,101":0.20000000000000007,"111,102":0.14285799999999998,"83,99":0.13333299999999992,"116,116":0.09999999999999998,"80,101":0.13333300000000003,"54,49":0.20000038596499997,"51,56":0.13333316842100007,"56,49":0.20000038596499997,"107,108":0.19999999999999998,"108,117":0.19999999999999996,"97,64":0.06666600000000011,"65,117":0.13333399999999995,"117,115":0.19999999999999996,"70,105":0.13333299999999998,"110,99":0.19999999999999996,"108,44":0.266667,"51,55":0.20000038596500003,"55,51":0.066665950877,"112,109":0.13333300000000015,"108,64":0.13333300000000015,"82,117":0.333334,"110,98":0.3333329999999999,"117,114":0.266666,"114,44":0.266667,"101,121":0.19999999999999996,"65,108":0.19999999999999998,"54,51":0.13333316842100007,"49,51":0.33333228771900003,"114,117":0.12380999999999998,"114,64":0.11904700000000012,"99,117":0.13333399999999995,"121,44":0.266667,"101,102":0.10476199999999997,"102,101":0.066666,"104,101":0.13333300000000003,"114,121":0.266667,"121,108":0.266667,"82,46":0.333334,"83,107":0.266667,"107,111":0.266667,"108,110":0.3999999999999999,"107,44":0.266667,"75,101":0.13333300000000003,"101,118":0.266667,"83,116":0.13333299999999992,"53,57":0.13333316842100007,"54,52":0.13333316842100007,"52,50":0.20000038596500003,"50,49":0.20000038596499997,"115,107":0.19999999999999996,"107,64":0.06666600000000011,"107,115":0.06666700000000003,"104,99":0.19999999999999996,"114,118":0,"65,109":0.19999999999999996,"105,119":0.13333299999999992,"119,97":0.13333300000000003,"76,97":0.066666,"110,122":0.19999999999999996,"122,97":0.13333300000000003,"111,44":0.266667,"51,51":0.13333316842100007,"55,54":0.13333316842099996,"108,118":0.13333299999999992,"98,116":0.06666699999999998,"111,64":0.13333300000000015,"74,105":0.266667,"118,111":0.19999999999999996,"82,105":0.266667,"101,109":0.3333330000000001,"110,110":0.333334,"55,53":0.08888835672499995,"106,118":0.19999999999999996,"110,114":0.2,"107,112":0.13333299999999992,"112,114":0.2,"85,116":0.13333299999999992},"variants":{},"heightCaps":1.266667,"obs":1849,"obsCaps":175},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":1849}}'></meta>
+	<meta name='default-font' content='SansDefault'></meta>
+	<meta name='sans-font' content='NimbusSans'></meta>
+	<meta name='serif-font' content='NimbusRomNo9L'></meta>
+	<meta name='enable-opt' content='true'></meta>
+	<meta name='layout' content='[{"default":true,"boxes":{}}]'></meta>
+	<meta name='layout-data-table' content='[{"default":true,"tables":[{"id":"f5ExsaNQai","boxes":[{"id":"YHnXyCx1f5","coords":{"left":59,"top":69,"right":716,"bottom":1043},"inclusionRule":"majority","inclusionLevel":"word","type":"dataColumn"},{"id":"BZ4IaEibhH","coords":{"left":716,"top":69,"right":938,"bottom":1043},"inclusionRule":"majority","inclusionLevel":"word","type":"dataColumn"},{"id":"a4m8TZVsaG","coords":{"left":938,"top":69,"right":1282,"bottom":1043},"inclusionRule":"majority","inclusionLevel":"word","type":"dataColumn"},{"id":"q8Sqw2MKdV","coords":{"left":1282,"top":69,"right":1943,"bottom":1043},"inclusionRule":"majority","inclusionLevel":"word","type":"dataColumn"}]}]}]'></meta>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<meta name='ocr-system' content='scribeocr' />
+	<meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf ocrp_lang ocrp_dir ocrp_font ocrp_fsize'/>
+</head>
+<body>
+	<div class='ocr_page' title='bbox 0 0 1999 1127'>
+		<span class='ocr_line' title="bbox 78 126 620 151; baseline 0 -5; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_4_1' title='bbox 78 126 170 151;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Shagun</span>
+			<span class='ocrx_word' id='word_1_4_2' title='bbox 181 126 250 151;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Singh</span>
+			<span class='ocrx_word' id='word_1_4_3' title='bbox 261 126 361 150;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Chadha,</span>
+			<span class='ocrx_word' id='word_1_4_4' title='bbox 372 126 446 146;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Senior</span>
+			<span class='ocrx_word' id='word_1_4_5' title='bbox 453 126 502 146;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Vice</span>
+			<span class='ocrx_word' id='word_1_4_6' title='bbox 513 126 620 146;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>President</span>
+		</span>
+		<span class='ocr_line' title="bbox 734 126 911 151; baseline 0.011236 -6; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_5_1' title='bbox 734 126 792 151;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_5_2' title='bbox 802 127 911 146;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4345</span>
+		</span>
+		<span class='ocr_line' title="bbox 1051 126 1260 151; baseline 0 -5; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_6_1' title='bbox 1051 126 1260 151;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>ssingh@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1299 126 1529 151; baseline 0.005917 -6; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_7_1' title='bbox 1299 126 1386 146;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Medical</span>
+			<span class='ocrx_word' id='word_1_7_2' title='bbox 1395 126 1529 151;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Technology</span>
+		</span>
+		<span class='ocr_line' title="bbox 78 165 445 189; baseline 0 -4; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_8_1' title='bbox 78 166 130 185;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Jack</span>
+			<span class='ocrx_word' id='word_1_8_2' title='bbox 139 165 206 189;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Chan,</span>
+			<span class='ocrx_word' id='word_1_8_3' title='bbox 217 166 325 185;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Research</span>
+			<span class='ocrx_word' id='word_1_8_4' title='bbox 334 166 445 185;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Associate</span>
+		</span>
+		<span class='ocr_line' title="bbox 734 166 907 190; baseline 0 -5; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_9_1' title='bbox 734 166 792 190;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_9_2' title='bbox 802 166 907 185;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4351</span>
+		</span>
+		<span class='ocr_line' title="bbox 1062 165 1260 190; baseline 0 -5; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_10_1' title='bbox 1062 165 1260 190;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>jchan@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1298 165 1911 190; baseline 0 -5; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_11_1' title='bbox 1298 165 1422 189;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Generalist,</span>
+			<span class='ocrx_word' id='word_1_11_2' title='bbox 1434 166 1560 189;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Distressed,</span>
+			<span class='ocrx_word' id='word_1_11_3' title='bbox 1572 166 1696 190;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>High-Yield,</span>
+			<span class='ocrx_word' id='word_1_11_4' title='bbox 1706 165 1788 190;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Special</span>
+			<span class='ocrx_word' id='word_1_11_5' title='bbox 1799 165 1911 185;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Situations</span>
+		</span>
+		<span class='ocr_line' title="bbox 77 203 447 229; baseline 0 -6; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_12_1' title='bbox 77 204 121 223;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Tim</span>
+			<span class='ocrx_word' id='word_1_12_2' title='bbox 131 203 225 228;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Chiang,</span>
+			<span class='ocrx_word' id='word_1_12_3' title='bbox 235 204 346 229;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Managing</span>
+			<span class='ocrx_word' id='word_1_12_4' title='bbox 358 204 447 224;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Director</span>
+		</span>
+		<span class='ocr_line' title="bbox 79 237 573 261; baseline 0 -4; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_13_1' title='bbox 79 238 173 258;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Brandon</span>
+			<span class='ocrx_word' id='word_1_13_2' title='bbox 185 238 265 261;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Folkes,</span>
+			<span class='ocrx_word' id='word_1_13_3' title='bbox 276 237 332 261;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>CFA,</span>
+			<span class='ocrx_word' id='word_1_13_4' title='bbox 344 238 451 258;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Research</span>
+			<span class='ocrx_word' id='word_1_13_5' title='bbox 461 238 573 258;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Associate</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 204 911 228; baseline 0.011364 -5; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_14_1' title='bbox 735 204 792 228;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_14_2' title='bbox 803 205 911 224;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4355</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 238 911 262; baseline 0 -5; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_15_1' title='bbox 735 238 792 262;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_15_2' title='bbox 803 238 911 258;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4322</span>
+		</span>
+		<span class='ocr_line' title="bbox 1041 203 1260 229; baseline 0 -5; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_16_1' title='bbox 1041 203 1260 229;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>tchiang@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1044 237 1260 261; baseline -0.007634 -3; x_x_height 14; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_17_1' title='bbox 1044 237 1260 261;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>bfolkes@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1300 221 1702 246; baseline 0 -5; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_18_1' title='bbox 1300 221 1502 246;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Specialty/Generic</span>
+			<span class='ocrx_word' id='word_1_18_2' title='bbox 1512 221 1702 241;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharmaceuticals</span>
+		</span>
+		<span class='ocr_line' title="bbox 79 277 505 302; baseline 0 -6; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_20_1' title='bbox 79 277 170 297;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Michael</span>
+			<span class='ocrx_word' id='word_1_20_2' title='bbox 182 277 282 300;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Derchin,</span>
+			<span class='ocrx_word' id='word_1_20_3' title='bbox 293 277 404 302;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Managing</span>
+			<span class='ocrx_word' id='word_1_20_4' title='bbox 416 277 505 297;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Director</span>
+		</span>
+		<span class='ocr_line' title="bbox 79 309 435 333; baseline 0.003289 -4; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_21_1' title='bbox 79 310 121 330;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Ben</span>
+			<span class='ocrx_word' id='word_1_21_2' title='bbox 132 309 195 333;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Shim,</span>
+			<span class='ocrx_word' id='word_1_21_3' title='bbox 207 310 315 330;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Research</span>
+			<span class='ocrx_word' id='word_1_21_4' title='bbox 324 310 435 330;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Associate</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 277 910 301; baseline 0.011364 -5; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_22_1' title='bbox 735 277 792 301;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_22_2' title='bbox 803 278 910 297;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4354</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 310 911 334; baseline 0.011364 -5; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_23_1' title='bbox 735 310 792 334;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_23_2' title='bbox 803 311 911 330;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4317</span>
+		</span>
+		<span class='ocr_line' title="bbox 1020 276 1260 300; baseline 0.004831 -4; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_24_1' title='bbox 1020 276 1260 300;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>mderchin@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1057 309 1260 333; baseline 0 -3; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_25_1' title='bbox 1057 309 1260 333;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>bshim@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1299 293 1704 318; baseline 0.002849 -6; x_x_height 15; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_26_1' title='bbox 1299 293 1389 317;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Airlines,</span>
+			<span class='ocrx_word' id='word_1_26_2' title='bbox 1399 294 1528 318;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Aerospace,</span>
+			<span class='ocrx_word' id='word_1_26_3' title='bbox 1538 293 1704 318;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Transportation</span>
+		</span>
+		<span class='ocr_line' title="bbox 79 349 432 374; baseline 0.003021 -6; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_28_1' title='bbox 79 349 122 369;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Neil</span>
+			<span class='ocrx_word' id='word_1_28_2' title='bbox 134 349 210 372;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Doshi,</span>
+			<span class='ocrx_word' id='word_1_28_3' title='bbox 220 349 332 374;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Managing</span>
+			<span class='ocrx_word' id='word_1_28_4' title='bbox 344 349 432 369;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Director</span>
+		</span>
+		<span class='ocr_line' title="bbox 79 382 595 405; baseline 0.002747 -4; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_29_1' title='bbox 79 382 154 402;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Robert</span>
+			<span class='ocrx_word' id='word_1_29_2' title='bbox 164 382 273 405;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Coolbrith,</span>
+			<span class='ocrx_word' id='word_1_29_3' title='bbox 282 382 332 402;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Vice</span>
+			<span class='ocrx_word' id='word_1_29_4' title='bbox 342 382 450 402;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>President</span>
+			<span class='ocrx_word' id='word_1_29_5' title='bbox 459 383 474 402;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>&amp;</span>
+			<span class='ocrx_word' id='word_1_29_6' title='bbox 483 382 595 402;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Associate</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 349 911 374; baseline 0.009009 -6; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_30_1' title='bbox 735 349 792 374;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_30_2' title='bbox 803 350 911 369;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>548-8245</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 382 911 406; baseline 0.009009 -5; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_31_1' title='bbox 735 382 792 406;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_31_2' title='bbox 802 383 911 402;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>548-8246</span>
+		</span>
+		<span class='ocr_line' title="bbox 1050 349 1260 372; baseline 0.006098 -4; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_32_1' title='bbox 1050 349 1260 372;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>ndoshi@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1020 382 1260 405; baseline 0.005181 -4; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_33_1' title='bbox 1020 382 1260 405;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>rcoolbrith@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1300 366 1617 385; baseline 0 0; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_34_1' title='bbox 1300 366 1385 385;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Internet</span>
+			<span class='ocrx_word' id='word_1_34_2' title='bbox 1395 366 1410 385;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>&amp;</span>
+			<span class='ocrx_word' id='word_1_34_3' title='bbox 1420 366 1538 385;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Interactive</span>
+			<span class='ocrx_word' id='word_1_34_4' title='bbox 1548 366 1617 385;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Media</span>
+		</span>
+		<span class='ocr_line' title="bbox 79 421 544 446; baseline 0.002257 -6; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_36_1' title='bbox 79 421 146 441;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>David</span>
+			<span class='ocrx_word' id='word_1_36_2' title='bbox 158 421 255 446;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Epstein,</span>
+			<span class='ocrx_word' id='word_1_36_3' title='bbox 266 421 322 445;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>CFA,</span>
+			<span class='ocrx_word' id='word_1_36_4' title='bbox 333 421 443 446;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Managing</span>
+			<span class='ocrx_word' id='word_1_36_5' title='bbox 455 421 544 441;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Director</span>
+		</span>
+		<span class='ocr_line' title="bbox 734 421 911 446; baseline 0.011236 -6; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_38_1' title='bbox 734 421 792 446;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_38_2' title='bbox 802 422 911 441;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4328</span>
+		</span>
+		<span class='ocr_line' title="bbox 1027 421 1260 446; baseline 0 -5; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_40_1' title='bbox 1027 421 1260 446;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>depstein@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1300 421 1548 446; baseline 0 -5; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_42_1' title='bbox 1300 421 1429 441;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Convertible</span>
+			<span class='ocrx_word' id='word_1_42_2' title='bbox 1438 421 1548 446;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Specialist</span>
+		</span>
+		<span class='ocr_line' title="bbox 79 460 601 485; baseline 0.002488 -6; x_x_height 15; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_44_1' title='bbox 79 461 170 480;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Michael</span>
+			<span class='ocrx_word' id='word_1_44_2' title='bbox 181 460 235 484;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Kim,</span>
+			<span class='ocrx_word' id='word_1_44_3' title='bbox 246 461 356 485;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Managing</span>
+			<span class='ocrx_word' id='word_1_44_4' title='bbox 368 461 457 480;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Director</span>
+			<span class='ocrx_word' id='word_1_44_5' title='bbox 465 461 506 480;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>and</span>
+			<span class='ocrx_word' id='word_1_44_6' title='bbox 518 461 601 480;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Partner</span>
+		</span>
+		<span class='ocr_line' title="bbox 734 461 911 485; baseline 0.011364 -6; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_45_1' title='bbox 734 461 792 485;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_45_2' title='bbox 802 461 911 480;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4368</span>
+		</span>
+		<span class='ocr_line' title="bbox 1064 460 1260 483; baseline 0 -3; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_46_1' title='bbox 1064 460 1260 483;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>mkim@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1300 460 1762 485; baseline 0 -5; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_47_1' title='bbox 1300 460 1376 484;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>REITs,</span>
+			<span class='ocrx_word' id='word_1_47_2' title='bbox 1387 461 1552 484;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Homebuilders,</span>
+			<span class='ocrx_word' id='word_1_47_3' title='bbox 1563 460 1652 485;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Building</span>
+			<span class='ocrx_word' id='word_1_47_4' title='bbox 1663 461 1762 480;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Products</span>
+		</span>
+		<span class='ocr_line' title="bbox 78 500 526 524; baseline 0 -5; x_x_height 14; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_48_1' title='bbox 78 500 165 519;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Arlinda</span>
+			<span class='ocrx_word' id='word_1_48_2' title='bbox 176 500 224 523;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Lee,</span>
+			<span class='ocrx_word' id='word_1_48_3' title='bbox 236 500 304 523;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Ph.D.,</span>
+			<span class='ocrx_word' id='word_1_48_4' title='bbox 315 500 426 524;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Managing</span>
+			<span class='ocrx_word' id='word_1_48_5' title='bbox 438 500 526 519;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Director</span>
+		</span>
+		<span class='ocr_line' title="bbox 734 500 911 524; baseline 0 -5; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_49_1' title='bbox 734 500 791 524;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_49_2' title='bbox 802 501 911 520;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4325</span>
+		</span>
+		<span class='ocr_line' title="bbox 1077 499 1260 523; baseline 0 -4; x_x_height 14; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_50_1' title='bbox 1077 499 1260 523;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>alee@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1300 500 1383 520; baseline 0 -1; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_51_1' title='bbox 1300 500 1383 520;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Biotech</span>
+		</span>
+		<span class='ocr_line' title="bbox 78 539 497 563; baseline 0.002451 -5; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_52_1' title='bbox 78 539 127 558;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Kirk</span>
+			<span class='ocrx_word' id='word_1_52_2' title='bbox 137 539 226 562;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Ludtke,</span>
+			<span class='ocrx_word' id='word_1_52_3' title='bbox 237 539 348 563;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Managing</span>
+			<span class='ocrx_word' id='word_1_52_4' title='bbox 359 539 449 559;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Director</span>
+			<span class='ocrx_word' id='word_1_52_5' title='bbox 457 539 497 559;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>and</span>
+		</span>
+		<span class='ocr_line' title="bbox 100 568 349 589; baseline -0.005376 0; x_x_height 14; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_53_1' title='bbox 100 568 201 589;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Co-Head</span>
+			<span class='ocrx_word' id='word_1_53_2' title='bbox 211 569 232 589;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>of</span>
+			<span class='ocrx_word' id='word_1_53_3' title='bbox 242 569 349 589;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Research</span>
+		</span>
+		<span class='ocr_line' title="bbox 78 601 478 625; baseline -0.00463 -3; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_54_1' title='bbox 78 601 135 622;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Scott</span>
+			<span class='ocrx_word' id='word_1_54_2' title='bbox 146 602 238 625;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Petralia,</span>
+			<span class='ocrx_word' id='word_1_54_3' title='bbox 249 602 356 622;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Research</span>
+			<span class='ocrx_word' id='word_1_54_4' title='bbox 366 602 478 622;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Associate</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 539 907 563; baseline 0.011364 -5; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_55_1' title='bbox 735 539 792 563;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_55_2' title='bbox 803 540 907 559;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4361</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 605 907 629; baseline 0.011364 -5; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_56_1' title='bbox 735 605 792 629;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_56_2' title='bbox 802 606 907 625;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4381</span>
+		</span>
+		<span class='ocr_line' title="bbox 1044 538 1260 562; baseline 0.005882 -4; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_57_1' title='bbox 1044 538 1260 562;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>kludtke@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1028 604 1260 629; baseline 0 -4; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_58_1' title='bbox 1028 604 1260 629;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>spetralia@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1299 571 1718 596; baseline 0.003831 -5; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_61_1' title='bbox 1299 572 1370 595;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Autos,</span>
+			<span class='ocrx_word' id='word_1_61_2' title='bbox 1381 572 1504 595;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Industrials,</span>
+			<span class='ocrx_word' id='word_1_61_3' title='bbox 1515 571 1618 596;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Specialty</span>
+			<span class='ocrx_word' id='word_1_61_4' title='bbox 1628 572 1718 592;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Finance</span>
+		</span>
+		<span class='ocr_line' title="bbox 79 644 508 667; baseline 0.00266 -4; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_63_1' title='bbox 79 644 156 664;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Patrick</span>
+			<span class='ocrx_word' id='word_1_63_2' title='bbox 166 644 268 667;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Marshall,</span>
+			<span class='ocrx_word' id='word_1_63_3' title='bbox 279 644 387 664;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Research</span>
+			<span class='ocrx_word' id='word_1_63_4' title='bbox 397 644 508 664;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Associate</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 644 911 669; baseline 0.011364 -6; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_64_1' title='bbox 735 644 792 669;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_64_2' title='bbox 802 645 911 664;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4373</span>
+		</span>
+		<span class='ocr_line' title="bbox 1014 644 1260 669; baseline 0.005025 -6; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_65_1' title='bbox 1014 644 1260 669;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>pmarshall@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 80 683 504 708; baseline 0.002545 -6; x_x_height 15; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_67_1' title='bbox 80 683 141 703;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Brian</span>
+			<span class='ocrx_word' id='word_1_67_2' title='bbox 153 683 282 707;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Ruttenbur,</span>
+			<span class='ocrx_word' id='word_1_67_3' title='bbox 292 683 403 708;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Managing</span>
+			<span class='ocrx_word' id='word_1_67_4' title='bbox 414 683 504 703;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Director</span>
+		</span>
+		<span class='ocr_line' title="bbox 78 716 457 741; baseline 0 -4; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_68_1' title='bbox 78 716 146 741;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Corey</span>
+			<span class='ocrx_word' id='word_1_68_2' title='bbox 155 717 217 740;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Allen,</span>
+			<span class='ocrx_word' id='word_1_68_3' title='bbox 229 717 336 737;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Research</span>
+			<span class='ocrx_word' id='word_1_68_4' title='bbox 346 717 457 737;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Associate</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 683 911 708; baseline 0.011364 -6; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_69_1' title='bbox 735 683 792 708;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_69_2' title='bbox 803 684 911 703;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4363</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 717 911 741; baseline 0.011364 -5; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_70_1' title='bbox 735 717 792 741;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_70_2' title='bbox 802 718 911 737;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4313</span>
+		</span>
+		<span class='ocr_line' title="bbox 1008 683 1260 706; baseline 0 -3; x_x_height 14; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_71_1' title='bbox 1008 683 1260 706;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>bruttenbur@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1058 717 1260 740; baseline 0 -3; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_72_1' title='bbox 1058 717 1260 740;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>callen@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1300 699 1785 724; baseline 0 -5; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_73_1' title='bbox 1300 699 1398 724;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Security,</span>
+			<span class='ocrx_word' id='word_1_73_2' title='bbox 1408 699 1486 724;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Space,</span>
+			<span class='ocrx_word' id='word_1_73_3' title='bbox 1496 700 1537 720;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>and</span>
+			<span class='ocrx_word' id='word_1_73_4' title='bbox 1548 700 1642 720;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Defense</span>
+			<span class='ocrx_word' id='word_1_73_5' title='bbox 1651 700 1785 724;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Technology</span>
+		</span>
+		<span class='ocr_line' title="bbox 78 755 661 780; baseline -0.001792 -5; x_x_height 15; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_75_1' title='bbox 78 755 155 780;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sheryl</span>
+			<span class='ocrx_word' id='word_1_75_2' title='bbox 166 756 188 774;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>R.</span>
+			<span class='ocrx_word' id='word_1_75_3' title='bbox 198 755 311 779;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Skolnick,</span>
+			<span class='ocrx_word' id='word_1_75_4' title='bbox 322 755 390 779;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Ph.D.,</span>
+			<span class='ocrx_word' id='word_1_75_5' title='bbox 401 756 512 780;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Managing</span>
+			<span class='ocrx_word' id='word_1_75_6' title='bbox 523 756 613 775;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Director</span>
+			<span class='ocrx_word' id='word_1_75_7' title='bbox 621 756 661 775;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>and</span>
+		</span>
+		<span class='ocr_line' title="bbox 78 785 328 806; baseline 0 0; x_x_height 15; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_76_1' title='bbox 78 785 180 806;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Co-Head</span>
+			<span class='ocrx_word' id='word_1_76_2' title='bbox 189 786 210 806;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>of</span>
+			<span class='ocrx_word' id='word_1_76_3' title='bbox 220 786 328 806;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Research</span>
+		</span>
+		<span class='ocr_line' title="bbox 78 828 530 853; baseline 0.00237 -6; x_x_height 15; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_77_1' title='bbox 78 828 146 848;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Kevin</span>
+			<span class='ocrx_word' id='word_1_77_2' title='bbox 156 828 241 852;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Starke,</span>
+			<span class='ocrx_word' id='word_1_77_3' title='bbox 251 828 308 852;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>CFA,</span>
+			<span class='ocrx_word' id='word_1_77_4' title='bbox 318 829 429 853;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Managing</span>
+			<span class='ocrx_word' id='word_1_77_5' title='bbox 441 829 530 848;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Director</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 756 911 780; baseline 0.011364 -6; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_78_1' title='bbox 735 756 792 780;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_78_2' title='bbox 803 756 911 775;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4359</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 829 907 853; baseline 0.011364 -6; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_79_1' title='bbox 735 829 792 853;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_79_2' title='bbox 803 829 907 848;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-6421</span>
+		</span>
+		<span class='ocr_line' title="bbox 1021 755 1260 778; baseline 0 -3; x_x_height 15; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_80_1' title='bbox 1021 755 1260 778;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>sskolnick@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1043 828 1260 851; baseline 0.005882 -4; x_x_height 15; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_81_1' title='bbox 1043 828 1260 851;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>kstarke@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1300 772 1530 793; baseline 0 -1; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_83_1' title='bbox 1300 773 1423 793;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Healthcare</span>
+			<span class='ocrx_word' id='word_1_83_2' title='bbox 1433 772 1530 792;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Services</span>
+		</span>
+		<span class='ocr_line' title="bbox 1299 828 1911 853; baseline 0 -5; x_x_height 15; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_84_1' title='bbox 1299 828 1423 852;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Generalist,</span>
+			<span class='ocrx_word' id='word_1_84_2' title='bbox 1434 829 1560 852;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Distressed,</span>
+			<span class='ocrx_word' id='word_1_84_3' title='bbox 1572 828 1696 853;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>High-Yield,</span>
+			<span class='ocrx_word' id='word_1_84_4' title='bbox 1706 828 1788 853;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Special</span>
+			<span class='ocrx_word' id='word_1_84_5' title='bbox 1799 828 1911 848;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Situations</span>
+		</span>
+		<span class='ocr_line' title="bbox 78 867 468 891; baseline 0 -5; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_85_1' title='bbox 78 867 143 886;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Amer</span>
+			<span class='ocrx_word' id='word_1_85_2' title='bbox 151 867 245 890;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Tiwana,</span>
+			<span class='ocrx_word' id='word_1_85_3' title='bbox 256 867 366 891;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Managing</span>
+			<span class='ocrx_word' id='word_1_85_4' title='bbox 378 867 468 887;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Director</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 867 911 891; baseline 0.013699 -5; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_86_1' title='bbox 735 867 792 891;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_86_2' title='bbox 802 868 911 887;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4318</span>
+		</span>
+		<span class='ocr_line' title="bbox 1036 866 1260 890; baseline 0 -3; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_87_1' title='bbox 1036 866 1260 890;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>atiwana@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1299 866 1911 891; baseline 0 -4; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_88_1' title='bbox 1299 866 1423 890;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Generalist,</span>
+			<span class='ocrx_word' id='word_1_88_2' title='bbox 1434 867 1560 890;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Distressed,</span>
+			<span class='ocrx_word' id='word_1_88_3' title='bbox 1572 867 1696 891;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>High-Yield,</span>
+			<span class='ocrx_word' id='word_1_88_4' title='bbox 1706 866 1788 891;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Special</span>
+			<span class='ocrx_word' id='word_1_88_5' title='bbox 1799 866 1911 887;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Situations</span>
+		</span>
+		<span class='ocr_line' title="bbox 79 906 691 931; baseline 0.001695 -6; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_89_1' title='bbox 79 906 151 926;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Lance</span>
+			<span class='ocrx_word' id='word_1_89_2' title='bbox 160 906 257 930;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Vitanza,</span>
+			<span class='ocrx_word' id='word_1_89_3' title='bbox 267 906 325 930;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>CFA,</span>
+			<span class='ocrx_word' id='word_1_89_4' title='bbox 335 906 446 931;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Managing</span>
+			<span class='ocrx_word' id='word_1_89_5' title='bbox 458 906 547 926;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Director</span>
+			<span class='ocrx_word' id='word_1_89_6' title='bbox 556 906 596 926;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>and</span>
+			<span class='ocrx_word' id='word_1_89_7' title='bbox 608 906 691 926;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Partner</span>
+		</span>
+		<span class='ocr_line' title="bbox 79 939 562 963; baseline 0.002404 -4; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_90_1' title='bbox 79 940 130 960;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Brad</span>
+			<span class='ocrx_word' id='word_1_90_2' title='bbox 140 940 255 963;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Tesoriero,</span>
+			<span class='ocrx_word' id='word_1_90_3' title='bbox 266 939 322 963;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>CFA,</span>
+			<span class='ocrx_word' id='word_1_90_4' title='bbox 333 940 441 960;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Research</span>
+			<span class='ocrx_word' id='word_1_90_5' title='bbox 451 940 562 960;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Associate</span>
+		</span>
+		<span class='ocr_line' title="bbox 721 897 911 931; baseline 0.011364 -6; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_91_1' title='bbox 736 897 792 931;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_91_2' title='bbox 802 907 911 926;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4337</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 940 911 964; baseline 0.011364 -5; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_92_1' title='bbox 735 940 792 964;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_92_2' title='bbox 802 941 911 960;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4376</span>
+		</span>
+		<span class='ocr_line' title="bbox 1038 906 1260 929; baseline 0.005291 -4; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_93_1' title='bbox 1038 906 1260 929;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>lvitanza@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1011 939 1260 963; baseline -0.004329 -3; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_94_1' title='bbox 1011 939 1260 963;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>btesoriero@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1300 923 1525 943; baseline 0.006098 -1; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_95_1' title='bbox 1300 923 1369 943;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Media</span>
+			<span class='ocrx_word' id='word_1_95_2' title='bbox 1377 924 1417 943;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>and</span>
+			<span class='ocrx_word' id='word_1_95_3' title='bbox 1428 924 1525 943;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Telecom</span>
+		</span>
+		<span class='ocr_line' title="bbox 78 979 550 1003; baseline 0 -5; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_96_1' title='bbox 78 979 119 999;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Jim</span>
+			<span class='ocrx_word' id='word_1_96_2' title='bbox 130 984 173 999;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>von</span>
+			<span class='ocrx_word' id='word_1_96_3' title='bbox 185 979 327 1003;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Riesemann,</span>
+			<span class='ocrx_word' id='word_1_96_4' title='bbox 338 979 449 1003;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Managing</span>
+			<span class='ocrx_word' id='word_1_96_5' title='bbox 461 979 550 999;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Director</span>
+		</span>
+		<span class='ocr_line' title="bbox 79 1012 450 1035; baseline 0.002967 -4; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_97_1' title='bbox 79 1012 140 1032;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Kevin</span>
+			<span class='ocrx_word' id='word_1_97_2' title='bbox 151 1012 210 1035;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Prior,</span>
+			<span class='ocrx_word' id='word_1_97_3' title='bbox 221 1012 329 1032;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Research</span>
+			<span class='ocrx_word' id='word_1_97_4' title='bbox 339 1012 450 1032;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Associate</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 979 911 1003; baseline 0.011364 -5; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_98_1' title='bbox 735 979 792 1003;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_98_2' title='bbox 803 980 911 999;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4336</span>
+		</span>
+		<span class='ocr_line' title="bbox 735 1012 911 1036; baseline 0.011364 -5; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_99_1' title='bbox 735 1012 792 1036;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(203)</span>
+			<span class='ocrx_word' id='word_1_99_2' title='bbox 803 1013 911 1032;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>569-4375</span>
+		</span>
+		<span class='ocr_line' title="bbox 955 979 1260 1004; baseline 0.003774 -6; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_100_1' title='bbox 955 979 1260 1004;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>jvonriesemann@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1061 1011 1260 1036; baseline 0.006024 -5; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_101_1' title='bbox 1061 1011 1260 1036;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>kprior@crtllc.com</span>
+		</span>
+		<span class='ocr_line' title="bbox 1300 995 1380 1015; baseline 0 0; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_103_1' title='bbox 1300 995 1380 1015;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Utilities</span>
+		</span>
+		<span class='ocr_line' title="bbox 339.5363306139768 82.23170215417605 434.53626628967504 109.29685101669105; baseline 0.001164 -7; x_x_height 16.999988489335465; x_asc_height 19.999986458041747">
+			<span class='ocrx_word' id='word_1_0gy8' title='bbox 340 82 435 109;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Analyst</span>
+		</span>
+		<span class='ocr_line' title="bbox 787.5360272741116 81.75303998454342 864.5324840405636 105.82633677137198; baseline 0.001164 -3; x_x_height 14.999989843531296; x_asc_height 20.999985780943803">
+			<span class='ocrx_word' id='word_1_0sR7' title='bbox 788 82 865 106;x_wconf 0;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Phone</span>
+		</span>
+		<span class='ocr_line' title="bbox 1076.5369952918172 82.08934899636228 1143.5357862272542 103.1591567174761; baseline 0.016089 -1; x_x_height 14.999989843531296; x_asc_height 20.999985780943803">
+			<span class='ocrx_word' id='word_1_02Iu' title='bbox 1077 82 1144 103;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Email</span>
+		</span>
+		<span class='ocr_line' title="bbox 1490.5367149732808 78.81200878551357 1727.533063404067 108.67350829123893; baseline 0.001164 -6; x_x_height 14.999989843531296; x_asc_height 19.99998645804169">
+			<span class='ocrx_word' id='word_1_08ElInr' title='bbox 1620 79 1728 106;x_wconf 0;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Universe</span>
+			<span class='ocrx_word' id='word_1_08El' title='bbox 1491 83 1609 109;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Coverage</span>
+		</span>
+	</div>
+</body>
+</html>

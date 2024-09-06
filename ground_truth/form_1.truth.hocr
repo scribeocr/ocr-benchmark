@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title></title>
+	<meta name='font-metrics' content='{"SerifDefault":{"normal":{"width":{"67":1.1875,"74":0.9375,"79":1.2,"83":1.058824,"87":1.4375,"97":0.8125,"99":0.92,"100":0.9375,"101":1,"102":0.76,"103":1.125,"105":0.36,"109":1.4375,"110":0.9375,"111":1,"114":0.625,"115":0.8125,"116":0.5625,"117":1.117647},"height":{"67":1.3125,"74":1.375,"79":1.32,"83":1.294118,"87":1.1875,"97":1,"99":1,"100":1.25,"101":1,"102":1.36,"103":1.4375,"105":1.4,"109":1,"110":1.0625,"111":1,"114":0.875,"115":1,"116":1.25,"117":1.235294},"kerning":{"79,102":0.12,"102,102":-0.2,"102,105":0,"105,99":0.12,"99,101":0.12,"87,97":0,"97,114":0.125,"114,114":0.0625,"114,97":-0.25,"97,110":0.125,"110,116":0.0625,"116,115":-0.0625,"83,116":0.117647,"116,97":-0.235294,"97,116":0,"116,117":-0.117647,"117,116":0.058824,"116,101":-0.117647,"67,111":0.125,"111,109":0,"109,109":0.1875,"109,101":0.0625,"101,110":0.0625,"74,117":0.125,"117,100":0.1875,"100,103":0.0625,"103,101":0.0625},"kerning2":{"79,102":0.12,"102,102":-0.32,"102,105":0,"105,99":0.12,"99,101":0,"87,97":0,"97,114":-0.125,"114,114":0.0625,"114,97":-0.25,"97,110":-0.0625,"110,116":0.1875,"116,115":-0.0625,"83,116":0.202206,"116,97":-0.10661799999999999,"97,116":-0.033088000000000006,"116,117":-0.11764700000000006,"117,116":0.025734999999999952,"116,101":-0.05882399999999999,"67,111":0.125,"111,109":0,"109,109":0.125,"109,101":0.0625,"101,110":0.0625,"74,117":-0.05514700000000006,"117,100":0.1875,"100,103":0.0625,"103,101":-0.125},"variants":{},"heightCaps":1.3125,"obs":34,"obsCaps":5},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":34},"SansDefault":{"normal":{"width":{"35":0.9375,"48":0.78125,"49":0.625,"50":0.8125,"51":0.78125,"52":0.8125,"53":0.78125,"54":0.83333375,"58":0.352941,"65":1.1875,"67":1.058824,"68":1.125,"69":0.9375,"72":1.0625,"73":0.3125,"74":0.941176,"76":0.8125,"77":1.375,"78":0.9375,"82":1,"83":0.941176,"97":0.8125,"100":0.882353,"101":0.882353,"103":0.941176,"104":0.823529,"105":0.5,"109":1.352941,"110":1,"111":1,"114":0.588235,"115":0.875,"116":0.588235,"117":0.894737,"121":0.941176},"height":{"35":1.25,"48":1.25,"49":1.1875,"50":1.25,"51":1.25,"52":1.25,"53":1.1875,"54":1.25,"58":0.823529,"65":1.352941,"67":1.294118,"68":1.25,"69":1.117647,"72":1.3125,"73":1.25,"74":1.352941,"76":1.1875,"77":1.3125,"78":1.125,"82":1.117647,"83":1.235294,"97":1,"100":1.294118,"101":1,"103":1.294118,"104":1.235294,"105":1.25,"109":1,"110":1,"111":1.058824,"114":0.941176,"115":1.0625,"116":1.125,"117":0.941176,"121":1.352941},"kerning":{"97,110":0,"110,100":0.0625,"49,52":0.25,"52,58":0.0625,"58,50":0.058824,"50,54":0,"52,52":-0.125,"76,97":0.0625,"97,115":0.0625,"115,116":0.0625,"72,101":0.125,"101,105":0.0625,"105,103":-0.4375,"103,104":0,"104,116":0.0625,"69,121":0,"121,101":0,"101,115":0,"72,97":0.0625,"97,105":0.0625,"105,114":-0.1875,"53,48":0.0625,"48,52":0.10416625,"52,53":0.15625,"68,97":0.0625,"97,116":0.058824,"116,101":-0.117647,"77,65":-0.25,"65,73":0.0625,"73,78":0.125,"67,104":0.117647,"104,97":0.058824,"97,114":0.117647,"114,103":0.052632,"103,101":0.058824,"83,116":0.176471,"116,97":-0.157895,"116,117":0,"117,116":0.058824,"65,109":0.117647,"109,111":0.058824,"111,117":0.058824,"117,110":0.058824,"110,116":0.058824,"67,111":0.058824,"116,121":-0.117647,"74,117":0.058824,"117,100":0.058824,"100,103":0.058824,"83,67":0.058824,"67,72":0.176471,"72,69":0.117647,"69,82":0.176471,"82,69":0,"48,48":0.15625,"53,54":0.10416625,"54,51":0.15625,"51,54":0.10416625,"54,54":0.10416625,"54,49":0.20833375},"kerning2":{"97,110":-0.1875,"110,100":0.055146999999999946,"49,52":0.25,"52,58":0.084559,"58,50":0.011028999999999956,"50,54":0.041666250000000016,"52,52":-0.25,"76,97":0.0625,"97,115":-0.0625,"115,116":-0.08823499999999995,"72,101":0.055146999999999946,"101,105":0,"105,103":-0.253676,"103,104":-0.011028999999999956,"104,116":0.03676500000000005,"69,121":-0.06617600000000001,"121,101":-0.13235300000000005,"101,115":0.007353000000000054,"72,97":-0.0625,"97,105":0.0625,"105,114":-0.15073499999999995,"53,48":0.09375,"48,52":0.125,"52,53":0.15625,"68,97":-0.0625,"97,116":0.11764700000000006,"116,101":-0.13235300000000005,"77,65":-0.25,"65,73":0.0625,"73,78":0.125,"67,104":0.11764700000000006,"104,97":0.06985300000000005,"97,114":0.0588240000000001,"114,103":-0.05882299999999996,"103,101":0.17647099999999993,"83,116":0.11764700000000006,"116,97":-0.047794,"116,117":-0.07120800000000005,"117,116":0.11764700000000006,"65,109":0.11764700000000006,"109,111":0.05882399999999999,"111,117":0.105263,"117,110":0.05882399999999999,"110,116":0,"67,111":-0.05882399999999999,"116,121":-0.11764700000000006,"74,117":0.16408699999999998,"117,100":0.05882299999999996,"100,103":0.05882399999999999,"83,67":-0.05882399999999999,"67,72":0.05514700000000006,"72,69":0.0036760000000000126,"69,82":0.11764700000000006,"82,69":0.0036760000000000126,"48,48":0.15625,"53,54":0.10416625000000002,"54,51":0.15625,"51,54":0.10416625000000002,"54,54":0.10416625000000002,"54,49":0.052083749999999984},"variants":{},"heightCaps":1.25,"obs":123,"obsCaps":26},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":123}}'></meta>
+	<meta name='default-font' content='SansDefault'></meta>
+	<meta name='sans-font' content='NimbusSans'></meta>
+	<meta name='serif-font' content='Century'></meta>
+	<meta name='enable-opt' content='undefined'></meta>
+	<meta name='layout' content='[{"default":true,"boxes":{}}]'></meta>
+	<meta name='layout-data-table' content='[{"default":true,"tables":[]}]'></meta>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<meta name='ocr-system' content='scribeocr' />
+	<meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf ocrp_lang ocrp_dir ocrp_font ocrp_fsize'/>
+</head>
+<body>
+	<div class='ocr_page' title='bbox 0 0 2000 2623'>
+		<span class='ocr_line' title="bbox 410 96 1675 126; baseline 0 -4; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_1_1' title='bbox 410 96 468 122;x_wconf 0;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>****</span>
+			<span class='ocrx_word' id='word_1_1_2' title='bbox 480 97 570 122;x_wconf 0;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>FILED</span>
+			<span class='ocrx_word' id='word_1_1_3' title='bbox 584 97 738 122;x_wconf 100;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>BROWARD</span>
+			<span class='ocrx_word' id='word_1_1_4' title='bbox 747 97 878 126;x_wconf 100;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>COUNTY,</span>
+			<span class='ocrx_word' id='word_1_1_5' title='bbox 888 99 925 122;x_wconf 100;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>FL</span>
+			<span class='ocrx_word' id='word_1_1_6' title='bbox 942 97 1037 124;x_wconf 100;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>Howard</span>
+			<span class='ocrx_word' id='word_1_1_7' title='bbox 1049 99 1072 122;x_wconf 100;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>C.</span>
+			<span class='ocrx_word' id='word_1_1_8' title='bbox 1089 99 1186 126;x_wconf 100;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>Forman,</span>
+			<span class='ocrx_word' id='word_1_1_9' title='bbox 1206 99 1307 122;x_wconf 100;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>CLERK</span>
+			<span class='ocrx_word' id='word_1_1_10' title='bbox 1319 96 1439 126;x_wconf 0;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>5/28/2015</span>
+			<span class='ocrx_word' id='word_1_1_11' title='bbox 1455 96 1551 124;x_wconf 0;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>5:31:35</span>
+			<span class='ocrx_word' id='word_1_1_12' title='bbox 1563 99 1675 124;x_wconf 0;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>PM.****</span>
+		</span>
+		<span class='ocr_line' title="bbox 134 600 370 621; baseline 0 0; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_4_1' title='bbox 134 600 199 621;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>OBTS</span>
+			<span class='ocrx_word' id='word_1_4_2' title='bbox 255 600 370 621;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>607204043</span>
+		</span>
+		<span class='ocr_line' title="bbox 134 652 391 680; baseline 0 0; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_5_1' title='bbox 134 652 217 680;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Arest#</span>
+			<span class='ocrx_word' id='word_1_5_2' title='bbox 265 659 297 680;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BS</span>
+			<span class='ocrx_word' id='word_1_5_3' title='bbox 304 659 391 680;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>1502515</span>
+		</span>
+		<span class='ocr_line' title="bbox 706 169 1331 211; baseline 0 -8; x_x_height 24; x_asc_height 33">
+			<span class='ocrx_word' id='word_1_6_1' title='bbox 677 171 848 204;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Broward</span>
+			<span class='ocrx_word' id='word_1_6_2' title='bbox 863 171 1010 211;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>County</span>
+			<span class='ocrx_word' id='word_1_6_3' title='bbox 1025 170 1192 203;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sheriffs</span>
+			<span class='ocrx_word' id='word_1_6_4' title='bbox 1209 169 1331 203;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Office</span>
+		</span>
+		<span class='ocr_line' title="bbox 842 371 1214 422; baseline -0.002985 -10; x_x_height 31; x_asc_height 40">
+			<span class='ocrx_word' id='word_1_7_1' title='bbox 797 371 1012 422;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Booking</span>
+			<span class='ocrx_word' id='word_1_7_2' title='bbox 1037 371 1214 422;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Report</span>
+		</span>
+		<span class='ocr_line' title="bbox 546 532 802 558; baseline 0 -4; x_asc_height 25">
+			<span class='ocrx_word' id='word_1_9_1' title='bbox 546 535 636 558;x_wconf 0;x_font SerifDefault;x_fsize 25' lang='eng' style='font-family:SerifDefault'>BCCN#</span>
+			<span class='ocrx_word' id='word_1_9_2' title='bbox 705 532 802 558;x_wconf 0;x_font SerifDefault;x_fsize 35' lang='eng' style='font-family:SerifDefault'>853142</span>
+		</span>
+		<span class='ocr_line' title="bbox 505 596 1046 621; baseline 0 -1; x_x_height 17; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_10_1' title='bbox 505 600 557 620;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Print</span>
+			<span class='ocrx_word' id='word_1_10_2' title='bbox 564 599 673 621;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Clearance</span>
+			<span class='ocrx_word' id='word_1_10_3' title='bbox 703 596 813 620;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>5/28/2016</span>
+			<span class='ocrx_word' id='word_1_10_4' title='bbox 822 598 880 620;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>14.26</span>
+			<span class='ocrx_word' id='word_1_10_5' title='bbox 887 600 910 620;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>44</span>
+			<span class='ocrx_word' id='word_1_10_6' title='bbox 930 598 996 620;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Prints</span>
+			<span class='ocrx_word' id='word_1_10_7' title='bbox 1006 598 1046 620;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Yes</span>
+		</span>
+		<span class='ocr_line' title="bbox 1221 534 1646 558; baseline 0 -3; x_x_height 16; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_11_1' title='bbox 1221 535 1308 558;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Booking</span>
+			<span class='ocrx_word' id='word_1_11_2' title='bbox 1320 534 1383 555;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sheet</span>
+			<span class='ocrx_word' id='word_1_11_3' title='bbox 1392 534 1478 555;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Control</span>
+			<span class='ocrx_word' id='word_1_11_4' title='bbox 1490 535 1537 557;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Date</span>
+			<span class='ocrx_word' id='word_1_11_5' title='bbox 1547 535 1584 555;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>and</span>
+			<span class='ocrx_word' id='word_1_11_6' title='bbox 1592 535 1646 553;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Time</span>
+		</span>
+		<span class='ocr_line' title="bbox 1221 582 1564 616; baseline 0 -4; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_12_1' title='bbox 1221 582 1389 616;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>05/28/15</span>
+			<span class='ocrx_word' id='word_1_12_2' title='bbox 1407 584 1564 612;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>16:15:52</span>
+		</span>
+		<span class='ocr_line' title="bbox 659 658 848 682; baseline -0.008929 -4; x_x_height 14; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_13_1' title='bbox 659 658 746 678;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Offense</span>
+			<span class='ocrx_word' id='word_1_13_2' title='bbox 754 659 827 682;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Report</span>
+			<span class='ocrx_word' id='word_1_13_3' title='bbox 835 659 848 679;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>#</span>
+		</span>
+		<span class='ocr_line' title="bbox 1258 656 1402 684; baseline 0.00885 -7; x_x_height 16; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_14_1' title='bbox 1258 656 1343 684;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Agency</span>
+			<span class='ocrx_word' id='word_1_14_2' title='bbox 1371 657 1402 678;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BS</span>
+		</span>
+		<span class='ocr_line' title="bbox 141 716 253 738; baseline 0 -1; x_x_height 17; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_15_1' title='bbox 141 717 186 737;x_wconf 100;x_font NimbusSans;x_fsize 30' lang='eng' style='font-family:NimbusSans'>Last</span>
+			<span class='ocrx_word' id='word_1_15_2' title='bbox 192 716 253 738;x_wconf 100;x_font NimbusSans;x_fsize 30' lang='eng' style='font-family:NimbusSans'>Name</span>
+		</span>
+		<span class='ocr_line' title="bbox 207 750 537 780; baseline 0 -4; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_16_1' title='bbox 207 750 251 776;x_wconf 0;x_font NimbusSans;x_fsize 30' lang='eng' style='font-family:NimbusSans'>Fist</span>
+			<span class='ocrx_word' id='word_1_16_2' title='bbox 308 751 432 777;x_wconf 0;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>AVERILL</span>
+			<span class='ocrx_word' id='word_1_16_3' title='bbox 443 752 448 780;x_wconf 0;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>,</span>
+			<span class='ocrx_word' id='word_1_16_4' title='bbox 460 751 557 776;x_wconf 100;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>LYNN,</span>
+		</span>
+		<span class='ocr_line' title="bbox 188 790 255 811; baseline 0 0; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_17_1' title='bbox 188 790 255 811;x_wconf 0;x_font NimbusSans;x_fsize 30' lang='eng' style='font-family:NimbusSans'>Middle</span>
+		</span>
+		<span class='ocr_line' title="bbox 1281 715 1350 736; baseline 0 0; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_18_1' title='bbox 1281 715 1350 736;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>SSN#</span>
+		</span>
+		<span class='ocr_line' title="bbox 140 844 194 864; baseline -0.023256 0; x_x_height 16; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_19_1' title='bbox 140 844 194 864;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Race</span>
+		</span>
+		<span class='ocr_line' title="bbox 139 898 217 916; baseline 0 0; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_20_1' title='bbox 139 898 217 916;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>WHITE</span>
+		</span>
+		<span class='ocr_line' title="bbox 398 843 1235 869; baseline 0 -5; x_x_height 16; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_21_1' title='bbox 398 843 438 864;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Sex</span>
+			<span class='ocrx_word' id='word_1_21_2' title='bbox 479 844 552 868;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Height</span>
+			<span class='ocrx_word' id='word_1_21_3' title='bbox 584 844 663 868;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Weight</span>
+			<span class='ocrx_word' id='word_1_21_4' title='bbox 698 844 752 869;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Eyes</span>
+			<span class='ocrx_word' id='word_1_21_5' title='bbox 807 843 853 863;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Hair</span>
+			<span class='ocrx_word' id='word_1_21_6' title='bbox 898 843 965 867;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Comp</span>
+			<span class='ocrx_word' id='word_1_21_7' title='bbox 1001 844 1047 867;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Age</span>
+			<span class='ocrx_word' id='word_1_21_8' title='bbox 1054 844 1148 864;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Admitted</span>
+			<span class='ocrx_word' id='word_1_21_9' title='bbox 1181 843 1235 863;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>DOE</span>
+		</span>
+		<span class='ocr_line' title="bbox 394 895 933 918; baseline -0.00464 0; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_22_1' title='bbox 394 897 406 918;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>F</span>
+			<span class='ocrx_word' id='word_1_22_2' title='bbox 466 898 506 917;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>504</span>
+			<span class='ocrx_word' id='word_1_22_3' title='bbox 573 897 610 918;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>145</span>
+			<span class='ocrx_word' id='word_1_22_4' title='bbox 683 896 737 917;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BRO</span>
+			<span class='ocrx_word' id='word_1_22_5' title='bbox 790 896 843 916;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BRO</span>
+			<span class='ocrx_word' id='word_1_22_6' title='bbox 888 895 933 917;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>L&amp;T</span>
+		</span>
+		<span class='ocr_line' title="bbox 1353 841 1761 866; baseline 0 -1; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_23_1' title='bbox 1353 843 1416 866;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Place</span>
+			<span class='ocrx_word' id='word_1_23_2' title='bbox 1426 841 1443 865;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>of</span>
+			<span class='ocrx_word' id='word_1_23_3' title='bbox 1453 844 1506 866;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Buth</span>
+			<span class='ocrx_word' id='word_1_23_4' title='bbox 1573 842 1628 866;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>State</span>
+			<span class='ocrx_word' id='word_1_23_5' title='bbox 1695 844 1761 866;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>FDLE</span>
+		</span>
+		<span class='ocr_line' title="bbox 1679 896 1776 917; baseline 0.02439 -1; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_24_1' title='bbox 1679 896 1776 917;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>7553497</span>
+		</span>
+		<span class='ocr_line' title="bbox 139 952 253 979; baseline 0 -6; x_x_height 17; x_asc_height 25">
+			<span class='ocrx_word' id='word_1_25_1' title='bbox 139 952 253 979;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Permanent</span>
+		</span>
+		<span class='ocr_line' title="bbox 148 981 234 1009; baseline 0 -1; x_x_height 22">
+			<span class='ocrx_word' id='word_1_26_1' title='bbox 148 981 234 1009;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Address</span>
+		</span>
+		<span class='ocr_line' title="bbox 137 1042 799 1068; baseline 0 -4; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_27_1' title='bbox 137 1043 203 1064;x_wconf 0;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>Arrest</span>
+			<span class='ocrx_word' id='word_1_27_2' title='bbox 210 1043 257 1064;x_wconf 0;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>Date</span>
+			<span class='ocrx_word' id='word_1_27_3' title='bbox 279 1043 385 1064;x_wconf 0;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>5/28/2015</span>
+			<span class='ocrx_word' id='word_1_27_4' title='bbox 393 1043 419 1064;x_wconf 100;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>09</span>
+			<span class='ocrx_word' id='word_1_27_5' title='bbox 425 1043 451 1064;x_wconf 0;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>00</span>
+			<span class='ocrx_word' id='word_1_27_6' title='bbox 458 1043 484 1064;x_wconf 0;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>00</span>
+			<span class='ocrx_word' id='word_1_27_7' title='bbox 502 1043 602 1068;x_wconf 0;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>Arresting</span>
+			<span class='ocrx_word' id='word_1_27_8' title='bbox 609 1042 682 1064;x_wconf 0;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>Officer</span>
+			<span class='ocrx_word' id='word_1_27_9' title='bbox 703 1042 799 1064;x_wconf 100;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>WILSON</span>
+		</span>
+		<span class='ocr_line' title="bbox 987 1042 1333 1063; baseline -0.004854 0; x_x_height 14; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_28_1' title='bbox 987 1043 1047 1063;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Place</span>
+			<span class='ocrx_word' id='word_1_28_2' title='bbox 1055 1042 1073 1063;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>of</span>
+			<span class='ocrx_word' id='word_1_28_3' title='bbox 1081 1043 1148 1063;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Arrest</span>
+			<span class='ocrx_word' id='word_1_28_4' title='bbox 1163 1043 1228 1062;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>PALM</span>
+			<span class='ocrx_word' id='word_1_28_5' title='bbox 1236 1043 1289 1062;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BCH</span>
+			<span class='ocrx_word' id='word_1_28_6' title='bbox 1296 1043 1333 1063;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>CO</span>
+		</span>
+		<span class='ocr_line' title="bbox 1386 952 1622 974; baseline 0 -2; x_x_height 16; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_29_1' title='bbox 1386 952 1471 974;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Months</span>
+			<span class='ocrx_word' id='word_1_29_2' title='bbox 1481 952 1504 972;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>of</span>
+			<span class='ocrx_word' id='word_1_29_3' title='bbox 1510 952 1622 974;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Residence</span>
+		</span>
+		<span class='ocr_line' title="bbox 1472 989 1485 1009; baseline 0 0; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_30_1' title='bbox 1472 989 1485 1009;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>0</span>
+		</span>
+		<span class='ocr_line' title="bbox 1413 1043 1643 1068; baseline 0 -4; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_31_1' title='bbox 1413 1043 1491 1068;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Badge</span>
+			<span class='ocrx_word' id='word_1_31_2a' title='bbox 1499 1043 1585 1064;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Number</span>
+			<span class='ocrx_word' id='word_1_31_2b' title='bbox 1588 1044 1643 1064;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>3394</span>
+		</span>
+		<span class='ocr_line' title="bbox 139 1102 766 1129; baseline -0.022814 -7; x_x_height 16; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_32_1' title='bbox 139 1103 211 1129;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Inmate</span>
+			<span class='ocrx_word' id='word_1_32_2' title='bbox 222 1103 295 1127;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Logged</span>
+			<span class='ocrx_word' id='word_1_32_3' title='bbox 305 1104 356 1123;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Date</span>
+			<span class='ocrx_word' id='word_1_32_4a' title='bbox 367 1103 470 1123;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>5/28/2015</span>
+			<span class='ocrx_word' id='word_1_32_4b' title='bbox 480 1104 498 1123;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>11</span>
+			<span class='ocrx_word' id='word_1_32_5' title='bbox 511 1103 571 1123;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>04:05</span>
+			<span class='ocrx_word' id='word_1_32_6' title='bbox 583 1103 658 1123;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Inmate</span>
+			<span class='ocrx_word' id='word_1_32_7' title='bbox 666 1103 707 1127;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Log</span>
+			<span class='ocrx_word' id='word_1_32_8' title='bbox 714 1102 766 1127;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Type</span>
+		</span>
+		<span class='ocr_line' title="bbox 1132 1102 1366 1123; baseline -0.00578 0; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_33_1' title='bbox 1132 1103 1193 1123;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Place</span>
+			<span class='ocrx_word' id='word_1_33_2' title='bbox 1198 1104 1300 1122;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Admitted</span>
+			<span class='ocrx_word' id='word_1_33_3' title='bbox 1305 1102 1366 1122;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>MAIN</span>
+		</span>
+		<span class='ocr_line' title="bbox 139 1157 701 1180; baseline 0.004167 -2; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_34_1' title='bbox 139 1158 204 1178;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Intake</span>
+			<span class='ocrx_word' id='word_1_34_2a' title='bbox 211 1158 328 1179;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Comments</span>
+			<span class='ocrx_word' id='word_1_34_2b' title='bbox 330 1158 406 1179;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>SP-CO</span>
+			<span class='ocrx_word' id='word_1_34_3' title='bbox 416 1158 465 1180;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>8075</span>
+			<span class='ocrx_word' id='word_1_34_4' title='bbox 474 1158 575 1179;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>29/13798</span>
+			<span class='ocrx_word' id='word_1_34_5' title='bbox 584 1157 701 1179;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>WC/16194</span>
+		</span>
+		<span class='ocr_line' title="bbox 136 1209 455 1233; baseline 0 -3; x_x_height 16; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_35_1' title='bbox 136 1209 189 1230;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Alias</span>
+			<span class='ocrx_word' id='word_1_35_2' title='bbox 197 1210 243 1230;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Last</span>
+			<span class='ocrx_word' id='word_1_35_3' title='bbox 250 1214 314 1232;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>name,</span>
+			<span class='ocrx_word' id='word_1_35_4' title='bbox 324 1209 377 1233;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>First,</span>
+			<span class='ocrx_word' id='word_1_35_5' title='bbox 385 1209 455 1232;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Middle</span>
+		</span>
+		<span class='ocr_line' title="bbox 138 1268 431 1293; baseline 0 -4; x_x_height 16; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_36_1' title='bbox 138 1268 235 1289;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Warrants</span>
+			<span class='ocrx_word' id='word_1_36_2' title='bbox 244 1268 314 1293;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Officer</span>
+			<span class='ocrx_word' id='word_1_36_3' title='bbox 321 1268 344 1289;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Id.</span>
+			<span class='ocrx_word' id='word_1_36_4' title='bbox 370 1268 396 1288;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>bs</span>
+			<span class='ocrx_word' id='word_1_36_5' title='bbox 401 1268 463 1289;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>16194</span>
+		</span>
+		<span class='ocr_line' title="bbox 122 1322 342 1349; baseline 0 -4; x_x_height 16; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_37_1a' title='bbox 122 1322 188 1349;x_wconf 0;x_font SerifDefault;x_fsize 25' lang='eng' style='font-family:SerifDefault'>Scars,</span>
+			<span class='ocrx_word' id='word_1_37_1b' title='bbox 193 1323 258 1347;x_wconf 0;x_font SerifDefault;x_fsize 25' lang='eng' style='font-family:SerifDefault'>Marks,</span>
+			<span class='ocrx_word' id='word_1_37_2' title='bbox 265 1324 342 1345;x_wconf 0;x_font SerifDefault;x_fsize 25' lang='eng' style='font-family:SerifDefault'>Tattoos</span>
+		</span>
+		<span class='ocr_line' title="bbox 122 1423 1420 1452; baseline -0.00188 -4; x_x_height 17; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_38_1' title='bbox 122 1423 206 1449;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Release</span>
+			<span class='ocrx_word' id='word_1_38_2' title='bbox 219 1423 327 1452;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Date/Time</span>
+			<span class='ocrx_word' id='word_1_38_3' title='bbox 568 1426 656 1450;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Release</span>
+			<span class='ocrx_word' id='word_1_38_4' title='bbox 666 1425 750 1448;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Reason</span>
+			<span class='ocrx_word' id='word_1_38_5' title='bbox 1169 1426 1261 1448;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Release</span>
+			<span class='ocrx_word' id='word_1_38_6' title='bbox 1266 1426 1385 1446;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Authorised</span>
+			<span class='ocrx_word' id='word_1_38_7' title='bbox 1396 1427 1420 1451;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>By</span>
+		</span>
+		<span class='ocr_line' title="bbox 126 1479 1754 1511; baseline 0 -6; x_x_height 19; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_39_1' title='bbox 126 1479 214 1508;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Charge</span>
+			<span class='ocrx_word' id='word_1_39_2' title='bbox 221 1479 263 1505;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>No.</span>
+			<span class='ocrx_word' id='word_1_39_3' title='bbox 348 1480 436 1508;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Charge</span>
+			<span class='ocrx_word' id='word_1_39_4' title='bbox 447 1480 557 1505;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Initiation</span>
+			<span class='ocrx_word' id='word_1_39_5' title='bbox 568 1480 627 1505;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Date</span>
+			<span class='ocrx_word' id='word_1_39_6' title='bbox 764 1480 857 1502;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Statute</span>
+			<span class='ocrx_word' id='word_1_39_7' title='bbox 989 1482 1186 1511;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Warrant/Capias</span>
+			<span class='ocrx_word' id='word_1_39_8' title='bbox 1225 1479 1296 1505;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Level</span>
+			<span class='ocrx_word' id='word_1_39_9' title='bbox 1303 1480 1352 1505;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>M.C</span>
+			<span class='ocrx_word' id='word_1_39_10' title='bbox 1435 1481 1524 1511;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>B.Type</span>
+			<span class='ocrx_word' id='word_1_39_11' title='bbox 1579 1481 1640 1505;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Bond</span>
+			<span class='ocrx_word' id='word_1_39_12' title='bbox 1650 1482 1754 1505;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Amount</span>
+		</span>
+		<span class='ocr_line' title="bbox 206 1524 1704 1546; baseline -0.002075 0; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_40_1' title='bbox 206 1524 215 1546;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>1</span>
+			<span class='ocrx_word' id='word_1_40_2' title='bbox 383 1524 506 1545;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>05/28/2015</span>
+			<span class='ocrx_word' id='word_1_40_3' title='bbox 516 1524 538 1545;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>15</span>
+			<span class='ocrx_word' id='word_1_40_4' title='bbox 547 1524 573 1545;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>35</span>
+			<span class='ocrx_word' id='word_1_40_5' title='bbox 664 1524 702 1545;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>895</span>
+			<span class='ocrx_word' id='word_1_40_6' title='bbox 708 1524 734 1545;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>03</span>
+			<span class='ocrx_word' id='word_1_40_7' title='bbox 1022 1524 1163 1546;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>180199AF10</span>
+			<span class='ocrx_word' id='word_1_40_8' title='bbox 1247 1524 1274 1544;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>1F</span>
+			<span class='ocrx_word' id='word_1_40_9' title='bbox 1331 1525 1345 1546;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Y</span>
+			<span class='ocrx_word' id='word_1_40_10' title='bbox 1435 1525 1511 1545;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BOND</span>
+			<span class='ocrx_word' id='word_1_40_11' title='bbox 1624 1525 1704 1546;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>150000</span>
+		</span>
+		<span class='ocr_line' title="bbox 122 1566 1040 1595; baseline 0 -5; x_x_height 18; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_41_1' title='bbox 122 1566 228 1595;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Charges</span>
+			<span class='ocrx_word' id='word_1_41_2' title='bbox 249 1568 438 1591;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>RACKETEERING</span>
+			<span class='ocrx_word' id='word_1_41_3' title='bbox 448 1568 579 1590;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>VIOLATION</span>
+			<span class='ocrx_word' id='word_1_41_4' title='bbox 896 1571 1040 1593;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Comments</span>
+		</span>
+		<span class='ocr_line' title="bbox 119 1615 1401 1655; baseline -0.026163 -16; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_42_1' title='bbox 119 1616 227 1655;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Booking</span>
+			<span class='ocrx_word' id='word_1_42_2' title='bbox 238 1615 275 1655;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Off.</span>
+			<span class='ocrx_word' id='word_1_42_3' title='bbox 291 1617 312 1639;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>ID</span>
+			<span class='ocrx_word' id='word_1_42_4' title='bbox 319 1615 415 1639;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>bs12228</span>
+			<span class='ocrx_word' id='word_1_42_5' title='bbox 600 1617 693 1655;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>County</span>
+			<span class='ocrx_word' id='word_1_42_6' title='bbox 713 1617 842 1637;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BROWARD</span>
+			<span class='ocrx_word' id='word_1_42_7' title='bbox 1188 1617 1275 1655;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Judge</span>
+			<span class='ocrx_word' id='word_1_42_8' title='bbox 1285 1617 1401 1655;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>SCHERER</span>
+		</span>
+		<span class='ocr_line' title="bbox 124 1662 1754 1696; baseline 0.002229 -9; x_x_height 18; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_43_1' title='bbox 124 1666 215 1693;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Charge</span>
+			<span class='ocrx_word' id='word_1_43_2' title='bbox 225 1665 267 1691;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Hu,</span>
+			<span class='ocrx_word' id='word_1_43_3' title='bbox 345 1666 438 1694;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Charge</span>
+			<span class='ocrx_word' id='word_1_43_4' title='bbox 446 1665 559 1690;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Initiation</span>
+			<span class='ocrx_word' id='word_1_43_5' title='bbox 570 1662 627 1690;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Date</span>
+			<span class='ocrx_word' id='word_1_43_6' title='bbox 764 1665 859 1687;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Statute</span>
+			<span class='ocrx_word' id='word_1_43_7' title='bbox 985 1669 1184 1696;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Warrant/Capias</span>
+			<span class='ocrx_word' id='word_1_43_8' title='bbox 1224 1667 1293 1687;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Level</span>
+			<span class='ocrx_word' id='word_1_43_9' title='bbox 1306 1665 1353 1690;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>M.C</span>
+			<span class='ocrx_word' id='word_1_43_10' title='bbox 1435 1666 1524 1694;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>B.Type</span>
+			<span class='ocrx_word' id='word_1_43_11' title='bbox 1573 1667 1639 1690;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Bond</span>
+			<span class='ocrx_word' id='word_1_43_12' title='bbox 1650 1667 1754 1690;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Amount</span>
+		</span>
+		<span class='ocr_line' title="bbox 204 1709 1706 1731; baseline 0 -1; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_44_1' title='bbox 204 1709 218 1730;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>2</span>
+			<span class='ocrx_word' id='word_1_44_2' title='bbox 384 1709 504 1730;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>05/28/2015</span>
+			<span class='ocrx_word' id='word_1_44_3' title='bbox 514 1709 539 1730;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>15</span>
+			<span class='ocrx_word' id='word_1_44_4' title='bbox 548 1710 571 1730;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>36</span>
+			<span class='ocrx_word' id='word_1_44_5' title='bbox 661 1709 703 1729;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>895</span>
+			<span class='ocrx_word' id='word_1_44_6' title='bbox 710 1709 737 1729;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>03</span>
+			<span class='ocrx_word' id='word_1_44_7' title='bbox 1022 1709 1159 1731;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>150199AF10</span>
+			<span class='ocrx_word' id='word_1_44_8' title='bbox 1247 1709 1274 1731;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>1F</span>
+			<span class='ocrx_word' id='word_1_44_9' title='bbox 1331 1710 1345 1730;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Y</span>
+			<span class='ocrx_word' id='word_1_44_10' title='bbox 1435 1709 1511 1731;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BOND</span>
+			<span class='ocrx_word' id='word_1_44_11' title='bbox 1624 1711 1706 1731;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>150000</span>
+		</span>
+		<span class='ocr_line' title="bbox 127 1753 1040 1781; baseline 0 -5; x_x_height 18; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_45_1' title='bbox 127 1753 226 1781;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Charges</span>
+			<span class='ocrx_word' id='word_1_45_2' title='bbox 249 1753 440 1774;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>RACKETEERING</span>
+			<span class='ocrx_word' id='word_1_45_3' title='bbox 448 1753 575 1776;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>VIOLATION</span>
+			<span class='ocrx_word' id='word_1_45_4' title='bbox 764 1754 771 1776;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>-</span>
+			<span class='ocrx_word' id='word_1_45_5' title='bbox 896 1756 1040 1778;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Comments</span>
+		</span>
+		<span class='ocr_line' title="bbox 119 1802 365 1830; baseline 0.008772 -7; x_x_height 15; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_46_1' title='bbox 119 1802 224 1830;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Booking</span>
+			<span class='ocrx_word' id='word_1_46_2' title='bbox 233 1802 278 1825;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Off.</span>
+			<span class='ocrx_word' id='word_1_46_3' title='bbox 289 1803 314 1825;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>ID</span>
+			<span class='ocrx_word' id='word_1_46_4a' title='bbox 322 1803 414 1825;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>bs1228</span>
+		</span>
+		<span class='ocr_line' title="bbox 602 1802 842 1830; baseline -0.004902 -6; x_x_height 17; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_47_1' title='bbox 602 1803 696 1830;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>County</span>
+			<span class='ocrx_word' id='word_1_47_2' title='bbox 713 1802 842 1823;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BROWARD</span>
+		</span>
+		<span class='ocr_line' title="bbox 125 1851 629 1879; baseline 0.004988 -7; x_x_height 17; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_48_1' title='bbox 125 1852 215 1878;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Charge</span>
+			<span class='ocrx_word' id='word_1_48_2' title='bbox 225 1852 266 1873;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>No.</span>
+			<span class='ocrx_word' id='word_1_48_3' title='bbox 345 1851 438 1879;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Charge</span>
+			<span class='ocrx_word' id='word_1_48_4' title='bbox 448 1852 559 1874;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Initiation</span>
+			<span class='ocrx_word' id='word_1_48_5' title='bbox 570 1852 629 1874;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Date</span>
+		</span>
+		<span class='ocr_line' title="bbox 765 1852 856 1874; baseline 0 -1; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_49_1' title='bbox 765 1852 856 1874;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Statute</span>
+		</span>
+		<span class='ocr_line' title="bbox 384 1894 753 1916; baseline 0 -1; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_50_1' title='bbox 384 1895 476 1916;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>ON/28/20</span>
+			<span class='ocrx_word' id='word_1_50_2' title='bbox 482 1896 511 1915;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>15</span>
+			<span class='ocrx_word' id='word_1_50_3' title='bbox 520 1896 541 1915;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>15</span>
+			<span class='ocrx_word' id='word_1_50_4' title='bbox 548 1895 572 1916;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>37</span>
+			<span class='ocrx_word' id='word_1_50_5' title='bbox 661 1895 702 1916;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>792</span>
+			<span class='ocrx_word' id='word_1_50_6' title='bbox 711 1894 753 1915;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>07-1</span>
+		</span>
+		<span class='ocr_line' title="bbox 1189 1802 1405 1830; baseline -0.013699 -5; x_x_height 16; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_51_1' title='bbox 1189 1802 1274 1830;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Judge</span>
+			<span class='ocrx_word' id='word_1_51_2' title='bbox 1282 1802 1405 1823;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>SCHERER</span>
+		</span>
+		<span class='ocr_line' title="bbox 985 1852 1755 1881; baseline 0 -7; x_x_height 16; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_52_1' title='bbox 985 1854 1187 1881;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Warrant/Capias</span>
+			<span class='ocrx_word' id='word_1_52_2' title='bbox 1224 1852 1293 1874;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Level</span>
+			<span class='ocrx_word' id='word_1_52_3' title='bbox 1306 1852 1354 1874;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>M.C</span>
+			<span class='ocrx_word' id='word_1_52_4' title='bbox 1435 1852 1524 1879;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>B.Type</span>
+			<span class='ocrx_word' id='word_1_52_5' title='bbox 1573 1854 1642 1874;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Bond</span>
+			<span class='ocrx_word' id='word_1_52_6' title='bbox 1650 1853 1755 1874;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Amount</span>
+		</span>
+		<span class='ocr_line' title="bbox 1022 1895 1701 1917; baseline 0 0; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_53_1' title='bbox 1022 1895 1159 1917;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>150199AF10</span>
+			<span class='ocrx_word' id='word_1_53_2' title='bbox 1245 1896 1272 1917;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>2F</span>
+			<span class='ocrx_word' id='word_1_53_3' title='bbox 1329 1896 1345 1915;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Y</span>
+			<span class='ocrx_word' id='word_1_53_4' title='bbox 1434 1895 1509 1916;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BOND</span>
+			<span class='ocrx_word' id='word_1_53_5' title='bbox 1622 1896 1701 1917;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>150000</span>
+		</span>
+		<span class='ocr_line' title="bbox 136 535 402 559; baseline 0 -1; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_54_1' title='bbox 136 535 192 558;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>CIS#</span>
+			<span class='ocrx_word' id='word_1_54_2' title='bbox 251 535 402 559;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>501502515</span>
+		</span>
+		<span class='ocr_line' title="bbox 207 1896 218 1914; baseline 0 0; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_55_1' title='bbox 207 1896 218 1914;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>3</span>
+		</span>
+		<span class='ocr_line' title="bbox 122 1938 1039 1966; baseline -0.00404 -5; x_x_height 17; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_56_1' title='bbox 122 1938 229 1966;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Charges</span>
+			<span class='ocrx_word' id='word_1_56_2' title='bbox 249 1938 446 1959;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>MANSLAUGHTER</span>
+			<span class='ocrx_word' id='word_1_56_3' title='bbox 453 1939 464 1959;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>-</span>
+			<span class='ocrx_word' id='word_1_56_4' title='bbox 472 1938 559 1959;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>OTHER</span>
+			<span class='ocrx_word' id='word_1_56_5' title='bbox 567 1938 632 1959;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>THAN</span>
+			<span class='ocrx_word' id='word_1_56_6' title='bbox 641 1939 672 1959;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BY</span>
+			<span class='ocrx_word' id='word_1_56_7' title='bbox 680 1938 786 1959;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>VEHICLE</span>
+			<span class='ocrx_word' id='word_1_56_8' title='bbox 896 1941 1039 1965;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Comments</span>
+		</span>
+		<span class='ocr_line' title="bbox 118 1987 1433 2027; baseline 0 -20; x_asc_height 39">
+			<span class='ocrx_word' id='word_1_57_1' title='bbox 118 1987 225 2027;x_wconf 100;x_font SerifDefault;x_fsize 25' lang='eng' style='font-family:SerifDefault'>Booking</span>
+			<span class='ocrx_word' id='word_1_57_2' title='bbox 239 1987 275 2027;x_wconf 0;x_font SerifDefault;x_fsize 25' lang='eng' style='font-family:SerifDefault'>Off.</span>
+			<span class='ocrx_word' id='word_1_57_3' title='bbox 285 1988 310 2027;x_wconf 0;x_font SerifDefault;x_fsize 25' lang='eng' style='font-family:SerifDefault'>ID</span>
+			<span class='ocrx_word' id='word_1_57_4' title='bbox 321 1988 414 2027;x_wconf 0;x_font SerifDefault;x_fsize 25' lang='eng' style='font-family:SerifDefault'>bs12228</span>
+			<span class='ocrx_word' id='word_1_57_5' title='bbox 604 1988 698 2027;x_wconf 0;x_font SerifDefault;x_fsize 25' lang='eng' style='font-family:SerifDefault'>County</span>
+			<span class='ocrx_word' id='word_1_57_6' title='bbox 713 1987 851 2027;x_wconf 100;x_font SerifDefault;x_fsize 25' lang='eng' style='font-family:SerifDefault'>BROWARD</span>
+			<span class='ocrx_word' id='word_1_57_7' title='bbox 1193 1988 1272 2027;x_wconf 100;x_font SerifDefault;x_fsize 25' lang='eng' style='font-family:SerifDefault'>Judge</span>
+			<span class='ocrx_word' id='word_1_57_8' title='bbox 1287 1988 1402 2027;x_wconf 100;x_font SerifDefault;x_fsize 25' lang='eng' style='font-family:SerifDefault'>SCHERER</span>
+		</span>
+		<span class='ocr_line' title="bbox 122 2034 1754 2066; baseline 0.003202 -6; x_x_height 17; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_58_1' title='bbox 122 2035 215 2064;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Charge</span>
+			<span class='ocrx_word' id='word_1_58_2' title='bbox 223 2034 266 2060;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>No.</span>
+			<span class='ocrx_word' id='word_1_58_3' title='bbox 345 2037 438 2064;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Charge</span>
+			<span class='ocrx_word' id='word_1_58_4' title='bbox 446 2037 557 2060;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Initiation</span>
+			<span class='ocrx_word' id='word_1_58_5' title='bbox 570 2037 630 2059;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Date</span>
+			<span class='ocrx_word' id='word_1_58_6' title='bbox 762 2037 857 2059;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Statute</span>
+			<span class='ocrx_word' id='word_1_58_7' title='bbox 988 2039 1182 2066;x_wconf 0;x_font SansDefault;x_fsize 34' lang='eng' style='font-family:SansDefault'>Warrant/Capias</span>
+			<span class='ocrx_word' id='word_1_58_8' title='bbox 1223 2038 1293 2059;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Level</span>
+			<span class='ocrx_word' id='word_1_58_9' title='bbox 1305 2037 1352 2060;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>M.C</span>
+			<span class='ocrx_word' id='word_1_58_10' title='bbox 1433 2037 1524 2066;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>B.Type</span>
+			<span class='ocrx_word' id='word_1_58_11' title='bbox 1573 2038 1640 2059;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Bond</span>
+			<span class='ocrx_word' id='word_1_58_12' title='bbox 1648 2039 1754 2060;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Amount</span>
+		</span>
+		<span class='ocr_line' title="bbox 204 2080 1700 2104; baseline 0.003667 -5; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_59_1' title='bbox 204 2081 217 2099;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>4</span>
+			<span class='ocrx_word' id='word_1_59_2' title='bbox 383 2081 503 2104;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>05/28/2015</span>
+			<span class='ocrx_word' id='word_1_59_3' title='bbox 514 2081 537 2102;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>15</span>
+			<span class='ocrx_word' id='word_1_59_4' title='bbox 548 2081 571 2104;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>37</span>
+			<span class='ocrx_word' id='word_1_59_5' title='bbox 661 2081 701 2102;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>782</span>
+			<span class='ocrx_word' id='word_1_59_6' title='bbox 712 2080 752 2103;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>07-1</span>
+			<span class='ocrx_word' id='word_1_59_7' title='bbox 1022 2081 1158 2103;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>150199AF10</span>
+			<span class='ocrx_word' id='word_1_59_8' title='bbox 1242 2081 1272 2101;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>2F</span>
+			<span class='ocrx_word' id='word_1_59_9' title='bbox 1329 2081 1345 2101;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Y</span>
+			<span class='ocrx_word' id='word_1_59_10' title='bbox 1432 2081 1508 2101;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BOND</span>
+			<span class='ocrx_word' id='word_1_59_11' title='bbox 1622 2081 1700 2102;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>150000</span>
+		</span>
+		<span class='ocr_line' title="bbox 122 2124 783 2151; baseline -0.003738 -5; x_x_height 16; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_60_1' title='bbox 122 2124 229 2151;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Charges</span>
+			<span class='ocrx_word' id='word_1_60_2' title='bbox 249 2124 447 2146;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>MANSLAUGHTER</span>
+			<span class='ocrx_word' id='word_1_60_3' title='bbox 457 2135 465 2139;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>-</span>
+			<span class='ocrx_word' id='word_1_60_4' title='bbox 471 2124 559 2144;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>OTHER</span>
+			<span class='ocrx_word' id='word_1_60_5' title='bbox 565 2124 632 2146;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>THAN</span>
+			<span class='ocrx_word' id='word_1_60_6' title='bbox 641 2124 674 2144;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BY</span>
+			<span class='ocrx_word' id='word_1_60_7' title='bbox 680 2124 783 2147;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>VEHICLE</span>
+		</span>
+		<span class='ocr_line' title="bbox 895 2128 1038 2149; baseline 0.007752 -1; x_x_height 16; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_61_1' title='bbox 895 2128 1038 2149;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Comments</span>
+		</span>
+		<span class='ocr_line' title="bbox 118 2173 854 2213; baseline 0.017118 -18; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_62_1' title='bbox 118 2173 225 2201;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Booking</span>
+			<span class='ocrx_word' id='word_1_62_2' title='bbox 233 2173 277 2195;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Off.</span>
+			<span class='ocrx_word' id='word_1_62_3' title='bbox 286 2173 314 2196;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>ID</span>
+			<span class='ocrx_word' id='word_1_62_4' title='bbox 323 2173 411 2196;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>bs12228</span>
+			<span class='ocrx_word' id='word_1_62_5' title='bbox 603 2173 693 2213;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>County</span>
+			<span class='ocrx_word' id='word_1_62_6' title='bbox 713 2173 839 2207;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BROWARD</span>
+		</span>
+		<span class='ocr_line' title="bbox 122 2213 855 2249; baseline 0.004545 -7; x_x_height 16; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_63_1' title='bbox 122 2219 213 2249;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Charge</span>
+			<span class='ocrx_word' id='word_1_63_2' title='bbox 223 2220 262 2245;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>No.</span>
+			<span class='ocrx_word' id='word_1_63_3' title='bbox 342 2222 436 2249;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Charge</span>
+			<span class='ocrx_word' id='word_1_63_4' title='bbox 445 2213 556 2246;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Initiation</span>
+			<span class='ocrx_word' id='word_1_63_5' title='bbox 570 2222 628 2244;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Date</span>
+			<span class='ocrx_word' id='word_1_63_6' title='bbox 762 2222 855 2244;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Statute</span>
+		</span>
+		<span class='ocr_line' title="bbox 204 2266 754 2287; baseline 0 0; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_64_1' title='bbox 204 2266 215 2287;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>6</span>
+			<span class='ocrx_word' id='word_1_64_2' title='bbox 382 2266 503 2287;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>05/28/2015</span>
+			<span class='ocrx_word' id='word_1_64_3' title='bbox 513 2266 537 2287;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>15</span>
+			<span class='ocrx_word' id='word_1_64_4' title='bbox 544 2266 571 2287;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>37</span>
+			<span class='ocrx_word' id='word_1_64_5' title='bbox 661 2266 700 2287;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>782</span>
+			<span class='ocrx_word' id='word_1_64_6' title='bbox 708 2266 754 2287;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>07-1</span>
+		</span>
+		<span class='ocr_line' title="bbox 1189 2173 1403 2202; baseline 0.019231 -7; x_x_height 18; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_65_1' title='bbox 1189 2173 1272 2202;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Judge</span>
+			<span class='ocrx_word' id='word_1_65_2' title='bbox 1282 2173 1403 2193;x_wconf 0;x_font SansDefault' lang='eng' style='font-variant:small-caps;font-family:SansDefault'>SCHERER</span>
+		</span>
+		<span class='ocr_line' title="bbox 982 2220 1750 2251; baseline 0 -4; x_x_height 18; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_66_1' title='bbox 982 2224 1182 2251;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Warrant/Capias</span>
+			<span class='ocrx_word' id='word_1_66_2' title='bbox 1221 2222 1293 2244;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Level</span>
+			<span class='ocrx_word' id='word_1_66_3' title='bbox 1303 2222 1351 2247;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>M.C</span>
+			<span class='ocrx_word' id='word_1_66_4' title='bbox 1432 2222 1520 2251;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>B.Type</span>
+			<span class='ocrx_word' id='word_1_66_5' title='bbox 1571 2223 1640 2245;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Bond</span>
+			<span class='ocrx_word' id='word_1_66_6' title='bbox 1648 2220 1750 2247;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Amount</span>
+		</span>
+		<span class='ocr_line' title="bbox 1022 2266 1699 2289; baseline 0 -2; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_67_1' title='bbox 1022 2266 1157 2287;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>150199AF10</span>
+			<span class='ocrx_word' id='word_1_67_2' title='bbox 1242 2267 1270 2287;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>2F</span>
+			<span class='ocrx_word' id='word_1_67_3' title='bbox 1329 2266 1341 2287;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Y</span>
+			<span class='ocrx_word' id='word_1_67_4' title='bbox 1432 2266 1506 2287;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BOND</span>
+			<span class='ocrx_word' id='word_1_67_5' title='bbox 1621 2268 1699 2289;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>150000</span>
+		</span>
+		<span class='ocr_line' title="bbox 122 2309 785 2338; baseline -0.001546 -6; x_x_height 16; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_68_1' title='bbox 122 2311 227 2338;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Charges</span>
+			<span class='ocrx_word' id='word_1_68_2' title='bbox 248 2309 447 2333;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>MANSLAUGHTER</span>
+			<span class='ocrx_word' id='word_1_68_3' title='bbox 457 2322 464 2326;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>-</span>
+			<span class='ocrx_word' id='word_1_68_4' title='bbox 471 2311 557 2331;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>OTHER</span>
+			<span class='ocrx_word' id='word_1_68_5' title='bbox 563 2310 630 2331;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>THAN</span>
+			<span class='ocrx_word' id='word_1_68_6' title='bbox 640 2311 672 2331;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BY</span>
+			<span class='ocrx_word' id='word_1_68_7' title='bbox 679 2311 785 2331;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>VEHICLE</span>
+		</span>
+		<span class='ocr_line' title="bbox 893 2314 1036 2336; baseline 0.022989 -2; x_x_height 16; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_69_1' title='bbox 893 2314 1036 2336;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Comments</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2356 410 2387; baseline 0 -4; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_70_1' title='bbox 117 2360 220 2387;x_wconf 100;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>Booking</span>
+			<span class='ocrx_word' id='word_1_70_2' title='bbox 232 2356 276 2387;x_wconf 0;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>Off.</span>
+			<span class='ocrx_word' id='word_1_70_3' title='bbox 286 2360 312 2383;x_wconf 0;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>ID</span>
+			<span class='ocrx_word' id='word_1_70_4' title='bbox 321 2360 410 2383;x_wconf 100;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>bs12228</span>
+		</span>
+		<span class='ocr_line' title="bbox 600 2360 839 2390; baseline -0.009709 -8; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_71_1' title='bbox 600 2360 691 2390;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>County</span>
+			<span class='ocrx_word' id='word_1_71_2' title='bbox 710 2360 839 2380;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>BROWARD</span>
+		</span>
+		<span class='ocr_line' title="bbox 1186 2361 1403 2388; baseline -0.01227 -6; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_72_1' title='bbox 1186 2361 1270 2388;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Judge</span>
+			<span class='ocrx_word' id='word_1_72_2' title='bbox 1280 2361 1403 2381;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>SCHERER</span>
+		</span>
+		<span class='ocr_line' title="bbox 521 2578 1479 2615; baseline 0 -8; x_x_height 21; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_73_1' title='bbox 521 2578 1479 2615;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>https://www.industrydocuments.ucsf.edu/docs/nlnv0249</span>
+		</span>
+		<span class='ocr_line' title="bbox 1640 2586 1929 2610; baseline 0 0; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_74_1' title='bbox 1640 2587 1742 2610;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>MNKOI</span>
+			<span class='ocrx_word' id='word_1_74_2' title='bbox 1756 2586 1929 2610;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>0004563661</span>
+		</span>
+	</div>
+</body>
+</html>

@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title></title>
+	<meta name='font-metrics' content='{"SerifDefault":{"normal":{"width":{"40":0.5,"41":0.5,"44":0.277778,"45":0.388889,"46":0.277778,"48":0.9444439316240001,"49":0.777778205128,"50":0.9244441600000001,"51":0.88888917094,"52":0.9629631481480001,"53":0.88888917094,"54":0.9444439316240001,"55":0.88888917094,"56":0.88888917094,"57":0.9444439316240001,"59":0.277778,"65":1.5,"66":1.277778,"67":1.222222,"68":1.388889,"69":1.222222,"70":1.222222,"76":1.222222,"77":1.777778,"78":1.5,"79":1.411765,"80":1.222222,"82":1.388889,"83":1.055556,"84":1.222222,"87":1.888889,"97":0.944444,"98":1,"99":0.722222,"100":1.055556,"101":0.833333,"102":0.777778,"103":1,"104":1.111111,"105":0.555556,"107":1.111111,"108":0.555556,"109":1.611111,"110":1.111111,"111":0.833333,"112":1,"114":0.777778,"115":0.722222,"116":0.705882,"117":1.111111,"118":1,"119":1.5,"120":1,"121":1,"8211":1.166667,"8216":0.277778,"8217":0.277778,"8220":0.666667,"8221":0.666667},"height":{"40":1.833333,"41":1.833333,"44":0.555556,"45":0.166667,"46":0.222222,"48":1.444444,"49":1.333333034188,"50":1.444444,"51":1.444444,"52":1.3756610211640001,"53":1.444444,"54":1.50222176,"55":1.388887794872,"56":1.444444,"57":1.444444,"59":1.277778,"65":1.5,"66":1.444444,"67":1.5,"68":1.444444,"69":1.444444,"70":1.444444,"76":1.444444,"77":1.444444,"78":1.444444,"79":1.588235,"80":1.444444,"82":1.444444,"83":1.5,"84":1.444444,"87":1.5,"97":1,"98":1.444444,"99":1,"100":1.444444,"101":1,"102":1.5,"103":1.333333,"104":1.444444,"105":1.444444,"107":1.444444,"108":1.444444,"109":0.944444,"110":0.944444,"111":1,"112":1.333333,"114":0.944444,"115":1,"116":1.277778,"117":0.944444,"118":0.888889,"119":0.944444,"120":0.888889,"121":1.277778,"8211":0.111111,"8216":0.5,"8217":0.5,"8220":0.5,"8221":0.5},"kerning":{"79,112":0.214286,"112,105":0.142857,"105,110":0.111111,"110,105":0.111111,"105,111":0.111111,"111,110":0.111111,"111,102":0.111111,"116,104":0.111111,"104,101":0.117647,"67,111":0.166667,"111,117":0.142857,"117,114":0.111111,"114,116":0.111111,"70,105":0.055556,"105,107":0.111111,"107,114":0.055556,"114,101":0.166667,"104,97":0.166667,"97,116":0.111111,"105,116":0.111111,"97,100":0.166667,"101,109":0.166667,"109,111":0.166667,"111,118":0.111111,"118,101":0.117647,"101,100":0.166667,"104,105":0.111111,"105,109":0.111111,"102,114":-0.111111,"114,111":0.111111,"111,109":0.166667,"78,111":0.111111,"70,108":0.111111,"108,121":0.055556,"76,105":0.055556,"105,115":0.111111,"115,116":0.111111,"116,46":0.222222,"101,120":0.111111,"120,112":0.111111,"112,108":0.111111,"108,97":0.166667,"97,110":0.166667,"110,97":0.166667,"116,105":0.055556,"97,99":0.166667,"99,99":0.166667,"99,111":0.166667,"109,112":0.166667,"112,97":0.222222,"105,101":0.111111,"100,101":0.111111,"101,99":0.166667,"99,105":0.111111,"115,105":0.111111,"110,46":0.176471,"83,101":0.166667,"101,101":0.166667,"111,116":0.111111,"105,99":0.055556,"99,101":0.166667,"82,101":0.111111,"101,103":0.166667,"103,97":0.111111,"97,114":0.111111,"114,100":0.166667,"100,45":0.166667,"110,103":0.166667,"80,108":0.111111,"97,105":0.111111,"110,116":0.111111,"105,102":0.111111,"102,102":-0.055556,"102,8217":0.333333,"8217,115":0.166667,"83,116":0.111111,"116,97":0.166667,"116,117":0.111111,"117,115":0.166667,"111,46":0.222222,"40,68":0.111111,"79,114":0.111111,"101,46":0.222222,"46,41":0.166667,"41,44":0.277778,"69,67":0.222222,"67,70":0.166667,"68,111":0.222222,"111,99":0.166667,"99,46":0.222222,"57,56":0.24074114814800002,"56,44":0.24074114814800002,"112,46":0.222222,"49,46":0.300925351852,"66,117":0.111111,"117,116":0.111111,"116,44":0.166667,"103,111":0.055556,"101,114":0.111111,"114,110":0.111111,"110,109":0.166667,"109,101":0.166667,"101,110":0.111111,"114,103":0.166667,"103,117":0.111111,"117,101":0.166667,"116,115":0.166667,"109,105":0.111111,"116,114":0.111111,"114,97":0.166667,"105,118":0.111111,"99,116":0.111111,"110,100":0.166667,"97,119":0.111111,"119,115":0.111111,"115,117":0.166667,"117,105":0.111111,"111,111":0.166667,"116,59":0.166667,"101,118":0.111111,"101,112":0.111111,"112,116":0.111111,"116,45":0.166667,"97,108":0.111111,"108,108":0.111111,"108,101":0.111111,"110,115":0.166667,"97,115":0.166667,"114,117":0.111111,"101,44":0.176471,"115,97":0.166667,"105,100":0.111111,"100,44":0.166667,"116,111":0.111111,"102,111":-0.055556,"111,108":0.111111,"108,111":0.111111,"111,119":0.111111,"109,97":0.166667,"116,116":0.111111,"116,101":0.166667,"119,46":0.166667,"83,117":0.166667,"117,112":0.111111,"112,112":0.166667,"77,101":0.166667,"111,114":0.111111,"100,117":0.111111,"117,109":0.166667,"100,105":0.055556,"118,97":0.166667,"70,114":0.055556,"49,48":0.22222193162400003,"48,52":0.17333328,"52,44":0.23111104000000002,"84,104":0.111111,"114,105":0.111111,"97,103":0.166667,"103,114":0.055556,"119,105":0.111111,"116,8217":0.111111,"115,115":0.166667,"115,101":0.166667,"101,115":0.166667,"115,45":0.222222,"98,117":0.176471,"78,105":0.111111,"67,105":0.111111,"105,114":0.058824,"114,99":0.111111,"99,117":0.166667,"114,115":0.166667,"100,46":0.166667,"57,48":0.16666717094,"48,51":0.22222193162400003,"51,51":0.22222193162400003,"40,50":0.111111,"50,48":0.22222193162400003,"48,49":0.277778136752,"49,56":0.277778136752,"56,41":0.11111096581200001,"41,46":0.277778,"87,104":0.111111,"116,121":0.055556,"101,107":0.111111,"107,115":0.166667,"99,97":0.166667,"98,97":0.166667,"119,110":0.111111,"118,111":0.111111,"108,117":0.055556,"117,110":0.166667,"114,121":0.111111,"99,104":0.111111,"103,101":0.111111,"117,99":0.111111,"101,108":0.111111,"108,100":0.111111,"109,117":0.111111,"115,104":0.111111,"104,111":0.111111,"8220,8216":0.388889,"8216,97":0.166667,"100,108":0.055556,"119,114":0.055556,"103,102":0.055556,"102,117":-0.055556,"117,108":0.111111,"98,101":0.166667,"101,104":0.111111,"97,118":0.111111,"118,45":0.111111,"114,8217":0.111111,"8217,8221":0.333333,"110,110":0.111111,"110,111":0.111111,"8216,114":0.111111,"101,97":0.166667,"115,111":0.166667,"97,98":0.111111,"98,108":0.111111,"112,101":0.166667,"51,57":0.22222193162400003,"57,46":0.22222193162400003,"65,110":0.055556,"110,117":0.111111,"8220,109":0.111111,"110,99":0.111111,"119,97":0.111111,"100,8221":0.055556,"102,101":-0.055556,"115,102":0.111111,"102,121":-0.055556,"121,105":0.055556,"100,97":0.111111,"79,110":0.176471,"77,114":0.111111,"114,46":0.222222,"101,8217":0.166667,"110,45":0.166667,"115,46":0.277778,"112,111":0.166667,"68,101":0.222222,"101,45":0.222222,"115,8217":0.166667,"77,111":0.166667,"84,111":0.111111,"68,105":0.166667,"115,109":0.166667,"49,52":0.23111104000000002,"52,54":0.23111104000000002,"54,44":0.23111104000000002,"50,49":0.34666656,"49,8211":0.11555552000000001,"8211,50":0.055556,"50,51":0.2888888,"51,46":0.23111104000000002,"108,105":0.111111,"99,108":0.111111,"67,104":0.111111,"104,114":0.111111,"111,112":0.111111,"112,104":0.111111,"82,46":0.166667,"105,103":0.166667,"103,104":0.055556,"104,116":0.111111,"65,99":0.055556,"112,117":0.166667,"84,101":0.111111,"114,114":0.111111,"83,99":0.166667,"99,114":0.111111,"67,101":0.222222,"112,114":0.111111,"8220,119":0.111111,"105,108":0.055556,"116,108":0.111111,"110,102":0.111111,"114,109":0.111111,"46,8221":0.166667,"65,112":0.055556,"80,101":0.166667,"101,116":0.111111,"49,49":0.33333289743600003,"56,97":0.16666717094,"97,44":0.222222,"117,97":0.166667,"98,121":0.111111,"110,44":0.166667,"109,115":0.166667,"51,53":0.22222193162400003,"70,46":0.222222,"52,116":0.11111096581200001,"104,44":0.166667,"55,54":0.16666717094,"54,57":0.16666717094,"65,103":0.055556,"119,101":0.111111,"114,44":0.166667,"119,104":0.055556,"55,55":0.22222193162400003,"55,50":0.16666717094,"50,46":0.277778136752,"110,101":0.111111,"99,45":0.222222,"100,111":0.055556,"111,101":0.166667,"115,99":0.111111,"111,115":0.166667},"kerning2":{"79,112":0.21428599999999998,"112,105":0.15872999999999993,"105,110":0.11111099999999996,"110,105":0.11111099999999996,"105,111":0.166667,"111,110":0.11111099999999996,"111,102":0.11111100000000007,"116,104":0.11111099999999996,"104,101":0.166667,"67,111":0.23809599999999997,"111,117":0.11111099999999996,"117,114":0.15079300000000007,"114,116":0.07189599999999996,"70,105":0.05555499999999991,"105,107":0.11111099999999996,"107,114":0.05555500000000002,"114,101":0.166667,"104,97":0.166667,"97,116":0.07189599999999996,"105,116":0.07189599999999996,"97,100":0.11111099999999996,"101,109":0.16666700000000012,"109,111":0.166667,"111,118":0.11111099999999996,"118,101":0.166667,"101,100":0.16666599999999998,"104,105":0.11111099999999996,"105,109":0.11111099999999996,"102,114":-0.05555599999999994,"114,111":0.11111099999999996,"111,109":0.16666700000000012,"78,111":0.11111099999999996,"70,108":0.11111099999999996,"108,121":0.05555599999999994,"76,105":0.05555499999999991,"105,115":0.166667,"115,116":0.12745099999999998,"116,46":0.16666599999999998,"101,120":0.11111099999999996,"120,112":0.11111099999999996,"112,108":0.11111099999999996,"108,97":0.166667,"97,110":0.16666700000000012,"110,97":0.166667,"116,105":0.05555499999999991,"97,99":0.166667,"99,99":0.166667,"99,111":0.166667,"109,112":0.11111099999999996,"112,97":0.22222299999999995,"105,101":0.11111099999999996,"100,101":0.11111099999999996,"101,99":0.166667,"99,105":0.11111099999999996,"115,105":0.11111099999999996,"110,46":0.16666599999999998,"83,101":0.166667,"101,101":0.166667,"111,116":0.07189599999999996,"105,99":0.11111099999999996,"99,101":0.166667,"82,101":0.11111099999999996,"101,103":0.1666669999999999,"103,97":0.11111199999999999,"97,114":0.11111100000000007,"114,100":0.11111099999999996,"100,45":0.16666700000000007,"110,103":0.11111099999999996,"80,108":0.11111099999999996,"97,105":0.11111099999999996,"110,116":0.07189599999999996,"105,102":0.05555500000000002,"102,102":-0.11111099999999996,"102,8217":0.33333299999999993,"8217,115":0.166667,"83,116":0.07189599999999996,"116,97":0.166667,"116,117":0.11111099999999996,"117,115":0.166667,"111,46":0.16666599999999998,"40,68":0.05555500000000002,"79,114":0.16666599999999998,"101,46":0.22222199999999998,"46,41":0.166667,"41,44":0.277778,"69,67":0.22222200000000014,"67,70":0.16666700000000012,"68,111":0.22222299999999995,"111,99":0.166667,"99,46":0.22222199999999998,"57,56":0.3148136809120001,"56,44":0.2638885,"112,46":0.22222199999999998,"49,46":0.324074148148,"66,117":0.11111099999999996,"117,116":0.12745099999999998,"116,44":0.16666599999999998,"103,111":0.11111099999999996,"101,114":0.11111100000000007,"114,110":0.11111099999999996,"110,109":0.16666700000000012,"109,101":0.166667,"101,110":0.11111099999999996,"114,103":0.11111099999999996,"103,117":0.05555599999999994,"117,101":0.166667,"116,115":0.166667,"109,105":0.11111099999999996,"116,114":0.11111100000000007,"114,97":0.166667,"105,118":0.11111099999999996,"99,116":0.12745099999999998,"110,100":0.11111099999999996,"97,119":0.11111099999999996,"119,115":0.166667,"115,117":0.11111099999999996,"117,105":0.11111099999999996,"111,111":0.166667,"116,59":0.16666599999999998,"101,118":0.11111099999999996,"101,112":0.11111099999999996,"112,116":0.12745099999999998,"116,45":0.16666700000000007,"97,108":0.11111099999999996,"108,108":0.11111099999999996,"108,101":0.11111099999999996,"110,115":0.166667,"97,115":0.166667,"114,117":0.11111099999999996,"101,44":0.19280999999999998,"115,97":0.166667,"105,100":0.11111099999999996,"100,44":0.16666599999999998,"116,111":0.166667,"102,111":-0.05555500000000002,"111,108":0.11111099999999996,"108,111":0.11111099999999996,"111,119":0.11111099999999996,"109,97":0.166667,"116,116":0.07189599999999996,"116,101":0.166667,"119,46":0.16666599999999998,"83,117":0.16666700000000012,"117,112":0.11111099999999996,"112,112":0.1666669999999999,"77,101":0.166667,"111,114":0.16339800000000004,"100,117":0.05555599999999994,"117,109":0.16666700000000012,"100,105":0.05555499999999991,"118,97":0.166667,"70,114":0.11111100000000007,"49,48":0.22222193162399995,"48,52":0.1925920518519999,"52,44":0.24222183999999997,"84,104":0.11111099999999996,"114,105":0.11111099999999996,"97,103":0.1666669999999999,"103,114":0.11111100000000007,"119,105":0.11111099999999996,"116,8217":0.11111099999999996,"115,115":0.22222199999999992,"115,101":0.166667,"101,115":0.166667,"115,45":0.22222199999999998,"98,117":0.18300700000000014,"78,105":0.11111099999999996,"67,105":0.11111099999999996,"105,114":0.11111100000000007,"114,99":0.16013100000000002,"99,117":0.11111099999999996,"114,115":0.166667,"100,46":0.16666599999999998,"57,48":0.16666717094000005,"48,51":0.22222193162400017,"51,51":0.22222193162400017,"40,50":0.07555583999999993,"50,48":0.22222193162399995,"48,49":0.27777669230800006,"49,56":0.27777669230800006,"56,41":0.11111103418799995,"41,46":0.277778,"87,104":0.11111099999999996,"116,121":0.05555599999999994,"101,107":0.11111099999999996,"107,115":0.166667,"99,97":0.166667,"98,97":0.166667,"119,110":0.11111099999999996,"118,111":0.166667,"108,117":0.05555599999999994,"117,110":0.16666700000000012,"114,121":0.11111099999999996,"99,104":0.16666700000000012,"103,101":0.11111099999999996,"117,99":0.166667,"101,108":0.11111099999999996,"108,100":0.11111099999999996,"109,117":0.11111099999999996,"115,104":0.16666700000000012,"104,111":0.11111099999999996,"8220,8216":0.388889,"8216,97":0.166667,"100,108":0.05555499999999991,"119,114":0.11111100000000007,"103,102":0.05555500000000002,"102,117":-0.11111099999999996,"117,108":0.11111099999999996,"98,101":0.166667,"101,104":0.11111099999999996,"97,118":0.11111099999999996,"118,45":0.16666700000000007,"114,8217":0.11111099999999996,"8217,8221":0.333333,"110,110":0.11111099999999996,"110,111":0.11111099999999996,"8216,114":0.11111100000000007,"101,97":0.166667,"115,111":0.166667,"97,98":0.11111099999999996,"98,108":0.11111099999999996,"112,101":0.166667,"51,57":0.16666717094000005,"57,46":0.22222206837600006,"65,110":0.05555599999999994,"110,117":0.05555599999999994,"8220,109":0.11111099999999996,"110,99":0.166667,"119,97":0.11111199999999999,"100,8221":0.05555500000000002,"102,101":-0.05555500000000002,"115,102":0.05555500000000002,"102,121":-0.05555600000000005,"121,105":0.05555499999999991,"100,97":0.11111199999999999,"79,110":0.24183,"77,114":0.11111100000000007,"114,46":0.16666599999999998,"101,8217":0.16666599999999998,"110,45":0.16666700000000007,"115,46":0.22222199999999998,"112,111":0.22222299999999995,"68,101":0.22222299999999995,"101,45":0.22222199999999998,"115,8217":0.16666599999999998,"77,111":0.166667,"84,111":0.11111099999999996,"68,105":0.16666599999999998,"115,109":0.16666700000000012,"49,52":0.2503698118519999,"52,54":0.21111126837599992,"54,44":0.24222183999999997,"50,49":0.377776994872,"49,8211":0.16222148000000014,"8211,50":0.01999983999999988,"50,51":0.32444378906000004,"51,46":0.24222183999999997,"108,105":0.11111099999999996,"99,108":0.11111099999999996,"67,104":0.11111099999999996,"104,114":0.11111100000000007,"111,112":0.11111099999999996,"112,104":0.16666700000000012,"82,46":0.16666599999999998,"105,103":0.11111099999999996,"103,104":0.05555599999999994,"104,116":0.12745099999999998,"65,99":0.05555599999999994,"112,117":0.11111099999999996,"84,101":0.11111099999999996,"114,114":0.11111100000000007,"83,99":0.166667,"99,114":0.11111100000000007,"67,101":0.22222299999999995,"112,114":0.16666599999999998,"8220,119":0.05555599999999994,"105,108":0.05555499999999991,"116,108":0.11111099999999996,"110,102":0.05555500000000002,"114,109":0.11111099999999996,"46,8221":0.16666599999999998,"65,112":0,"80,101":0.166667,"101,116":0.12745099999999998,"49,49":0.33333289743600014,"56,97":0.1666671025640002,"97,44":0.22222199999999998,"117,97":0.166667,"98,121":0.11111099999999996,"110,44":0.16666599999999998,"109,115":0.166667,"51,53":0.22222193162400017,"70,46":0.16666599999999998,"52,116":0.07189620512799999,"104,44":0.16666599999999998,"55,54":0.16666717094000005,"54,57":0.16666717094000005,"65,103":0.05555599999999994,"119,101":0.11111099999999996,"114,44":0.16666599999999998,"119,104":0.11111099999999996,"55,55":0.22222193162400017,"55,50":0.131110737436,"50,46":0.27777682905999995,"110,101":0.11111099999999996,"99,45":0.22222199999999998,"100,111":0.11111099999999996,"111,101":0.166667,"115,99":0.166667,"111,115":0.22222199999999992},"variants":{},"heightCaps":1.444444,"obs":1603,"obsCaps":95},"italic":{"width":{"44":0.277778,"46":0.277778,"73":1,"98":0.888889,"100":1.111111,"105":0.444444},"height":{"44":0.555556,"46":0.277778,"73":1.444444,"98":1.5,"100":1.5,"105":1.444444},"kerning":{"73,100":-0.111111,"100,46":0.111111,"46,44":0.333333,"73,98":-0.055556,"98,105":0.277778,"105,100":0.166667},"kerning2":{"73,100":-0.11111099999999996,"100,46":0.11111099999999996,"46,44":0.33333299999999993,"73,98":-0.05555600000000005,"98,105":0.277778,"105,100":0.16666700000000012},"variants":{},"heightCaps":1.444444,"obs":13,"obsCaps":3},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":1616},"Default":{"normal":{"width":{"80":1.222222,"97":0.944444,"102":0.722222,"105":0.555556,"108":0.555556,"110":1.111111,"115":0.722222,"116":0.666667,"8217":0.277778},"height":{"80":1.444444,"97":1,"102":1.5,"105":1.444444,"108":1.444444,"110":0.944444,"115":1,"116":1.277778,"8217":0.5},"kerning":{"80,108":0.111111,"108,97":0.111111,"97,105":0.111111,"105,110":0.111111,"110,116":0.111111,"116,105":0.111111,"105,102":0.055556,"102,102":-0.055556,"102,8217":0.333333,"8217,115":0.166667},"kerning2":{"80,108":0.11111099999999996,"108,97":0.11111199999999999,"97,105":0.11111099999999996,"105,110":0.11111099999999996,"110,116":0.11111099999999996,"116,105":0.11111099999999996,"105,102":0.05555599999999994,"102,102":-0.05555500000000002,"102,8217":0.33333299999999993,"8217,115":0.166667},"variants":{},"heightCaps":1.444444,"obs":11,"obsCaps":1},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":11}}'></meta>
+	<meta name='default-font' content='SerifDefault'></meta>
+	<meta name='sans-font' content='NimbusSans'></meta>
+	<meta name='serif-font' content='Century'></meta>
+	<meta name='enable-opt' content='undefined'></meta>
+	<meta name='layout' content='[{"default":true,"boxes":{}}]'></meta>
+	<meta name='layout-data-table' content='[{"default":true,"tables":[]}]'></meta>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<meta name='ocr-system' content='scribeocr' />
+	<meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf ocrp_lang ocrp_dir ocrp_font ocrp_fsize'/>
+</head>
+<body>
+	<div class='ocr_page' title='bbox 0 0 2000 2589'>
+		<span class='ocr_line' title="bbox 512 380 1093 401; baseline 0 0; x_x_height 14.25; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_0' title='bbox 512 381 526 401;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>4</span>
+			<span class='ocrx_word' id='word_1_1' title='bbox 907 380 957 401;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-variant:small-caps;font-family:Times_New_Roman'>FBI</span>
+			<span class='ocrx_word' id='word_1_2' title='bbox 969 387 987 401;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>v.</span>
+			<span class='ocrx_word' id='word_1_3' title='bbox 999 380 1093 401;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-variant:small-caps;font-family:Times_New_Roman'>FIKRE</span>
+		</span>
+		<span class='ocr_line' title="bbox 861 456 1140 484; baseline 0 -6; x_x_height 14; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_4' title='bbox 861 456 968 484;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Opinion</span>
+			<span class='ocrx_word' id='word_1_5' title='bbox 978 456 1003 478;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_6' title='bbox 1010 457 1053 478;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_7' title='bbox 1064 456 1140 479;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Court</span>
+		</span>
+		<span class='ocr_line' title="bbox 512 519 1488 553; baseline 0 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_8' title='bbox 512 520 600 547;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Fikre</span>
+			<span class='ocrx_word' id='word_1_9' title='bbox 616 520 684 547;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>that</span>
+			<span class='ocrx_word' id='word_1_10' title='bbox 700 520 724 546;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>it</span>
+			<span class='ocrx_word' id='word_1_11' title='bbox 739 520 800 547;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>had</span>
+			<span class='ocrx_word' id='word_1_12' title='bbox 815 520 956 547;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>removed</span>
+			<span class='ocrx_word' id='word_1_13' title='bbox 971 520 1034 546;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>him</span>
+			<span class='ocrx_word' id='word_1_14' title='bbox 1050 519 1126 547;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>from</span>
+			<span class='ocrx_word' id='word_1_15' title='bbox 1142 520 1194 547;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_16' title='bbox 1210 520 1255 547;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>No</span>
+			<span class='ocrx_word' id='word_1_17' title='bbox 1272 520 1324 553;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Fly</span>
+			<span class='ocrx_word' id='word_1_18' title='bbox 1340 520 1412 547;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>List.</span>
+			<span class='ocrx_word' id='word_1_19' title='bbox 1444 520 1488 547;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>No</span>
+		</span>
+		<span class='ocr_line' title="bbox 512 563 1487 596; baseline -0.001026 -6; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_20' title='bbox 512 563 706 596;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>explanation</span>
+			<span class='ocrx_word' id='word_1_21' title='bbox 719 563 932 596;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>accompanied</span>
+			<span class='ocrx_word' id='word_1_22' title='bbox 943 563 995 590;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_23' title='bbox 1009 563 1148 590;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>decision.</span>
+			<span class='ocrx_word' id='word_1_24' title='bbox 1174 563 1229 590;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>See</span>
+			<span class='ocrx_word' id='word_1_25' title='bbox 1242 563 1346 590;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Notice</span>
+			<span class='ocrx_word' id='word_1_26' title='bbox 1358 563 1487 596;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Regard-</span>
+		</span>
+		<span class='ocr_line' title="bbox 511 605 1487 639; baseline 0.001025 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_27' title='bbox 511 606 563 639;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>ing</span>
+			<span class='ocrx_word' id='word_1_28' title='bbox 572 605 738 633;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>Plaintiff’s</span>
+			<span class='ocrx_word' id='word_1_29' title='bbox 750 606 855 633;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>Status</span>
+			<span class='ocrx_word' id='word_1_30' title='bbox 865 606 897 632;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>in</span>
+			<span class='ocrx_word' id='word_1_31' title='bbox 907 606 960 633;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>No.</span>
+			<span class='ocrx_word' id='word_1_32' title='bbox 973 607 1175 633;x_wconf 0;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>3:13–cv--899</span>
+			<span class='ocrx_word' id='word_1_33' title='bbox 1186 606 1222 639;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>(D</span>
+			<span class='ocrx_word' id='word_1_34' title='bbox 1234 606 1323 639;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>Ore.),</span>
+			<span class='ocrx_word' id='word_1_35' title='bbox 1336 606 1409 633;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>ECF</span>
+			<span class='ocrx_word' id='word_1_36' title='bbox 1419 606 1487 633;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>Doc.</span>
+		</span>
+		<span class='ocr_line' title="bbox 513 649 1487 682; baseline 0 -7; x_x_height 18; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_37' title='bbox 513 650 558 681;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>98,</span>
+			<span class='ocrx_word' id='word_1_38' title='bbox 573 658 600 682;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>p.</span>
+			<span class='ocrx_word' id='word_1_39' title='bbox 616 651 640 675;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>1.</span>
+			<span class='ocrx_word' id='word_1_40' title='bbox 667 649 734 681;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>But,</span>
+			<span class='ocrx_word' id='word_1_41' title='bbox 749 649 781 675;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>in</span>
+			<span class='ocrx_word' id='word_1_42' title='bbox 794 652 886 681;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>court,</span>
+			<span class='ocrx_word' id='word_1_43' title='bbox 901 649 953 676;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_44' title='bbox 967 652 1163 682;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>government</span>
+			<span class='ocrx_word' id='word_1_45' title='bbox 1177 649 1291 682;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>argued</span>
+			<span class='ocrx_word' id='word_1_46' title='bbox 1303 649 1371 676;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>that</span>
+			<span class='ocrx_word' id='word_1_47' title='bbox 1384 649 1424 676;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>its</span>
+			<span class='ocrx_word' id='word_1_48' title='bbox 1439 649 1487 676;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>ad-</span>
+		</span>
+		<span class='ocr_line' title="bbox 512 693 1487 726; baseline 0.001026 -7; x_x_height 18; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_49' title='bbox 512 693 715 720;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>ministrative</span>
+			<span class='ocrx_word' id='word_1_50' title='bbox 727 693 826 720;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>action</span>
+			<span class='ocrx_word' id='word_1_51' title='bbox 837 693 985 720;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>rendered</span>
+			<span class='ocrx_word' id='word_1_52' title='bbox 995 693 1043 720;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>his</span>
+			<span class='ocrx_word' id='word_1_53' title='bbox 1054 693 1176 720;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>lawsuit</span>
+			<span class='ocrx_word' id='word_1_54' title='bbox 1187 696 1275 725;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>moot;</span>
+			<span class='ocrx_word' id='word_1_55' title='bbox 1288 702 1363 720;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>even</span>
+			<span class='ocrx_word' id='word_1_56' title='bbox 1375 696 1487 726;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>accept-</span>
+		</span>
+		<span class='ocr_line' title="bbox 511 736 1487 769; baseline 0 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_57' title='bbox 511 736 563 769;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>ing</span>
+			<span class='ocrx_word' id='word_1_58' title='bbox 574 736 615 763;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>all</span>
+			<span class='ocrx_word' id='word_1_59' title='bbox 625 736 673 763;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>his</span>
+			<span class='ocrx_word' id='word_1_60' title='bbox 686 736 864 769;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>allegations</span>
+			<span class='ocrx_word' id='word_1_61' title='bbox 877 745 910 763;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>as</span>
+			<span class='ocrx_word' id='word_1_62' title='bbox 922 739 998 768;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>true,</span>
+			<span class='ocrx_word' id='word_1_63' title='bbox 1011 736 1063 763;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_64' title='bbox 1075 739 1271 769;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>government</span>
+			<span class='ocrx_word' id='word_1_65' title='bbox 1283 736 1357 768;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>said,</span>
+			<span class='ocrx_word' id='word_1_66' title='bbox 1371 736 1487 763;x_wconf 0;x_font Georgia' lang='eng' style='font-family:Georgia'>dismis-</span>
+		</span>
+		<span class='ocr_line' title="bbox 512 778 1488 812; baseline -0.001025 -6; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_67' title='bbox 512 779 558 806;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>sal</span>
+			<span class='ocrx_word' id='word_1_68' title='bbox 572 779 633 806;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>had</span>
+			<span class='ocrx_word' id='word_1_69' title='bbox 647 782 677 806;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>to</span>
+			<span class='ocrx_word' id='word_1_70' title='bbox 691 778 789 806;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>follow</span>
+			<span class='ocrx_word' id='word_1_71' title='bbox 804 788 837 806;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>as</span>
+			<span class='ocrx_word' id='word_1_72' title='bbox 853 788 870 806;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>a</span>
+			<span class='ocrx_word' id='word_1_73' title='bbox 885 782 996 806;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>matter</span>
+			<span class='ocrx_word' id='word_1_74' title='bbox 1011 778 1042 806;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>of</span>
+			<span class='ocrx_word' id='word_1_75' title='bbox 1053 779 1119 806;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>law.</span>
+			<span class='ocrx_word' id='word_1_76' title='bbox 1149 779 1240 812;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Supp.</span>
+			<span class='ocrx_word' id='word_1_77' title='bbox 1256 779 1488 806;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Memorandum</span>
+		</span>
+		<span class='ocr_line' title="bbox 511 821 1489 855; baseline 0 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_78' title='bbox 511 822 683 855;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Regarding</span>
+			<span class='ocrx_word' id='word_1_79' title='bbox 696 821 862 849;x_wconf 100' lang='eng'>Plaintiff’s</span>
+			<span class='ocrx_word' id='word_1_80' title='bbox 876 822 1019 849;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Removal</span>
+			<span class='ocrx_word' id='word_1_81' title='bbox 1034 822 1120 849;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>From</span>
+			<span class='ocrx_word' id='word_1_82' title='bbox 1134 822 1186 849;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_83' title='bbox 1201 822 1245 849;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>No</span>
+			<span class='ocrx_word' id='word_1_84' title='bbox 1261 822 1313 855;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Fly</span>
+			<span class='ocrx_word' id='word_1_85' title='bbox 1327 822 1399 854;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>List,</span>
+			<span class='ocrx_word' id='word_1_86' title='bbox 1416 822 1489 849;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>ECF</span>
+		</span>
+		<span class='ocr_line' title="bbox 512 866 801 899; baseline -0.00346 -6; x_x_height 18; x_asc_height 25">
+			<span class='ocrx_word' id='word_1_87' title='bbox 512 866 580 893;x_wconf 100;x_font Courier_New' lang='eng' style='font-family:Courier_New'>Doc.</span>
+			<span class='ocrx_word' id='word_1_88' title='bbox 596 867 660 898;x_wconf 100;x_font Courier_New' lang='eng' style='font-family:Courier_New'>104,</span>
+			<span class='ocrx_word' id='word_1_89' title='bbox 674 875 721 899;x_wconf 100;x_font Courier_New' lang='eng' style='font-family:Courier_New'>pp.</span>
+			<span class='ocrx_word' id='word_1_90' title='bbox 736 867 801 892;x_wconf 0;x_font Courier_New' lang='eng' style='font-family:Courier_New'>2–4.</span>
+		</span>
+		<span class='ocr_line' title="bbox 548 909 1487 942; baseline 0.001065 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_91' title='bbox 548 909 609 936;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>The</span>
+			<span class='ocrx_word' id='word_1_92' title='bbox 625 909 743 936;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>district</span>
+			<span class='ocrx_word' id='word_1_93' title='bbox 758 912 842 936;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>court</span>
+			<span class='ocrx_word' id='word_1_94' title='bbox 858 909 967 942;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>agreed</span>
+			<span class='ocrx_word' id='word_1_95' title='bbox 982 909 1056 935;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>with</span>
+			<span class='ocrx_word' id='word_1_96' title='bbox 1070 909 1122 936;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>the</span>
+			<span class='ocrx_word' id='word_1_97' title='bbox 1139 909 1358 942;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>government’s</span>
+			<span class='ocrx_word' id='word_1_98' title='bbox 1375 918 1487 936;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>assess-</span>
+		</span>
+		<span class='ocr_line' title="bbox 512 952 1488 984; baseline 0.001025 -6; x_x_height 17; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_99' title='bbox 512 955 604 984;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>ment,</span>
+			<span class='ocrx_word' id='word_1_100' title='bbox 627 952 682 978;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>but</span>
+			<span class='ocrx_word' id='word_1_101' title='bbox 703 952 755 979;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>the</span>
+			<span class='ocrx_word' id='word_1_102' title='bbox 778 952 874 978;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>Ninth</span>
+			<span class='ocrx_word' id='word_1_103' title='bbox 898 952 1011 979;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>Circuit</span>
+			<span class='ocrx_word' id='word_1_104' title='bbox 1033 952 1182 979;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>reversed.</span>
+			<span class='ocrx_word' id='word_1_105' title='bbox 1227 953 1284 979;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>904</span>
+			<span class='ocrx_word' id='word_1_106' title='bbox 1307 952 1336 978;x_wconf 0;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>F.</span>
+			<span class='ocrx_word' id='word_1_107' title='bbox 1351 952 1389 979;x_wconf 0;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>3d</span>
+			<span class='ocrx_word' id='word_1_108' title='bbox 1413 953 1488 979;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>1033</span>
+		</span>
+		<span class='ocr_line' title="bbox 513 995 1489 1028; baseline 0 -6; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_109' title='bbox 513 995 622 1028;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>(2018).</span>
+			<span class='ocrx_word' id='word_1_110' title='bbox 643 995 739 1022;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>When</span>
+			<span class='ocrx_word' id='word_1_111' title='bbox 751 1004 768 1022;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>a</span>
+			<span class='ocrx_word' id='word_1_112' title='bbox 779 998 867 1028;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>party</span>
+			<span class='ocrx_word' id='word_1_113' title='bbox 878 995 966 1022;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>seeks</span>
+			<span class='ocrx_word' id='word_1_114' title='bbox 977 998 1007 1022;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>to</span>
+			<span class='ocrx_word' id='word_1_115' title='bbox 1019 998 1099 1022;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>moot</span>
+			<span class='ocrx_word' id='word_1_116' title='bbox 1110 1004 1127 1022;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>a</span>
+			<span class='ocrx_word' id='word_1_117' title='bbox 1139 1004 1207 1022;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>case</span>
+			<span class='ocrx_word' id='word_1_118' title='bbox 1217 995 1312 1022;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>based</span>
+			<span class='ocrx_word' id='word_1_119' title='bbox 1323 1004 1361 1022;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>on</span>
+			<span class='ocrx_word' id='word_1_120' title='bbox 1371 995 1411 1022;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>its</span>
+			<span class='ocrx_word' id='word_1_121' title='bbox 1423 1004 1489 1022;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>own</span>
+		</span>
+		<span class='ocr_line' title="bbox 511 1038 1487 1072; baseline -0.001025 -6; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_122' title='bbox 511 1039 672 1072;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>voluntary</span>
+			<span class='ocrx_word' id='word_1_123' title='bbox 688 1039 838 1066;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>cessation</span>
+			<span class='ocrx_word' id='word_1_124' title='bbox 855 1038 886 1066;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>of</span>
+			<span class='ocrx_word' id='word_1_125' title='bbox 899 1039 1076 1072;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>challenged</span>
+			<span class='ocrx_word' id='word_1_126' title='bbox 1092 1039 1226 1071;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>conduct,</span>
+			<span class='ocrx_word' id='word_1_127' title='bbox 1244 1039 1296 1066;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_128' title='bbox 1313 1039 1409 1065;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Ninth</span>
+			<span class='ocrx_word' id='word_1_129' title='bbox 1427 1039 1487 1066;x_wconf 0;x_font Georgia' lang='eng' style='font-family:Georgia'>Cir-</span>
+		</span>
+		<span class='ocr_line' title="bbox 512 1081 1487 1115; baseline 0 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_130' title='bbox 512 1082 573 1109;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>cuit</span>
+			<span class='ocrx_word' id='word_1_131' title='bbox 585 1082 663 1114;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>held,</span>
+			<span class='ocrx_word' id='word_1_132' title='bbox 677 1082 701 1108;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>it</span>
+			<span class='ocrx_word' id='word_1_133' title='bbox 714 1085 796 1109;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>must</span>
+			<span class='ocrx_word' id='word_1_134' title='bbox 809 1082 891 1109;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>show</span>
+			<span class='ocrx_word' id='word_1_135' title='bbox 902 1082 971 1109;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>that</span>
+			<span class='ocrx_word' id='word_1_136' title='bbox 983 1082 1023 1109;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>its</span>
+			<span class='ocrx_word' id='word_1_137' title='bbox 1036 1082 1208 1115;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>“‘allegedly</span>
+			<span class='ocrx_word' id='word_1_138' title='bbox 1220 1081 1367 1115;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>wrongful</span>
+			<span class='ocrx_word' id='word_1_139' title='bbox 1378 1082 1487 1109;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>behav-</span>
+		</span>
+		<span class='ocr_line' title="bbox 511 1125 1489 1158; baseline -0.001022 -6; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_140' title='bbox 511 1125 580 1152;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>ior’”</span>
+			<span class='ocrx_word' id='word_1_141' title='bbox 601 1128 710 1152;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>cannot</span>
+			<span class='ocrx_word' id='word_1_142' title='bbox 730 1125 935 1158;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>“‘reasonably</span>
+			<span class='ocrx_word' id='word_1_143' title='bbox 954 1125 990 1152;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>be</span>
+			<span class='ocrx_word' id='word_1_144' title='bbox 1011 1125 1153 1158;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>expected</span>
+			<span class='ocrx_word' id='word_1_145' title='bbox 1172 1128 1202 1152;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>to</span>
+			<span class='ocrx_word' id='word_1_146' title='bbox 1222 1125 1343 1152;x_wconf 0;x_font Georgia' lang='eng' style='font-family:Georgia'>recur.”</span>
+			<span class='ocrx_word' id='word_1_147' title='bbox 1381 1125 1435 1157;x_wconf 100;x_font Georgia_Italic' lang='eng' style='font-style:italic;font-family:Georgia_Italic'>Id.,</span>
+			<span class='ocrx_word' id='word_1_148' title='bbox 1457 1128 1489 1152;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>at</span>
+		</span>
+		<span class='ocr_line' title="bbox 514 1168 1488 1201; baseline 0 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_149' title='bbox 514 1169 598 1195;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>1039.</span>
+			<span class='ocrx_word' id='word_1_150' title='bbox 631 1168 707 1200;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>And,</span>
+			<span class='ocrx_word' id='word_1_151' title='bbox 726 1168 778 1195;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_152' title='bbox 796 1171 879 1195;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>court</span>
+			<span class='ocrx_word' id='word_1_153' title='bbox 897 1168 1066 1200;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>continued,</span>
+			<span class='ocrx_word' id='word_1_154' title='bbox 1085 1168 1137 1195;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_155' title='bbox 1155 1168 1375 1201;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>government’s</span>
+			<span class='ocrx_word' id='word_1_156' title='bbox 1393 1168 1488 1195;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>“mere</span>
+		</span>
+		<span class='ocr_line' title="bbox 512 1210 1489 1244; baseline 0 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_157' title='bbox 512 1214 755 1238;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>announcement</span>
+			<span class='ocrx_word' id='word_1_158' title='bbox 772 1211 840 1238;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>that</span>
+			<span class='ocrx_word' id='word_1_159' title='bbox 858 1211 945 1238;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Fikre</span>
+			<span class='ocrx_word' id='word_1_160' title='bbox 962 1220 1025 1238;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>was</span>
+			<span class='ocrx_word' id='word_1_161' title='bbox 1042 1211 1195 1238;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>removed”</span>
+			<span class='ocrx_word' id='word_1_162' title='bbox 1212 1210 1288 1238;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>from</span>
+			<span class='ocrx_word' id='word_1_163' title='bbox 1305 1211 1357 1238;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_164' title='bbox 1374 1211 1419 1238;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>No</span>
+			<span class='ocrx_word' id='word_1_165' title='bbox 1437 1211 1489 1244;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Fly</span>
+		</span>
+		<span class='ocr_line' title="bbox 512 1254 1286 1288; baseline 0 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_166' title='bbox 512 1255 576 1282;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>List</span>
+			<span class='ocrx_word' id='word_1_167' title='bbox 587 1254 639 1282;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>fell</span>
+			<span class='ocrx_word' id='word_1_168' title='bbox 651 1255 735 1282;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>short</span>
+			<span class='ocrx_word' id='word_1_169' title='bbox 747 1254 778 1282;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>of</span>
+			<span class='ocrx_word' id='word_1_170' title='bbox 787 1254 948 1288;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>satisfying</span>
+			<span class='ocrx_word' id='word_1_171' title='bbox 959 1255 1020 1282;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>this</span>
+			<span class='ocrx_word' id='word_1_172' title='bbox 1034 1255 1189 1282;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>standard.</span>
+			<span class='ocrx_word' id='word_1_173' title='bbox 1212 1255 1286 1282;x_wconf 100;x_font Georgia_Italic' lang='eng' style='font-style:italic;font-family:Georgia_Italic'>Ibid.</span>
+		</span>
+		<span class='ocr_line' title="bbox 548 1298 1489 1331; baseline 0 -7; x_x_height 17; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_174' title='bbox 548 1298 596 1325;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>On</span>
+			<span class='ocrx_word' id='word_1_175' title='bbox 610 1298 745 1330;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>remand,</span>
+			<span class='ocrx_word' id='word_1_176' title='bbox 762 1298 813 1325;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_177' title='bbox 829 1301 1025 1331;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>government</span>
+			<span class='ocrx_word' id='word_1_178' title='bbox 1040 1298 1118 1325;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>tried</span>
+			<span class='ocrx_word' id='word_1_179' title='bbox 1134 1298 1232 1331;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>again.</span>
+			<span class='ocrx_word' id='word_1_180' title='bbox 1262 1298 1343 1325;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Once</span>
+			<span class='ocrx_word' id='word_1_181' title='bbox 1359 1307 1448 1330;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>more,</span>
+			<span class='ocrx_word' id='word_1_182' title='bbox 1465 1298 1489 1324;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>it</span>
+		</span>
+		<span class='ocr_line' title="bbox 512 1340 1487 1374; baseline 0.001026 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_183' title='bbox 512 1341 563 1367;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>did</span>
+			<span class='ocrx_word' id='word_1_184' title='bbox 574 1344 626 1368;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>not</span>
+			<span class='ocrx_word' id='word_1_185' title='bbox 638 1344 754 1368;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>contest</span>
+			<span class='ocrx_word' id='word_1_186' title='bbox 765 1341 817 1368;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_187' title='bbox 829 1341 915 1367;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>truth</span>
+			<span class='ocrx_word' id='word_1_188' title='bbox 927 1340 958 1368;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>of</span>
+			<span class='ocrx_word' id='word_1_189' title='bbox 966 1341 1022 1367;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Mr.</span>
+			<span class='ocrx_word' id='word_1_190' title='bbox 1036 1341 1148 1368;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Fikre’s</span>
+			<span class='ocrx_word' id='word_1_191' title='bbox 1160 1341 1339 1374;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>allegations</span>
+			<span class='ocrx_word' id='word_1_192' title='bbox 1351 1350 1487 1368;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>concern-</span>
+		</span>
+		<span class='ocr_line' title="bbox 511 1383 1487 1417; baseline 0 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_193' title='bbox 511 1384 563 1417;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>ing</span>
+			<span class='ocrx_word' id='word_1_194' title='bbox 578 1384 626 1411;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>his</span>
+			<span class='ocrx_word' id='word_1_195' title='bbox 643 1384 842 1417;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>experiences.</span>
+			<span class='ocrx_word' id='word_1_196' title='bbox 875 1384 930 1411;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>See</span>
+			<span class='ocrx_word' id='word_1_197' title='bbox 946 1384 1178 1411;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Memorandum</span>
+			<span class='ocrx_word' id='word_1_198' title='bbox 1194 1384 1225 1410;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>in</span>
+			<span class='ocrx_word' id='word_1_199' title='bbox 1242 1384 1373 1417;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Support</span>
+			<span class='ocrx_word' id='word_1_200' title='bbox 1389 1383 1420 1411;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>of</span>
+			<span class='ocrx_word' id='word_1_201' title='bbox 1433 1384 1487 1411;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>De-</span>
+		</span>
+		<span class='ocr_line' title="bbox 511 1427 1487 1461; baseline 0.001025 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_202' title='bbox 511 1427 662 1455;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>fendants’</span>
+			<span class='ocrx_word' id='word_1_203' title='bbox 677 1428 793 1455;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Motion</span>
+			<span class='ocrx_word' id='word_1_204' title='bbox 808 1428 847 1455;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>To</span>
+			<span class='ocrx_word' id='word_1_205' title='bbox 863 1428 993 1455;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Dismiss</span>
+			<span class='ocrx_word' id='word_1_206' title='bbox 1008 1428 1040 1454;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>in</span>
+			<span class='ocrx_word' id='word_1_207' title='bbox 1055 1428 1108 1455;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>No.</span>
+			<span class='ocrx_word' id='word_1_208' title='bbox 1127 1429 1328 1455;x_wconf 0;x_font Georgia' lang='eng' style='font-family:Georgia'>3:13–cv--899</span>
+			<span class='ocrx_word' id='word_1_209' title='bbox 1345 1428 1380 1461;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>(D</span>
+			<span class='ocrx_word' id='word_1_210' title='bbox 1398 1428 1487 1461;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Ore.),</span>
+		</span>
+		<span class='ocr_line' title="bbox 513 1471 1489 1504; baseline 0 -7; x_x_height 18; x_asc_height 25">
+			<span class='ocrx_word' id='word_1_211' title='bbox 513 1471 586 1498;x_wconf 100;x_font Georgia' lang='eng' style='font-variant:small-caps;font-family:Georgia'>ECF</span>
+			<span class='ocrx_word' id='word_1_212' title='bbox 601 1471 669 1498;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Doc.</span>
+			<span class='ocrx_word' id='word_1_213' title='bbox 688 1472 752 1503;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>146,</span>
+			<span class='ocrx_word' id='word_1_214' title='bbox 769 1480 816 1504;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>pp.</span>
+			<span class='ocrx_word' id='word_1_215' title='bbox 830 1472 936 1498;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>21–23.</span>
+			<span class='ocrx_word' id='word_1_216' title='bbox 966 1471 1033 1503;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>But,</span>
+			<span class='ocrx_word' id='word_1_217' title='bbox 1050 1471 1112 1498;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>this</span>
+			<span class='ocrx_word' id='word_1_218' title='bbox 1127 1471 1209 1503;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>time,</span>
+			<span class='ocrx_word' id='word_1_219' title='bbox 1225 1471 1277 1498;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_220' title='bbox 1293 1474 1489 1504;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>government</span>
+		</span>
+		<span class='ocr_line' title="bbox 511 1513 1488 1547; baseline -0.001024 -6; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_221' title='bbox 511 1514 605 1541;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>relied</span>
+			<span class='ocrx_word' id='word_1_222' title='bbox 617 1523 655 1541;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>on</span>
+			<span class='ocrx_word' id='word_1_223' title='bbox 667 1523 684 1541;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>a</span>
+			<span class='ocrx_word' id='word_1_224' title='bbox 697 1514 882 1541;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>declaration</span>
+			<span class='ocrx_word' id='word_1_225' title='bbox 893 1513 969 1541;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>from</span>
+			<span class='ocrx_word' id='word_1_226' title='bbox 983 1514 1180 1547;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Christopher</span>
+			<span class='ocrx_word' id='word_1_227' title='bbox 1191 1514 1224 1540;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>R.</span>
+			<span class='ocrx_word' id='word_1_228' title='bbox 1239 1514 1423 1547;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Courtright,</span>
+			<span class='ocrx_word' id='word_1_229' title='bbox 1436 1514 1488 1541;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+		</span>
+		<span class='ocr_line' title="bbox 510 1556 1489 1590; baseline 0 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_230' title='bbox 510 1556 619 1590;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Acting</span>
+			<span class='ocrx_word' id='word_1_231' title='bbox 641 1557 761 1590;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Deputy</span>
+			<span class='ocrx_word' id='word_1_232' title='bbox 784 1557 919 1584;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Director</span>
+			<span class='ocrx_word' id='word_1_233' title='bbox 942 1556 986 1584;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>for</span>
+			<span class='ocrx_word' id='word_1_234' title='bbox 1010 1557 1191 1590;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Operations</span>
+			<span class='ocrx_word' id='word_1_235' title='bbox 1215 1556 1246 1584;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>of</span>
+			<span class='ocrx_word' id='word_1_236' title='bbox 1265 1557 1317 1584;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_237' title='bbox 1341 1557 1489 1584;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Terrorist</span>
+		</span>
+		<span class='ocr_line' title="bbox 513 1600 1486 1633; baseline -0.001028 -6; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_238' title='bbox 513 1600 676 1633;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>Screening</span>
+			<span class='ocrx_word' id='word_1_239' title='bbox 694 1600 813 1627;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>Center.</span>
+			<span class='ocrx_word' id='word_1_240' title='bbox 848 1600 910 1627;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>The</span>
+			<span class='ocrx_word' id='word_1_241' title='bbox 929 1600 1113 1627;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>declaration</span>
+			<span class='ocrx_word' id='word_1_242' title='bbox 1131 1600 1327 1633;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>represented</span>
+			<span class='ocrx_word' id='word_1_243' title='bbox 1344 1600 1413 1627;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>that</span>
+			<span class='ocrx_word' id='word_1_244' title='bbox 1430 1600 1486 1626;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>Mr.</span>
+		</span>
+		<span class='ocr_line' title="bbox 512 1643 1488 1677; baseline 0 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_245' title='bbox 512 1644 600 1671;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Fikre</span>
+			<span class='ocrx_word' id='word_1_246' title='bbox 616 1644 690 1671;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>“will</span>
+			<span class='ocrx_word' id='word_1_247' title='bbox 705 1647 757 1671;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>not</span>
+			<span class='ocrx_word' id='word_1_248' title='bbox 772 1644 808 1671;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>be</span>
+			<span class='ocrx_word' id='word_1_249' title='bbox 824 1644 929 1677;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>placed</span>
+			<span class='ocrx_word' id='word_1_250' title='bbox 944 1653 982 1671;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>on</span>
+			<span class='ocrx_word' id='word_1_251' title='bbox 997 1644 1049 1671;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_252' title='bbox 1065 1644 1109 1671;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>No</span>
+			<span class='ocrx_word' id='word_1_253' title='bbox 1126 1644 1178 1677;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Fly</span>
+			<span class='ocrx_word' id='word_1_254' title='bbox 1193 1644 1257 1671;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>List</span>
+			<span class='ocrx_word' id='word_1_255' title='bbox 1272 1644 1304 1670;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>in</span>
+			<span class='ocrx_word' id='word_1_256' title='bbox 1319 1644 1371 1671;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_257' title='bbox 1386 1643 1488 1671;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>future</span>
+		</span>
+		<span class='ocr_line' title="bbox 511 1686 1487 1720; baseline 0 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_258' title='bbox 511 1687 605 1714;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>based</span>
+			<span class='ocrx_word' id='word_1_259' title='bbox 617 1696 655 1714;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>on</span>
+			<span class='ocrx_word' id='word_1_260' title='bbox 666 1687 718 1714;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_261' title='bbox 730 1687 883 1720;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>currently</span>
+			<span class='ocrx_word' id='word_1_262' title='bbox 895 1687 1044 1714;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>available</span>
+			<span class='ocrx_word' id='word_1_263' title='bbox 1055 1686 1273 1714;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>information.”</span>
+			<span class='ocrx_word' id='word_1_264' title='bbox 1294 1686 1369 1720;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>App.</span>
+			<span class='ocrx_word' id='word_1_265' title='bbox 1382 1690 1412 1714;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>to</span>
+			<span class='ocrx_word' id='word_1_266' title='bbox 1425 1687 1487 1714;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Pet.</span>
+		</span>
+		<span class='ocr_line' title="bbox 511 1729 1489 1763; baseline 0 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_267' title='bbox 511 1729 556 1757;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>for</span>
+			<span class='ocrx_word' id='word_1_268' title='bbox 572 1730 651 1757;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Cert.</span>
+			<span class='ocrx_word' id='word_1_269' title='bbox 671 1731 755 1762;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>118a,</span>
+			<span class='ocrx_word' id='word_1_270' title='bbox 773 1730 820 1763;x_wconf 0;x_font Georgia' lang='eng' style='font-family:Georgia'>ﬂ5.</span>
+			<span class='ocrx_word' id='word_1_271' title='bbox 851 1730 1025 1757;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Persuaded</span>
+			<span class='ocrx_word' id='word_1_272' title='bbox 1040 1730 1078 1763;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>by</span>
+			<span class='ocrx_word' id='word_1_273' title='bbox 1093 1730 1145 1757;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_274' title='bbox 1161 1730 1381 1763;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>government’s</span>
+			<span class='ocrx_word' id='word_1_275' title='bbox 1396 1730 1489 1757;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>latest</span>
+		</span>
+		<span class='ocr_line' title="bbox 512 1773 1488 1806; baseline 0 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_276' title='bbox 512 1773 633 1805;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>motion,</span>
+			<span class='ocrx_word' id='word_1_277' title='bbox 660 1773 712 1800;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>the</span>
+			<span class='ocrx_word' id='word_1_278' title='bbox 738 1773 855 1800;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>district</span>
+			<span class='ocrx_word' id='word_1_279' title='bbox 881 1776 965 1800;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>court</span>
+			<span class='ocrx_word' id='word_1_280' title='bbox 990 1773 1080 1806;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>again</span>
+			<span class='ocrx_word' id='word_1_281' title='bbox 1106 1773 1268 1800;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>dismissed</span>
+			<span class='ocrx_word' id='word_1_282' title='bbox 1292 1773 1348 1799;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>Mr.</span>
+			<span class='ocrx_word' id='word_1_283' title='bbox 1376 1773 1488 1800;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>Fikre’s</span>
+		</span>
+		<span class='ocr_line' title="bbox 512 1816 1067 1848; baseline -0.001802 -5; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_284' title='bbox 512 1816 616 1843;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>claims</span>
+			<span class='ocrx_word' id='word_1_285' title='bbox 630 1825 663 1843;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>as</span>
+			<span class='ocrx_word' id='word_1_286' title='bbox 676 1819 763 1843;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>moot.</span>
+			<span class='ocrx_word' id='word_1_287' title='bbox 788 1817 824 1843;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>35</span>
+			<span class='ocrx_word' id='word_1_288' title='bbox 838 1816 867 1842;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>F.</span>
+			<span class='ocrx_word' id='word_1_289' title='bbox 882 1816 943 1848;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>4th,</span>
+			<span class='ocrx_word' id='word_1_290' title='bbox 958 1819 989 1843;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>at</span>
+			<span class='ocrx_word' id='word_1_291' title='bbox 1003 1817 1067 1843;x_wconf 100;x_font Century_Schoolbook_L' lang='eng' style='font-family:Century_Schoolbook_L'>769.</span>
+		</span>
+		<span class='ocr_line' title="bbox 546 1859 1487 1893; baseline 0 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_292' title='bbox 546 1859 652 1893;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Again,</span>
+			<span class='ocrx_word' id='word_1_293' title='bbox 665 1860 811 1892;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>however,</span>
+			<span class='ocrx_word' id='word_1_294' title='bbox 824 1860 876 1887;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_295' title='bbox 887 1860 984 1886;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Ninth</span>
+			<span class='ocrx_word' id='word_1_296' title='bbox 997 1860 1110 1887;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Circuit</span>
+			<span class='ocrx_word' id='word_1_297' title='bbox 1121 1860 1270 1887;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>reversed.</span>
+			<span class='ocrx_word' id='word_1_298' title='bbox 1293 1860 1355 1887;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>The</span>
+			<span class='ocrx_word' id='word_1_299' title='bbox 1367 1869 1487 1893;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>govern-</span>
+		</span>
+		<span class='ocr_line' title="bbox 512 1903 1488 1936; baseline 0 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_300' title='bbox 512 1903 619 1930;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>ment’s</span>
+			<span class='ocrx_word' id='word_1_301' title='bbox 634 1903 818 1930;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>declaration</span>
+			<span class='ocrx_word' id='word_1_302' title='bbox 832 1903 928 1936;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>might</span>
+			<span class='ocrx_word' id='word_1_303' title='bbox 942 1912 1032 1930;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>mean</span>
+			<span class='ocrx_word' id='word_1_304' title='bbox 1045 1903 1113 1930;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>that</span>
+			<span class='ocrx_word' id='word_1_305' title='bbox 1126 1903 1182 1929;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Mr.</span>
+			<span class='ocrx_word' id='word_1_306' title='bbox 1199 1903 1286 1930;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Fikre</span>
+			<span class='ocrx_word' id='word_1_307' title='bbox 1300 1903 1374 1929;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>“will</span>
+			<span class='ocrx_word' id='word_1_308' title='bbox 1388 1906 1439 1930;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>not</span>
+			<span class='ocrx_word' id='word_1_309' title='bbox 1452 1903 1488 1930;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>be</span>
+		</span>
+		<span class='ocr_line' title="bbox 512 1946 1488 1979; baseline -0.001025 -6; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_310' title='bbox 512 1946 617 1979;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>placed</span>
+			<span class='ocrx_word' id='word_1_311' title='bbox 630 1955 668 1973;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>on</span>
+			<span class='ocrx_word' id='word_1_312' title='bbox 680 1946 732 1973;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+			<span class='ocrx_word' id='word_1_313' title='bbox 745 1946 790 1973;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>No</span>
+			<span class='ocrx_word' id='word_1_314' title='bbox 804 1946 857 1979;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Fly</span>
+			<span class='ocrx_word' id='word_1_315' title='bbox 870 1946 933 1973;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>List</span>
+			<span class='ocrx_word' id='word_1_316' title='bbox 947 1955 1013 1973;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>now</span>
+			<span class='ocrx_word' id='word_1_317' title='bbox 1025 1946 1119 1973;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>based</span>
+			<span class='ocrx_word' id='word_1_318' title='bbox 1132 1955 1170 1973;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>on</span>
+			<span class='ocrx_word' id='word_1_319' title='bbox 1182 1946 1265 1973;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>what</span>
+			<span class='ocrx_word' id='word_1_320' title='bbox 1277 1946 1315 1973;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>he</span>
+			<span class='ocrx_word' id='word_1_321' title='bbox 1329 1946 1380 1972;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>did</span>
+			<span class='ocrx_word' id='word_1_322' title='bbox 1392 1946 1424 1972;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>in</span>
+			<span class='ocrx_word' id='word_1_323' title='bbox 1436 1946 1488 1973;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>the</span>
+		</span>
+		<span class='ocr_line' title="bbox 512 1989 1487 2022; baseline 0 -7; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_324' title='bbox 512 1989 604 2022;x_wconf 100;x_font Courier_New' lang='eng' style='font-family:Courier_New'>past.”</span>
+			<span class='ocrx_word' id='word_1_325' title='bbox 623 1989 677 2021;x_wconf 100;x_font Courier_New_Italic' lang='eng' style='font-style:italic;font-family:Courier_New_Italic'>Id.,</span>
+			<span class='ocrx_word' id='word_1_326' title='bbox 690 1992 721 2016;x_wconf 100;x_font Courier_New' lang='eng' style='font-family:Courier_New'>at</span>
+			<span class='ocrx_word' id='word_1_327' title='bbox 733 1990 798 2015;x_wconf 100;x_font Courier_New' lang='eng' style='font-family:Courier_New'>772.</span>
+			<span class='ocrx_word' id='word_1_328' title='bbox 820 1989 887 2021;x_wconf 100;x_font Courier_New' lang='eng' style='font-family:Courier_New'>But,</span>
+			<span class='ocrx_word' id='word_1_329' title='bbox 899 1989 951 2016;x_wconf 100;x_font Courier_New' lang='eng' style='font-family:Courier_New'>the</span>
+			<span class='ocrx_word' id='word_1_330' title='bbox 962 1989 1058 2015;x_wconf 100;x_font Courier_New' lang='eng' style='font-family:Courier_New'>Ninth</span>
+			<span class='ocrx_word' id='word_1_331' title='bbox 1070 1989 1184 2016;x_wconf 100;x_font Courier_New' lang='eng' style='font-family:Courier_New'>Circuit</span>
+			<span class='ocrx_word' id='word_1_332' title='bbox 1194 1989 1349 2021;x_wconf 100;x_font Courier_New' lang='eng' style='font-family:Courier_New'>reasoned,</span>
+			<span class='ocrx_word' id='word_1_333' title='bbox 1361 1989 1413 2016;x_wconf 100;x_font Courier_New' lang='eng' style='font-family:Courier_New'>the</span>
+			<span class='ocrx_word' id='word_1_334' title='bbox 1425 1989 1487 2016;x_wconf 100;x_font Courier_New' lang='eng' style='font-family:Courier_New'>dec-</span>
+		</span>
+		<span class='ocr_line' title="bbox 511 2032 1489 2059; baseline -0.001022 0; x_x_height 18; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_335' title='bbox 511 2032 642 2059;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>laration</span>
+			<span class='ocrx_word' id='word_1_336' title='bbox 653 2032 723 2059;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>does</span>
+			<span class='ocrx_word' id='word_1_337' title='bbox 734 2035 786 2059;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>not</span>
+			<span class='ocrx_word' id='word_1_338' title='bbox 797 2032 923 2059;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>disclose</span>
+			<span class='ocrx_word' id='word_1_339' title='bbox 933 2032 1015 2059;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>what</span>
+			<span class='ocrx_word' id='word_1_340' title='bbox 1026 2032 1152 2059;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>conduct</span>
+			<span class='ocrx_word' id='word_1_341' title='bbox 1162 2032 1273 2059;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>landed</span>
+			<span class='ocrx_word' id='word_1_342' title='bbox 1283 2032 1339 2058;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Mr.</span>
+			<span class='ocrx_word' id='word_1_343' title='bbox 1352 2032 1440 2059;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Fikre</span>
+			<span class='ocrx_word' id='word_1_344' title='bbox 1451 2041 1489 2059;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>on</span>
+		</span>
+	</div>
+</body>
+</html>
