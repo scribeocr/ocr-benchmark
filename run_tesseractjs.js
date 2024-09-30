@@ -13,6 +13,9 @@ const outputDirLSTM = 'results/tesseractjs_lstm';
 async function recognizeImage(imagePath, lstm = true) {
   const oem = lstm ? 1 : 0;
   const worker = await createWorker('eng', oem);
+  await worker.setParameters({
+    tessedit_pageseg_mode: '3',
+  });
   const {
     data: { hocr },
   } = await worker.recognize(imagePath);

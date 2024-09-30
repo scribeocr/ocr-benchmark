@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title></title>
+	<meta name='font-metrics' content='{"SansDefault":{"normal":{"width":{"45":0.583333,"48":0.833333125,"52":0.8888891111110001,"53":0.833333125,"54":0.969697090909,"55":0.8484851212120001,"56":0.8484851212120001,"65":1.16,"67":1.12,"68":1.083333,"69":1.079365,"70":1,"76":0.818182,"77":1.347826,"78":1,"79":1.25,"80":0.944444,"82":1.117647,"83":1.047619,"85":1.083333,"89":1.284959,"97":0.875,"99":0.85,"100":0.791667,"101":0.904762,"102":0.666667,"103":0.85,"104":0.772727,"105":0.24,"107":0.777778,"108":0.166667,"109":1.285714,"110":0.8,"111":0.863636,"112":0.833333,"114":0.541667,"115":0.772727,"116":0.5,"117":0.8,"118":0.857143,"119":1.25,"121":0.791667,"167":0.507937,"8220":0.454545,"8221":0.454545},"height":{"45":0.25,"48":1.333333,"52":1.333333,"53":1.333333,"54":1.333333,"55":1.3939396515150002,"56":1.333333,"65":1.28,"67":1.333333,"68":1.333333,"69":1.387755,"70":1.352941,"76":1.272727,"77":1.35,"78":1.318182,"79":1.375,"80":1.277778,"82":1.333333,"83":1.35,"85":1.333333,"89":1.387755,"97":1.043478,"99":1,"100":1.333333,"101":1,"102":1.28,"103":1.35,"104":1.333333,"105":1.277778,"107":1.222222,"108":1.333333,"109":1,"110":1,"111":1,"112":1.333333,"114":1,"115":1,"116":1.272727,"117":1,"118":1,"119":1,"121":1.375,"167":1.333333,"8220":0.409091,"8221":0.5},"kerning":{"78,101":0.190476,"101,119":0.04,"67,117":0.142857,"117,115":0.142857,"115,116":0.041667,"116,111":0.083333,"111,109":0.142857,"109,101":0.125,"101,114":0.125,"65,99":0.08,"99,99":0.043478,"99,111":0.043478,"111,117":0.130435,"117,110":0.16,"110,116":0.043478,"83,101":0.125,"101,116":0.083333,"116,45":-0.041667,"45,85":0.083333,"85,112":0.208333,"83,97":0.125,"97,108":0.166667,"108,101":0.125,"101,115":0.041667,"111,114":0.166667,"79,114":0.125,"114,100":0.041667,"100,101":0.125,"77,111":0.125,"111,110":0.166667,"110,105":0.166667,"105,116":0.125,"114,105":0.083333,"105,110":0.166667,"110,103":0.125,"78,111":0.16,"111,116":0.04,"82,101":0.083333,"101,99":0.125,"99,101":0.047619,"101,105":0.176471,"105,118":0.058824,"118,101":0.058824,"101,100":0.055556,"70,114":0.117647,"114,111":-0.058824,"114,118":-0.15,"118,105":0.095238,"105,99":0.15,"77,97":0.173913,"97,110":0.15,"110,97":0.173913,"97,103":0.1,"103,101":0.15,"101,118":0.047619,"105,101":0.095238,"119,115":0.095238,"89,69":0.154195,"69,83":0.051398,"115,117":0.130435,"117,108":0.208333,"108,116":0.125,"116,115":0.043478,"101,103":0.052632,"103,105":0.263158,"105,115":0.095238,"116,114":0.052632,"114,97":-0.052632,"97,116":0.052632,"116,105":0.052632,"105,111":0.157895,"67,114":0.222222,"114,101":0.083333,"100,105":0.166667,"80,101":0.055556,"114,102":-0.111111,"102,111":0,"114,109":0.055556,"109,115":0.111111,"67,104":0.166667,"104,101":0.166667,"99,107":0.111111,"105,102":0.04,"102,121":-0.04,"99,117":0.041667,"117,114":0.166667,"116,121":-0.125,"68,105":0.125,"105,114":0.125,"99,116":-0.083333,"119,105":0.125,"116,104":0.083333,"117,112":0.130435,"65,100":0.041667,"100,100":0.125,"8220,68":0.136364,"68,111":0.090909,"83,104":0.136364,"104,105":0.136364,"105,112":0.045455,"112,8221":0.136364,"76,105":0.045455,"115,101":0.095238,"48,48":0.166666625,"48,52":0.11111063888900001,"52,56":0.18181862121200004,"56,54":0,"54,55":0.12121196969700002,"52,53":0.166666625,"53,54":0.11111063888900001,"54,53":0.166666625,"53,48":0.166666625,"48,53":0.166666625},"kerning2":{"78,101":0.14285700000000012,"101,119":0.035714000000000024,"67,117":0.12,"117,115":0.14393999999999996,"115,116":0.023809999999999998,"116,111":0.05303100000000005,"111,109":0.142857,"109,101":0.13690499999999994,"101,114":0.125,"65,99":0.06304300000000007,"99,99":0.06304300000000007,"99,111":0.09288600000000002,"111,117":0.19999999999999996,"117,110":0.24347799999999986,"110,116":0.09999999999999998,"83,101":0.09523800000000004,"101,116":0.10869600000000001,"116,45":-0.04166599999999998,"45,85":0.0833339999999998,"85,112":0.2083339999999999,"83,97":0.125,"97,108":0.16666599999999998,"108,101":0.17857100000000015,"101,115":0.10227299999999995,"111,114":0.125,"79,114":0.16666599999999998,"114,100":0.04166599999999998,"100,101":0.13690499999999994,"77,111":0.13636400000000004,"111,110":0.15833299999999995,"110,105":0.17666700000000002,"105,116":0.08333299999999999,"114,105":0.093333,"105,110":0.15833299999999995,"110,103":0.10833300000000001,"78,111":0.096364,"111,116":0.06000000000000005,"82,101":0.09523800000000004,"101,99":0.10833300000000001,"99,101":0,"101,105":0.171765,"105,118":0.142857,"118,101":0.03641400000000006,"101,100":0.09722200000000003,"70,114":0.164215,"114,111":0.018717000000000095,"114,118":-0.10714299999999999,"118,105":0.093333,"105,99":0.15000000000000002,"77,97":0.17500000000000004,"97,110":0.19999999999999996,"110,97":0.17500000000000004,"97,103":0.15000000000000002,"103,101":0.24523799999999996,"101,118":0.04761899999999997,"105,101":0.09523800000000004,"119,115":0.08441599999999994,"89,69":0.15419500000000008,"69,83":0.13454299999999986,"115,117":0.11666699999999997,"117,108":0.208333,"108,116":0.08333299999999999,"116,115":0.10227299999999995,"101,103":-0.11315799999999998,"103,105":0.18105300000000002,"105,115":0.0909089999999999,"116,114":0.03727999999999998,"114,97":-0.08552599999999999,"97,116":-0.026316000000000006,"116,105":0.040000000000000036,"105,111":0.08373200000000003,"67,114":0.125,"114,101":0.09523800000000004,"100,105":0.093333,"80,101":-0.015872999999999915,"114,102":-0.11111099999999996,"102,111":0.02525300000000008,"114,109":0.04761900000000008,"109,115":0.06060599999999994,"67,104":0.11616199999999999,"104,101":0.039681999999999995,"99,107":0.11111100000000007,"105,102":-0.026666999999999996,"102,121":-0.11166699999999996,"99,117":0.07499999999999996,"117,114":0.125,"116,121":-0.125,"68,105":0.17666700000000002,"105,114":0.08333299999999999,"99,116":0,"119,105":0.05166700000000002,"116,104":0.10227299999999995,"117,112":0.21014499999999992,"65,100":-0.04166700000000001,"100,100":0.04166599999999998,"8220,68":0.09848499999999993,"68,111":0.09090900000000002,"83,104":0.13636399999999993,"104,105":0.169091,"105,112":0.03030299999999997,"112,8221":0.13636400000000004,"76,105":0.07818200000000003,"115,101":0.09523800000000004,"48,48":0.16666662500000007,"48,52":0.11111063888899997,"52,56":0.1818172878790001,"56,54":0,"54,55":0.12121196969699988,"52,53":0.16666662500000007,"53,54":0.03030265909100005,"54,53":0.16666662500000007,"53,48":0.16666662500000007,"48,53":0.16666662500000007},"variants":{},"heightCaps":1.333333,"obs":256,"obsCaps":40},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":256},"SerifDefault":{"normal":{"width":{"63":0.7,"65":1.25,"67":1.12,"78":0.967295,"79":1.187135,"83":1.08,"97":0.9,"98":0.84,"99":0.85,"101":0.88,"104":0.8,"105":0.24,"107":0.8,"108":0.28,"109":1.15,"110":0.9,"111":0.9,"112":0.84,"114":0.45,"115":0.8,"116":0.5,"117":0.8,"118":0.85},"height":{"63":1.2,"65":1.4,"67":1.28,"78":1.275071,"79":1.231103,"83":1.36,"97":1.05,"98":1.32,"99":1.05,"101":0.96,"104":1.32,"105":1.32,"107":1.28,"108":1.32,"109":0.95,"110":1.05,"111":1.05,"112":1.32,"114":0.85,"115":1,"116":1.28,"117":1,"118":1},"kerning":{"83,117":0.16,"117,98":0.12,"98,115":0.04,"115,116":0.04,"116,97":0.08,"97,110":0.12,"110,99":0.16,"99,101":-0.04,"117,112":0.16,"112,112":0.16,"112,108":0.12,"108,105":0.16,"105,101":0.12,"101,115":0.04,"67,104":0.16,"104,101":0.08,"101,99":0.12,"99,107":0.04,"107,108":0.04,"105,115":0.12,"67,117":0.15,"117,115":0.1,"116,111":0,"111,109":0.1,"109,101":0.1,"101,114":0.15,"114,63":0.05,"65,99":0.05,"99,116":-0.05,"116,105":0.15,"105,118":0.1,"118,97":0.1,"97,116":0.05,"116,101":0.05,"99,99":0.05,"99,111":0.05,"111,117":0.15,"117,110":0.15,"110,116":0.05,"78,79":0.175872},"kerning2":{"83,117":0.15999999999999992,"117,98":0.12,"98,115":0.039999999999999925,"115,116":0.020000000000000018,"116,97":-0.020000000000000018,"97,110":0.020000000000000018,"110,99":0.10999999999999999,"99,101":-0.040000000000000036,"117,112":0.12,"112,112":0.16000000000000003,"112,108":0.03999999999999998,"108,105":0.16000000000000003,"105,101":0.12,"101,115":0.039999999999999925,"67,104":0.15999999999999992,"104,101":0.07999999999999996,"101,99":0.07000000000000006,"99,107":0.039999999999999925,"107,108":0.03999999999999998,"105,115":0.12,"67,117":0.09999999999999998,"117,115":-0.050000000000000044,"116,111":-0.09999999999999998,"111,109":0.10000000000000009,"109,101":-0.030000000000000027,"101,114":0.14999999999999997,"114,63":0.050000000000000044,"65,99":0.09999999999999998,"99,116":-0.04999999999999999,"116,105":0.10999999999999999,"105,118":0.09999999999999998,"118,97":0.09999999999999998,"97,116":0.050000000000000044,"116,101":0.06999999999999995,"99,99":0.09999999999999998,"99,111":0.04999999999999993,"111,117":0.1499999999999999,"117,110":0.15000000000000002,"110,116":0.09999999999999998,"78,79":0.17587200000000003},"variants":{},"heightCaps":1.28,"obs":52,"obsCaps":8},"italic":{"width":{"51":0},"height":{"51":0},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":1,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":53},"Default":{"normal":{"width":{"46":0.380952},"height":{"46":0.31746},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":1,"obsCaps":0},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":1}}'></meta>
+	<meta name='default-font' content='SansDefault'></meta>
+	<meta name='sans-font' content='NimbusSans'></meta>
+	<meta name='serif-font' content='Century'></meta>
+	<meta name='enable-opt' content='undefined'></meta>
+	<meta name='layout' content='[{"default":true,"boxes":{}}]'></meta>
+	<meta name='layout-data-table' content='[{"default":true,"tables":[]}]'></meta>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<meta name='ocr-system' content='scribeocr' />
+	<meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf ocrp_lang ocrp_dir ocrp_font ocrp_fsize'/>
+</head>
+<body>
+	<div class='ocr_page' title='bbox 0 0 2000 2630'>
+		<span class='ocr_line' title="bbox 156 89 1077 129; baseline -0.005429 -7; x_x_height 25; x_asc_height 32">
+			<span class='ocrx_word' id='word_1_2' title='bbox 156 89 238 122;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>New</span>
+			<span class='ocrx_word' id='word_1_3' title='bbox 250 90 433 122;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Customer</span>
+			<span class='ocrx_word' id='word_1_4' title='bbox 443 90 598 122;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Account</span>
+			<span class='ocrx_word' id='word_1_5' title='bbox 768 96 826 127;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>gW‘“</span>
+			<span class='ocrx_word' id='word_1_6' title='bbox 869 122 873 129;x_wconf 0' lang='eng'>,</span>
+			<span class='ocrx_word' id='word_1_7' title='bbox 945 96 1020 100;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>“M</span>
+			<span class='ocrx_word' id='word_1_8' title='bbox 1045 95 1077 100;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>w</span>
+		</span>
+		<span class='ocr_line' title="bbox 309 122 1298 180; baseline -0.004044 -21; x_x_height 24; x_asc_height 32">
+			<span class='ocrx_word' id='word_1_9' title='bbox 309 139 439 180;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Set-Up</span>
+			<span class='ocrx_word' id='word_1_10' title='bbox 843 122 930 155;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>Field</span>
+			<span class='ocrx_word' id='word_1_11' title='bbox 945 123 1050 156;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Sales</span>
+			<span class='ocrx_word' id='word_1_12' title='bbox 1062 130 1100 155;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>or</span>
+			<span class='ocrx_word' id='word_1_13' title='bbox 1113 122 1298 155;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Customer</span>
+		</span>
+		<span class='ocr_line' title="bbox 175 173 1341 223; baseline 0.000858 -18; x_x_height 25; x_asc_height 32">
+			<span class='ocrx_word' id='word_1_14' title='bbox 175 189 364 223;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Controlled</span>
+			<span class='ocrx_word' id='word_1_15' title='bbox 377 189 576 223;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Substance</span>
+			<span class='ocrx_word' id='word_1_16' title='bbox 797 173 936 206;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Service</span>
+			<span class='ocrx_word' id='word_1_17' title='bbox 949 173 1110 214;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Supplies</span>
+			<span class='ocrx_word' id='word_1_18' title='bbox 1124 173 1297 206;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Checklist</span>
+			<span class='ocrx_word' id='word_1_19' title='bbox 1309 175 1341 206;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>to</span>
+		</span>
+		<span class='ocr_line' title="bbox 252 224 1161 281; baseline -0.022002 -7; x_x_height 25; x_asc_height 32">
+			<span class='ocrx_word' id='word_1_20' title='bbox 252 256 257 263;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>-</span>
+			<span class='ocrx_word' id='word_1_21' title='bbox 274 240 477 281;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>Suspicious</span>
+			<span class='ocrx_word' id='word_1_22' title='bbox 977 224 1161 260;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Customer</span>
+		</span>
+		<span class='ocr_line' title="bbox 132 285 1189 331; baseline -0.022706 -2; x_x_height 24; x_asc_height 31">
+			<span class='ocrx_word' id='word_1_23' title='bbox 132 291 240 324;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Order</span>
+			<span class='ocrx_word' id='word_1_24' title='bbox 252 291 444 331;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Monitoring</span>
+			<span class='ocrx_word' id='word_1_25' title='bbox 462 290 619 331;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Program</span>
+			<span class='ocrx_word' id='word_1_23b' title='bbox 772 285 1189 289;x_wconf 0' lang='eng'>rr</span>
+		</span>
+		<span class='ocr_line' title="bbox 1921 360 1925 375; baseline 0 0; x_x_height 8.87535846233368; x_asc_height 15">
+			<span class='ocrx_word' id='word_1_29' title='bbox 1921 360 1925 375;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>H</span>
+		</span>
+		<span class='ocr_line' title="bbox 1080 374 1925 461; baseline 0.021302 -45; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_26b' title='bbox 1080 396 1191 431;x_wconf 0' lang='eng'>CON</span>
+			<span class='ocrx_word' id='word_1_32' title='bbox 1318 392 1370 421;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>NO</span>
+			<span class='ocrx_word' id='word_1_33' title='bbox 1495 391 1498 461;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>l</span>
+			<span class='ocrx_word' id='word_1_34' title='bbox 1532 391 1540 392;x_wconf 0' lang='eng'>’</span>
+			<span class='ocrx_word' id='word_1_35' title='bbox 1715 391 1723 392;x_wconf 0' lang='eng'>)</span>
+			<span class='ocrx_word' id='word_1_36' title='bbox 1921 374 1925 418;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>E</span>
+		</span>
+		<span class='ocr_line' title="bbox 1008 418 1925 463; baseline 0.017448 -12; x_x_height 21; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_37' title='bbox 1008 423 1131 449;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>Checklist</span>
+			<span class='ocrx_word' id='word_1_38' title='bbox 1208 436 1239 458;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>\</span>
+			<span class='ocrx_word' id='word_1_39' title='bbox 1535 434 1621 463;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>CDIG</span>
+			<span class='ocrx_word' id='word_1_40' title='bbox 1634 434 1690 463;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>Will</span>
+			<span class='ocrx_word' id='word_1_41' title='bbox 1704 435 1759 463;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Not</span>
+			<span class='ocrx_word' id='word_1_42' title='bbox 1921 418 1925 445;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>g</span>
+		</span>
+		<span class='ocr_line' title="bbox 877 446 1925 491; baseline -0.004771 -7; x_x_height 17; x_asc_height 25">
+			<span class='ocrx_word' id='word_1_35b' title='bbox 877 457 901 487;x_wconf 0' lang='eng'>&lt;_</span>
+			<span class='ocrx_word' id='word_1_44' title='bbox 968 459 1092 484;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Received</span>
+			<span class='ocrx_word' id='word_1_45' title='bbox 1102 460 1172 484;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>From</span>
+			<span class='ocrx_word' id='word_1_46' title='bbox 1235 457 1497 491;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>om</span>
+			<span class='ocrx_word' id='word_1_47' title='bbox 1565 478 1569 483;x_wconf 0' lang='eng'>,</span>
+			<span class='ocrx_word' id='word_1_48' title='bbox 1921 446 1925 479;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>E</span>
+		</span>
+		<span class='ocr_line' title="bbox 896 479 1925 524; baseline -0.004859 -14; x_x_height 20; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_49' title='bbox 896 486 906 494;x_wconf 0' lang='eng'>h</span>
+			<span class='ocrx_word' id='word_1_50' title='bbox 996 495 1142 520;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Customer?</span>
+			<span class='ocrx_word' id='word_1_51' title='bbox 1187 491 1235 524;x_wconf 0' lang='eng'>~~</span>
+			<span class='ocrx_word' id='word_1_52' title='bbox 1495 488 1498 520;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>{</span>
+			<span class='ocrx_word' id='word_1_53' title='bbox 1509 479 1638 508;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Activate</span>
+			<span class='ocrx_word' id='word_1_54' title='bbox 1649 479 1781 507;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Account</span>
+			<span class='ocrx_word' id='word_1_55' title='bbox 1921 479 1925 511;x_wconf 0;x_font Times_New_Roman_Italic' lang='eng' style='font-style:italic;font-family:Times_New_Roman_Italic'>!</span>
+		</span>
+		<span class='ocr_line' title="bbox 1135 522 1547 562; baseline -0.009709 -1; x_asc_height 37">
+			<span class='ocrx_word' id='word_1_56' title='bbox 1135 525 1188 562;x_wconf 0;x_font Times_New_Roman_Italic' lang='eng' style='font-style:italic;font-family:Times_New_Roman_Italic'>7</span>
+			<span class='ocrx_word' id='word_1_57' title='bbox 1495 522 1547 557;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Lo</span>
+		</span>
+		<span class='ocr_line' title="bbox 862 560 1134 596; baseline 0 -1; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_58' title='bbox 862 572 922 596;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-variant:small-caps;font-family:Times_New_Roman'>YES</span>
+			<span class='ocrx_word' id='word_1_59' title='bbox 1108 560 1134 581;x_wconf 0;x_font Times_New_Roman_Italic' lang='eng' style='font-style:italic;font-family:Times_New_Roman_Italic'>~</span>
+		</span>
+		<span class='ocr_line' title="bbox 826 589 1204 642; baseline 0 0; x_x_height 10.66666555404663; x_asc_height 67">
+			<span class='ocrx_word' id='word_1_50b' title='bbox 822 585 956 652;x_wconf 0' lang='eng' style='font-style:italic;'>I</span>
+			<span class='ocrx_word' id='word_1_51b' title='bbox 1195 638 1204 642;x_wconf 0' lang='eng' style='font-style:italic;'>»</span>
+			<span class='ocrx_word' id='word_1_61' title='bbox 1195 638 1204 642;x_wconf 0' lang='eng'>»</span>
+		</span>
+		<span class='ocr_line' title="bbox 782 640 1292 709; baseline 0 -11; x_x_height 20; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_62' title='bbox 782 640 787 709;x_wconf 0' lang='eng'>[</span>
+			<span class='ocrx_word' id='word_1_63' title='bbox 850 671 1006 698;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>Customer</span>
+			<span class='ocrx_word' id='word_1_64' title='bbox 1017 671 1137 698;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Service</span>
+			<span class='ocrx_word' id='word_1_65' title='bbox 1149 671 1292 705;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Manager</span>
+		</span>
+		<span class='ocr_line' title="bbox 1003 713 1138 743; baseline 0 -1; x_x_height 21; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_66' title='bbox 1003 713 1138 743;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Reviews</span>
+		</span>
+		<span class='ocr_line' title="bbox 1069 779 1072 786; baseline 0 0; x_asc_height 7">
+			<span class='ocrx_word' id='word_1_67' title='bbox 1069 779 1072 786;x_wconf 0' lang='eng'>2</span>
+		</span>
+		<span class='ocr_line' title="bbox 1069 787 1072 797; baseline 0 0; x_x_height 10; x_asc_height 10">
+			<span class='ocrx_word' id='word_1_68' title='bbox 1069 787 1072 797;x_wconf 0;x_font Times_New_Roman_Bold_Italic' lang='eng' style='font-style:italic;font-family:Times_New_Roman_Bold_Italic'>§</span>
+		</span>
+		<span class='ocr_line' title="bbox 1044 798 1098 863; baseline 0 -7; x_x_height 36; x_asc_height 63">
+			<span class='ocrx_word' id='word_1_69' title='bbox 1044 798 1098 863;x_wconf 0;x_font Courier_New_Bold_Italic' lang='eng' style='font-style:italic;font-family:Courier_New_Bold_Italic'>X,</span>
+		</span>
+		<span class='ocr_line' title="bbox 1114 879 1170 931; baseline 0.035714 -2; x_x_height 36; x_asc_height 52">
+			<span class='ocrx_word' id='word_1_70' title='bbox 1114 879 1170 931;x_wconf 0' lang='eng' style='font-variant:small-caps;'>AN</span>
+		</span>
+		<span class='ocr_line' title="bbox 662 907 989 943; baseline 0.012232 -4; x_x_height 19.455880641937256; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_71' title='bbox 662 907 665 939;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>?</span>
+			<span class='ocrx_word' id='word_1_72' title='bbox 843 916 915 943;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>YES</span>
+			<span class='ocrx_word' id='word_1_73' title='bbox 982 914 989 921;x_wconf 0' lang='eng'>&apos;</span>
+		</span>
+		<span class='ocr_line' title="bbox 377 920 1228 986; baseline 0 -10; x_x_height 23; x_asc_height 31">
+			<span class='ocrx_word' id='word_1_74' title='bbox 377 944 445 976;x_wconf 0;x_font Times_New_Roman_Italic' lang='eng' style='font-style:italic;font-variant:small-caps;font-family:Times_New_Roman_Italic'>CIS</span>
+			<span class='ocrx_word' id='word_1_75' title='bbox 460 942 626 983;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Manager</span>
+			<span class='ocrx_word' id='word_1_76' title='bbox 929 920 982 971;x_wconf 0' lang='eng'>/</span>
+			<span class='ocrx_word' id='word_1_77' title='bbox 1012 948 1131 976;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Results</span>
+			<span class='ocrx_word' id='word_1_78' title='bbox 1185 945 1228 986;x_wconf 0' lang='eng'>\</span>
+		</span>
+		<span class='ocr_line' title="bbox 372 983 1927 1049; baseline -0.003859 -23; x_x_height 23; x_asc_height 32">
+			<span class='ocrx_word' id='word_1_79' title='bbox 372 994 512 1026;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Notifies</span>
+			<span class='ocrx_word' id='word_1_80' title='bbox 525 993 628 1025;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>CDIG</span>
+			<span class='ocrx_word' id='word_1_81' title='bbox 867 983 923 995;x_wconf 0' lang='eng'>oo</span>
+			<span class='ocrx_word' id='word_1_82' title='bbox 1035 991 1106 1019;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>ok?</span>
+			<span class='ocrx_word' id='word_1_83' title='bbox 1162 986 1227 1049;x_wconf 0' lang='eng'>_/</span>
+			<span class='ocrx_word' id='word_1_84' title='bbox 1922 1005 1927 1033;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>3</span>
+		</span>
+		<span class='ocr_line' title="bbox 1921 1033 1929 1084; baseline 0 0; x_x_height 34.66666793823242; x_asc_height 51">
+			<span class='ocrx_word' id='word_1_85' title='bbox 1921 1033 1929 1084;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>i</span>
+		</span>
+		<span class='ocr_line' title="bbox 1922 1085 1929 1098; baseline 0 0; x_x_height 8.66666555404663; x_asc_height 13">
+			<span class='ocrx_word' id='word_1_86' title='bbox 1922 1085 1929 1098;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>i</span>
+		</span>
+		<span class='ocr_line' title="bbox 373 1099 1929 1193; baseline 0.002513 -16; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_100' title='bbox 373 1153 446 1178;x_wconf 0;x_font Verdana' lang='eng' style='font-variant:small-caps;font-family:Verdana'>CDIG</span>
+			<span class='ocrx_word' id='word_1_101' title='bbox 457 1153 559 1177;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Obtains</span>
+			<span class='ocrx_word' id='word_1_102' title='bbox 570 1153 630 1176;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>DEA</span>
+			<span class='ocrx_word' id='word_1_103' title='bbox 1921 1099 1929 1193;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>2</span>
+		</span>
+		<span class='ocr_line' title="bbox 337 1186 1928 1229; baseline 0.002514 -15; x_x_height 19; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_104' title='bbox 337 1186 339 1198;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'><sup>i</sup></span>
+			<span class='ocrx_word' id='word_1_105' title='bbox 422 1189 580 1219;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Registration</span>
+			<span class='ocrx_word' id='word_1_106' title='bbox 1921 1193 1928 1229;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>i</span>
+		</span>
+		<span class='ocr_line' title="bbox 493 1229 1929 1294; baseline -0.004875 -23; x_x_height 22.7438325881958; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_107' title='bbox 493 1245 511 1294;x_wconf 0;x_font Courier_New' lang='eng' style='font-family:Courier_New'>1</span>
+			<span class='ocrx_word' id='word_1_108' title='bbox 964 1240 1017 1269;x_wconf 100;x_font Courier_New' lang='eng' style='font-family:Courier_New'>NO</span>
+			<span class='ocrx_word' id='word_1_109' title='bbox 1923 1229 1929 1268;x_wconf 0;x_font Courier_New' lang='eng' style='font-family:Courier_New'>:</span>
+		</span>
+		<span class='ocr_line' title="bbox 396 1291 1929 1329; baseline -0.003262 -3; x_x_height 18; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_110' title='bbox 396 1302 475 1326;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Credit</span>
+			<span class='ocrx_word' id='word_1_111' title='bbox 487 1302 606 1326;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Performs</span>
+			<span class='ocrx_word' id='word_1_112' title='bbox 645 1291 665 1295;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>m</span>
+			<span class='ocrx_word' id='word_1_113' title='bbox 1923 1297 1929 1329;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>3</span>
+		</span>
+		<span class='ocr_line' title="bbox 396 1328 1929 1362; baseline -0.003914 0; x_x_height 18; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_114' title='bbox 396 1338 513 1362;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>Financial</span>
+			<span class='ocrx_word' id='word_1_115' title='bbox 524 1338 609 1362;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Check</span>
+			<span class='ocrx_word' id='word_1_116' title='bbox 1923 1328 1929 1356;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>:</span>
+		</span>
+		<span class='ocr_line' title="bbox 500 1400 1929 1436; baseline -0.005598 -2; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_117' title='bbox 500 1420 504 1434;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>{</span>
+			<span class='ocrx_word' id='word_1_118' title='bbox 756 1412 790 1431;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>ND</span>
+			<span class='ocrx_word' id='word_1_119' title='bbox 879 1409 883 1436;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>i</span>
+			<span class='ocrx_word' id='word_1_120' title='bbox 1003 1426 1009 1432;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>,</span>
+			<span class='ocrx_word' id='word_1_121' title='bbox 1181 1427 1186 1431;x_wconf 0' lang='eng'>,</span>
+			<span class='ocrx_word' id='word_1_122' title='bbox 1262 1400 1265 1422;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'><sup>!</sup></span>
+			<span class='ocrx_word' id='word_1_123' title='bbox 1923 1400 1929 1426;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>!</span>
+		</span>
+		<span class='ocr_line' title="bbox 485 1426 1930 1508; baseline -0.00346 -47; x_x_height 25; x_asc_height 32">
+			<span class='ocrx_word' id='word_1_124' title='bbox 485 1436 542 1508;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>x</span>
+			<span class='ocrx_word' id='word_1_125' title='bbox 685 1469 731 1473;x_wconf 0;x_font Courier_New_Italic' lang='eng' style='font-style:italic;font-family:Courier_New_Italic'>Co</span>
+			<span class='ocrx_word' id='word_1_126' title='bbox 830 1469 834 1470;x_wconf 0;x_font Trebuchet_MS_Italic' lang='eng' style='font-style:italic;font-family:Trebuchet_MS_Italic'>7</span>
+			<span class='ocrx_word' id='word_1_127' title='bbox 881 1437 884 1455;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>r</span>
+			<span class='ocrx_word' id='word_1_128' title='bbox 939 1426 1042 1466;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Notify</span>
+			<span class='ocrx_word' id='word_1_129' title='bbox 1069 1426 1220 1466;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Security</span>
+			<span class='ocrx_word' id='word_1_130' title='bbox 1923 1426 1930 1466;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>i</span>
+		</span>
+		<span class='ocr_line' title="bbox 477 1464 1929 1585; baseline -0.000689 -75; x_x_height 24; x_asc_height 45">
+			<span class='ocrx_word' id='word_1_131' title='bbox 477 1488 484 1494;x_wconf 0' lang='eng'>‘</span>
+			<span class='ocrx_word' id='word_1_132' title='bbox 666 1469 684 1585;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>J</span>
+			<span class='ocrx_word' id='word_1_133' title='bbox 1001 1476 1147 1510;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Director</span>
+			<span class='ocrx_word' id='word_1_134' title='bbox 1923 1464 1929 1509;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>2</span>
+		</span>
+		<span class='ocr_line' title="bbox 1923 1506 1929 1530; baseline 0 -3; x_x_height 16.833334922790527; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_137' title='bbox 1923 1506 1929 1530;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>i</span>
+		</span>
+		<span class='ocr_line' title="bbox 453 1537 1929 1576; baseline -0.003251 -2; x_x_height 19; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_138' title='bbox 453 1553 552 1576;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>Results</span>
+			<span class='ocrx_word' id='word_1_114b' title='bbox 880 1536 1263 1567;x_wconf 0' lang='eng' style='font-variant:small-caps;'>—</span>
+			<span class='ocrx_word' id='word_1_141' title='bbox 1921 1537 1929 1569;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>2</span>
+		</span>
+		<span class='ocr_line' title="bbox 380 1564 1073 1623; baseline -0.004519 -11; x_x_height 25">
+			<span class='ocrx_word' id='word_1_115b' title='bbox 380 1573 529 1623;x_wconf 0' lang='eng'>Cooke</span>
+			<span class='ocrx_word' id='word_1_116b' title='bbox 593 1580 665 1614;x_wconf 0' lang='eng'>JT</span>
+			<span class='ocrx_word' id='word_1_146' title='bbox 1029 1564 1073 1608;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>]</span>
+		</span>
+		<span class='ocr_line' title="bbox 432 1598 1930 1675; baseline -0.00664 -44; x_asc_height 13">
+			<span class='ocrx_word' id='word_1_147' title='bbox 432 1632 479 1675;x_wconf 0' lang='eng'>\</span>
+			<span class='ocrx_word' id='word_1_148' title='bbox 536 1614 593 1666;x_wconf 0' lang='eng'>ye</span>
+			<span class='ocrx_word' id='word_1_149' title='bbox 957 1627 970 1631;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>.</span>
+			<span class='ocrx_word' id='word_1_150' title='bbox 1064 1609 1080 1630;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>¥</span>
+			<span class='ocrx_word' id='word_1_151' title='bbox 1164 1628 1182 1631;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>W</span>
+			<span class='ocrx_word' id='word_1_152' title='bbox 1921 1598 1930 1648;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>{</span>
+		</span>
+		<span class='ocr_line' title="bbox 370 1717 505 1751; baseline 0.007407 -10; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_153' title='bbox 370 1722 417 1742;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-variant:small-caps;font-family:DejaVu_Sans_Ultra-Light'>YES</span>
+			<span class='ocrx_word' id='word_1_154' title='bbox 502 1717 505 1751;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>;</span>
+		</span>
+		<span class='ocr_line' title="bbox 502 1751 506 1812; baseline 0 -18; x_x_height 44; x_asc_height 61">
+			<span class='ocrx_word' id='word_1_155' title='bbox 502 1751 506 1812;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>l</span>
+		</span>
+		<span class='ocr_line' title="bbox 1923 1650 1930 1659; baseline 0 0; x_asc_height 9">
+			<span class='ocrx_word' id='word_1_159' title='bbox 1923 1650 1930 1659;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>9</span>
+		</span>
+		<span class='ocr_line' title="bbox 1034 1657 1930 1685; baseline -0.007812 0; x_x_height 15.75; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_160' title='bbox 1034 1680 1040 1685;x_wconf 100' lang='eng'>.</span>
+			<span class='ocrx_word' id='word_1_161' title='bbox 1119 1680 1124 1685;x_wconf 0' lang='eng'>.</span>
+			<span class='ocrx_word' id='word_1_162' title='bbox 1922 1657 1930 1678;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>§</span>
+		</span>
+		<span class='ocr_line' title="bbox 923 1678 1929 1720; baseline -0.00994 -7; x_x_height 24; x_asc_height 32">
+			<span class='ocrx_word' id='word_1_163' title='bbox 923 1681 1073 1720;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Security</span>
+			<span class='ocrx_word' id='word_1_164' title='bbox 1089 1680 1235 1713;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Director</span>
+			<span class='ocrx_word' id='word_1_165' title='bbox 1922 1678 1929 1710;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>:</span>
+		</span>
+		<span class='ocr_line' title="bbox 1923 1709 1929 1720; baseline 0 0; x_x_height 10; x_asc_height 11">
+			<span class='ocrx_word' id='word_1_166' title='bbox 1923 1709 1929 1720;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>i</span>
+		</span>
+		<span class='ocr_line' title="bbox 1923 1719 1929 1727; baseline 0 0; x_asc_height 8">
+			<span class='ocrx_word' id='word_1_167' title='bbox 1923 1719 1929 1727;x_wconf 0' lang='eng' style='font-variant:small-caps;'>EH</span>
+		</span>
+		<span class='ocr_line' title="bbox 963 1728 1929 1775; baseline -0.00207 -12; x_x_height 24; x_asc_height 30">
+			<span class='ocrx_word' id='word_1_168' title='bbox 963 1731 1185 1772;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>investigates</span>
+			<span class='ocrx_word' id='word_1_169' title='bbox 1922 1728 1929 1775;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>;</span>
+		</span>
+		<span class='ocr_line' title="bbox 1923 1775 1930 1786; baseline 0 0; x_asc_height 11">
+			<span class='ocrx_word' id='word_1_170' title='bbox 1923 1775 1930 1786;x_wconf 0;x_font Courier_New_Bold_Italic' lang='eng' style='font-style:italic;font-family:Courier_New_Bold_Italic'>4</span>
+		</span>
+		<span class='ocr_line' title="bbox 1923 1787 1930 1800; baseline 0 0; x_x_height 7.526314735412598; x_asc_height 13">
+			<span class='ocrx_word' id='word_1_171' title='bbox 1923 1787 1930 1800;x_wconf 100;x_font Times_New_Roman_Italic' lang='eng' style='font-style:italic;font-family:Times_New_Roman_Italic'>3</span>
+		</span>
+		<span class='ocr_line' title="bbox 1923 1798 1930 1817; baseline 0 0; x_x_height 11; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_172' title='bbox 1923 1798 1930 1817;x_wconf 0;x_font Times_New_Roman_Italic' lang='eng' style='font-style:italic;font-family:Times_New_Roman_Italic'>3</span>
+		</span>
+		<span class='ocr_line' title="bbox 357 1893 1537 1963; baseline 0 -36; x_x_height 24; x_asc_height 33">
+			<span class='ocrx_word' id='word_1_175' title='bbox 357 1894 508 1927;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Proceed</span>
+			<span class='ocrx_word' id='word_1_176' title='bbox 523 1893 595 1927;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>with</span>
+			<span class='ocrx_word' id='word_1_177' title='bbox 1425 1921 1537 1963;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>—</span>
+		</span>
+		<span class='ocr_line' title="bbox 824 1932 1928 1955; baseline -0.001812 0; x_x_height 12.212308406829834; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_178' title='bbox 824 1937 872 1955;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-variant:small-caps;font-family:DejaVu_Sans_Ultra-Light'>YES</span>
+			<span class='ocrx_word' id='word_1_179' title='bbox 1921 1932 1928 1953;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>H</span>
+		</span>
+		<span class='ocr_line' title="bbox 333 1952 1710 2002; baseline -0.000626 -14; x_x_height 23; x_asc_height 30">
+			<span class='ocrx_word' id='word_1_180' title='bbox 333 1956 486 1988;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Account</span>
+			<span class='ocrx_word' id='word_1_181' title='bbox 500 1956 562 1988;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Set</span>
+			<span class='ocrx_word' id='word_1_182' title='bbox 575 1964 619 1997;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>up</span>
+			<span class='ocrx_word' id='word_1_183' title='bbox 1161 1972 1191 2002;x_wconf 0' lang='eng'>N</span>
+			<span class='ocrx_word' id='word_1_155b' title='bbox 1328 1952 1364 1972;x_wconf 0' lang='eng'>No</span>
+			<span class='ocrx_word' id='word_1_185' title='bbox 1554 1958 1710 1988;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Customer</span>
+		</span>
+		<span class='ocr_line' title="bbox 718 1963 1708 2055; baseline -0.010753 -14; x_x_height 24; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_186' title='bbox 718 1963 763 2055;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>—</span>
+			<span class='ocrx_word' id='word_1_187' title='bbox 1005 1975 1143 2009;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Results</span>
+			<span class='ocrx_word' id='word_1_188' title='bbox 1563 2002 1666 2031;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Added</span>
+			<span class='ocrx_word' id='word_1_189' title='bbox 1678 2005 1708 2031;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>to</span>
+		</span>
+		<span class='ocr_line' title="bbox 461 2018 1780 2118; baseline 0.002046 -48; x_x_height 22; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_190' title='bbox 461 2055 464 2057;x_wconf 0' lang='eng'>:</span>
+			<span class='ocrx_word' id='word_1_191' title='bbox 991 2075 1006 2089;x_wconf 0' lang='eng'>\</span>
+			<span class='ocrx_word' id='word_1_163b' title='bbox 1031 2025 1115 2059;x_wconf 0' lang='eng'>OK?</span>
+			<span class='ocrx_word' id='word_1_164b' title='bbox 1106 2014 1304 2122;x_wconf 0' lang='eng'>yan</span>
+			<span class='ocrx_word' id='word_1_193' title='bbox 1494 2046 1551 2075;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>“Do</span>
+			<span class='ocrx_word' id='word_1_194' title='bbox 1563 2045 1619 2075;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Not</span>
+			<span class='ocrx_word' id='word_1_195' title='bbox 1629 2045 1712 2080;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Ship”</span>
+			<span class='ocrx_word' id='word_1_196' title='bbox 1725 2045 1780 2073;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>List</span>
+		</span>
+		<span class='ocr_line' title="bbox 1036 2118 1930 2146; baseline -0.003356 -19; x_x_height 10; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_197' title='bbox 1036 2119 1053 2137;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>“</span>
+			<span class='ocrx_word' id='word_1_198' title='bbox 1086 2118 1110 2141;x_wconf 0' lang='eng'>/</span>
+			<span class='ocrx_word' id='word_1_199' title='bbox 1921 2118 1930 2146;x_wconf 0' lang='eng'>3</span>
+		</span>
+		<span class='ocr_line' title="bbox 1922 2147 1930 2177; baseline 0 0; x_x_height 20.66666603088379; x_asc_height 30">
+			<span class='ocrx_word' id='word_1_200' title='bbox 1922 2147 1930 2177;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>.</span>
+		</span>
+		<span class='ocr_line' title="bbox 1450 2172 1453 2184; baseline 0 0; x_x_height 8; x_asc_height 12">
+			<span class='ocrx_word' id='word_1_202' title='bbox 1450 2172 1453 2184;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>i</span>
+		</span>
+		<span class='ocr_line' title="bbox 1450 2185 1453 2194; baseline 0 0; x_x_height 10; x_asc_height 9">
+			<span class='ocrx_word' id='word_1_203' title='bbox 1450 2185 1453 2194;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>i</span>
+		</span>
+		<span class='ocr_line' title="bbox 1519 2237 1812 2271; baseline -0.006826 0; x_x_height 22.259260177612305; x_asc_height 33">
+			<span class='ocrx_word' id='word_1_204' title='bbox 1519 2238 1605 2271;x_wconf 100;x_font Verdana' lang='eng' style='font-variant:small-caps;font-family:Verdana'>DEA</span>
+			<span class='ocrx_word' id='word_1_205' title='bbox 1618 2237 1812 2271;x_wconf 0;x_font Verdana' lang='eng' style='font-variant:small-caps;font-family:Verdana'>NOTIFIED</span>
+		</span>
+		<span class='ocr_line' title="bbox 132 2308 1453 2351; baseline -0.004542 -6; x_x_height 21; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_206' title='bbox 132 2317 260 2346;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Revised</span>
+			<span class='ocrx_word' id='word_1_207' title='bbox 274 2317 413 2346;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>03/10/09</span>
+			<span class='ocrx_word' id='word_1_208' title='bbox 704 2317 774 2344;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>New</span>
+			<span class='ocrx_word' id='word_1_209' title='bbox 784 2317 941 2344;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Customer</span>
+			<span class='ocrx_word' id='word_1_210' title='bbox 952 2316 1070 2344;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Service</span>
+			<span class='ocrx_word' id='word_1_211' title='bbox 1083 2316 1282 2351;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Request.vad</span>
+			<span class='ocrx_word' id='word_1_212' title='bbox 1450 2308 1453 2344;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>§</span>
+		</span>
+		<span class='ocr_line' title="bbox 83 2462 1936 2492; baseline -0.003778 0; x_x_height 16; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_214' title='bbox 83 2468 232 2492;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>Confidential</span>
+			<span class='ocrx_word' id='word_1_215' title='bbox 1686 2463 1784 2486;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>MAL-MI</span>
+			<span class='ocrx_word' id='word_1_216' title='bbox 1794 2462 1936 2485;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>000004867</span>
+		</span>
+		<span class='ocr_line' title="bbox 144 2507 1878 2537; baseline -0.00346 -1; x_x_height 15.73611068725586; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_217' title='bbox 144 2511 534 2537;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>CONFiDENTiALx-SUBJECT</span>
+			<span class='ocrx_word' id='word_1_218' title='bbox 543 2511 585 2534;x_wconf 100;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>TO</span>
+			<span class='ocrx_word' id='word_1_219' title='bbox 596 2510 788 2534;x_wconf 0;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>PROTECTIVE</span>
+			<span class='ocrx_word' id='word_1_220' title='bbox 798 2510 906 2534;x_wconf 0;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>ORDER</span>
+			<span class='ocrx_word' id='word_1_221' title='bbox 1582 2507 1878 2537;x_wconf 0;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>MNK-T1_0000263876</span>
+		</span>
+		<span class='ocr_line' title="bbox 1641 2595 1935 2619; baseline 0 0; x_x_height 16.33333396911621; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_222' title='bbox 1641 2595 1744 2619;x_wconf 100;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>MNKOI</span>
+			<span class='ocrx_word' id='word_1_223' title='bbox 1758 2595 1935 2619;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>0004565050</span>
+		</span>
+	</div>
+</body>
+</html>

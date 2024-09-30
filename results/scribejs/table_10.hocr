@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title></title>
+	<meta name='font-metrics' content='{"SansDefault":{"normal":{"width":{"44":0.173913,"48":0.8811587362320001,"49":0.463767536232,"50":0.927536463768,"52":0.9739128,"53":0.8811587362320001,"67":1.130435,"79":1.26087,"80":0.956522,"97":0.869565,"98":0.869565,"99":0.826087,"101":0.826087,"103":0.826087,"105":0.130435,"110":0.73913,"111":0.826087,"112":0.869565,"114":0.434783,"115":0.782609,"116":0.434783},"height":{"44":0.434783,"48":1.391304,"49":1.344927663768,"50":1.391304,"52":1.344927663768,"53":1.391304,"67":1.391304,"79":1.391304,"80":1.304348,"97":1,"98":1.347826,"99":1,"101":1,"103":1.347826,"105":1.304348,"110":0.956522,"111":1,"112":1.347826,"114":0.956522,"115":1,"116":1.26087},"kerning":{"80,114":0.173913,"114,101":0.130435,"101,99":0.130435,"99,105":0.173913,"105,115":0.173913,"115,105":0.217391,"105,111":0.217391,"111,110":0.217391,"67,97":0.173913,"97,115":0.086957,"115,116":0.130435,"116,112":0.130435,"112,97":0.173913,"97,114":0.173913,"114,116":0.086957,"116,115":0.043478,"115,44":0.26087,"97,103":0.086957,"103,101":0.217391,"79,99":0.130435,"99,116":0.086957,"116,111":0.086957,"111,98":0.173913,"98,101":0.130435,"101,114":0.217391,"50,53":0.18550673623200004,"53,44":0.27826080000000003,"50,48":0.18550673623200004,"48,49":0.324637136232,"49,50":0.463767536232},"kerning2":{"80,114":0.17391300000000004,"114,101":0.13043499999999997,"101,99":0.13043499999999997,"99,105":0.173913,"105,115":0.17391299999999998,"115,105":0.21739100000000003,"105,111":0.2173909999999999,"111,110":0.21739200000000003,"67,97":0.17391299999999987,"97,115":0.08695600000000003,"115,116":0.130434,"116,112":0.13043499999999997,"112,97":0.17391299999999987,"97,114":0.17391300000000004,"114,116":0.08695599999999998,"116,115":0.04347800000000002,"115,44":0.26086999999999994,"97,103":0.08695600000000003,"103,101":0.2173909999999999,"79,99":0.13043499999999997,"99,116":0.08695599999999998,"116,111":0.08695600000000003,"111,98":0.17391299999999987,"98,101":0.13043499999999997,"101,114":0.21739100000000006,"50,53":0.185508127536,"53,44":0.28985453623199997,"50,48":0.185508127536,"48,49":0.32463852753600014,"49,50":0.46376753623200007},"variants":{},"heightCaps":1.391304,"obs":38,"obsCaps":3},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":38},"SerifDefault":{"normal":{"width":{"36":0.866667,"37":1.466667,"40":0.6,"41":0.533333,"44":0.333333,"45":0.533333,"46":0.2,"48":0.8666672,"49":0.5999994,"50":0.9333338,"51":0.8000006,"52":0.9333338,"53":0.8000006,"54":0.8666672,"55":0.8000006,"56":0.7333339999999999,"57":0.8666672,"65":1.4,"67":1.333333,"70":1.133333,"71":1.4,"73":0.533333,"77":1.733333,"78":0.761905,"79":1.333333,"80":1.066667,"83":0.962963,"84":1.2,"97":0.8,"98":0.866667,"99":0.8,"100":0.933333,"101":0.866667,"102":0.933333,"103":0.933333,"104":0.933333,"105":0.466667,"107":1,"108":0.466667,"109":1.4,"110":0.866667,"111":0.866667,"112":0.928571,"114":0.666667,"115":0.533333,"116":0.533333,"117":0.866667,"118":0.866667,"119":1.266667,"120":0.866667,"121":0.866667},"height":{"36":1.666667,"37":1.4,"40":1.733333,"41":1.733333,"44":0.533333,"45":0.133333,"46":0.2,"48":1.4,"49":1.4,"50":1.4,"51":1.4,"52":1.3333334,"53":1.4,"54":1.4,"55":1.4,"56":1.4,"57":1.4666666,"65":1.4,"67":1.4,"70":1.4,"71":1.4,"73":1.4,"77":1.4,"78":1.190476,"79":1.4,"80":1.4,"83":1.444444,"84":1.4,"97":1,"98":1.4,"99":0.933333,"100":1.4,"101":0.933333,"102":1.4,"103":1.4,"104":1.4,"105":1.4,"107":1.4,"108":1.4,"109":1,"110":1,"111":1,"112":1.333333,"114":1,"115":1,"116":1.2,"117":0.866667,"118":0.866667,"119":0.866667,"120":1.066667,"121":1.266667},"kerning":{"83,101":0.142857,"101,103":0.148148,"83,117":0.111111,"117,109":0.037037,"101,112":0.071429,"112,45":0.214286,"45,49":0.214286,"49,49":0.333333,"77,97":0.133333,"97,114":0.066667,"114,45":0,"49,51":0.1999998,"51,101":0.13333319999999999,"50,48":0,"48,48":0.06666659999999999,"48,55":0.06666659999999999,"48,56":0.13333319999999999,"48,57":0.06666659999999999,"48,49":0.1999998,"49,48":0.1999998,"49,50":0.13333319999999999,"78,101":0.095238,"101,116":0.066667,"73,110":0.066667,"110,118":0.2,"118,101":0.2,"101,115":0.133333,"115,116":0.333333,"116,109":0.066667,"109,101":-0.133333,"101,110":0.066667,"110,116":0.2,"67,97":-0.333333,"97,115":0.2,"80,114":0,"114,111":0,"111,100":0.2,"100,117":0.133333,"117,99":0.2,"99,116":0.133333,"116,115":0.133333,"36,53":0.066667,"53,54":0.13333319999999999,"54,56":0.06666659999999999,"56,46":0.1999998,"46,56":0.266667,"53,55":0.13333319999999999,"55,51":0.13333319999999999,"51,46":0.1999998,"46,51":0.2,"36,54":0.066667,"54,49":0.1999998,"50,52":-0.06666659999999999,"54,51":0.06666659999999999,"51,56":0.1999998,"56,50":0.1999998,"36,49":0.2,"49,44":0.26666639999999997,"44,55":0.066667,"55,54":0.13333319999999999,"54,55":0.06666659999999999,"55,46":0.1999998,"46,52":0.133333,"36,50":0.066667,"50,44":0.06666659999999999,"44,56":0.133333,"56,57":0.13333319999999999,"57,51":0.06666659999999999,"46,49":0.333333,"70,111":0,"111,114":0.133333,"114,103":0,"103,101":0.133333,"101,100":0.066667,"55,53":0.13333319999999999,"53,56":0.1999998,"46,53":0.2,"56,48":0.06666659999999999,"49,46":0.26666639999999997,"55,55":0.06666659999999999,"55,49":0.26666639999999997,"56,53":0.13333319999999999,"46,50":0.2,"57,48":0.06666659999999999,"48,51":0.06666659999999999,"46,54":0.2,"57,54":0.06666659999999999,"54,48":-0.26666639999999997,"48,46":0.13333319999999999,"46,57":0.2,"36,52":-0.133333,"52,44":0.13333319999999999,"44,48":0.066667,"55,48":0.13333319999999999,"46,55":0.2,"51,52":0.06666659999999999,"52,56":0.13333319999999999,"46,48":0.2,"52,49":0.13333319999999999,"49,52":0.13333319999999999,"52,46":0.13333319999999999,"52,54":0.06666659999999999,"56,55":0.13333319999999999,"53,53":0.13333319999999999,"54,46":0.13333319999999999,"56,51":0.06666659999999999,"54,53":0.06666659999999999,"53,46":0.1999998,"51,57":0.13333319999999999,"57,46":0.13333319999999999,"54,57":0.06666659999999999,"44,53":0.066667,"53,48":0.13333319999999999,"67,111":-0.2,"111,110":0.2,"110,115":0.266667,"115,111":0.333333,"111,108":0.2,"108,105":-0.133333,"105,100":0.066667,"100,97":0.133333,"97,116":0.066667,"116,101":0.133333,"55,56":0.13333319999999999,"54,44":0.13333319999999999,"83,97":0.133333,"97,108":0.133333,"108,101":-0.133333,"71,114":-0.133333,"111,119":0.2,"119,116":0.133333,"116,104":-0.2,"49,54":0.1999998,"54,37":0.13333319999999999,"49,57":0.1999998,"57,37":0.13333319999999999,"52,37":0.13333319999999999,"49,56":0.1999998,"56,37":0.1999998,"49,55":0.1999998,"55,37":0.1999998,"50,37":0.06666659999999999,"49,53":0.1999998,"53,37":0.1999998,"53,49":0.26666639999999997,"50,55":0,"105,110":0.133333,"110,99":0.2,"99,111":0.133333,"111,109":0.2,"50,49":0.13333319999999999,"50,51":-0.1999998,"51,51":0.13333319999999999,"52,57":0.06666659999999999,"50,54":0,"53,50":0.06666659999999999,"36,55":0.066667,"54,54":0.06666659999999999,"36,57":0.066667,"57,56":0.13333319999999999,"54,52":-0.1999998,"52,48":0.06666659999999999,"65,105":0.2,"105,114":-0.2,"114,102":-0.133333,"102,114":-0.2,"114,97":0,"97,109":0.133333,"55,57":0.13333319999999999,"114,112":-0.2,"112,111":0.2,"101,120":0.066667,"120,112":-0.2,"112,101":0.2,"115,101":0.333333,"40,51":0,"51,48":0.13333319999999999,"56,41":0.13333319999999999,"51,50":0.06666659999999999,"50,50":0,"50,41":0,"54,41":0.06666659999999999,"48,41":0.06666659999999999,"40,56":0.066667,"40,49":0.133333,"49,41":0.1999998,"50,46":0.06666659999999999,"48,54":0.06666659999999999,"57,55":0.06666659999999999,"53,57":0.13333319999999999,"79,112":0.066667,"101,114":0,"116,105":0.066667,"110,103":0.2,"48,37":0.13333319999999999,"51,37":0.1999998,"55,52":0.06666659999999999,"84,111":0,"111,116":0.2,"116,97":0.066667,"50,57":0,"57,57":0.06666659999999999,"56,49":0.26666639999999997,"52,53":0.06666659999999999,"50,53":-0.13333319999999999,"51,53":0.13333319999999999,"51,49":0.26666639999999997,"51,55":0.06666659999999999,"51,54":0.13333319999999999,"109,97":-0.2,"103,105":0.133333,"49,37":0.26666639999999997,"50,56":0.06666659999999999,"98,121":0.2,"114,107":-0.066667,"107,101":0,"65,101":0.214286,"111,115":0.285714,"115,112":0.333333,"112,97":0.214286,"97,99":0.142857,"99,101":0.142857,"57,49":0.1999998,"44,49":0.2,"54,50":0.06666659999999999,"44,50":-0.133333,"51,44":0.1999998,"44,54":0.066667,"48,52":-0.13333319999999999,"53,44":0.1999998,"44,57":0.066667,"80,111":0.066667,"119,101":0.133333,"48,53":0.06666659999999999,"53,51":0.13333319999999999,"44,52":0,"53,52":0.06666659999999999,"44,51":0.066667,"56,54":0.13333319999999999,"71,101":-0.133333,"110,101":0.2,"79,116":0.066667,"104,101":0.2,"52,51":0.06666659999999999,"55,44":0.13333319999999999,"57,44":0.13333319999999999,"99,104":0.066667,"104,97":0.2,"97,110":0.066667,"101,41":0.066667,"45,54":0.133333,"52,50":0,"45,51":0.133333},"kerning2":{"83,101":0.204762,"101,103":0.10370400000000002,"83,117":0.281481,"117,109":0.266667,"101,112":0.07142899999999996,"112,45":0.2523810000000001,"45,49":0.2571436,"49,49":0.33333440000000003,"77,97":0.13333299999999992,"97,114":0.11904700000000001,"114,45":0.03809600000000002,"49,51":0.19999980000000006,"51,101":0.13333340000000005,"50,48":0,"48,48":0.06666660000000002,"48,55":0.06666660000000002,"48,56":0.13333320000000004,"48,57":0.06666660000000002,"48,49":0.2000012,"49,48":0.19999980000000006,"49,50":0.13333320000000004,"78,101":-0.19999999999999996,"101,116":0.06666700000000003,"73,110":0.066666,"110,118":0.20000000000000007,"118,101":0.20000000000000007,"101,115":0.13333400000000006,"115,116":0.333334,"116,109":0.06666700000000003,"109,101":-0.06666699999999992,"101,110":0.066666,"110,116":0.20000000000000007,"67,97":-0.13333300000000003,"97,115":0.20000000000000007,"80,114":0,"114,111":0,"111,100":0.19999999999999996,"100,117":0.13333300000000003,"117,99":0.19999999999999996,"99,116":0.13333400000000006,"116,115":0.13333400000000006,"36,53":0.06666640000000001,"53,54":0.13333320000000004,"54,56":0.13333320000000004,"56,46":0.1999996,"46,56":0.26666600000000007,"53,55":0.13333320000000004,"55,51":0.13333320000000004,"51,46":0.1999996,"46,51":0.19999940000000005,"36,54":0.0666658,"54,49":0.2000012,"50,52":-0.06666660000000002,"54,51":0.06666660000000002,"51,56":0.19999980000000006,"56,50":0.19999980000000006,"36,49":0.20000060000000008,"49,44":0.26666639999999997,"44,55":0.06666640000000001,"55,54":0.13333320000000004,"54,55":0.06666660000000002,"55,46":0.1999996,"46,52":0.13333320000000004,"36,50":-8.000000000230045e-7,"50,44":0.06666660000000002,"44,56":0.13333300000000003,"56,57":0.13333320000000004,"57,51":0.06666660000000002,"46,49":0.3333336,"70,111":0,"111,114":0.13333300000000003,"114,103":0,"103,101":0.13333300000000003,"101,100":0.06666700000000003,"55,53":0.13333320000000004,"53,56":0.19999980000000006,"46,53":0.19999940000000005,"56,48":0.06666660000000002,"49,46":0.26666619999999996,"55,55":0.06666660000000002,"55,49":0.2666678,"56,53":0.13333320000000004,"46,50":0.19999919999999993,"57,48":0.06666660000000002,"48,51":0.06666660000000002,"46,54":0.19999980000000006,"57,54":0.06666660000000002,"54,48":-0.06666660000000002,"48,46":0.13333299999999998,"46,57":0.19999980000000006,"36,52":-0.20000079999999998,"52,44":0.13333319999999999,"44,48":0.0666658,"55,48":0.13333320000000004,"46,55":0.19999940000000005,"51,52":0.06666660000000002,"52,56":0.13333320000000004,"46,48":0.19999980000000006,"52,49":0.13333459999999997,"49,52":0.13333320000000004,"52,46":0.13333299999999998,"52,54":0.19999980000000006,"56,55":0.13333320000000004,"53,53":0.13333320000000004,"54,46":0.13333299999999998,"56,51":0.06666660000000002,"54,53":0.06666660000000002,"53,46":0.1999996,"51,57":0.13333320000000004,"57,46":0.13333299999999998,"54,57":0.06666660000000002,"44,53":0.06666640000000001,"53,48":0.19999980000000006,"67,111":-0.13333399999999995,"111,110":0.20000000000000007,"110,115":0.2666670000000001,"115,111":0.333333,"111,108":0.2,"108,105":-0.06666699999999998,"105,100":0.06666700000000003,"100,97":0.13333299999999992,"97,116":0.06666700000000003,"116,101":0.20000000000000007,"55,56":0.13333320000000004,"54,44":0.13333319999999999,"83,97":0.13333299999999992,"97,108":0.13333299999999998,"108,101":0,"71,114":-0.2,"111,119":0.19999999999999996,"119,116":0.333334,"116,104":-0.19999999999999996,"49,54":0.19999980000000006,"54,37":0.13333280000000003,"49,57":0.19999980000000006,"57,37":0.13333280000000003,"52,37":0.13333280000000003,"49,56":0.19999980000000006,"56,37":0.19999940000000005,"49,55":0.19999980000000006,"55,37":0.19999940000000005,"50,37":0.06666619999999979,"49,53":0.19999980000000006,"53,37":0.19999940000000005,"53,49":0.2666678,"50,55":0,"105,110":0.26666599999999996,"110,99":0.19999999999999996,"99,111":0.13333300000000003,"111,109":0.3333330000000001,"50,49":0.13333459999999997,"50,51":0,"51,51":0.13333320000000004,"52,57":0.06666660000000002,"50,54":0,"53,50":0.06666660000000002,"36,55":0.06666640000000001,"54,54":0.06666660000000002,"36,57":0.0666658,"57,56":0.13333320000000004,"54,52":-0.13333320000000004,"52,48":0.06666660000000002,"65,105":0.2,"105,114":-0.13333400000000006,"114,102":-0.13333299999999992,"102,114":-0.2,"114,97":0,"97,109":0.13333300000000015,"55,57":0.19999980000000006,"114,112":-0.261904,"112,111":0.20000000000000007,"101,120":0.066666,"120,112":-0.19523800000000002,"112,101":0.20000000000000007,"115,101":0.333333,"40,51":-5.999999999062311e-7,"51,48":0.13333320000000004,"56,41":0.13333300000000003,"51,50":0.06666660000000002,"50,50":0,"50,41":-2.0000000000575113e-7,"54,41":0.06666640000000001,"48,41":0.06666640000000001,"40,56":0.06666600000000011,"40,49":0.13333360000000005,"49,41":0.20000099999999998,"50,46":0.06666639999999996,"48,54":0.06666660000000002,"57,55":0.06666660000000002,"53,57":0.13333320000000004,"79,112":0.004761999999999933,"101,114":-0.06666700000000003,"116,105":0,"110,103":0.19999999999999996,"48,37":0.13333280000000003,"51,37":0.19999940000000005,"55,52":0.06666660000000002,"84,111":0,"111,116":0.20000000000000007,"116,97":0.06666699999999992,"50,57":0,"57,57":0.06666660000000002,"56,49":0.2666678,"52,53":0.06666660000000002,"50,53":0,"51,53":0.13333320000000004,"51,49":0.2666678,"51,55":0.06666660000000002,"51,54":0.13333320000000004,"109,97":0.06666699999999992,"103,105":0.2,"49,37":0.26666599999999985,"50,56":0.06666660000000002,"98,121":0.20000000000000007,"114,107":-0.06666700000000003,"107,101":0,"65,101":0.27619000000000005,"111,115":0.32381000000000004,"115,112":0.28571499999999994,"112,97":0.2714289999999999,"97,99":0.19999999999999996,"99,101":0.204762,"57,49":0.2000012,"44,49":0.20000060000000008,"54,50":0.06666660000000002,"44,50":-8.000000000230045e-7,"51,44":0.19999979999999995,"44,54":0.0666658,"48,52":-0.06666660000000002,"53,44":0.19999979999999995,"44,57":0.0666658,"80,111":0.066666,"119,101":0.13333300000000003,"48,53":0.06666660000000002,"53,51":0.13333320000000004,"44,52":-8.000000000230045e-7,"53,52":0.06666660000000002,"44,51":0.06666640000000001,"56,54":0.13333320000000004,"71,101":-0.06666699999999992,"110,101":0.20000000000000007,"79,116":0.2666670000000001,"104,101":0.20000000000000007,"52,51":0.06666660000000002,"55,44":0.13333319999999999,"57,44":0.13333319999999999,"99,104":0.06666700000000003,"104,97":0.19999999999999996,"97,110":0.066666,"101,41":0.06666700000000003,"45,54":0.13333280000000003,"52,50":0,"45,51":0.13333240000000002},"variants":{},"heightCaps":1.4,"obs":2186,"obsCaps":59},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":2186},"Default":{"normal":{"width":{"37":1.466667,"38":1.466667,"40":0.6,"45":0.533333,"46":0.2,"48":0.8666672,"49":0.5999994,"50":1.0000004,"51":0.8000006,"52":0.9333338,"73":0.533333,"101":0.866667,"109":1.6,"110":0.866667,"115":0.533333,"116":0.533333,"118":0.866667},"height":{"37":1.4,"38":1.4,"40":1.733333,"45":0.133333,"46":0.2,"48":1.4,"49":1.4,"50":1.4,"51":1.4,"52":1.3333334,"73":1.4,"101":1,"109":1,"110":1,"115":1,"116":1.2,"118":0.866667},"kerning":{"73,110":0.066667,"110,118":0.2,"118,101":0.2,"101,115":0.133333,"115,116":0.333333,"116,109":0.066667,"109,101":-0.133333,"101,110":0.066667,"110,116":0.2,"50,50":-0.1999998,"50,46":0.06666659999999999,"46,49":0.333333,"49,37":0.26666639999999997,"51,48":0.06666659999999999,"48,46":0.13333319999999999,"40,37":0.066667,"45,49":0.2,"49,49":0.333333,"49,46":0.26666639999999997,"52,46":0.13333319999999999},"kerning2":{"73,110":0.066666,"110,118":0.20000000000000007,"118,101":0.20000000000000007,"101,115":0.13333400000000006,"115,116":0.333334,"116,109":0.06666699999999981,"109,101":-0.06666699999999992,"101,110":0.066666,"110,116":0.20000000000000007,"50,50":-0.19999980000000006,"50,46":0.06666639999999996,"46,49":0.3333336,"49,37":0.26666599999999985,"51,48":0.06666660000000002,"48,46":0.13333299999999998,"40,37":0.06666600000000011,"45,49":0.20000060000000008,"49,49":0.33333440000000003,"49,46":0.26666619999999996,"52,46":0.13333299999999998},"variants":{},"heightCaps":1.4,"obs":49,"obsCaps":2},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":49}}'></meta>
+	<meta name='default-font' content='SerifDefault'></meta>
+	<meta name='sans-font' content='Carlito'></meta>
+	<meta name='serif-font' content='NimbusRomNo9L'></meta>
+	<meta name='enable-opt' content='undefined'></meta>
+	<meta name='layout' content='[{"default":true,"boxes":{}}]'></meta>
+	<meta name='layout-data-table' content='[{"default":true,"tables":[]}]'></meta>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<meta name='ocr-system' content='scribeocr' />
+	<meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf ocrp_lang ocrp_dir ocrp_font ocrp_fsize'/>
+</head>
+<body>
+	<div class='ocr_page' title='bbox 0 0 3183 2273'>
+		<span class='ocr_line' title="bbox 1366 51 1370 64; baseline 0 0; x_asc_height 6">
+			<span class='ocrx_word' id='word_1_0' title='bbox 1366 51 1370 64;x_wconf 0' lang='eng'>\I</span>
+		</span>
+		<span class='ocr_line' title="bbox 1366 65 1370 72; baseline 0 0; x_x_height 10; x_asc_height 7">
+			<span class='ocrx_word' id='word_1_1' title='bbox 1366 65 1370 72;x_wconf 0' lang='eng'>i</span>
+		</span>
+		<span class='ocr_line' title="bbox 65 72 1953 118; baseline -0.00053 -8; x_x_height 23; x_asc_height 30">
+			<span class='ocrx_word' id='word_1_2' title='bbox 65 79 228 110;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Precision</span>
+			<span class='ocrx_word' id='word_1_3' title='bbox 245 78 429 118;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Castparts,</span>
+			<span class='ocrx_word' id='word_1_4' title='bbox 446 87 535 118;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>page</span>
+			<span class='ocrx_word' id='word_1_5' title='bbox 550 80 571 109;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>4</span>
+			<span class='ocrx_word' id='word_1_6' title='bbox 1004 78 1149 110;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>October</span>
+			<span class='ocrx_word' id='word_1_7' title='bbox 1163 80 1216 115;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>25,</span>
+			<span class='ocrx_word' id='word_1_8' title='bbox 1232 80 1322 110;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>2012</span>
+			<span class='ocrx_word' id='word_1_9' title='bbox 1414 74 1647 109;x_wconf 0;x_font Verdana' lang='eng' style='font-variant:small-caps;font-family:Verdana'>Davenpory</span>
+			<span class='ocrx_word' id='word_1_10' title='bbox 1664 76 1702 108;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>&amp;</span>
+			<span class='ocrx_word' id='word_1_11' title='bbox 1718 72 1911 109;x_wconf 0;x_font Verdana' lang='eng' style='font-variant:small-caps;font-family:Verdana'>Company</span>
+			<span class='ocrx_word' id='word_1_12' title='bbox 1938 82 1953 99;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>=</span>
+		</span>
+		<span class='ocr_line' title="bbox 1982 74 2336 117; baseline 0.002825 -9; x_x_height 27; x_asc_height 35">
+			<span class='ocrx_word' id='word_1_14' title='bbox 1982 105 1984 108;x_wconf 0' lang='eng'>.</span>
+			<span class='ocrx_word' id='word_1_14b' title='bbox 1982 82 2128 117;x_wconf 0' lang='eng'>Eouary</span>
+			<span class='ocrx_word' id='word_1_17' title='bbox 2144 74 2336 109;x_wconf 0;x_font Georgia' lang='eng' style='font-family:Georgia'>Ressangu</span>
+		</span>
+		<span class='ocr_line' title="bbox 78 203 398 252; baseline 0 -10; x_x_height 27; x_asc_height 39">
+			<span class='ocrx_word' id='word_1_19' title='bbox 78 203 183 242;x_wconf 100;x_font Georgia_Bold' lang='eng' style='font-variant:small-caps;font-family:Georgia_Bold'>PCP</span>
+			<span class='ocrx_word' id='word_1_20' title='bbox 200 203 279 252;x_wconf 100;x_font Georgia_Bold' lang='eng' style='font-family:Georgia_Bold'>Seg</span>
+			<span class='ocrx_word' id='word_1_21' title='bbox 296 203 398 242;x_wconf 100;x_font Georgia_Bold' lang='eng' style='font-family:Georgia_Bold'>Sum</span>
+		</span>
+		<span class='ocr_line' title="bbox 66 287 3123 317; baseline 0 -9; x_x_height 14; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_20b' title='bbox 66 287 173 308;x_wconf 0' lang='eng'>Calendar</span>
+			<span class='ocrx_word' id='word_1_21b' title='bbox 180 287 272 313;x_wconf 0' lang='eng'>Quarter</span>
+			<span class='ocrx_word' id='word_1_23' title='bbox 466 287 544 308;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Jun-11</span>
+			<span class='ocrx_word' id='word_1_24' title='bbox 597 287 677 313;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Sep-11</span>
+			<span class='ocrx_word' id='word_1_25' title='bbox 727 287 810 308;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Dec-11</span>
+			<span class='ocrx_word' id='word_1_26' title='bbox 857 287 945 308;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Mar-12</span>
+			<span class='ocrx_word' id='word_1_27' title='bbox 997 287 1078 308;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Jun-12</span>
+			<span class='ocrx_word' id='word_1_28' title='bbox 1128 287 1211 313;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Sep-12</span>
+			<span class='ocrx_word' id='word_1_29' title='bbox 1244 287 1343 308;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Dec-12e</span>
+			<span class='ocrx_word' id='word_1_30' title='bbox 1375 287 1476 308;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Mar-13e</span>
+			<span class='ocrx_word' id='word_1_31' title='bbox 1514 287 1609 308;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Jun-13e</span>
+			<span class='ocrx_word' id='word_1_32' title='bbox 1646 287 1741 313;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Sep-13e</span>
+			<span class='ocrx_word' id='word_1_33' title='bbox 1776 287 1874 308;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Dec-13e</span>
+			<span class='ocrx_word' id='word_1_34' title='bbox 1906 287 2007 308;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Mar-14e</span>
+			<span class='ocrx_word' id='word_1_35' title='bbox 2111 287 2164 308;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2007</span>
+			<span class='ocrx_word' id='word_1_36' title='bbox 2244 287 2297 308;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2008</span>
+			<span class='ocrx_word' id='word_1_37' title='bbox 2377 287 2431 309;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2009</span>
+			<span class='ocrx_word' id='word_1_38' title='bbox 2509 287 2564 308;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2010</span>
+			<span class='ocrx_word' id='word_1_39' title='bbox 2642 287 2694 308;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2011</span>
+			<span class='ocrx_word' id='word_1_40' title='bbox 2775 287 2830 308;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2012</span>
+			<span class='ocrx_word' id='word_1_41' title='bbox 2894 287 2962 308;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2013e</span>
+			<span class='ocrx_word' id='word_1_42' title='bbox 3027 287 3123 317;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2014e</span>
+		</span>
+		<span class='ocr_line' title="bbox 68 365 3123 394; baseline 0.000327 -9; x_x_height 21">
+			<span class='ocrx_word' id='word_1_43' title='bbox 68 365 110 390;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Net</span>
+			<span class='ocrx_word' id='word_1_44' title='bbox 116 365 165 386;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>sale:</span>
+			<span class='ocrx_word' id='word_1_45' title='bbox 3120 391 3123 394;x_wconf 0' lang='eng'>.</span>
+		</span>
+		<span class='ocr_line' title="bbox 66 402 3123 433; baseline 0 -8; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_46' title='bbox 66 404 202 425;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Investment</span>
+			<span class='ocrx_word' id='word_1_47' title='bbox 210 404 264 425;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Cast</span>
+			<span class='ocrx_word' id='word_1_48' title='bbox 271 404 377 425;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Products</span>
+			<span class='ocrx_word' id='word_1_49' title='bbox 471 402 545 427;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$568.8</span>
+			<span class='ocrx_word' id='word_1_50' title='bbox 604 402 678 427;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$573.3</span>
+			<span class='ocrx_word' id='word_1_51' title='bbox 737 402 810 427;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$582.1</span>
+			<span class='ocrx_word' id='word_1_52' title='bbox 870 402 944 427;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$602.7</span>
+			<span class='ocrx_word' id='word_1_53' title='bbox 1002 402 1076 427;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$619.7</span>
+			<span class='ocrx_word' id='word_1_54' title='bbox 1135 402 1210 427;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$6124</span>
+			<span class='ocrx_word' id='word_1_55' title='bbox 1268 402 1344 427;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$6382</span>
+			<span class='ocrx_word' id='word_1_56' title='bbox 1401 402 1475 427;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$660.8</span>
+			<span class='ocrx_word' id='word_1_57' title='bbox 1534 402 1608 427;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$697.3</span>
+			<span class='ocrx_word' id='word_1_58' title='bbox 1667 402 1739 427;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$704.1</span>
+			<span class='ocrx_word' id='word_1_59' title='bbox 1799 402 1872 427;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$733.1</span>
+			<span class='ocrx_word' id='word_1_60' title='bbox 1932 402 2007 427;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$758.6</span>
+			<span class='ocrx_word' id='word_1_61' title='bbox 2070 402 2165 429;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$1,767.4</span>
+			<span class='ocrx_word' id='word_1_62' title='bbox 2203 402 2298 429;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$2,160.0</span>
+			<span class='ocrx_word' id='word_1_63' title='bbox 2335 402 2429 429;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$2,272.1</span>
+			<span class='ocrx_word' id='word_1_64' title='bbox 2468 402 2563 429;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$1,851.3</span>
+			<span class='ocrx_word' id='word_1_65' title='bbox 2601 402 2696 429;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$2,095.6</span>
+			<span class='ocrx_word' id='word_1_66' title='bbox 2734 402 2829 429;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$2,326.9</span>
+			<span class='ocrx_word' id='word_1_67' title='bbox 2867 402 2960 429;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$2,531.1</span>
+			<span class='ocrx_word' id='word_1_68' title='bbox 3000 402 3093 429;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$2,893.1</span>
+			<span class='ocrx_word' id='word_1_69' title='bbox 3120 430 3123 433;x_wconf 0' lang='eng'>_</span>
+		</span>
+		<span class='ocr_line' title="bbox 65 441 3123 472; baseline -0.000327 -8; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_70' title='bbox 65 443 151 470;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Forged</span>
+			<span class='ocrx_word' id='word_1_71' title='bbox 159 443 265 464;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Products</span>
+			<span class='ocrx_word' id='word_1_72' title='bbox 485 443 545 464;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>758.5</span>
+			<span class='ocrx_word' id='word_1_73' title='bbox 619 443 679 464;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>801.4</span>
+			<span class='ocrx_word' id='word_1_74' title='bbox 751 443 811 464;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>771.5</span>
+			<span class='ocrx_word' id='word_1_75' title='bbox 884 443 942 464;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>858.1</span>
+			<span class='ocrx_word' id='word_1_76' title='bbox 1017 443 1078 465;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>857.2</span>
+			<span class='ocrx_word' id='word_1_77' title='bbox 1149 443 1211 464;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>761.2</span>
+			<span class='ocrx_word' id='word_1_78' title='bbox 1282 443 1343 465;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>903.6</span>
+			<span class='ocrx_word' id='word_1_79' title='bbox 1396 443 1475 468;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,002.8</span>
+			<span class='ocrx_word' id='word_1_80' title='bbox 1548 443 1608 465;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>991.3</span>
+			<span class='ocrx_word' id='word_1_81' title='bbox 1680 443 1741 465;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>960.9</span>
+			<span class='ocrx_word' id='word_1_82' title='bbox 1813 443 1873 465;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>967.3</span>
+			<span class='ocrx_word' id='word_1_83' title='bbox 1927 443 2008 468;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,151.2</span>
+			<span class='ocrx_word' id='word_1_84' title='bbox 2083 443 2165 468;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2,334.6</span>
+			<span class='ocrx_word' id='word_1_85' title='bbox 2216 443 2296 468;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>3,168.1</span>
+			<span class='ocrx_word' id='word_1_86' title='bbox 2349 443 2431 468;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2,978.4</span>
+			<span class='ocrx_word' id='word_1_87' title='bbox 2482 443 2564 468;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2,283.0</span>
+			<span class='ocrx_word' id='word_1_88' title='bbox 2615 443 2696 468;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2,779.7</span>
+			<span class='ocrx_word' id='word_1_89' title='bbox 2748 443 2828 468;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>3,189.5</span>
+			<span class='ocrx_word' id='word_1_90' title='bbox 2867 441 2961 468;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$3,524.8</span>
+			<span class='ocrx_word' id='word_1_91' title='bbox 3000 441 3094 468;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$4,070.7</span>
+			<span class='ocrx_word' id='word_1_92' title='bbox 3120 469 3123 472;x_wconf 0' lang='eng'>_</span>
+		</span>
+		<span class='ocr_line' title="bbox 65 480 3095 507; baseline 0 -4; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_93' title='bbox 65 482 170 503;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Alrframe</span>
+			<span class='ocrx_word' id='word_1_94' title='bbox 177 482 283 503;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Products</span>
+			<span class='ocrx_word' id='word_1_95' title='bbox 485 482 546 503;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>348.0</span>
+			<span class='ocrx_word' id='word_1_96' title='bbox 617 482 679 504;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>414.9</span>
+			<span class='ocrx_word' id='word_1_97' title='bbox 750 482 813 503;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>463.2</span>
+			<span class='ocrx_word' id='word_1_98' title='bbox 882 482 944 504;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>487.9</span>
+			<span class='ocrx_word' id='word_1_99' title='bbox 1015 482 1076 504;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>492.8</span>
+			<span class='ocrx_word' id='word_1_100' title='bbox 1149 482 1210 504;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>556.9</span>
+			<span class='ocrx_word' id='word_1_101' title='bbox 1282 482 1342 503;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>583.8</span>
+			<span class='ocrx_word' id='word_1_102' title='bbox 1415 482 1476 504;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>603.9</span>
+			<span class='ocrx_word' id='word_1_103' title='bbox 1548 482 1609 503;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>565.6</span>
+			<span class='ocrx_word' id='word_1_104' title='bbox 1680 482 1742 504;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>639.2</span>
+			<span class='ocrx_word' id='word_1_105' title='bbox 1813 482 1872 503;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>670.1</span>
+			<span class='ocrx_word' id='word_1_106' title='bbox 1946 482 2005 504;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>693.1</span>
+			<span class='ocrx_word' id='word_1_107' title='bbox 2085 482 2165 507;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,247.0</span>
+			<span class='ocrx_word' id='word_1_108' title='bbox 2218 482 2296 507;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,500.1</span>
+			<span class='ocrx_word' id='word_1_109' title='bbox 2351 482 2430 507;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,550.7</span>
+			<span class='ocrx_word' id='word_1_110' title='bbox 2484 482 2562 507;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,333.1</span>
+			<span class='ocrx_word' id='word_1_111' title='bbox 2617 482 2696 507;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,344.8</span>
+			<span class='ocrx_word' id='word_1_112' title='bbox 2750 482 2829 507;x_wconf 0' lang='eng'>1,714.0</span>
+			<span class='ocrx_word' id='word_1_113' title='bbox 2867 480 2962 507;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$2,237.4</span>
+			<span class='ocrx_word' id='word_1_114' title='bbox 3000 480 3095 507;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$2,568.0</span>
+		</span>
+		<span class='ocr_line' title="bbox 66 518 3094 545; baseline 0 -4; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_115' title='bbox 66 520 226 541;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Consolidated</span>
+			<span class='ocrx_word' id='word_1_113b' title='bbox 235 523 273 541;x_wconf 0' lang='eng'>net</span>
+			<span class='ocrx_word' id='word_1_114b' title='bbox 282 520 338 541;x_wconf 0' lang='eng'>sales</span>
+			<span class='ocrx_word' id='word_1_117' title='bbox 451 518 545 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$1,675.3</span>
+			<span class='ocrx_word' id='word_1_118' title='bbox 583 518 679 545;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$1,789.6</span>
+			<span class='ocrx_word' id='word_1_119' title='bbox 716 518 811 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$1,816.8</span>
+			<span class='ocrx_word' id='word_1_120' title='bbox 849 518 943 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$1,948.7</span>
+			<span class='ocrx_word' id='word_1_121' title='bbox 982 518 1076 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$1,969.7</span>
+			<span class='ocrx_word' id='word_1_122' title='bbox 1115 518 1209 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$1,930.5</span>
+			<span class='ocrx_word' id='word_1_123' title='bbox 1248 518 1343 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$2,125.6</span>
+			<span class='ocrx_word' id='word_1_124' title='bbox 1380 518 1475 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$2,267.5</span>
+			<span class='ocrx_word' id='word_1_125' title='bbox 1513 518 1610 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$2,254.2</span>
+			<span class='ocrx_word' id='word_1_126' title='bbox 1646 518 1742 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$2,304.2</span>
+			<span class='ocrx_word' id='word_1_127' title='bbox 1779 518 1873 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$2,370.5</span>
+			<span class='ocrx_word' id='word_1_128' title='bbox 1912 518 2006 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$2,602.8</span>
+			<span class='ocrx_word' id='word_1_129' title='bbox 2070 518 2165 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$5.349.0</span>
+			<span class='ocrx_word' id='word_1_130' title='bbox 2203 518 2299 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$6,828.2</span>
+			<span class='ocrx_word' id='word_1_131' title='bbox 2335 518 2432 545;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$6,801.2</span>
+			<span class='ocrx_word' id='word_1_132' title='bbox 2468 518 2564 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$5,467.4</span>
+			<span class='ocrx_word' id='word_1_133' title='bbox 2601 518 2694 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$6,220.1</span>
+			<span class='ocrx_word' id='word_1_134' title='bbox 2734 518 2829 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$7,230.4</span>
+			<span class='ocrx_word' id='word_1_135' title='bbox 2867 518 2961 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$8,293.3</span>
+			<span class='ocrx_word' id='word_1_136' title='bbox 3000 518 3094 545;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$9,531.7</span>
+		</span>
+		<span class='ocr_line' title="bbox 66 603 3103 625; baseline 0 -1; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_137' title='bbox 66 603 125 624;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Sales</span>
+			<span class='ocrx_word' id='word_1_138' title='bbox 137 603 223 624;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Growth</span>
+			<span class='ocrx_word' id='word_1_139' title='bbox 505 603 554 624;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>16%</span>
+			<span class='ocrx_word' id='word_1_140' title='bbox 638 603 687 625;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>19%</span>
+			<span class='ocrx_word' id='word_1_141' title='bbox 771 603 819 624;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>14%</span>
+			<span class='ocrx_word' id='word_1_142' title='bbox 904 603 952 624;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>16%</span>
+			<span class='ocrx_word' id='word_1_143' title='bbox 1037 603 1085 624;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>18%</span>
+			<span class='ocrx_word' id='word_1_144' title='bbox 1182 603 1218 624;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8%</span>
+			<span class='ocrx_word' id='word_1_145' title='bbox 1302 603 1351 624;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>17%</span>
+			<span class='ocrx_word' id='word_1_146' title='bbox 1435 603 1484 624;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>16%</span>
+			<span class='ocrx_word' id='word_1_147' title='bbox 1568 603 1616 624;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>14%</span>
+			<span class='ocrx_word' id='word_1_148' title='bbox 1701 603 1749 625;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>19%</span>
+			<span class='ocrx_word' id='word_1_149' title='bbox 1834 603 1882 624;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>12%</span>
+			<span class='ocrx_word' id='word_1_150' title='bbox 1966 603 2015 624;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>15%</span>
+			<span class='ocrx_word' id='word_1_151' title='bbox 2102 603 2173 625;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>51.9%</span>
+			<span class='ocrx_word' id='word_1_152' title='bbox 2235 603 2306 624;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>27.7%</span>
+			<span class='ocrx_word' id='word_1_153' title='bbox 2372 603 2439 624;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-0.4%</span>
+			<span class='ocrx_word' id='word_1_154' title='bbox 2491 603 2571 625;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-19.6%</span>
+			<span class='ocrx_word' id='word_1_155' title='bbox 2635 603 2704 624;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>13.8%</span>
+			<span class='ocrx_word' id='word_1_156' title='bbox 2768 603 2837 625;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>16.2%</span>
+			<span class='ocrx_word' id='word_1_157' title='bbox 2901 603 2970 624;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>14.7%</span>
+			<span class='ocrx_word' id='word_1_158' title='bbox 3034 603 3103 625;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>14.9%</span>
+		</span>
+		<span class='ocr_line' title="bbox 65 680 373 707; baseline 0 -5; x_x_height 15; x_asc_height 25">
+			<span class='ocrx_word' id='word_1_159' title='bbox 65 681 191 707;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Operating</span>
+			<span class='ocrx_word' id='word_1_160' title='bbox 200 680 288 702;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>income</span>
+			<span class='ocrx_word' id='word_1_159b' title='bbox 297 681 373 706;x_wconf 0' lang='eng'>(loss):</span>
+		</span>
+		<span class='ocr_line' title="bbox 66 718 3095 743; baseline 0 -2; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_163' title='bbox 66 720 202 741;x_wconf 100' lang='eng'>Investment</span>
+			<span class='ocrx_word' id='word_1_164' title='bbox 210 720 264 741;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Cast</span>
+			<span class='ocrx_word' id='word_1_165' title='bbox 271 720 377 741;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Products</span>
+			<span class='ocrx_word' id='word_1_166' title='bbox 471 718 544 743;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$187.1</span>
+			<span class='ocrx_word' id='word_1_167' title='bbox 604 718 679 743;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$189.9</span>
+			<span class='ocrx_word' id='word_1_168' title='bbox 737 718 812 743;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$193.0</span>
+			<span class='ocrx_word' id='word_1_169' title='bbox 870 718 945 743;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$196.4</span>
+			<span class='ocrx_word' id='word_1_170' title='bbox 1002 718 1075 743;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$206.1</span>
+			<span class='ocrx_word' id='word_1_171' title='bbox 1135 718 1209 743;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$208.8</span>
+			<span class='ocrx_word' id='word_1_172' title='bbox 1268 718 1342 743;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$213.8</span>
+			<span class='ocrx_word' id='word_1_173' title='bbox 1401 718 1475 743;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$223.3</span>
+			<span class='ocrx_word' id='word_1_174' title='bbox 1534 718 1609 743;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$233.6</span>
+			<span class='ocrx_word' id='word_1_175' title='bbox 1667 718 1741 743;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$235.9</span>
+			<span class='ocrx_word' id='word_1_176' title='bbox 1799 718 1873 743;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$249.3</span>
+			<span class='ocrx_word' id='word_1_177' title='bbox 1932 718 2006 743;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$261.7</span>
+			<span class='ocrx_word' id='word_1_178' title='bbox 2090 718 2163 743;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$386.1</span>
+			<span class='ocrx_word' id='word_1_179' title='bbox 2223 718 2297 743;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$521.8</span>
+			<span class='ocrx_word' id='word_1_180' title='bbox 2356 718 2430 743;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$582.7</span>
+			<span class='ocrx_word' id='word_1_181' title='bbox 2489 718 2564 743;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$560.0</span>
+			<span class='ocrx_word' id='word_1_182' title='bbox 2622 718 2696 743;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$665.5</span>
+			<span class='ocrx_word' id='word_1_183' title='bbox 2754 718 2829 743;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$766.4</span>
+			<span class='ocrx_word' id='word_1_184' title='bbox 2887 718 2960 743;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$852.1</span>
+			<span class='ocrx_word' id='word_1_185' title='bbox 3020 718 3095 743;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$980.4</span>
+		</span>
+		<span class='ocr_line' title="bbox 65 757 3095 786; baseline 0 -6; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_186' title='bbox 65 759 151 786;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Forged</span>
+			<span class='ocrx_word' id='word_1_187' title='bbox 159 759 265 780;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Products</span>
+			<span class='ocrx_word' id='word_1_188' title='bbox 487 759 545 780;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>156.5</span>
+			<span class='ocrx_word' id='word_1_189' title='bbox 620 759 677 780;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>164.1</span>
+			<span class='ocrx_word' id='word_1_190' title='bbox 753 759 812 780;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>172.6</span>
+			<span class='ocrx_word' id='word_1_191' title='bbox 885 759 944 781;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>193.0</span>
+			<span class='ocrx_word' id='word_1_192' title='bbox 1018 759 1077 781;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>195.6</span>
+			<span class='ocrx_word' id='word_1_193' title='bbox 1151 759 1211 780;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>155.2</span>
+			<span class='ocrx_word' id='word_1_194' title='bbox 1284 759 1343 781;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>189.6</span>
+			<span class='ocrx_word' id='word_1_195' title='bbox 1415 759 1475 781;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>219.3</span>
+			<span class='ocrx_word' id='word_1_196' title='bbox 1548 759 1607 780;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>218.1</span>
+			<span class='ocrx_word' id='word_1_197' title='bbox 1680 759 1739 780;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>215.1</span>
+			<span class='ocrx_word' id='word_1_198' title='bbox 1813 759 1873 780;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>217.5</span>
+			<span class='ocrx_word' id='word_1_199' title='bbox 1946 759 2008 780;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>263.2</span>
+			<span class='ocrx_word' id='word_1_200' title='bbox 2103 759 2163 780;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>407.1</span>
+			<span class='ocrx_word' id='word_1_201' title='bbox 2237 759 2297 781;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>699.5</span>
+			<span class='ocrx_word' id='word_1_202' title='bbox 2370 759 2431 781;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>652.9</span>
+			<span class='ocrx_word' id='word_1_203' title='bbox 2503 759 2563 781;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>529.7</span>
+			<span class='ocrx_word' id='word_1_204' title='bbox 2635 759 2697 781;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>539.4</span>
+			<span class='ocrx_word' id='word_1_205' title='bbox 2768 759 2830 780;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>686.2</span>
+			<span class='ocrx_word' id='word_1_206' title='bbox 2887 757 2961 782;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$759.7</span>
+			<span class='ocrx_word' id='word_1_207' title='bbox 3020 757 3095 782;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$913.9</span>
+		</span>
+		<span class='ocr_line' title="bbox 65 796 3095 821; baseline 0 -2; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_208' title='bbox 65 798 170 819;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Airframe</span>
+			<span class='ocrx_word' id='word_1_209' title='bbox 177 798 283 819;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Products</span>
+			<span class='ocrx_word' id='word_1_210' title='bbox 487 798 545 819;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>106.8</span>
+			<span class='ocrx_word' id='word_1_211' title='bbox 620 798 678 819;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>113.7</span>
+			<span class='ocrx_word' id='word_1_212' title='bbox 753 798 810 819;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>124.1</span>
+			<span class='ocrx_word' id='word_1_213' title='bbox 885 798 943 820;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>139.5</span>
+			<span class='ocrx_word' id='word_1_214' title='bbox 1018 798 1078 819;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>146.2</span>
+			<span class='ocrx_word' id='word_1_215' title='bbox 1151 798 1210 819;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>166.6</span>
+			<span class='ocrx_word' id='word_1_216' title='bbox 1284 798 1342 819;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>175.7</span>
+			<span class='ocrx_word' id='word_1_217' title='bbox 1417 798 1476 819;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>183.0</span>
+			<span class='ocrx_word' id='word_1_218' title='bbox 1550 798 1608 819;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>172.5</span>
+			<span class='ocrx_word' id='word_1_219' title='bbox 1682 798 1741 820;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>195.0</span>
+			<span class='ocrx_word' id='word_1_220' title='bbox 1812 798 1873 819;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>207.7</span>
+			<span class='ocrx_word' id='word_1_221' title='bbox 1946 798 2007 820;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>214.9</span>
+			<span class='ocrx_word' id='word_1_222' title='bbox 2104 798 2165 819;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>264.6</span>
+			<span class='ocrx_word' id='word_1_223' title='bbox 2237 798 2298 819;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>382.4</span>
+			<span class='ocrx_word' id='word_1_224' title='bbox 2369 798 2429 820;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>459.1</span>
+			<span class='ocrx_word' id='word_1_225' title='bbox 2502 798 2564 819;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>440.0</span>
+			<span class='ocrx_word' id='word_1_226' title='bbox 2634 798 2697 819;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>411.0</span>
+			<span class='ocrx_word' id='word_1_227' title='bbox 2767 798 2827 819;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>484.1</span>
+			<span class='ocrx_word' id='word_1_228' title='bbox 2887 796 2961 821;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$671.5</span>
+			<span class='ocrx_word' id='word_1_229' title='bbox 3020 796 3095 821;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$790.0</span>
+		</span>
+		<span class='ocr_line' title="bbox 66 837 3104 863; baseline 0 -5; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_230' title='bbox 66 837 186 863;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Corporate</span>
+			<span class='ocrx_word' id='word_1_231' title='bbox 194 843 292 863;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>expense</span>
+			<span class='ocrx_word' id='word_1_232' title='bbox 489 837 555 863;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(30.9)</span>
+			<span class='ocrx_word' id='word_1_233' title='bbox 622 837 688 863;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(30.8)</span>
+			<span class='ocrx_word' id='word_1_234' title='bbox 755 837 820 863;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(30.7)</span>
+			<span class='ocrx_word' id='word_1_235' title='bbox 888 837 953 863;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(31.1)</span>
+			<span class='ocrx_word' id='word_1_236' title='bbox 1021 837 1086 863;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>G24)</span>
+			<span class='ocrx_word' id='word_1_237' title='bbox 1154 837 1219 863;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(322)</span>
+			<span class='ocrx_word' id='word_1_238' title='bbox 1286 837 1352 863;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(31.6)</span>
+			<span class='ocrx_word' id='word_1_239' title='bbox 1419 837 1485 863;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(32.0)</span>
+			<span class='ocrx_word' id='word_1_240' title='bbox 1552 837 1617 863;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(33.4)</span>
+			<span class='ocrx_word' id='word_1_241' title='bbox 1685 837 1750 863;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(33.2)</span>
+			<span class='ocrx_word' id='word_1_242' title='bbox 1818 837 1883 863;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(326)</span>
+			<span class='ocrx_word' id='word_1_243' title='bbox 1951 837 2016 863;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(33.0)</span>
+			<span class='ocrx_word' id='word_1_244' title='bbox 2109 837 2174 863;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(87.0)</span>
+			<span class='ocrx_word' id='word_1_245' title='bbox 2241 837 2307 863;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(94.6)</span>
+			<span class='ocrx_word' id='word_1_246' title='bbox 2374 837 2440 863;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(98.5)</span>
+			<span class='ocrx_word' id='word_1_247' title='bbox 2493 837 2572 863;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(106.6)</span>
+			<span class='ocrx_word' id='word_1_248' title='bbox 2626 837 2705 863;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(113.1)</span>
+			<span class='ocrx_word' id='word_1_249' title='bbox 2759 837 2838 863;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(123.5)</span>
+			<span class='ocrx_word' id='word_1_250' title='bbox 2892 837 2971 863;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(128.3)</span>
+			<span class='ocrx_word' id='word_1_251' title='bbox 3025 837 3104 863;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(132.1)</span>
+		</span>
+		<span class='ocr_line' title="bbox 66 873 3094 902; baseline 0 -6; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_252' title='bbox 66 875 420 902;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Totalsegmentoperatinginco</span>
+			<span class='ocrx_word' id='word_1_253' title='bbox 472 873 545 898;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$419.5</span>
+			<span class='ocrx_word' id='word_1_254' title='bbox 604 873 679 898;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$436.9</span>
+			<span class='ocrx_word' id='word_1_255' title='bbox 737 873 812 898;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$459.0</span>
+			<span class='ocrx_word' id='word_1_256' title='bbox 870 873 944 898;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$497.8</span>
+			<span class='ocrx_word' id='word_1_257' title='bbox 1002 873 1076 898;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$515.5</span>
+			<span class='ocrx_word' id='word_1_258' title='bbox 1135 873 1210 898;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$498.4</span>
+			<span class='ocrx_word' id='word_1_259' title='bbox 1268 873 1342 898;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$547.5</span>
+			<span class='ocrx_word' id='word_1_260' title='bbox 1401 873 1476 898;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$593.6</span>
+			<span class='ocrx_word' id='word_1_261' title='bbox 1534 873 1608 898;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$590.8</span>
+			<span class='ocrx_word' id='word_1_262' title='bbox 1667 873 1740 898;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$612.8</span>
+			<span class='ocrx_word' id='word_1_263' title='bbox 1799 873 1874 898;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$641.9</span>
+			<span class='ocrx_word' id='word_1_264' title='bbox 1932 873 2006 898;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$706.8</span>
+			<span class='ocrx_word' id='word_1_265' title='bbox 2090 873 2164 898;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$970.8</span>
+			<span class='ocrx_word' id='word_1_266' title='bbox 2203 873 2296 900;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$1,509.1</span>
+			<span class='ocrx_word' id='word_1_267' title='bbox 2335 873 2432 900;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$1,596.2</span>
+			<span class='ocrx_word' id='word_1_268' title='bbox 2468 873 2562 900;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$1,423.1</span>
+			<span class='ocrx_word' id='word_1_269' title='bbox 2601 873 2695 900;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$1,502.8</span>
+			<span class='ocrx_word' id='word_1_270' title='bbox 2734 873 2830 900;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$1,813.2</span>
+			<span class='ocrx_word' id='word_1_271' title='bbox 2867 873 2962 900;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$2,155.0</span>
+			<span class='ocrx_word' id='word_1_272' title='bbox 3000 873 3094 900;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$2,552.3</span>
+		</span>
+		<span class='ocr_line' title="bbox 66 958 3103 985; baseline 0 -6; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_273' title='bbox 66 958 185 985;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Operating</span>
+			<span class='ocrx_word' id='word_1_274' title='bbox 194 958 283 979;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Income</span>
+			<span class='ocrx_word' id='word_1_275' title='bbox 290 958 377 979;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Growth</span>
+			<span class='ocrx_word' id='word_1_276' title='bbox 505 958 554 980;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>19%</span>
+			<span class='ocrx_word' id='word_1_277' title='bbox 636 958 687 979;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>20%</span>
+			<span class='ocrx_word' id='word_1_278' title='bbox 771 958 819 980;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>19%</span>
+			<span class='ocrx_word' id='word_1_279' title='bbox 902 958 952 979;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>24%</span>
+			<span class='ocrx_word' id='word_1_280' title='bbox 1035 958 1085 979;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>23%</span>
+			<span class='ocrx_word' id='word_1_281' title='bbox 1169 958 1218 979;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>14%</span>
+			<span class='ocrx_word' id='word_1_282' title='bbox 1302 958 1351 980;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>19%</span>
+			<span class='ocrx_word' id='word_1_283' title='bbox 1435 958 1484 980;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>19%</span>
+			<span class='ocrx_word' id='word_1_284' title='bbox 1568 958 1616 979;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>15%</span>
+			<span class='ocrx_word' id='word_1_285' title='bbox 1699 958 1749 979;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>23%</span>
+			<span class='ocrx_word' id='word_1_286' title='bbox 1834 958 1882 979;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>17%</span>
+			<span class='ocrx_word' id='word_1_287' title='bbox 1966 958 2015 980;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>19%</span>
+			<span class='ocrx_word' id='word_1_288' title='bbox 2102 958 2173 979;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>74.5%</span>
+			<span class='ocrx_word' id='word_1_289' title='bbox 2235 958 2306 979;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>55.4%</span>
+			<span class='ocrx_word' id='word_1_290' title='bbox 2381 958 2439 979;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>5.8%</span>
+			<span class='ocrx_word' id='word_1_291' title='bbox 2491 958 2571 979;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-10.8%</span>
+			<span class='ocrx_word' id='word_1_292' title='bbox 2647 958 2704 979;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>5.6%</span>
+			<span class='ocrx_word' id='word_1_293' title='bbox 2766 958 2837 979;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>20.7%</span>
+			<span class='ocrx_word' id='word_1_294' title='bbox 2901 958 2970 979;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>18.8%</span>
+			<span class='ocrx_word' id='word_1_295' title='bbox 3034 958 3103 979;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>18.4%</span>
+		</span>
+		<span class='ocr_line' title="bbox 65 1035 270 1061; baseline 0 -4; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_296' title='bbox 65 1036 108 1057;x_wconf 0;x_font Georgia' lang='eng' style='font-family:Georgia'>Pas</span>
+			<span class='ocrx_word' id='word_1_297' title='bbox 112 1042 122 1057;x_wconf 0;x_font Georgia' lang='eng' style='font-family:Georgia'>s</span>
+			<span class='ocrx_word' id='word_1_298' title='bbox 135 1036 198 1057;x_wconf 0;x_font Georgia' lang='eng' style='font-family:Georgia'>Thru</span>
+			<span class='ocrx_word' id='word_1_298b' title='bbox 205 1035 270 1061;x_wconf 0' lang='eng'>Sales</span>
+		</span>
+		<span class='ocr_line' title="bbox 66 1075 3095 1097; baseline 0 -1; x_x_height 16; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_301' title='bbox 66 1075 130 1097;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Total</span>
+			<span class='ocrx_word' id='word_1_302' title='bbox 499 1075 546 1097;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>69.0</span>
+			<span class='ocrx_word' id='word_1_303' title='bbox 631 1075 679 1096;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>75.0</span>
+			<span class='ocrx_word' id='word_1_304' title='bbox 764 1075 812 1096;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>64.0</span>
+			<span class='ocrx_word' id='word_1_305' title='bbox 897 1075 945 1097;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>79.2</span>
+			<span class='ocrx_word' id='word_1_306' title='bbox 1030 1075 1077 1097;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>69.0</span>
+			<span class='ocrx_word' id='word_1_307' title='bbox 1163 1075 1210 1097;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>59.0</span>
+			<span class='ocrx_word' id='word_1_308' title='bbox 1296 1075 1343 1096;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>75.0</span>
+			<span class='ocrx_word' id='word_1_309' title='bbox 1428 1075 1476 1096;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>75.0</span>
+			<span class='ocrx_word' id='word_1_310' title='bbox 1561 1075 1609 1096;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>75.0</span>
+			<span class='ocrx_word' id='word_1_311' title='bbox 1694 1075 1741 1096;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>75.0</span>
+			<span class='ocrx_word' id='word_1_312' title='bbox 1827 1075 1874 1096;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>75.0</span>
+			<span class='ocrx_word' id='word_1_313' title='bbox 1960 1075 2007 1096;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>75.0</span>
+			<span class='ocrx_word' id='word_1_314' title='bbox 2104 1075 2165 1097;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>299.0</span>
+			<span class='ocrx_word' id='word_1_315' title='bbox 2236 1075 2298 1097;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>460.9</span>
+			<span class='ocrx_word' id='word_1_316' title='bbox 2369 1075 2430 1097;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>419.5</span>
+			<span class='ocrx_word' id='word_1_317' title='bbox 2503 1075 2564 1097;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>249.6</span>
+			<span class='ocrx_word' id='word_1_318' title='bbox 2635 1075 2697 1096;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>233.4</span>
+			<span class='ocrx_word' id='word_1_319' title='bbox 2768 1075 2829 1096;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>301.0</span>
+			<span class='ocrx_word' id='word_1_320' title='bbox 2901 1075 2962 1096;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>278.0</span>
+			<span class='ocrx_word' id='word_1_321' title='bbox 3034 1075 3095 1096;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>300.0</span>
+		</span>
+		<span class='ocr_line' title="bbox 66 1114 3095 1136; baseline 0 -1; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_322' title='bbox 66 1114 202 1135;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Investment</span>
+			<span class='ocrx_word' id='word_1_321b' title='bbox 210 1114 264 1135;x_wconf 0' lang='eng'>Cast</span>
+			<span class='ocrx_word' id='word_1_322b' title='bbox 271 1114 377 1135;x_wconf 0' lang='eng'>Products</span>
+			<span class='ocrx_word' id='word_1_324' title='bbox 501 1114 546 1135;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>18.0</span>
+			<span class='ocrx_word' id='word_1_325' title='bbox 633 1114 679 1136;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>19.0</span>
+			<span class='ocrx_word' id='word_1_326' title='bbox 766 1114 812 1136;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>19.0</span>
+			<span class='ocrx_word' id='word_1_327' title='bbox 897 1114 944 1136;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>20.9</span>
+			<span class='ocrx_word' id='word_1_328' title='bbox 1032 1114 1077 1135;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>18.0</span>
+			<span class='ocrx_word' id='word_1_329' title='bbox 1165 1114 1210 1136;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>19.0</span>
+			<span class='ocrx_word' id='word_1_330' title='bbox 1298 1114 1343 1135;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>10.0</span>
+			<span class='ocrx_word' id='word_1_331' title='bbox 1430 1114 1476 1135;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>10.0</span>
+			<span class='ocrx_word' id='word_1_332' title='bbox 1563 1114 1609 1135;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>10.0</span>
+			<span class='ocrx_word' id='word_1_333' title='bbox 1696 1114 1741 1135;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>10.0</span>
+			<span class='ocrx_word' id='word_1_334' title='bbox 1829 1114 1874 1135;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>10.0</span>
+			<span class='ocrx_word' id='word_1_335' title='bbox 1962 1114 2007 1135;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>10.0</span>
+			<span class='ocrx_word' id='word_1_336' title='bbox 2118 1114 2164 1135;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>55.8</span>
+			<span class='ocrx_word' id='word_1_337' title='bbox 2239 1114 2298 1135;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>100.4</span>
+			<span class='ocrx_word' id='word_1_338' title='bbox 2384 1114 2430 1135;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>81.3</span>
+			<span class='ocrx_word' id='word_1_339' title='bbox 2515 1114 2563 1135;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>40.7</span>
+			<span class='ocrx_word' id='word_1_340' title='bbox 2649 1114 2694 1135;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>51.1</span>
+			<span class='ocrx_word' id='word_1_341' title='bbox 2782 1114 2829 1136;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>76.9</span>
+			<span class='ocrx_word' id='word_1_342' title='bbox 2915 1114 2962 1135;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>57.0</span>
+			<span class='ocrx_word' id='word_1_343' title='bbox 3047 1114 3095 1135;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>40.0</span>
+		</span>
+		<span class='ocr_line' title="bbox 65 1153 3095 1180; baseline 0 -6; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_344' title='bbox 65 1153 151 1180;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Forged</span>
+			<span class='ocrx_word' id='word_1_345' title='bbox 159 1153 265 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Products</span>
+			<span class='ocrx_word' id='word_1_346' title='bbox 499 1153 546 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>51.0</span>
+			<span class='ocrx_word' id='word_1_347' title='bbox 631 1153 679 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>56.0</span>
+			<span class='ocrx_word' id='word_1_348' title='bbox 763 1153 812 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>45.0</span>
+			<span class='ocrx_word' id='word_1_349' title='bbox 897 1153 943 1174;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>58.3</span>
+			<span class='ocrx_word' id='word_1_350' title='bbox 1030 1153 1077 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>51.0</span>
+			<span class='ocrx_word' id='word_1_351' title='bbox 1162 1153 1210 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>40.0</span>
+			<span class='ocrx_word' id='word_1_352' title='bbox 1296 1153 1343 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>65.0</span>
+			<span class='ocrx_word' id='word_1_353' title='bbox 1428 1153 1476 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>65.0</span>
+			<span class='ocrx_word' id='word_1_354' title='bbox 1561 1153 1609 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>65.0</span>
+			<span class='ocrx_word' id='word_1_355' title='bbox 1694 1153 1741 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>65.0</span>
+			<span class='ocrx_word' id='word_1_356' title='bbox 1827 1153 1874 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>65.0</span>
+			<span class='ocrx_word' id='word_1_357' title='bbox 1960 1153 2007 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>65.0</span>
+			<span class='ocrx_word' id='word_1_358' title='bbox 2104 1153 2165 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>224.4</span>
+			<span class='ocrx_word' id='word_1_359' title='bbox 2237 1153 2298 1175;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>345.9</span>
+			<span class='ocrx_word' id='word_1_360' title='bbox 2370 1153 2431 1175;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>325.9</span>
+			<span class='ocrx_word' id='word_1_361' title='bbox 2503 1153 2563 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>201.8</span>
+			<span class='ocrx_word' id='word_1_362' title='bbox 2637 1153 2697 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>170.4</span>
+			<span class='ocrx_word' id='word_1_363' title='bbox 2768 1153 2828 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>210.3</span>
+			<span class='ocrx_word' id='word_1_364' title='bbox 2901 1153 2962 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>221.0</span>
+			<span class='ocrx_word' id='word_1_365' title='bbox 3034 1153 3095 1174;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>260.0</span>
+		</span>
+		<span class='ocr_line' title="bbox 65 1191 3081 1213; baseline -0.000332 -1; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_366' title='bbox 65 1191 170 1212;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Airframe</span>
+			<span class='ocrx_word' id='word_1_367' title='bbox 177 1191 283 1212;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Products</span>
+			<span class='ocrx_word' id='word_1_368' title='bbox 2120 1191 2164 1212;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>18.8</span>
+			<span class='ocrx_word' id='word_1_369' title='bbox 2253 1191 2298 1212;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>14.6</span>
+			<span class='ocrx_word' id='word_1_370' title='bbox 2385 1191 2430 1212;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>12.3</span>
+			<span class='ocrx_word' id='word_1_371' title='bbox 2530 1191 2562 1212;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>7.1</span>
+			<span class='ocrx_word' id='word_1_372' title='bbox 2651 1191 2696 1213;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>11.9</span>
+			<span class='ocrx_word' id='word_1_373' title='bbox 2784 1191 2828 1212;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>13.8</span>
+			<span class='ocrx_word' id='word_1_374' title='bbox 2940 1203 2948 1205;x_wconf 100' lang='eng'>-</span>
+			<span class='ocrx_word' id='word_1_375' title='bbox 3073 1203 3081 1205;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 65 1269 132 1291; baseline 0 0; x_x_height 14.281582832336426; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_376' title='bbox 65 1269 132 1291;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-variant:small-caps;font-family:Times_New_Roman'>D&amp;A</span>
+		</span>
+		<span class='ocr_line' title="bbox 66 1308 3094 1330; baseline 0 -1; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_377' title='bbox 66 1308 130 1329;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Total</span>
+			<span class='ocrx_word' id='word_1_378' title='bbox 499 1308 545 1330;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>39.3</span>
+			<span class='ocrx_word' id='word_1_379' title='bbox 631 1308 678 1330;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>39.3</span>
+			<span class='ocrx_word' id='word_1_380' title='bbox 764 1308 811 1330;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>39.3</span>
+			<span class='ocrx_word' id='word_1_381' title='bbox 897 1308 943 1330;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>39.3</span>
+			<span class='ocrx_word' id='word_1_382' title='bbox 1029 1308 1076 1329;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>40.8</span>
+			<span class='ocrx_word' id='word_1_383' title='bbox 1163 1308 1209 1330;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>39.3</span>
+			<span class='ocrx_word' id='word_1_384' title='bbox 1295 1308 1343 1330;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>40.9</span>
+			<span class='ocrx_word' id='word_1_385' title='bbox 1427 1308 1476 1330;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>40.9</span>
+			<span class='ocrx_word' id='word_1_386' title='bbox 1560 1308 1609 1330;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>40.9</span>
+			<span class='ocrx_word' id='word_1_387' title='bbox 1693 1308 1741 1330;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>40.9</span>
+			<span class='ocrx_word' id='word_1_388' title='bbox 1826 1308 1874 1330;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>40.9</span>
+			<span class='ocrx_word' id='word_1_389' title='bbox 1959 1308 2007 1330;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>40.9</span>
+			<span class='ocrx_word' id='word_1_390' title='bbox 2143 1320 2151 1322;x_wconf 0' lang='eng'>-</span>
+			<span class='ocrx_word' id='word_1_391' title='bbox 2239 1308 2297 1329;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>120.7</span>
+			<span class='ocrx_word' id='word_1_392' title='bbox 2372 1308 2430 1329;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>135.8</span>
+			<span class='ocrx_word' id='word_1_393' title='bbox 2505 1308 2565 1329;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>145.2</span>
+			<span class='ocrx_word' id='word_1_394' title='bbox 2637 1308 2696 1329;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>157.3</span>
+			<span class='ocrx_word' id='word_1_395' title='bbox 2770 1308 2828 1329;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>157.3</span>
+			<span class='ocrx_word' id='word_1_396' title='bbox 2903 1308 2961 1329;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>158.7</span>
+			<span class='ocrx_word' id='word_1_397' title='bbox 3036 1308 3094 1329;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>158.7</span>
+		</span>
+		<span class='ocr_line' title="bbox 66 1347 3095 1369; baseline 0.00033 -1; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_398' title='bbox 66 1347 202 1368;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Investment</span>
+			<span class='ocrx_word' id='word_1_399' title='bbox 210 1347 264 1368;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Cast</span>
+			<span class='ocrx_word' id='word_1_400' title='bbox 271 1347 377 1368;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Products</span>
+			<span class='ocrx_word' id='word_1_401' title='bbox 513 1347 545 1368;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.7</span>
+			<span class='ocrx_word' id='word_1_402' title='bbox 646 1347 678 1368;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.7</span>
+			<span class='ocrx_word' id='word_1_403' title='bbox 779 1347 811 1368;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.7</span>
+			<span class='ocrx_word' id='word_1_404' title='bbox 912 1347 944 1368;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.7</span>
+			<span class='ocrx_word' id='word_1_405' title='bbox 1045 1347 1076 1368;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.7</span>
+			<span class='ocrx_word' id='word_1_406' title='bbox 1178 1347 1209 1368;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.7</span>
+			<span class='ocrx_word' id='word_1_407' title='bbox 1310 1347 1342 1368;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.8</span>
+			<span class='ocrx_word' id='word_1_408' title='bbox 1443 1347 1475 1368;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.8</span>
+			<span class='ocrx_word' id='word_1_409' title='bbox 1576 1347 1608 1368;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.8</span>
+			<span class='ocrx_word' id='word_1_410' title='bbox 1709 1347 1740 1368;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.8</span>
+			<span class='ocrx_word' id='word_1_411' title='bbox 1842 1347 1873 1368;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.8</span>
+			<span class='ocrx_word' id='word_1_412' title='bbox 1975 1347 2006 1368;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.8</span>
+			<span class='ocrx_word' id='word_1_413' title='bbox 2143 1359 2151 1361;x_wconf 0' lang='eng'>=</span>
+			<span class='ocrx_word' id='word_1_414' title='bbox 2251 1347 2299 1368;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>31.2</span>
+			<span class='ocrx_word' id='word_1_415' title='bbox 2383 1347 2429 1368;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>33.1</span>
+			<span class='ocrx_word' id='word_1_416' title='bbox 2516 1347 2563 1368;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>35.7</span>
+			<span class='ocrx_word' id='word_1_417' title='bbox 2649 1347 2696 1369;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>34.9</span>
+			<span class='ocrx_word' id='word_1_418' title='bbox 2782 1347 2829 1369;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>34.9</span>
+			<span class='ocrx_word' id='word_1_419' title='bbox 2915 1347 2962 1369;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>34.9</span>
+			<span class='ocrx_word' id='word_1_420' title='bbox 3048 1347 3095 1369;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>34.9</span>
+		</span>
+		<span class='ocr_line' title="bbox 65 1386 3094 1413; baseline 0 -6; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_421' title='bbox 65 1386 151 1413;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Forged</span>
+			<span class='ocrx_word' id='word_1_422' title='bbox 159 1386 265 1407;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Products</span>
+			<span class='ocrx_word' id='word_1_423' title='bbox 499 1386 546 1408;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>21.9</span>
+			<span class='ocrx_word' id='word_1_424' title='bbox 631 1386 679 1408;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>21.9</span>
+			<span class='ocrx_word' id='word_1_425' title='bbox 764 1386 812 1408;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>21.9</span>
+			<span class='ocrx_word' id='word_1_426' title='bbox 897 1386 944 1408;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>21.9</span>
+			<span class='ocrx_word' id='word_1_427' title='bbox 1030 1386 1077 1408;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>21.9</span>
+			<span class='ocrx_word' id='word_1_428' title='bbox 1163 1386 1210 1408;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>21.9</span>
+			<span class='ocrx_word' id='word_1_429' title='bbox 1296 1386 1343 1407;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>22.0</span>
+			<span class='ocrx_word' id='word_1_430' title='bbox 1428 1386 1476 1407;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>22.0</span>
+			<span class='ocrx_word' id='word_1_431' title='bbox 1561 1386 1609 1407;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>22.0</span>
+			<span class='ocrx_word' id='word_1_432' title='bbox 1694 1386 1741 1407;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>22.0</span>
+			<span class='ocrx_word' id='word_1_433' title='bbox 1827 1386 1874 1407;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>22.0</span>
+			<span class='ocrx_word' id='word_1_434' title='bbox 1960 1386 2007 1407;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>22.0</span>
+			<span class='ocrx_word' id='word_1_435' title='bbox 2143 1398 2151 1400;x_wconf 0' lang='eng'>-</span>
+			<span class='ocrx_word' id='word_1_436' title='bbox 2251 1386 2297 1407;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>52.5</span>
+			<span class='ocrx_word' id='word_1_437' title='bbox 2383 1386 2430 1407;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>64.7</span>
+			<span class='ocrx_word' id='word_1_438' title='bbox 2516 1386 2565 1407;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>75.2</span>
+			<span class='ocrx_word' id='word_1_439' title='bbox 2650 1386 2695 1407;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>87.7</span>
+			<span class='ocrx_word' id='word_1_440' title='bbox 2783 1386 2828 1407;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>87.7</span>
+			<span class='ocrx_word' id='word_1_441' title='bbox 2916 1386 2961 1407;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>87.7</span>
+			<span class='ocrx_word' id='word_1_442' title='bbox 3049 1386 3094 1407;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>87.7</span>
+		</span>
+		<span class='ocr_line' title="bbox 65 1425 3093 1446; baseline 0 0; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_443' title='bbox 65 1425 170 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Airframe</span>
+			<span class='ocrx_word' id='word_1_444' title='bbox 177 1425 283 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Products</span>
+			<span class='ocrx_word' id='word_1_445' title='bbox 513 1425 545 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.7</span>
+			<span class='ocrx_word' id='word_1_446' title='bbox 646 1425 678 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.7</span>
+			<span class='ocrx_word' id='word_1_447' title='bbox 779 1425 811 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.7</span>
+			<span class='ocrx_word' id='word_1_448' title='bbox 912 1425 944 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.7</span>
+			<span class='ocrx_word' id='word_1_449' title='bbox 1032 1425 1075 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>10.1</span>
+			<span class='ocrx_word' id='word_1_450' title='bbox 1178 1425 1209 1446;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>8.7</span>
+			<span class='ocrx_word' id='word_1_451' title='bbox 1298 1425 1341 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>10.1</span>
+			<span class='ocrx_word' id='word_1_452' title='bbox 1430 1425 1474 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>10.1</span>
+			<span class='ocrx_word' id='word_1_453' title='bbox 1563 1425 1607 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>10.1</span>
+			<span class='ocrx_word' id='word_1_454' title='bbox 1696 1425 1739 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>10.1</span>
+			<span class='ocrx_word' id='word_1_455' title='bbox 1829 1425 1872 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>10.1</span>
+			<span class='ocrx_word' id='word_1_456' title='bbox 1962 1425 2005 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>10.1</span>
+			<span class='ocrx_word' id='word_1_457' title='bbox 2143 1437 2151 1439;x_wconf 0' lang='eng'>-</span>
+			<span class='ocrx_word' id='word_1_458' title='bbox 2251 1425 2298 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>37.0</span>
+			<span class='ocrx_word' id='word_1_459' title='bbox 2383 1425 2431 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>38.0</span>
+			<span class='ocrx_word' id='word_1_460' title='bbox 2516 1425 2563 1446;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>34.3</span>
+			<span class='ocrx_word' id='word_1_461' title='bbox 2649 1425 2695 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>34.7</span>
+			<span class='ocrx_word' id='word_1_462' title='bbox 2782 1425 2828 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>34.7</span>
+			<span class='ocrx_word' id='word_1_463' title='bbox 2915 1425 2960 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>36.1</span>
+			<span class='ocrx_word' id='word_1_464' title='bbox 3048 1425 3093 1446;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>36.1</span>
+		</span>
+		<span class='ocr_line' title="bbox 66 1541 303 1568; baseline 0 -5; x_x_height 15; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_463b' title='bbox 66 1541 191 1568;x_wconf 0' lang='eng'>Operating</span>
+			<span class='ocrx_word' id='word_1_467' title='bbox 200 1541 303 1568;x_wconf 100;x_font Times_New_Roman_Bold' lang='eng' style='font-family:Times_New_Roman_Bold'>margins</span>
+		</span>
+		<span class='ocr_line' title="bbox 66 1581 3103 1602; baseline 0 0; x_x_height 16; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_468' title='bbox 66 1581 128 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Total</span>
+			<span class='ocrx_word' id='word_1_469' title='bbox 483 1581 554 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>25.0%</span>
+			<span class='ocrx_word' id='word_1_470' title='bbox 615 1581 687 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>24.4%</span>
+			<span class='ocrx_word' id='word_1_471' title='bbox 748 1581 819 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>25.3%</span>
+			<span class='ocrx_word' id='word_1_472' title='bbox 881 1581 952 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>25.5%</span>
+			<span class='ocrx_word' id='word_1_473' title='bbox 1014 1581 1085 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>26.2%</span>
+			<span class='ocrx_word' id='word_1_474' title='bbox 1147 1581 1218 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>25.8%</span>
+			<span class='ocrx_word' id='word_1_475' title='bbox 1280 1581 1351 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>25.8%</span>
+			<span class='ocrx_word' id='word_1_476' title='bbox 1412 1581 1484 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>26.2%</span>
+			<span class='ocrx_word' id='word_1_477' title='bbox 1545 1581 1616 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>26.2%</span>
+			<span class='ocrx_word' id='word_1_478' title='bbox 1678 1581 1749 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>26.6%</span>
+			<span class='ocrx_word' id='word_1_479' title='bbox 1811 1581 1882 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>27.1%</span>
+			<span class='ocrx_word' id='word_1_480' title='bbox 1944 1581 2015 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>27.2%</span>
+			<span class='ocrx_word' id='word_1_481' title='bbox 2104 1581 2173 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>18.1%</span>
+			<span class='ocrx_word' id='word_1_482' title='bbox 2235 1581 2306 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>22.1%</span>
+			<span class='ocrx_word' id='word_1_483' title='bbox 2367 1581 2439 1602;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>23.5%</span>
+			<span class='ocrx_word' id='word_1_484' title='bbox 2500 1581 2571 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>26.0%</span>
+			<span class='ocrx_word' id='word_1_485' title='bbox 2633 1581 2704 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>24.2%</span>
+			<span class='ocrx_word' id='word_1_486' title='bbox 2766 1581 2837 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>25.1%</span>
+			<span class='ocrx_word' id='word_1_487' title='bbox 2899 1581 2970 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>26.0%</span>
+			<span class='ocrx_word' id='word_1_488' title='bbox 3032 1581 3103 1602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>26.8%</span>
+		</span>
+		<span class='ocr_line' title="bbox 87 1620 3103 1642; baseline 0 -1; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_489' title='bbox 87 1620 223 1641;x_wconf 100' lang='eng'>Investment</span>
+			<span class='ocrx_word' id='word_1_490' title='bbox 231 1620 285 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Cast</span>
+			<span class='ocrx_word' id='word_1_491' title='bbox 292 1620 398 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Products</span>
+			<span class='ocrx_word' id='word_1_492' title='bbox 483 1620 554 1642;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>32.9%</span>
+			<span class='ocrx_word' id='word_1_493' title='bbox 615 1620 687 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>33.1%</span>
+			<span class='ocrx_word' id='word_1_494' title='bbox 748 1620 819 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>33.2%</span>
+			<span class='ocrx_word' id='word_1_495' title='bbox 881 1620 952 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>32.6%</span>
+			<span class='ocrx_word' id='word_1_496' title='bbox 1014 1620 1085 1641;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>33.3%</span>
+			<span class='ocrx_word' id='word_1_497' title='bbox 1147 1620 1218 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>34.1%</span>
+			<span class='ocrx_word' id='word_1_498' title='bbox 1280 1620 1351 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>33.5%</span>
+			<span class='ocrx_word' id='word_1_499' title='bbox 1412 1620 1484 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>33.8%</span>
+			<span class='ocrx_word' id='word_1_500' title='bbox 1545 1620 1616 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>33.5%</span>
+			<span class='ocrx_word' id='word_1_501' title='bbox 1678 1620 1749 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>33.5%</span>
+			<span class='ocrx_word' id='word_1_502' title='bbox 1811 1620 1882 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>34.0%</span>
+			<span class='ocrx_word' id='word_1_503' title='bbox 1944 1620 2015 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>34.5%</span>
+			<span class='ocrx_word' id='word_1_504' title='bbox 2102 1620 2173 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>21.8%</span>
+			<span class='ocrx_word' id='word_1_505' title='bbox 2235 1620 2306 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>24.2%</span>
+			<span class='ocrx_word' id='word_1_506' title='bbox 2367 1620 2439 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>25.6%</span>
+			<span class='ocrx_word' id='word_1_507' title='bbox 2500 1620 2571 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>30.2%</span>
+			<span class='ocrx_word' id='word_1_508' title='bbox 2633 1620 2704 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>31.8%</span>
+			<span class='ocrx_word' id='word_1_509' title='bbox 2766 1620 2837 1642;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>32.9%</span>
+			<span class='ocrx_word' id='word_1_510' title='bbox 2899 1620 2970 1641;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>33.7%</span>
+			<span class='ocrx_word' id='word_1_511' title='bbox 3032 1620 3103 1642;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>33.9%</span>
+		</span>
+		<span class='ocr_line' title="bbox 86 1659 3103 1686; baseline 0 -6; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_512' title='bbox 86 1659 171 1686;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Forged</span>
+			<span class='ocrx_word' id='word_1_513' title='bbox 179 1659 286 1680;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Products</span>
+			<span class='ocrx_word' id='word_1_514' title='bbox 483 1659 554 1680;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>20.6%</span>
+			<span class='ocrx_word' id='word_1_515' title='bbox 615 1659 687 1680;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>20.5%</span>
+			<span class='ocrx_word' id='word_1_516' title='bbox 748 1659 819 1680;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>22.4%</span>
+			<span class='ocrx_word' id='word_1_517' title='bbox 881 1659 952 1680;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>22.5%</span>
+			<span class='ocrx_word' id='word_1_518' title='bbox 1014 1659 1085 1680;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>22.8%</span>
+			<span class='ocrx_word' id='word_1_519' title='bbox 1147 1659 1218 1680;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>20.4%</span>
+			<span class='ocrx_word' id='word_1_520' title='bbox 1280 1659 1351 1680;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>21.0%</span>
+			<span class='ocrx_word' id='word_1_521' title='bbox 1412 1659 1484 1681;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>21.9%</span>
+			<span class='ocrx_word' id='word_1_522' title='bbox 1545 1659 1616 1680;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>22.0%</span>
+			<span class='ocrx_word' id='word_1_523' title='bbox 1678 1659 1749 1680;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>22.4%</span>
+			<span class='ocrx_word' id='word_1_524' title='bbox 1811 1659 1882 1680;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>22.5%</span>
+			<span class='ocrx_word' id='word_1_525' title='bbox 1944 1659 2015 1681;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>22.9%</span>
+			<span class='ocrx_word' id='word_1_526' title='bbox 2104 1659 2173 1680;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>17.4%</span>
+			<span class='ocrx_word' id='word_1_527' title='bbox 2235 1659 2306 1680;x_wconf 100' lang='eng'>22.1%</span>
+			<span class='ocrx_word' id='word_1_528' title='bbox 2367 1659 2439 1681;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>21.9%</span>
+			<span class='ocrx_word' id='word_1_529' title='bbox 2500 1659 2571 1680;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>23.2%</span>
+			<span class='ocrx_word' id='word_1_530' title='bbox 2635 1659 2704 1681;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>19.4%</span>
+			<span class='ocrx_word' id='word_1_531' title='bbox 2766 1659 2837 1680;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>21.5%</span>
+			<span class='ocrx_word' id='word_1_532' title='bbox 2899 1659 2970 1680;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>21.6%</span>
+			<span class='ocrx_word' id='word_1_533' title='bbox 3032 1659 3103 1680;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>22.5%</span>
+		</span>
+		<span class='ocr_line' title="bbox 86 1698 3103 1720; baseline 0 -1; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_534' title='bbox 86 1698 191 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Airframe</span>
+			<span class='ocrx_word' id='word_1_535' title='bbox 198 1698 304 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Products</span>
+			<span class='ocrx_word' id='word_1_536' title='bbox 483 1698 554 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>30.7%</span>
+			<span class='ocrx_word' id='word_1_537' title='bbox 615 1698 687 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>27.4%</span>
+			<span class='ocrx_word' id='word_1_538' title='bbox 748 1698 819 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>26.8%</span>
+			<span class='ocrx_word' id='word_1_539' title='bbox 881 1698 952 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>28.6%</span>
+			<span class='ocrx_word' id='word_1_540' title='bbox 1014 1698 1085 1720;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>29.7%</span>
+			<span class='ocrx_word' id='word_1_541' title='bbox 1147 1698 1218 1720;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>29.9%</span>
+			<span class='ocrx_word' id='word_1_542' title='bbox 1280 1698 1351 1719;x_wconf 100' lang='eng'>30.1%</span>
+			<span class='ocrx_word' id='word_1_543' title='bbox 1412 1698 1484 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>30.3%</span>
+			<span class='ocrx_word' id='word_1_544' title='bbox 1545 1698 1616 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>30.5%</span>
+			<span class='ocrx_word' id='word_1_545' title='bbox 1678 1698 1749 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>30.5%</span>
+			<span class='ocrx_word' id='word_1_546' title='bbox 1811 1698 1882 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>31.0%</span>
+			<span class='ocrx_word' id='word_1_547' title='bbox 1944 1698 2015 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>31.0%</span>
+			<span class='ocrx_word' id='word_1_548' title='bbox 2102 1698 2173 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>21.2%</span>
+			<span class='ocrx_word' id='word_1_549' title='bbox 2235 1698 2306 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>25.5%</span>
+			<span class='ocrx_word' id='word_1_550' title='bbox 2367 1698 2439 1720;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>29.6%</span>
+			<span class='ocrx_word' id='word_1_551' title='bbox 2500 1698 2571 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>33.0%</span>
+			<span class='ocrx_word' id='word_1_552' title='bbox 2633 1698 2704 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>30.6%</span>
+			<span class='ocrx_word' id='word_1_553' title='bbox 2766 1698 2837 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>28.2%</span>
+			<span class='ocrx_word' id='word_1_554' title='bbox 2899 1698 2970 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>30.0%</span>
+			<span class='ocrx_word' id='word_1_555' title='bbox 3032 1698 3103 1719;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>30.8%</span>
+		</span>
+		<span class='ocr_line' title="bbox 66 1773 355 1801; baseline 0 -5; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_556' title='bbox 66 1775 125 1796;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Sales</span>
+			<span class='ocrx_word' id='word_1_557' title='bbox 137 1775 166 1801;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>by</span>
+			<span class='ocrx_word' id='word_1_558' title='bbox 175 1775 262 1796;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Market</span>
+			<span class='ocrx_word' id='word_1_559' title='bbox 270 1773 355 1801;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>($MM)</span>
+		</span>
+		<span class='ocr_line' title="bbox 86 1814 3095 1840; baseline 0 -5; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_560' title='bbox 86 1814 219 1840;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Aerospace</span>
+			<span class='ocrx_word' id='word_1_561' title='bbox 485 1814 545 1836;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>971.7</span>
+			<span class='ocrx_word' id='word_1_562' title='bbox 599 1814 678 1839;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,091.7</span>
+			<span class='ocrx_word' id='word_1_563' title='bbox 732 1814 811 1839;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,162.8</span>
+			<span class='ocrx_word' id='word_1_564' title='bbox 865 1814 944 1839;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,233.5</span>
+			<span class='ocrx_word' id='word_1_565' title='bbox 998 1814 1077 1839;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,142.4</span>
+			<span class='ocrx_word' id='word_1_566' title='bbox 1174 1826 1182 1828;x_wconf 100' lang='eng'>-</span>
+			<span class='ocrx_word' id='word_1_567' title='bbox 2084 1814 2166 1839;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2,825.2</span>
+			<span class='ocrx_word' id='word_1_568' title='bbox 2216 1814 2297 1839;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>3,768.3</span>
+			<span class='ocrx_word' id='word_1_569' title='bbox 2349 1814 2431 1839;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>3,604.6</span>
+			<span class='ocrx_word' id='word_1_570' title='bbox 2482 1814 2564 1839;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2,991.0</span>
+			<span class='ocrx_word' id='word_1_571' title='bbox 2615 1814 2697 1839;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>3,572.0</span>
+			<span class='ocrx_word' id='word_1_572' title='bbox 2747 1814 2829 1839;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>4,459.6</span>
+			<span class='ocrx_word' id='word_1_573' title='bbox 2880 1814 2960 1839;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>5,163.1</span>
+			<span class='ocrx_word' id='word_1_574' title='bbox 3013 1814 3095 1839;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>5,908.0</span>
+		</span>
+		<span class='ocr_line' title="bbox 86 1853 3094 1878; baseline 0 -4; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_575' title='bbox 86 1853 162 1874;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Power</span>
+			<span class='ocrx_word' id='word_1_576' title='bbox 485 1853 545 1874;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>385.3</span>
+			<span class='ocrx_word' id='word_1_577' title='bbox 618 1853 678 1874;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>375.8</span>
+			<span class='ocrx_word' id='word_1_578' title='bbox 751 1853 813 1874;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>345.2</span>
+			<span class='ocrx_word' id='word_1_579' title='bbox 882 1853 943 1874;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>405.7</span>
+			<span class='ocrx_word' id='word_1_580' title='bbox 1015 1853 1077 1874;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>453.0</span>
+			<span class='ocrx_word' id='word_1_581' title='bbox 1174 1865 1182 1867;x_wconf 100' lang='eng'>-</span>
+			<span class='ocrx_word' id='word_1_582' title='bbox 2086 1853 2165 1878;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,131.4</span>
+			<span class='ocrx_word' id='word_1_583' title='bbox 2218 1853 2297 1878;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,614.7</span>
+			<span class='ocrx_word' id='word_1_584' title='bbox 2351 1853 2430 1878;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,700.3</span>
+			<span class='ocrx_word' id='word_1_585' title='bbox 2484 1853 2564 1878;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,454.6</span>
+			<span class='ocrx_word' id='word_1_586' title='bbox 2617 1853 2696 1878;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,348.3</span>
+			<span class='ocrx_word' id='word_1_587' title='bbox 2750 1853 2829 1878;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,512.0</span>
+			<span class='ocrx_word' id='word_1_588' title='bbox 2882 1853 2963 1878;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,663.2</span>
+			<span class='ocrx_word' id='word_1_589' title='bbox 3015 1853 3094 1878;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,862.8</span>
+		</span>
+		<span class='ocr_line' title="bbox 87 1891 3094 1917; baseline 0 -4; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_590' title='bbox 87 1892 178 1913;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>General</span>
+			<span class='ocrx_word' id='word_1_591' title='bbox 185 1892 251 1913;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Indus</span>
+			<span class='ocrx_word' id='word_1_592' title='bbox 256 1892 302 1913;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>trial</span>
+			<span class='ocrx_word' id='word_1_593' title='bbox 309 1892 331 1913;x_wconf 100' lang='eng'>&amp;</span>
+			<span class='ocrx_word' id='word_1_594' title='bbox 338 1892 407 1913;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Other</span>
+			<span class='ocrx_word' id='word_1_595' title='bbox 485 1892 545 1913;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>318.3</span>
+			<span class='ocrx_word' id='word_1_596' title='bbox 618 1892 677 1913;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>322.1</span>
+			<span class='ocrx_word' id='word_1_597' title='bbox 751 1892 812 1914;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>308.9</span>
+			<span class='ocrx_word' id='word_1_598' title='bbox 883 1892 943 1914;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>293.7</span>
+			<span class='ocrx_word' id='word_1_599' title='bbox 1016 1892 1078 1913;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>374.2</span>
+			<span class='ocrx_word' id='word_1_600' title='bbox 1174 1904 1182 1906;x_wconf 100' lang='eng'>-</span>
+			<span class='ocrx_word' id='word_1_601' title='bbox 2086 1892 2166 1917;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,605.2</span>
+			<span class='ocrx_word' id='word_1_602' title='bbox 2218 1892 2298 1917;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,682.4</span>
+			<span class='ocrx_word' id='word_1_603' title='bbox 2351 1892 2430 1917;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,496.3</span>
+			<span class='ocrx_word' id='word_1_604' title='bbox 2484 1892 2564 1917;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,013.6</span>
+			<span class='ocrx_word' id='word_1_605' title='bbox 2617 1892 2696 1917;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,299.8</span>
+			<span class='ocrx_word' id='word_1_606' title='bbox 2750 1892 2829 1917;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,243.0</span>
+			<span class='ocrx_word' id='word_1_607' title='bbox 2882 1892 2962 1917;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,516.6</span>
+			<span class='ocrx_word' id='word_1_608' title='bbox 3015 1891 3094 1917;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,578.7</span>
+		</span>
+		<span class='ocr_line' title="bbox 87 1931 3094 1956; baseline 0 -4; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_609' title='bbox 87 1931 151 1952;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Total</span>
+			<span class='ocrx_word' id='word_1_610' title='bbox 2084 1931 2164 1956;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>5,561.8</span>
+			<span class='ocrx_word' id='word_1_611' title='bbox 2217 1931 2298 1956;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>7,065.4</span>
+			<span class='ocrx_word' id='word_1_612' title='bbox 2350 1931 2432 1956;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>6,801.2</span>
+			<span class='ocrx_word' id='word_1_613' title='bbox 2482 1931 2565 1956;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>5,459.2</span>
+			<span class='ocrx_word' id='word_1_614' title='bbox 2615 1931 2695 1956;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>6,220.1</span>
+			<span class='ocrx_word' id='word_1_615' title='bbox 2748 1931 2829 1956;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>7,214.6</span>
+			<span class='ocrx_word' id='word_1_616' title='bbox 2881 1931 2962 1956;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>83429</span>
+			<span class='ocrx_word' id='word_1_617' title='bbox 3013 1931 3094 1956;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>9,349.5</span>
+		</span>
+		<span class='ocr_line' title="bbox 66 2009 408 2036; baseline 0 -6; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_618' title='bbox 66 2009 126 2030;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Sales</span>
+			<span class='ocrx_word' id='word_1_619' title='bbox 137 2009 166 2035;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>by</span>
+			<span class='ocrx_word' id='word_1_620' title='bbox 175 2009 262 2030;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Market</span>
+			<span class='ocrx_word' id='word_1_621' title='bbox 270 2009 302 2035;x_wconf 100' lang='eng'>(%</span>
+			<span class='ocrx_word' id='word_1_622' title='bbox 311 2009 408 2036;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>change)</span>
+		</span>
+		<span class='ocr_line' title="bbox 86 2048 3103 2074; baseline 0 -5; x_x_height 14; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_623' title='bbox 86 2048 219 2074;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Aerospace</span>
+			<span class='ocrx_word' id='word_1_624' title='bbox 505 2048 554 2069;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>16%</span>
+			<span class='ocrx_word' id='word_1_625' title='bbox 636 2048 687 2069;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>27%</span>
+			<span class='ocrx_word' id='word_1_626' title='bbox 769 2048 819 2069;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>28%</span>
+			<span class='ocrx_word' id='word_1_627' title='bbox 902 2048 952 2069;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>28%</span>
+			<span class='ocrx_word' id='word_1_628' title='bbox 1037 2048 1085 2069;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>18%</span>
+			<span class='ocrx_word' id='word_1_629' title='bbox 1144 2048 1218 2069;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-100%</span>
+			<span class='ocrx_word' id='word_1_630' title='bbox 2102 2048 2173 2069;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>38.2%</span>
+			<span class='ocrx_word' id='word_1_631' title='bbox 2235 2048 2306 2069;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>33.4%</span>
+			<span class='ocrx_word' id='word_1_632' title='bbox 2372 2048 2439 2069;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-4.3%</span>
+			<span class='ocrx_word' id='word_1_633' title='bbox 2491 2048 2571 2069;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-17.0%</span>
+			<span class='ocrx_word' id='word_1_634' title='bbox 2635 2048 2704 2070;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>19.4%</span>
+			<span class='ocrx_word' id='word_1_635' title='bbox 2766 2048 2837 2069;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>24.8%</span>
+			<span class='ocrx_word' id='word_1_636' title='bbox 2901 2048 2970 2069;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>15.8%</span>
+			<span class='ocrx_word' id='word_1_637' title='bbox 3034 2048 3103 2069;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>14.4%</span>
+		</span>
+		<span class='ocr_line' title="bbox 86 2087 3103 2108; baseline 0 0; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_638' title='bbox 86 2087 162 2108;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Power</span>
+			<span class='ocrx_word' id='word_1_639' title='bbox 503 2087 554 2108;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>27%</span>
+			<span class='ocrx_word' id='word_1_640' title='bbox 638 2087 687 2108;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>13%</span>
+			<span class='ocrx_word' id='word_1_641' title='bbox 773 2087 819 2108;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-6%</span>
+			<span class='ocrx_word' id='word_1_642' title='bbox 904 2087 952 2108;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>17%</span>
+			<span class='ocrx_word' id='word_1_643' title='bbox 1037 2087 1085 2108;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>18%</span>
+			<span class='ocrx_word' id='word_1_644' title='bbox 1144 2087 1218 2108;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-100%</span>
+			<span class='ocrx_word' id='word_1_645' title='bbox 2102 2087 2173 2108;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>76.4%</span>
+			<span class='ocrx_word' id='word_1_646' title='bbox 2234 2087 2306 2108;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>42.7%</span>
+			<span class='ocrx_word' id='word_1_647' title='bbox 2381 2087 2439 2108;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>5.3%</span>
+			<span class='ocrx_word' id='word_1_648' title='bbox 2491 2087 2571 2108;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-14.5%</span>
+			<span class='ocrx_word' id='word_1_649' title='bbox 2638 2087 2704 2108;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-7.3%</span>
+			<span class='ocrx_word' id='word_1_650' title='bbox 2768 2087 2837 2108;x_wconf 0' lang='eng'>12.1%</span>
+			<span class='ocrx_word' id='word_1_651' title='bbox 2901 2087 2970 2108;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>10.0%</span>
+			<span class='ocrx_word' id='word_1_652' title='bbox 3034 2087 3103 2108;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>12.0%</span>
+		</span>
+		<span class='ocr_line' title="bbox 87 2126 3103 2148; baseline 0 -1; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_653' title='bbox 87 2126 178 2147;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>General</span>
+			<span class='ocrx_word' id='word_1_654' title='bbox 185 2126 251 2147;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Indus</span>
+			<span class='ocrx_word' id='word_1_655' title='bbox 256 2126 302 2147;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>trial</span>
+			<span class='ocrx_word' id='word_1_656' title='bbox 309 2126 331 2147;x_wconf 100' lang='eng'>&amp;</span>
+			<span class='ocrx_word' id='word_1_657' title='bbox 338 2126 407 2147;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Other</span>
+			<span class='ocrx_word' id='word_1_658' title='bbox 517 2126 554 2147;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>5%</span>
+			<span class='ocrx_word' id='word_1_659' title='bbox 650 2126 687 2147;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2%</span>
+			<span class='ocrx_word' id='word_1_660' title='bbox 773 2126 819 2147;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-3%</span>
+			<span class='ocrx_word' id='word_1_661' title='bbox 893 2126 952 2148;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-19%</span>
+			<span class='ocrx_word' id='word_1_662' title='bbox 1037 2126 1085 2147;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>18%</span>
+			<span class='ocrx_word' id='word_1_663' title='bbox 1144 2126 1218 2147;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-100%</span>
+			<span class='ocrx_word' id='word_1_664' title='bbox 2102 2126 2173 2147;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>61.0%</span>
+			<span class='ocrx_word' id='word_1_665' title='bbox 2247 2126 2306 2147;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>4.8%</span>
+			<span class='ocrx_word' id='word_1_666' title='bbox 2358 2126 2439 2147;x_wconf 100' lang='eng'>-11.1%</span>
+			<span class='ocrx_word' id='word_1_667' title='bbox 2491 2126 2571 2147;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-32.3%</span>
+			<span class='ocrx_word' id='word_1_668' title='bbox 2633 2126 2704 2147;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>28.2%</span>
+			<span class='ocrx_word' id='word_1_669' title='bbox 2771 2126 2837 2147;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-4.4%</span>
+			<span class='ocrx_word' id='word_1_670' title='bbox 2899 2126 2970 2147;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>22.0%</span>
+			<span class='ocrx_word' id='word_1_671' title='bbox 3044 2126 3103 2147;x_wconf 100' lang='eng'>4.1%</span>
+		</span>
+		<span class='ocr_line' title="bbox 87 2165 3103 2187; baseline 0 -1; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_672' title='bbox 87 2165 151 2186;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Total</span>
+			<span class='ocrx_word' id='word_1_673' title='bbox 2102 2165 2173 2186;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>51.0%</span>
+			<span class='ocrx_word' id='word_1_674' title='bbox 2235 2165 2306 2186;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>27.0%</span>
+			<span class='ocrx_word' id='word_1_675' title='bbox 2372 2165 2439 2186;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-3.7%</span>
+			<span class='ocrx_word' id='word_1_676' title='bbox 2491 2165 2571 2187;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>-19.7%</span>
+			<span class='ocrx_word' id='word_1_677' title='bbox 2635 2165 2704 2187;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>13.9%</span>
+			<span class='ocrx_word' id='word_1_678' title='bbox 2768 2165 2837 2186;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>16.0%</span>
+			<span class='ocrx_word' id='word_1_679' title='bbox 2901 2165 2970 2186;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>15.6%</span>
+			<span class='ocrx_word' id='word_1_680' title='bbox 3034 2165 3103 2186;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>12.1%</span>
+		</span>
+	</div>
+</body>
+</html>

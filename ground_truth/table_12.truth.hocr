@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title></title>
+	<meta name='font-metrics' content='{"SansDefault":{"normal":{"width":{"36":1.014181,"37":1.45084,"44":0.217626,"45":0.507794,"46":0.145084,"47":0.507794,"48":0.8666664500000001,"49":0.444443888889,"50":0.8666664500000001,"51":0.8666664500000001,"52":0.9333331,"53":0.8666664500000001,"54":0.8666664500000001,"55":0.8666664500000001,"56":0.8888891111110001,"57":0.8666664500000001,"65":1.333333,"67":1.142857,"68":1.095238,"69":1,"72":1.047619,"76":0.904762,"77":1.285714,"84":1,"86":1.190476,"95":1.047619,"97":0.904762,"100":0.904762,"101":0.857143,"102":0.619048,"103":0.904762,"104":0.904762,"105":0.238095,"108":0.285714,"110":0.857143,"111":1,"116":0.571429,"121":1},"height":{"36":1.668466,"37":1.45084,"44":0.435252,"45":0.217324,"46":0.217324,"47":1.45084,"48":1.333333,"49":1.333333,"50":1.333333,"51":1.333333,"52":1.333333,"53":1.333333,"54":1.333333,"55":1.333333,"56":1.333333,"57":1.333333,"65":1.333333,"67":1.333333,"68":1.333333,"69":1.333333,"72":1.333333,"76":1.333333,"77":1.333333,"84":1.333333,"86":1.333333,"95":0.238095,"97":1,"100":1.333333,"101":1,"102":1.333333,"103":1.380952,"104":1.333333,"105":1.333333,"108":1.333333,"110":1,"111":1,"116":1.285714,"121":1.333333},"kerning":{"48,48":0.13333330000000002,"48,53":0.19047595238100004,"53,53":0.13333330000000002,"53,45":0.13333330000000002,"45,57":0.072542,"57,48":0.13333330000000002,"48,52":0.19999995,"52,55":0.06666665000000001,"55,45":0.13333330000000002,"45,53":0.072542,"53,56":0.19999995,"50,56":0.19047595238100004,"49,54":0.46666655,"54,56":0.13333330000000002,"36,49":0.290168,"49,50":0.46666655,"50,51":0.19999995,"51,46":0.26666660000000003,"46,54":0.217626,"54,50":0.19999995,"36,48":0.145084,"48,46":0.317459920635,"46,48":0.217626,"53,48":0.13333330000000002,"49,48":0.46666655,"48,54":0.13333330000000002,"54,46":0.26666660000000003,"36,51":0.145084,"51,48":0.13333330000000002,"46,55":0.217626,"55,49":0.25396793650800004,"48,57":0.13333330000000002,"57,51":0.13333330000000002,"51,45":0.13333330000000002,"56,53":0.19047595238100004,"53,50":0.12698396825400002,"50,45":0.13333330000000002,"45,48":0.072542,"51,55":0.19047595238100004,"55,46":0.26666660000000003,"55,56":0.12698396825400002,"36,50":0.145084,"51,50":0.14035063157900002,"50,46":0.26666660000000003,"46,49":0.36271,"50,50":0.13333330000000002,"50,55":0.13333330000000002,"46,52":0.217626,"52,54":0.06666665000000001,"49,55":0.46666655,"55,57":0.19047595238100004,"57,46":0.25396793650800004,"46,51":0.217626,"48,56":0.13333330000000002,"56,57":0.19999995,"57,50":0.13333330000000002,"48,49":0.26666660000000003,"53,46":0.26666660000000003,"46,57":0.217626,"48,51":0.19047595238100004,"55,50":0.19047595238100004,"53,55":0.13333330000000002,"50,57":0.13333330000000002,"57,45":0.13333330000000002,"45,55":0.072542,"55,48":0.19999995,"49,52":0.46666655,"52,48":0.06666665000000001,"49,51":0.46666655,"46,50":0.217324,"50,48":0.19047595238100004,"57,57":0.19999995,"57,55":0.12698396825400002,"48,50":0.19999995,"36,53":0.145084,"53,52":0.19047595238100004,"52,46":0.14035063157900002,"46,56":0.217324,"56,56":0.19999995,"53,51":0.19999995,"52,53":0.12698396825400002,"50,54":0.13333330000000002,"54,51":0.19999995,"45,51":0.072542,"53,37":0.26666660000000003,"36,55":0.144883,"55,55":0.13333330000000002,"55,53":0.19047595238100004,"46,53":0.217626,"49,53":0.46666655,"36,54":0.145084,"54,53":0.19999995,"49,49":0.571427857143,"49,45":0.46666655,"54,52":0.13333330000000002,"52,56":0.13333330000000002,"51,49":0.317459920635,"54,49":0.19047595238100004,"54,48":0.19999995,"53,49":0.19999995,"50,52":0.13333330000000002,"48,55":0.19047595238100004,"36,52":0.145084,"56,46":0.26666660000000003,"52,52":0.070175982456,"52,50":0.06666665000000001,"51,52":0.13333330000000002,"52,49":0.25396793650800004,"51,51":0.19047595238100004,"56,49":0.19999995,"55,52":0.14035063157900002,"54,45":0.13333330000000002,"53,54":0.19999995,"49,57":0.444443888889,"50,53":0.19999995,"54,57":0.06666665000000001,"51,54":0.13333330000000002,"45,56":0.072542,"56,48":0.13333330000000002,"52,45":0.06666665000000001,"51,53":0.19999995,"57,52":0.13333330000000002,"52,51":0.13333330000000002,"56,51":0.19999995,"54,55":0.19999995,"57,54":0.19999995,"45,49":0.217626,"51,56":0.14035063157900002,"57,53":0.21052661403500003,"55,54":0.13333330000000002,"57,56":0.19047595238100004,"51,44":0.25396793650800004,"44,50":0.217626,"48,45":0.13333330000000002,"36,56":0.145084,"56,44":0.26666660000000003,"44,55":0.145084,"44,53":0.217626,"56,54":0.19999995,"56,50":0.13333330000000002,"56,45":0.13333330000000002,"56,52":0.19047595238100004,"49,56":0.444443888889,"55,51":0.19047595238100004,"49,47":0.46666655,"47,50":0.072542,"45,52":0.072542,"53,57":0.19999995,"36,57":0.145084,"56,55":0.19047595238100004,"51,57":0.13333330000000002,"50,49":0.33333325,"45,50":0.072441,"72,105":0.285714,"105,103":0.238095,"103,104":0.238095,"104,108":0.238095,"108,121":0.142857,"67,111":0.190476,"111,110":0.190476,"110,102":0.190476,"102,105":0.095238,"105,100":0.238095,"100,101":0.238095,"101,110":0.190476,"110,116":0.238095,"116,105":0.095238,"105,97":0.238095,"97,108":0.190476,"84,69":0.190476,"69,86":0.095238,"86,65":0.047619,"65,95":0,"95,77":0.095238,"77,68":0.238095,"68,76":0.285714,"76,95":0.095238,"95,65":0,"95,48":0.095238},"kerning2":{"48,48":0.14920662936500007,"48,53":0.19999995000000004,"53,53":0.14920662936500007,"53,45":0.09220585000000014,"45,57":0.22146354999999995,"57,48":0.1333333,"48,52":0.19999995000000004,"52,55":0.06666664999999994,"55,45":0.15887250000000008,"45,53":0.14892154999999985,"53,56":0.1904759523809999,"50,56":0.17777728888900002,"49,54":0.46666655,"54,56":0.12698396825400005,"36,49":0.35351811111099996,"49,50":0.46666655,"50,51":0.2666666,"51,46":0.25491590000000003,"46,54":0.36483855,"54,50":0.21269861349199992,"36,48":0.22146354999999995,"48,46":0.32158255,"46,48":0.36654754999999994,"53,48":0.1333333,"49,48":0.46666655,"48,54":0.1333333,"54,46":0.25491590000000003,"36,51":0.22146354999999995,"51,48":0.19999995000000004,"46,55":0.29400554999999984,"55,49":0.22222261111100006,"48,57":0.1333333,"57,51":0.19999995000000004,"51,45":0.09220585000000014,"56,53":0.1859652868420001,"53,50":0.08571464523799999,"50,45":0.15887250000000008,"45,48":0.14892154999999985,"51,55":0.19999995000000004,"55,46":0.299359888889,"55,56":0.09356664327499997,"36,50":0.22146354999999995,"51,50":0.1859652868420001,"50,46":0.25491590000000003,"46,49":0.35351811111099996,"50,50":0.1333333,"50,55":0.19999995000000004,"46,52":0.2998809,"52,54":0.1333333,"49,55":0.46666655,"55,57":0.19999995000000004,"57,46":0.25491590000000003,"46,51":0.29400554999999984,"48,56":0.11111063888899997,"56,57":0.2666666,"57,50":0.1333333,"48,49":0.2888892611110001,"53,46":0.299359888889,"46,57":0.36483855,"48,51":0.1333333,"55,50":0.14920662936500007,"53,55":0.1333333,"50,57":0.19999995000000004,"57,45":0.15887250000000008,"45,55":0.22146354999999995,"55,48":0.19999995000000004,"49,52":0.46666655000000024,"52,48":0.06666664999999994,"49,51":0.46666655,"46,50":0.29400554999999984,"50,48":0.19999995000000004,"57,57":0.2666666,"57,55":0.11578930438599999,"48,50":0.21269861349199992,"36,53":0.29400554999999984,"53,52":0.19999995000000004,"52,46":0.18824925000000003,"46,56":0.2717828888889998,"56,56":0.17777728888900002,"53,51":0.19999995000000004,"52,53":0.08571464523799999,"50,54":0.1333333,"54,51":0.19999995000000004,"45,51":0.14892154999999985,"53,37":0.14915960000000017,"36,55":0.22146354999999995,"55,55":0.1333333,"55,53":0.1333333,"46,53":0.36483855,"49,53":0.46666655,"36,54":0.29239755,"54,53":0.19999995000000004,"49,49":0.5714291904760002,"49,45":0.4445870952380001,"54,52":0.1333333000000001,"52,56":0.11111063888899997,"51,49":0.31746125396800007,"54,49":0.190475952381,"54,48":0.19999995000000004,"53,49":0.22222261111100006,"50,52":0.14603196349199998,"48,55":0.19999995000000004,"36,52":0.2273388999999999,"56,46":0.32158255,"52,52":0.11929863684200015,"52,50":0.06666664999999994,"51,52":0.18947328596500013,"52,49":0.190475952381,"51,51":0.1333333,"56,49":0.22222261111100006,"55,52":0.19999995000000004,"54,45":0.15887250000000008,"53,54":0.2666666,"49,57":0.46666655,"50,53":0.19999995000000004,"54,57":0.06666664999999994,"51,54":0.19999995000000004,"45,56":0.19924088888899993,"56,48":0.1333333,"52,45":0.09220585000000014,"51,53":0.19999995000000004,"57,52":0.1333333000000001,"52,51":0.1333333,"56,51":0.1859652868420001,"54,55":0.25613993596500007,"57,54":0.25613993596500007,"45,49":0.28097611111099996,"51,56":0.16374262573100007,"57,53":0.25613993596500007,"55,54":0.1333333,"57,56":0.1904759523809999,"51,44":0.226817888889,"44,50":0.29400554999999984,"48,45":0.15887250000000008,"36,56":0.2717828888889998,"56,44":0.24904055000000003,"44,55":0.29400554999999984,"44,53":0.22146354999999995,"56,54":0.19999995000000004,"56,50":0.1333333,"56,45":0.15887250000000008,"56,52":0.14603196349199998,"49,56":0.444443888889,"55,51":0.1333333,"49,47":0.42553910000000006,"47,50":0.14892154999999985,"45,52":0.15479690000000002,"53,57":0.19999995000000004,"36,57":0.29239755,"56,55":0.21269861349199992,"51,57":0.1333333,"50,49":0.2888892611110001,"45,50":0.2199555499999999,"72,105":0.33333399999999996,"105,103":0.23809500000000006,"103,104":0.23809500000000006,"104,108":0.23809599999999997,"108,121":0.142857,"67,111":0.1904760000000001,"111,110":0.1904760000000001,"110,102":0.19047599999999998,"102,105":0.09523799999999999,"105,100":0.23809500000000006,"100,101":0.23809499999999995,"101,110":0.1904760000000001,"110,116":0.23809500000000006,"116,105":0.09523799999999999,"105,97":0.23809500000000006,"97,108":0.14285699999999996,"84,69":0.1904760000000001,"69,86":0.09523799999999993,"86,65":0,"65,95":0,"95,77":0.09523799999999993,"77,68":0.23809500000000017,"68,76":0.28571400000000013,"76,95":0.047618999999999856,"95,65":0,"95,48":0.08571454999999994},"variants":{},"heightCaps":1.333333,"obs":2232,"obsCaps":10},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":2232},"Default":{"normal":{"width":{"36":1.014181,"38":1.160672,"44":0.217626,"45":0.579532,"46":0.217324,"48":0,"49":0,"50":0,"51":0,"52":0,"53":0,"54":0,"55":0,"56":0,"57":0},"height":{"36":1.668466,"38":1.45084,"44":0.435252,"45":0.217626,"46":0.217324,"48":0,"49":0,"50":0,"51":0,"52":0,"53":0,"54":0,"55":0,"56":0,"57":0},"kerning":{"36,49":0.289766,"49,50":0,"50,49":0,"49,46":0,"46,49":0.362207,"49,53":0,"36,56":0.145084,"56,49":0,"46,56":0.217324,"48,48":0,"48,57":0,"57,51":0,"51,45":0,"45,53":0.144883,"53,56":0,"56,53":0,"53,49":0,"49,45":0,"45,48":0.072542,"48,53":0,"49,48":0,"48,56":0,"56,46":0,"49,54":0,"49,49":0,"50,46":0,"56,55":0,"48,46":0,"46,54":0.217626,"54,49":0,"45,49":0.217626,"50,50":0,"50,45":0,"48,49":0,"49,55":0,"55,57":0,"57,46":0,"46,51":0.217626,"51,55":0,"36,54":0.145084,"36,51":0.145084,"51,49":0,"46,53":0.217626,"53,48":0,"46,48":0.217324,"48,52":0,"48,54":0,"54,52":0,"52,56":0,"56,45":0,"36,50":0.145084,"49,51":0,"48,51":0,"45,52":0.072542,"52,52":0,"48,50":0,"45,55":0.072542,"55,49":0,"49,56":0,"56,56":0,"53,54":0,"48,55":0,"49,57":0,"57,52":0,"52,46":0,"51,46":0,"46,52":0.217626,"52,51":0,"36,55":0.145084,"55,52":0,"52,50":0,"55,44":0,"44,50":0.145084,"50,56":0,"44,49":0.290168,"51,53":0,"53,46":0,"54,56":0,"51,44":0,"44,55":0.217626,"46,50":0.290168,"50,51":0,"56,48":0,"53,51":0,"46,55":0.289766,"55,53":0,"51,57":0,"51,50":0,"45,51":0.072542,"45,57":0.072542,"57,56":0,"56,54":0,"54,46":0,"53,53":0,"53,45":0,"57,49":0,"45,54":0.072542,"54,54":0,"57,53":0,"36,52":0.145084,"52,55":0,"55,46":0,"52,49":0,"49,52":0,"55,45":0,"46,57":0.217324,"57,48":0,"55,56":0,"57,54":0,"51,52":0,"54,53":0,"54,48":0},"kerning2":{"36,49":0.796856,"49,50":0,"50,49":0,"49,46":-0.217324,"46,49":0.797962,"49,53":0,"36,56":1.159064,"56,49":0,"46,56":1.160672,"48,48":0,"48,57":0,"57,51":0,"51,45":-0.579532,"45,53":1.015588,"53,56":0,"56,53":0,"53,49":0,"49,45":-0.579532,"45,48":1.015588,"48,53":0,"49,48":0,"48,56":0,"56,46":-0.217324,"49,54":0,"49,49":0,"50,46":-0.217324,"56,55":0,"48,46":-0.217324,"46,54":1.231505,"54,49":0,"45,49":0.72542,"50,50":0,"50,45":-0.579532,"48,49":0,"49,55":0,"55,57":0,"57,46":-0.217324,"46,51":1.160672,"51,55":0,"36,54":1.160672,"36,51":1.159064,"51,49":0,"46,53":1.233214,"53,48":0,"46,48":1.160672,"48,52":0,"48,54":0,"54,52":0,"52,56":0,"56,45":-0.579532,"36,50":1.08813,"49,51":0,"48,51":0,"45,52":1.159064,"52,52":0,"48,50":0,"45,55":1.08813,"55,49":0,"49,56":0,"56,56":0,"53,54":0,"48,55":0,"49,57":0,"57,52":0,"52,46":-0.217324,"51,46":-0.217324,"46,52":1.233214,"52,51":0,"36,55":1.160672,"55,52":0,"52,50":0,"55,44":-0.217626,"44,50":1.160672,"50,56":0,"44,49":0.72542,"51,53":0,"53,46":-0.217324,"54,56":0,"51,44":-0.217626,"44,55":1.160672,"46,50":1.233214,"50,51":0,"56,48":0,"53,51":0,"46,55":1.303947,"55,53":0,"51,57":0,"51,50":0,"45,51":1.08813,"45,57":1.08813,"57,56":0,"56,54":0,"54,46":-0.217324,"53,53":0,"53,45":-0.579532,"57,49":0,"45,54":1.015588,"54,54":0,"57,53":0,"36,52":1.233214,"52,55":0,"55,46":-0.217324,"52,49":0,"49,52":0,"55,45":-0.579532,"46,57":1.231505,"57,48":0,"55,56":0,"57,54":0,"51,52":0,"54,53":0,"54,48":0},"variants":{},"heightCaps":0,"obs":569,"obsCaps":0},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":569}}'></meta>
+	<meta name='default-font' content='SansDefault'></meta>
+	<meta name='sans-font' content='Carlito'></meta>
+	<meta name='serif-font' content='NimbusRomNo9L'></meta>
+	<meta name='enable-opt' content='undefined'></meta>
+	<meta name='layout' content='[{"default":true,"boxes":{}}]'></meta>
+	<meta name='layout-data-table' content='[{"default":true,"tables":[]}]'></meta>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<meta name='ocr-system' content='scribeocr' />
+	<meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf ocrp_lang ocrp_dir ocrp_font ocrp_fsize'/>
+</head>
+<body>
+	<div class='ocr_page' title='bbox 0 0 2188 2877'>
+		<span class='ocr_line' title="bbox 1656 7 2117 40; baseline 0 -7; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_0' title='bbox 1656 7 2117 40;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TGOS_VA4_MDL_01158883</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 131 2001 158; baseline 0 -6; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_1' title='bbox 117 132 306 152;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-9047-58</span>
+			<span class='ocrx_word' id='word_1_2' title='bbox 382 132 568 158;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>ENPRESSE(R)</span>
+			<span class='ocrx_word' id='word_1_3' title='bbox 577 132 606 152;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>28</span>
+			<span class='ocrx_word' id='word_1_4' title='bbox 615 132 741 158;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>(LEVO/EE</span>
+			<span class='ocrx_word' id='word_1_5' title='bbox 751 132 811 158;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TAB)</span>
+			<span class='ocrx_word' id='word_1_6' title='bbox 822 132 865 152;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>168</span>
+			<span class='ocrx_word' id='word_1_7' title='bbox 1102 131 1200 154;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$123.62</span>
+			<span class='ocrx_word' id='word_1_8' title='bbox 1305 131 1404 154;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$121.15</span>
+			<span class='ocrx_word' id='word_1_9' title='bbox 1516 131 1594 154;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$81.81</span>
+			<span class='ocrx_word' id='word_1_10' title='bbox 1727 131 1795 154;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_11' title='bbox 1924 131 2001 154;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$81.81</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 173 2001 197; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_12' title='bbox 117 174 306 194;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-5851-05</span>
+			<span class='ocrx_word' id='word_1_13' title='bbox 382 174 593 194;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>ESCITALOPRAM</span>
+			<span class='ocrx_word' id='word_1_14' title='bbox 604 174 729 194;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>OXALATE</span>
+			<span class='ocrx_word' id='word_1_15' title='bbox 738 174 858 194;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_16' title='bbox 870 174 942 194;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>10MG</span>
+			<span class='ocrx_word' id='word_1_17' title='bbox 950 174 995 194;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>500</span>
+			<span class='ocrx_word' id='word_1_18' title='bbox 1102 173 1200 197;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$108.16</span>
+			<span class='ocrx_word' id='word_1_19' title='bbox 1305 173 1404 197;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$106.00</span>
+			<span class='ocrx_word' id='word_1_20' title='bbox 1516 173 1594 196;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$30.71</span>
+			<span class='ocrx_word' id='word_1_21' title='bbox 1727 173 1795 197;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_22' title='bbox 1924 173 2001 197;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$30.71</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 214 2006 239; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_23' title='bbox 117 215 306 236;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-5852-05</span>
+			<span class='ocrx_word' id='word_1_24' title='bbox 382 215 593 236;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>ESCITALOPRAM</span>
+			<span class='ocrx_word' id='word_1_25' title='bbox 604 215 729 236;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>OXALATE</span>
+			<span class='ocrx_word' id='word_1_26' title='bbox 738 215 858 236;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_27' title='bbox 868 215 942 236;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>20MG</span>
+			<span class='ocrx_word' id='word_1_28' title='bbox 950 215 995 236;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>500</span>
+			<span class='ocrx_word' id='word_1_29' title='bbox 1102 214 1200 239;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$112.87</span>
+			<span class='ocrx_word' id='word_1_30' title='bbox 1305 214 1399 239;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$110.61</span>
+			<span class='ocrx_word' id='word_1_31' title='bbox 1516 214 1599 239;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$37.78</span>
+			<span class='ocrx_word' id='word_1_32' title='bbox 1727 214 1795 239;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_33' title='bbox 1924 214 2006 239;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$37.78</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 256 2015 280; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_34' title='bbox 117 257 300 277;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-1122-01</span>
+			<span class='ocrx_word' id='word_1_35' title='bbox 382 257 529 277;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>ETODOLAC</span>
+			<span class='ocrx_word' id='word_1_36' title='bbox 542 257 577 277;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>ER</span>
+			<span class='ocrx_word' id='word_1_37' title='bbox 585 257 705 277;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_38' title='bbox 716 257 804 277;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>400MG</span>
+			<span class='ocrx_word' id='word_1_39' title='bbox 815 257 857 277;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_40' title='bbox 1103 256 1200 280;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$232.10</span>
+			<span class='ocrx_word' id='word_1_41' title='bbox 1306 256 1404 280;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$227.46</span>
+			<span class='ocrx_word' id='word_1_42' title='bbox 1510 256 1607 280;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$179.37</span>
+			<span class='ocrx_word' id='word_1_43' title='bbox 1728 256 1795 280;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_44' title='bbox 1917 256 2015 280;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$179.37</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 298 2001 322; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_45' title='bbox 117 299 300 319;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-0892-01</span>
+			<span class='ocrx_word' id='word_1_46' title='bbox 382 299 529 319;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>ETODOLAC</span>
+			<span class='ocrx_word' id='word_1_47' title='bbox 541 299 661 319;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_48b' title='bbox 671 299 759 319;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>400MG</span>
+			<span class='ocrx_word' id='word_1_49b' title='bbox 770 299 813 319;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_49' title='bbox 1102 298 1200 322;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$105.90</span>
+			<span class='ocrx_word' id='word_1_50' title='bbox 1305 298 1404 322;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$103.78</span>
+			<span class='ocrx_word' id='word_1_51' title='bbox 1516 299 1594 322;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$61.11</span>
+			<span class='ocrx_word' id='word_1_52' title='bbox 1727 298 1795 322;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_53' title='bbox 1924 298 2001 322;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$61.11</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 340 2006 363; baseline 0 -2; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_54' title='bbox 117 341 306 361;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00172-5729-70</span>
+			<span class='ocrx_word' id='word_1_55' title='bbox 382 341 542 361;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FAMOTIDINE</span>
+			<span class='ocrx_word' id='word_1_56' title='bbox 553 341 673 361;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_57' title='bbox 683 341 756 361;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>40MG</span>
+			<span class='ocrx_word' id='word_1_58' title='bbox 764 341 809 361;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>500</span>
+			<span class='ocrx_word' id='word_1_59' title='bbox 1102 340 1200 363;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$140.00</span>
+			<span class='ocrx_word' id='word_1_60' title='bbox 1305 340 1404 363;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$137.20</span>
+			<span class='ocrx_word' id='word_1_61' title='bbox 1516 340 1599 363;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$31.50</span>
+			<span class='ocrx_word' id='word_1_62' title='bbox 1727 340 1795 363;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_63' title='bbox 1924 340 2006 363;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$31.50</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 382 2006 405; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_64' title='bbox 117 383 306 402;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-0997-02</span>
+			<span class='ocrx_word' id='word_1_65' title='bbox 382 383 650 402;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FLUDROCORTISONE</span>
+			<span class='ocrx_word' id='word_1_66' title='bbox 659 383 786 402;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>ACETATE</span>
+			<span class='ocrx_word' id='word_1_67' title='bbox 795 383 847 402;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TAB</span>
+			<span class='ocrx_word' id='word_1_69b' title='bbox 856 383 937 402;x_wconf 0;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>0.1MG</span>
+			<span class='ocrx_word' id='word_1_70' title='bbox 946 383 990 402;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_71' title='bbox 1110 382 1193 405;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$54.88</span>
+			<span class='ocrx_word' id='word_1_72' title='bbox 1313 382 1395 405;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$53.78</span>
+			<span class='ocrx_word' id='word_1_73' title='bbox 1516 382 1599 405;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$32.45</span>
+			<span class='ocrx_word' id='word_1_74' title='bbox 1727 382 1795 405;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_75' title='bbox 1924 382 2006 405;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$32.45</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 424 2006 447; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_76' title='bbox 117 424 306 444;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-0263-30</span>
+			<span class='ocrx_word' id='word_1_77' title='bbox 382 424 581 444;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FLUOCINONIDE</span>
+			<span class='ocrx_word' id='word_1_78' title='bbox 591 424 716 444;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>CREAM-E</span>
+			<span class='ocrx_word' id='word_1_79' title='bbox 727 424 801 444;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>0.05%</span>
+			<span class='ocrx_word' id='word_1_80' title='bbox 812 424 884 444;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>30GM</span>
+			<span class='ocrx_word' id='word_1_81' title='bbox 1110 424 1193 447;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$77.06</span>
+			<span class='ocrx_word' id='word_1_82' title='bbox 1313 424 1395 447;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$75.52</span>
+			<span class='ocrx_word' id='word_1_83' title='bbox 1516 424 1599 447;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$32.58</span>
+			<span class='ocrx_word' id='word_1_84' title='bbox 1728 424 1795 447;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_85' title='bbox 1924 424 2006 447;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$32.58</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 465 2006 488; baseline 0 -2; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_86' title='bbox 117 466 306 486;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-0263-92</span>
+			<span class='ocrx_word' id='word_1_87' title='bbox 382 466 581 486;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FLUOCINONIDE</span>
+			<span class='ocrx_word' id='word_1_88' title='bbox 591 466 716 486;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>CREAM-E</span>
+			<span class='ocrx_word' id='word_1_89' title='bbox 727 466 801 486;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>0.05%</span>
+			<span class='ocrx_word' id='word_1_90' title='bbox 812 466 884 486;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>60GM</span>
+			<span class='ocrx_word' id='word_1_91' title='bbox 1102 465 1200 488;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$154.12</span>
+			<span class='ocrx_word' id='word_1_92' title='bbox 1305 465 1405 488;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$151.04</span>
+			<span class='ocrx_word' id='word_1_93' title='bbox 1516 465 1599 488;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$65.15</span>
+			<span class='ocrx_word' id='word_1_94' title='bbox 1728 465 1795 488;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_95' title='bbox 1924 465 2006 488;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$65.15</span>
+		</span>
+		<span class='ocr_line' title="bbox 118 507 1993 530; baseline 0 -2; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_96' title='bbox 118 508 300 528;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>50111-0647-01</span>
+			<span class='ocrx_word' id='word_1_97' title='bbox 382 508 547 528;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FLUOXETINE</span>
+			<span class='ocrx_word' id='word_1_98' title='bbox 559 508 705 528;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>CAPSULES</span>
+			<span class='ocrx_word' id='word_1_99b' title='bbox 717 508 789 528;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>10MG</span>
+			<span class='ocrx_word' id='word_1_100b' title='bbox 799 508 843 528;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_100' title='bbox 1119 507 1184 530;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$5.48</span>
+			<span class='ocrx_word' id='word_1_101' title='bbox 1322 507 1388 530;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$5.37</span>
+			<span class='ocrx_word' id='word_1_102' title='bbox 1524 507 1587 530;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$2.31</span>
+			<span class='ocrx_word' id='word_1_103' title='bbox 1728 507 1795 530;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_104' title='bbox 1932 507 1993 530;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$2.31</span>
+		</span>
+		<span class='ocr_line' title="bbox 118 548 2001 572; baseline 0 -2; x_x_height 13.785117149353027; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_105' title='bbox 118 549 306 570;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>50111-0647-02</span>
+			<span class='ocrx_word' id='word_1_106' title='bbox 382 549 547 570;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FLUOXETINE</span>
+			<span class='ocrx_word' id='word_1_107' title='bbox 559 549 705 570;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>CAPSULES</span>
+			<span class='ocrx_word' id='word_1_108' title='bbox 717 549 789 570;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>10MG</span>
+			<span class='ocrx_word' id='word_1_109' title='bbox 797 549 843 570;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>500</span>
+			<span class='ocrx_word' id='word_1_110' title='bbox 1110 548 1193 572;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$26.72</span>
+			<span class='ocrx_word' id='word_1_111' title='bbox 1313 548 1395 572;x_wconf 0;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$26.19</span>
+			<span class='ocrx_word' id='word_1_112' title='bbox 1517 548 1594 572;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$10.61</span>
+			<span class='ocrx_word' id='word_1_113' title='bbox 1728 548 1795 572;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_114' title='bbox 1924 548 2001 572;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$10.61</span>
+		</span>
+		<span class='ocr_line' title="bbox 118 590 1998 613; baseline 0 -2; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_115' title='bbox 118 591 300 611;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>50111-0648-01</span>
+			<span class='ocrx_word' id='word_1_116' title='bbox 382 591 547 611;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FLUOXETINE</span>
+			<span class='ocrx_word' id='word_1_117' title='bbox 559 591 705 611;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>CAPSULES</span>
+			<span class='ocrx_word' id='word_1_119b' title='bbox 716 591 789 611;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>20MG</span>
+			<span class='ocrx_word' id='word_1_120b' title='bbox 799 591 843 611;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_119' title='bbox 1118 590 1184 613;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$5.75</span>
+			<span class='ocrx_word' id='word_1_120' title='bbox 1322 590 1389 613;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$5.64</span>
+			<span class='ocrx_word' id='word_1_121' title='bbox 1524 590 1592 613;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$2.13</span>
+			<span class='ocrx_word' id='word_1_122' title='bbox 1728 590 1795 613;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_123' title='bbox 1932 590 1998 613;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$2.13</span>
+		</span>
+		<span class='ocr_line' title="bbox 118 632 2007 655; baseline 0 -2; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_124' title='bbox 118 633 306 653;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>50111-0648-03</span>
+			<span class='ocrx_word' id='word_1_125' title='bbox 382 633 547 653;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FLUOXETINE</span>
+			<span class='ocrx_word' id='word_1_126' title='bbox 559 633 705 653;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>CAPSULES</span>
+			<span class='ocrx_word' id='word_1_127' title='bbox 716 633 789 653;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>20MG</span>
+			<span class='ocrx_word' id='word_1_128' title='bbox 799 633 857 653;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>1000</span>
+			<span class='ocrx_word' id='word_1_129' title='bbox 1110 632 1193 655;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$54.60</span>
+			<span class='ocrx_word' id='word_1_130' title='bbox 1313 632 1391 655;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$53.51</span>
+			<span class='ocrx_word' id='word_1_131' title='bbox 1516 632 1600 655;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$20.24</span>
+			<span class='ocrx_word' id='word_1_132' title='bbox 1728 632 1795 655;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_133' title='bbox 1924 632 2007 655;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$20.24</span>
+		</span>
+		<span class='ocr_line' title="bbox 118 673 2006 696; baseline 0 -1; x_x_height 13.785117149353027; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_134' title='bbox 118 674 306 695;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>50111-0648-44</span>
+			<span class='ocrx_word' id='word_1_135' title='bbox 382 674 547 695;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FLUOXETINE</span>
+			<span class='ocrx_word' id='word_1_136' title='bbox 559 674 705 695;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>CAPSULES</span>
+			<span class='ocrx_word' id='word_1_137' title='bbox 716 674 789 695;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>20MG</span>
+			<span class='ocrx_word' id='word_1_138' title='bbox 797 674 857 695;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>2000</span>
+			<span class='ocrx_word' id='word_1_139' title='bbox 1102 673 1200 696;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$109.20</span>
+			<span class='ocrx_word' id='word_1_140' title='bbox 1305 673 1404 696;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$107.02</span>
+			<span class='ocrx_word' id='word_1_141' title='bbox 1516 673 1599 696;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$40.47</span>
+			<span class='ocrx_word' id='word_1_142' title='bbox 1728 673 1795 696;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_143' title='bbox 1924 673 2006 696;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$40.47</span>
+		</span>
+		<span class='ocr_line' title="bbox 118 715 2006 738; baseline 0 -2; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_144' title='bbox 118 716 306 736;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>50111-0648-02</span>
+			<span class='ocrx_word' id='word_1_145' title='bbox 382 716 547 736;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FLUOXETINE</span>
+			<span class='ocrx_word' id='word_1_146' title='bbox 559 716 705 736;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>CAPSULES</span>
+			<span class='ocrx_word' id='word_1_147' title='bbox 716 716 789 736;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>20MG</span>
+			<span class='ocrx_word' id='word_1_148' title='bbox 797 716 843 736;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>500</span>
+			<span class='ocrx_word' id='word_1_149' title='bbox 1110 715 1193 738;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$28.00</span>
+			<span class='ocrx_word' id='word_1_150' title='bbox 1313 715 1396 738;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$27.44</span>
+			<span class='ocrx_word' id='word_1_151' title='bbox 1516 715 1599 738;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$10.42</span>
+			<span class='ocrx_word' id='word_1_152' title='bbox 1728 715 1795 738;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_153' title='bbox 1924 715 2006 738;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$10.42</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 756 2006 780; baseline 0 -2; x_x_height 13.785117149353027; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_154' title='bbox 117 757 306 778;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-7188-56</span>
+			<span class='ocrx_word' id='word_1_155' title='bbox 382 757 547 778;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FLUOXETINE</span>
+			<span class='ocrx_word' id='word_1_156' title='bbox 559 757 611 778;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_157' title='bbox 620 757 741 778;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_158' title='bbox 753 757 824 778;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>10MG</span>
+			<span class='ocrx_word' id='word_1_159' title='bbox 833 757 861 778;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>30</span>
+			<span class='ocrx_word' id='word_1_160' title='bbox 1110 756 1188 780;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$34.41</span>
+			<span class='ocrx_word' id='word_1_161' title='bbox 1313 756 1395 780;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$33.72</span>
+			<span class='ocrx_word' id='word_1_162' title='bbox 1517 756 1599 780;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$10.50</span>
+			<span class='ocrx_word' id='word_1_163' title='bbox 1728 756 1795 780;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_164' title='bbox 1924 756 2006 780;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$10.50</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 798 2001 822; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_165' title='bbox 117 799 300 819;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-0711-01</span>
+			<span class='ocrx_word' id='word_1_166' title='bbox 382 799 588 819;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FLURBIPROFEN</span>
+			<span class='ocrx_word' id='word_1_167' title='bbox 597 799 717 819;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_170b' title='bbox 730 799 817 819;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>100MG</span>
+			<span class='ocrx_word' id='word_1_171b' title='bbox 826 799 870 819;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_169' title='bbox 1110 798 1193 822;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$42.88</span>
+			<span class='ocrx_word' id='word_1_170' title='bbox 1313 798 1395 822;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$42.02</span>
+			<span class='ocrx_word' id='word_1_171' title='bbox 1517 798 1594 821;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$29.81</span>
+			<span class='ocrx_word' id='word_1_172' title='bbox 1728 798 1795 822;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_173' title='bbox 1924 798 2001 822;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$29.81</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 840 2015 864; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_174' title='bbox 117 841 306 861;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-7446-56</span>
+			<span class='ocrx_word' id='word_1_175' title='bbox 382 841 562 861;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FLUVASTATIN</span>
+			<span class='ocrx_word' id='word_1_176' title='bbox 572 841 676 861;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>SODIUM</span>
+			<span class='ocrx_word' id='word_1_177' title='bbox 688 841 723 861;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>ER</span>
+			<span class='ocrx_word' id='word_1_178' title='bbox 732 841 852 861;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_179' title='bbox 861 841 935 861;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>80MG</span>
+			<span class='ocrx_word' id='word_1_180' title='bbox 944 841 973 861;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>30</span>
+			<span class='ocrx_word' id='word_1_181' title='bbox 1102 840 1200 864;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$194.13</span>
+			<span class='ocrx_word' id='word_1_182' title='bbox 1305 840 1404 863;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$190.25</span>
+			<span class='ocrx_word' id='word_1_183' title='bbox 1510 840 1607 864;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$103.43</span>
+			<span class='ocrx_word' id='word_1_184' title='bbox 1728 840 1795 864;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_185' title='bbox 1916 840 2015 864;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$103.43</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 881 2006 905; baseline 0 -2; x_x_height 13.785117149353027; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_186' title='bbox 117 882 300 903;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-7456-01</span>
+			<span class='ocrx_word' id='word_1_187' title='bbox 381 882 674 903;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>GLIPIZIDE/METFORMIN</span>
+			<span class='ocrx_word' id='word_1_188' title='bbox 685 882 735 903;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_189' title='bbox 746 882 777 903;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TB</span>
+			<span class='ocrx_word' id='word_1_190' title='bbox 788 882 921 903;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>2.5/500MG</span>
+			<span class='ocrx_word' id='word_1_191' title='bbox 931 882 975 903;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_192' title='bbox 1110 881 1193 905;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$74.17</span>
+			<span class='ocrx_word' id='word_1_193' title='bbox 1313 881 1395 905;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$72.69</span>
+			<span class='ocrx_word' id='word_1_194' title='bbox 1516 881 1599 905;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$40.00</span>
+			<span class='ocrx_word' id='word_1_195' title='bbox 1728 881 1795 905;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_196' title='bbox 1924 881 2006 905;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$40.00</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 923 2006 947; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_197' title='bbox 117 924 300 944;x_wconf 0;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-7457-01</span>
+			<span class='ocrx_word' id='word_1_198' title='bbox 381 924 674 944;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>GLIPIZIDE/METFORMIN</span>
+			<span class='ocrx_word' id='word_1_199' title='bbox 685 924 735 944;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_200' title='bbox 746 924 777 944;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TB</span>
+			<span class='ocrx_word' id='word_1_201' title='bbox 788 924 898 944;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>5/500MG</span>
+			<span class='ocrx_word' id='word_1_202' title='bbox 909 924 952 944;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_203' title='bbox 1110 923 1193 947;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$74.17</span>
+			<span class='ocrx_word' id='word_1_204' title='bbox 1313 923 1395 947;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$72.69</span>
+			<span class='ocrx_word' id='word_1_205' title='bbox 1516 923 1599 947;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$36.50</span>
+			<span class='ocrx_word' id='word_1_206' title='bbox 1727 923 1795 947;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_207' title='bbox 1924 923 2006 947;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$36.50</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 965 2006 989; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_208' title='bbox 117 966 300 986;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-8034-01</span>
+			<span class='ocrx_word' id='word_1_209' title='bbox 381 966 532 986;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>GLYBURIDE</span>
+			<span class='ocrx_word' id='word_1_210' title='bbox 543 966 707 986;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>MICRONIZED</span>
+			<span class='ocrx_word' id='word_1_211' title='bbox 717 966 768 986;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TAB</span>
+			<span class='ocrx_word' id='word_1_212' title='bbox 779 966 955 986;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>GL1.5MG100</span>
+			<span class='ocrx_word' id='word_1_213' title='bbox 1110 965 1193 989;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$15.20</span>
+			<span class='ocrx_word' id='word_1_214' title='bbox 1313 965 1395 989;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$14.90</span>
+			<span class='ocrx_word' id='word_1_215' title='bbox 1516 965 1599 989;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$10.06</span>
+			<span class='ocrx_word' id='word_1_216' title='bbox 1727 965 1795 989;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_217' title='bbox 1924 965 2006 989;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$10.06</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1007 1998 1030; baseline 0 -2; x_x_height 13.785117149353027; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_218' title='bbox 117 1007 300 1028;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-8035-01</span>
+			<span class='ocrx_word' id='word_1_219' title='bbox 381 1007 532 1028;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>GLYBURIDE</span>
+			<span class='ocrx_word' id='word_1_220' title='bbox 543 1007 707 1028;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>MICRONIZED</span>
+			<span class='ocrx_word' id='word_1_221' title='bbox 717 1007 768 1028;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TAB</span>
+			<span class='ocrx_word' id='word_1_222' title='bbox 779 1007 813 1028;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>GL</span>
+			<span class='ocrx_word' id='word_1_228b' title='bbox 822 1007 880 1028;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>3MG</span>
+			<span class='ocrx_word' id='word_1_229b' title='bbox 889 1007 933 1028;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_224' title='bbox 1110 1007 1193 1030;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$19.45</span>
+			<span class='ocrx_word' id='word_1_225' title='bbox 1313 1007 1395 1030;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$19.06</span>
+			<span class='ocrx_word' id='word_1_226' title='bbox 1524 1007 1592 1030;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$6.26</span>
+			<span class='ocrx_word' id='word_1_227' title='bbox 1727 1007 1795 1030;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_228' title='bbox 1932 1007 1998 1030;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$6.26</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1049 2007 1072; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_229' title='bbox 117 1049 300 1069;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-9433-01</span>
+			<span class='ocrx_word' id='word_1_230' title='bbox 381 1049 532 1069;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>GLYBURIDE</span>
+			<span class='ocrx_word' id='word_1_231' title='bbox 542 1049 662 1069;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_238b' title='bbox 673 1049 753 1069;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>2.5MG</span>
+			<span class='ocrx_word' id='word_1_239b' title='bbox 763 1049 806 1069;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_233' title='bbox 1109 1049 1193 1072;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$20.65</span>
+			<span class='ocrx_word' id='word_1_234' title='bbox 1313 1049 1396 1072;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$20.24</span>
+			<span class='ocrx_word' id='word_1_235' title='bbox 1516 1049 1600 1072;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$11.64</span>
+			<span class='ocrx_word' id='word_1_236' title='bbox 1727 1049 1795 1072;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_237' title='bbox 1924 1049 2007 1072;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$11.64</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1090 1998 1114; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_238' title='bbox 117 1091 300 1111;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-8342-01</span>
+			<span class='ocrx_word' id='word_1_239' title='bbox 381 1091 532 1111;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>GLYBURIDE</span>
+			<span class='ocrx_word' id='word_1_240' title='bbox 542 1091 662 1111;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_241' title='bbox 674 1091 711 1111;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>MN</span>
+			<span class='ocrx_word' id='word_1_249b' title='bbox 722 1091 817 1111;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>1.25MG</span>
+			<span class='ocrx_word' id='word_1_250b' title='bbox 826 1091 870 1111;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_243' title='bbox 1110 1090 1193 1114;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$12.67</span>
+			<span class='ocrx_word' id='word_1_244' title='bbox 1313 1090 1395 1114;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$12.42</span>
+			<span class='ocrx_word' id='word_1_245' title='bbox 1524 1090 1592 1114;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$5.85</span>
+			<span class='ocrx_word' id='word_1_246' title='bbox 1727 1090 1795 1114;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_247' title='bbox 1932 1090 1998 1114;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$5.85</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1132 2006 1155; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_248' title='bbox 117 1133 306 1152;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-8344-05</span>
+			<span class='ocrx_word' id='word_1_249' title='bbox 381 1133 532 1152;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>GLYBURIDE</span>
+			<span class='ocrx_word' id='word_1_250' title='bbox 542 1133 662 1152;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_251' title='bbox 674 1133 711 1152;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>MN</span>
+			<span class='ocrx_word' id='word_1_252' title='bbox 721 1133 778 1152;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>5MG</span>
+			<span class='ocrx_word' id='word_1_253' title='bbox 788 1133 831 1152;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>500</span>
+			<span class='ocrx_word' id='word_1_254' title='bbox 1102 1132 1200 1155;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$135.67</span>
+			<span class='ocrx_word' id='word_1_255' title='bbox 1305 1132 1404 1155;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$132.96</span>
+			<span class='ocrx_word' id='word_1_256' title='bbox 1516 1132 1599 1155;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$60.97</span>
+			<span class='ocrx_word' id='word_1_257' title='bbox 1727 1132 1795 1155;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_258' title='bbox 1924 1132 2006 1155;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$60.97</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1174 2006 1197; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_259' title='bbox 117 1175 306 1194;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-7485-12</span>
+			<span class='ocrx_word' id='word_1_260' title='bbox 381 1175 575 1194;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>GRANISETRON</span>
+			<span class='ocrx_word' id='word_1_261' title='bbox 585 1175 638 1194;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_262' title='bbox 646 1175 766 1194;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_263' title='bbox 778 1175 834 1194;x_wconf 0;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>1MG</span>
+			<span class='ocrx_word' id='word_1_265' title='bbox 843 1175 856 1194;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>2</span>
+			<span class='ocrx_word' id='word_1_266' title='bbox 867 1175 922 1194;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>UOU</span>
+			<span class='ocrx_word' id='word_1_267' title='bbox 1110 1174 1193 1197;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$38.95</span>
+			<span class='ocrx_word' id='word_1_268' title='bbox 1313 1174 1395 1197;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$38.17</span>
+			<span class='ocrx_word' id='word_1_269' title='bbox 1516 1174 1599 1197;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$10.88</span>
+			<span class='ocrx_word' id='word_1_270' title='bbox 1727 1174 1795 1197;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_271' title='bbox 1924 1174 2006 1197;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$10.88</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1215 2025 1240; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_272' title='bbox 117 1216 306 1237;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-7629-98</span>
+			<span class='ocrx_word' id='word_1_273' title='bbox 382 1216 488 1237;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>IMATINIB</span>
+			<span class='ocrx_word' id='word_1_274' title='bbox 499 1216 642 1237;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>MESYLATE</span>
+			<span class='ocrx_word' id='word_1_275' title='bbox 651 1216 771 1237;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_276' title='bbox 783 1216 871 1237;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>100MG</span>
+			<span class='ocrx_word' id='word_1_277' title='bbox 879 1216 909 1237;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>90</span>
+			<span class='ocrx_word' id='word_1_278' title='bbox 1091 1215 1206 1240;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$7,281.31</span>
+			<span class='ocrx_word' id='word_1_279' title='bbox 1294 1215 1415 1240;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$7,135.68</span>
+			<span class='ocrx_word' id='word_1_280' title='bbox 1498 1215 1618 1239;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$3,209.97</span>
+			<span class='ocrx_word' id='word_1_281' title='bbox 1727 1215 1795 1239;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_282' title='bbox 1904 1215 2025 1240;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$3,209.97</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1257 2025 1281; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_283' title='bbox 117 1258 306 1278;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-7630-56</span>
+			<span class='ocrx_word' id='word_1_284' title='bbox 382 1258 488 1278;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>IMATINIB</span>
+			<span class='ocrx_word' id='word_1_285' title='bbox 499 1258 642 1278;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>MESYLATE</span>
+			<span class='ocrx_word' id='word_1_286' title='bbox 651 1258 771 1278;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_287' title='bbox 782 1258 871 1278;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>400MG</span>
+			<span class='ocrx_word' id='word_1_288' title='bbox 880 1258 909 1278;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>30</span>
+			<span class='ocrx_word' id='word_1_289' title='bbox 1091 1257 1212 1281;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$8,745.78</span>
+			<span class='ocrx_word' id='word_1_290' title='bbox 1294 1257 1415 1281;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$8,570.86</span>
+			<span class='ocrx_word' id='word_1_291' title='bbox 1498 1257 1618 1281;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$3,715.23</span>
+			<span class='ocrx_word' id='word_1_292' title='bbox 1728 1257 1795 1280;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_293' title='bbox 1904 1257 2025 1281;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$3,715.23</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1299 1999 1322; baseline 0 -2; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_294' title='bbox 117 1300 306 1320;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-8238-56</span>
+			<span class='ocrx_word' id='word_1_302b' title='bbox 382 1300 632 1320;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>IRBESARTAN/HCTZ</span>
+			<span class='ocrx_word' id='word_1_297' title='bbox 639 1300 759 1320;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_298' title='bbox 771 1300 963 1320;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>150MG/12.5MG</span>
+			<span class='ocrx_word' id='word_1_299' title='bbox 971 1300 1001 1320;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>30</span>
+			<span class='ocrx_word' id='word_1_300' title='bbox 1110 1299 1193 1322;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$10.80</span>
+			<span class='ocrx_word' id='word_1_301' title='bbox 1313 1299 1395 1322;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$10.58</span>
+			<span class='ocrx_word' id='word_1_302' title='bbox 1524 1299 1593 1322;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$3.84</span>
+			<span class='ocrx_word' id='word_1_303' title='bbox 1728 1299 1795 1322;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_304' title='bbox 1932 1299 1999 1322;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$3.84</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1340 2006 1363; baseline 0 -2; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_305' title='bbox 117 1341 306 1361;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-8238-98</span>
+			<span class='ocrx_word' id='word_1_306' title='bbox 382 1341 632 1361;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>IRBESARTAN/HCTZ</span>
+			<span class='ocrx_word' id='word_1_307' title='bbox 639 1341 759 1361;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_308' title='bbox 771 1341 963 1361;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>150MG/12.5MG</span>
+			<span class='ocrx_word' id='word_1_309' title='bbox 971 1341 1001 1361;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>90</span>
+			<span class='ocrx_word' id='word_1_310' title='bbox 1110 1340 1193 1363;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$31.53</span>
+			<span class='ocrx_word' id='word_1_311' title='bbox 1313 1340 1395 1363;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$30.90</span>
+			<span class='ocrx_word' id='word_1_312' title='bbox 1516 1340 1599 1363;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$10.75</span>
+			<span class='ocrx_word' id='word_1_313' title='bbox 1727 1340 1795 1363;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_314' title='bbox 1924 1340 2006 1363;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$10.75</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1382 1998 1406; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_315' title='bbox 117 1383 306 1403;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-8232-56</span>
+			<span class='ocrx_word' id='word_1_322b' title='bbox 382 1383 632 1403;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>IRBESARTAN/HCTZ</span>
+			<span class='ocrx_word' id='word_1_318' title='bbox 639 1383 759 1403;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_319' title='bbox 770 1383 963 1403;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>300MG/12.5MG</span>
+			<span class='ocrx_word' id='word_1_320' title='bbox 971 1383 1001 1403;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>30</span>
+			<span class='ocrx_word' id='word_1_321' title='bbox 1109 1382 1193 1406;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$13.39</span>
+			<span class='ocrx_word' id='word_1_322' title='bbox 1313 1382 1395 1406;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$13.12</span>
+			<span class='ocrx_word' id='word_1_323' title='bbox 1524 1382 1592 1406;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$6.76</span>
+			<span class='ocrx_word' id='word_1_324' title='bbox 1727 1382 1795 1406;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_325' title='bbox 1931 1382 1998 1406;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$6.76</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1423 2006 1448; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_326' title='bbox 117 1424 306 1445;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-0071-02</span>
+			<span class='ocrx_word' id='word_1_327' title='bbox 382 1424 507 1445;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>ISONIAZID</span>
+			<span class='ocrx_word' id='word_1_328' title='bbox 518 1424 638 1445;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_329' title='bbox 648 1424 736 1445;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>300MG</span>
+			<span class='ocrx_word' id='word_1_330' title='bbox 747 1424 790 1445;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_331' title='bbox 1109 1423 1193 1448;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$24.75</span>
+			<span class='ocrx_word' id='word_1_332' title='bbox 1313 1423 1395 1448;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$24.26</span>
+			<span class='ocrx_word' id='word_1_333' title='bbox 1516 1423 1599 1448;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$17.33</span>
+			<span class='ocrx_word' id='word_1_334' title='bbox 1727 1423 1795 1448;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_335' title='bbox 1924 1423 2006 1448;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$17.33</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1465 2015 1489; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_336' title='bbox 117 1466 306 1486;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-0071-05</span>
+			<span class='ocrx_word' id='word_1_337' title='bbox 382 1466 507 1486;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>ISONIAZID</span>
+			<span class='ocrx_word' id='word_1_338' title='bbox 518 1466 638 1486;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_339' title='bbox 648 1466 736 1486;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>300MG</span>
+			<span class='ocrx_word' id='word_1_340' title='bbox 747 1466 806 1486;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>1000</span>
+			<span class='ocrx_word' id='word_1_341' title='bbox 1102 1465 1200 1489;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$188.70</span>
+			<span class='ocrx_word' id='word_1_342' title='bbox 1305 1465 1404 1489;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$184.93</span>
+			<span class='ocrx_word' id='word_1_343' title='bbox 1509 1465 1607 1489;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$132.12</span>
+			<span class='ocrx_word' id='word_1_344' title='bbox 1727 1465 1795 1489;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_345' title='bbox 1916 1465 2015 1489;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$132.12</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1508 2010 1534; baseline 0 -6; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_346' title='bbox 117 1508 306 1528;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-3122-98</span>
+			<span class='ocrx_word' id='word_1_347aa' title='bbox 380 1508 509 1534;x_wconf 0;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>JINTELI(R)</span>
+			<span class='ocrx_word' id='word_1_347ab' title='bbox 519 1508 815 1534;x_wconf 0;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>(NORETHINDRONE/EE)</span>
+			<span class='ocrx_word' id='word_1_347b' title='bbox 825 1508 914 1528;x_wconf 0;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>1/0.005</span>
+			<span class='ocrx_word' id='word_1_348' title='bbox 922 1508 952 1528;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>90</span>
+			<span class='ocrx_word' id='word_1_349' title='bbox 1102 1508 1200 1531;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$210.85</span>
+			<span class='ocrx_word' id='word_1_350' title='bbox 1305 1508 1404 1531;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$206.63</span>
+			<span class='ocrx_word' id='word_1_351' title='bbox 1509 1508 1603 1531;x_wconf 0;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$186.81</span>
+			<span class='ocrx_word' id='word_1_353' title='bbox 1727 1508 1795 1531;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_354' title='bbox 1916 1508 2010 1531;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$186.81</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1549 2015 1575; baseline 0 -5; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_355' title='bbox 117 1550 306 1570;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-9123-66</span>
+			<span class='ocrx_word' id='word_1_356' title='bbox 380 1550 560 1575;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>JOLESSA(TM)</span>
+			<span class='ocrx_word' id='word_1_357' title='bbox 571 1550 695 1575;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>(LEVO/EE</span>
+			<span class='ocrx_word' id='word_1_358' title='bbox 705 1550 870 1575;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>0.15/0.03MG)</span>
+			<span class='ocrx_word' id='word_1_359' title='bbox 879 1550 923 1570;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>273</span>
+			<span class='ocrx_word' id='word_1_360' title='bbox 1102 1549 1200 1573;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$347.05</span>
+			<span class='ocrx_word' id='word_1_361' title='bbox 1305 1549 1399 1573;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$340.11</span>
+			<span class='ocrx_word' id='word_1_368b' title='bbox 1509 1549 1607 1573;x_wconf 0;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$215.53</span>
+			<span class='ocrx_word' id='word_1_364' title='bbox 1727 1549 1795 1573;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_365' title='bbox 1916 1549 2015 1573;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$215.53</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1591 2006 1617; baseline 0 -6; x_x_height 13.785117149353027; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_366' title='bbox 117 1592 306 1611;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-9028-58</span>
+			<span class='ocrx_word' id='word_1_367' title='bbox 380 1592 502 1617;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>JUNEL(R)</span>
+			<span class='ocrx_word' id='word_1_368' title='bbox 512 1592 544 1611;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FE</span>
+			<span class='ocrx_word' id='word_1_369' title='bbox 555 1592 628 1611;x_wconf 0;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>1.5/30</span>
+			<span class='ocrx_word' id='word_1_370' title='bbox 638 1592 825 1617;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>(NOREACE/EE</span>
+			<span class='ocrx_word' id='word_1_371' title='bbox 836 1592 852 1611;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>&amp;</span>
+			<span class='ocrx_word' id='word_1_372' title='bbox 863 1592 905 1617;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FE)</span>
+			<span class='ocrx_word' id='word_1_373' title='bbox 915 1592 958 1611;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>168</span>
+			<span class='ocrx_word' id='word_1_374' title='bbox 1102 1591 1200 1614;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$128.95</span>
+			<span class='ocrx_word' id='word_1_375' title='bbox 1305 1591 1404 1614;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$126.37</span>
+			<span class='ocrx_word' id='word_1_376' title='bbox 1516 1591 1599 1614;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$63.05</span>
+			<span class='ocrx_word' id='word_1_377' title='bbox 1727 1591 1795 1614;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_378' title='bbox 1924 1591 2006 1614;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$63.05</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1633 2006 1659; baseline 0 -6; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_379' title='bbox 117 1633 306 1653;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-9026-58</span>
+			<span class='ocrx_word' id='word_1_380' title='bbox 380 1633 502 1659;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>JUNEL(R)</span>
+			<span class='ocrx_word' id='word_1_381' title='bbox 512 1633 544 1653;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FE</span>
+			<span class='ocrx_word' id='word_1_382' title='bbox 555 1633 606 1653;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>1/20</span>
+			<span class='ocrx_word' id='word_1_383' title='bbox 615 1633 803 1659;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>(NOREACE/EE</span>
+			<span class='ocrx_word' id='word_1_384' title='bbox 813 1633 829 1653;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>&amp;</span>
+			<span class='ocrx_word' id='word_1_385' title='bbox 841 1633 883 1659;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>FE)</span>
+			<span class='ocrx_word' id='word_1_386' title='bbox 893 1633 936 1653;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>168</span>
+			<span class='ocrx_word' id='word_1_387' title='bbox 1102 1633 1200 1656;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$128.95</span>
+			<span class='ocrx_word' id='word_1_388' title='bbox 1305 1633 1404 1656;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$126.37</span>
+			<span class='ocrx_word' id='word_1_389' title='bbox 1516 1633 1599 1656;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$63.05</span>
+			<span class='ocrx_word' id='word_1_390' title='bbox 1727 1633 1795 1656;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_391' title='bbox 1924 1633 2006 1656;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$63.05</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1674 2006 1701; baseline 0 -6; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_392' title='bbox 117 1675 306 1695;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-9027-42</span>
+			<span class='ocrx_word' id='word_1_393' title='bbox 380 1675 536 1701;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>JUNEL(R)-21</span>
+			<span class='ocrx_word' id='word_1_394' title='bbox 553 1675 625 1695;x_wconf 0;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>1.5/30</span>
+			<span class='ocrx_word' id='word_1_400b' title='bbox 635 1675 822 1701;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>(NOREACE/EE</span>
+			<span class='ocrx_word' id='word_1_401b' title='bbox 833 1675 839 1701;x_wconf 0;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>)</span>
+			<span class='ocrx_word' id='word_1_402b' title='bbox 848 1675 877 1695;x_wconf 0;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>63</span>
+			<span class='ocrx_word' id='word_1_398' title='bbox 1110 1674 1193 1697;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$64.48</span>
+			<span class='ocrx_word' id='word_1_399' title='bbox 1313 1674 1395 1697;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$63.19</span>
+			<span class='ocrx_word' id='word_1_400' title='bbox 1516 1674 1599 1697;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$26.15</span>
+			<span class='ocrx_word' id='word_1_401' title='bbox 1728 1674 1795 1697;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_402' title='bbox 1924 1674 2006 1697;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$26.15</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1716 2006 1743; baseline 0 -6; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_403' title='bbox 117 1717 306 1737;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-9025-42</span>
+			<span class='ocrx_word' id='word_1_404' title='bbox 380 1717 536 1743;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>JUNEL(R)-21</span>
+			<span class='ocrx_word' id='word_1_405' title='bbox 553 1717 602 1737;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>1/20</span>
+			<span class='ocrx_word' id='word_1_406' title='bbox 613 1717 799 1743;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>(NOREACE/EE</span>
+			<span class='ocrx_word' id='word_1_407' title='bbox 810 1717 870 1743;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TAB)</span>
+			<span class='ocrx_word' id='word_1_408' title='bbox 879 1717 909 1737;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>63</span>
+			<span class='ocrx_word' id='word_1_409' title='bbox 1110 1716 1193 1739;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$64.48</span>
+			<span class='ocrx_word' id='word_1_410' title='bbox 1313 1716 1395 1739;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$63.19</span>
+			<span class='ocrx_word' id='word_1_411' title='bbox 1517 1716 1599 1739;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$26.15</span>
+			<span class='ocrx_word' id='word_1_412' title='bbox 1728 1716 1795 1739;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_413' title='bbox 1924 1716 2006 1739;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$26.15</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1757 2006 1785; baseline 0 -6; x_x_height 13.785117149353027; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_414' title='bbox 117 1758 306 1779;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-9050-58</span>
+			<span class='ocrx_word' id='word_1_415' title='bbox 382 1758 516 1784;x_wconf 0;x_font NimbusSans;x_fsize 33' lang='eng' style='font-family:NimbusSans'>KARIVA(R)</span>
+			<span class='ocrx_word' id='word_1_416' title='bbox 525 1758 554 1779;x_wconf 100;x_font NimbusSans;x_fsize 33' lang='eng' style='font-family:NimbusSans'>28</span>
+			<span class='ocrx_word' id='word_1_417' title='bbox 564 1758 693 1785;x_wconf 0;x_font NimbusSans;x_fsize 33' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>(DESO/EE</span>
+			<span class='ocrx_word' id='word_1_418' title='bbox 704 1758 720 1779;x_wconf 100;x_font NimbusSans;x_fsize 33' lang='eng' style='font-family:NimbusSans'>&amp;</span>
+			<span class='ocrx_word' id='word_1_419' title='bbox 732 1758 775 1785;x_wconf 0;x_font NimbusSans;x_fsize 33' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>EE)</span>
+			<span class='ocrx_word' id='word_1_420' title='bbox 785 1758 828 1779;x_wconf 100;x_font NimbusSans;x_fsize 33' lang='eng' style='font-family:NimbusSans'>168</span>
+			<span class='ocrx_word' id='word_1_421' title='bbox 1102 1757 1200 1781;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$259.03</span>
+			<span class='ocrx_word' id='word_1_422' title='bbox 1305 1757 1404 1781;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$253.85</span>
+			<span class='ocrx_word' id='word_1_423' title='bbox 1516 1757 1599 1781;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$73.56</span>
+			<span class='ocrx_word' id='word_1_424' title='bbox 1728 1757 1795 1781;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_425' title='bbox 1924 1757 2006 1781;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$73.56</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1799 2006 1826; baseline 0 -6; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_426' title='bbox 117 1800 306 1820;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-9064-58</span>
+			<span class='ocrx_word' id='word_1_427' title='bbox 382 1800 547 1826;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>KELNOR(TM)</span>
+			<span class='ocrx_word' id='word_1_428' title='bbox 556 1800 646 1826;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>(ED/EE</span>
+			<span class='ocrx_word' id='word_1_429' title='bbox 656 1800 777 1820;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_430' title='bbox 789 1800 955 1826;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>1MG/35MCG)</span>
+			<span class='ocrx_word' id='word_1_431' title='bbox 966 1800 1009 1820;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>168</span>
+			<span class='ocrx_word' id='word_1_432' title='bbox 1103 1799 1200 1822;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$133.06</span>
+			<span class='ocrx_word' id='word_1_433' title='bbox 1306 1799 1404 1822;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$130.40</span>
+			<span class='ocrx_word' id='word_1_434' title='bbox 1517 1799 1599 1822;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$90.63</span>
+			<span class='ocrx_word' id='word_1_435' title='bbox 1728 1799 1795 1822;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_436' title='bbox 1925 1799 2006 1822;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$90.63</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1841 2006 1864; baseline 0 -2; x_x_height 13.785117149353027; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_437' title='bbox 117 1842 300 1862;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-3195-01</span>
+			<span class='ocrx_word' id='word_1_438' title='bbox 382 1842 567 1862;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>KETOPROFEN</span>
+			<span class='ocrx_word' id='word_1_439' title='bbox 577 1842 725 1862;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>CAPSULES</span>
+			<span class='ocrx_word' id='word_1_440' title='bbox 734 1842 808 1862;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>75MG</span>
+			<span class='ocrx_word' id='word_1_441' title='bbox 819 1842 861 1862;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_442' title='bbox 1110 1841 1193 1864;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$47.10</span>
+			<span class='ocrx_word' id='word_1_443' title='bbox 1313 1841 1395 1864;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$46.16</span>
+			<span class='ocrx_word' id='word_1_444' title='bbox 1516 1841 1599 1864;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$42.45</span>
+			<span class='ocrx_word' id='word_1_445' title='bbox 1727 1841 1795 1864;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_446' title='bbox 1924 1841 2006 1864;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$42.45</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1882 2006 1906; baseline 0 -2; x_x_height 14.34920597076416; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_447' title='bbox 117 1883 300 1904;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-0314-01</span>
+			<span class='ocrx_word' id='word_1_448' title='bbox 382 1883 547 1904;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>KETOROLAC</span>
+			<span class='ocrx_word' id='word_1_449' title='bbox 558 1883 771 1904;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TROMETHAMINE</span>
+			<span class='ocrx_word' id='word_1_450' title='bbox 782 1883 902 1904;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_451' title='bbox 915 1883 985 1904;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>10MG</span>
+			<span class='ocrx_word' id='word_1_452' title='bbox 1102 1882 1201 1906;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$107.84</span>
+			<span class='ocrx_word' id='word_1_453' title='bbox 1305 1882 1404 1906;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$105.68</span>
+			<span class='ocrx_word' id='word_1_454' title='bbox 1516 1882 1599 1906;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$79.98</span>
+			<span class='ocrx_word' id='word_1_455' title='bbox 1727 1882 1795 1906;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_456' title='bbox 1924 1882 2006 1906;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$79.98</span>
+		</span>
+		<span class='ocr_line' title="bbox 382 1917 426 1936; baseline 0 0; x_x_height 12.666667461395264; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_457' title='bbox 382 1917 426 1936;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>100</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1952 2006 1975; baseline 0 -2; x_x_height 13.804245948791504; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_458' title='bbox 117 1953 306 1973;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-4147-56</span>
+			<span class='ocrx_word' id='word_1_459' title='bbox 382 1953 467 1973;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>LEVAL</span>
+			<span class='ocrx_word' id='word_1_460' title='bbox 478 1953 529 1973;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_461' title='bbox 541 1953 580 1973;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>INH</span>
+			<span class='ocrx_word' id='word_1_462' title='bbox 589 1953 643 1973;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>SOL</span>
+			<span class='ocrx_word' id='word_1_468b' title='bbox 653 1953 689 1973;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>EQ</span>
+			<span class='ocrx_word' id='word_1_469b' title='bbox 700 1953 877 1973;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>1.25MG/0.5ML</span>
+			<span class='ocrx_word' id='word_1_464' title='bbox 886 1953 915 1973;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>30</span>
+			<span class='ocrx_word' id='word_1_465' title='bbox 1102 1952 1200 1975;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$160.80</span>
+			<span class='ocrx_word' id='word_1_466' title='bbox 1306 1952 1404 1975;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$157.58</span>
+			<span class='ocrx_word' id='word_1_467' title='bbox 1517 1952 1599 1975;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$40.92</span>
+			<span class='ocrx_word' id='word_1_468' title='bbox 1728 1952 1795 1975;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_469' title='bbox 1924 1952 2006 1975;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$40.92</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 1994 2006 2017; baseline 0 -2; x_x_height 13.804245948791504; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_470' title='bbox 117 1995 300 2015;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-0311-01</span>
+			<span class='ocrx_word' id='word_1_471' title='bbox 382 1995 558 2015;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>LOPERAMIDE</span>
+			<span class='ocrx_word' id='word_1_472' title='bbox 570 1995 621 2015;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_473' title='bbox 631 1995 778 2015;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>CAPSULES</span>
+			<span class='ocrx_word' id='word_1_480b' title='bbox 789 1995 846 2015;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>2MG</span>
+			<span class='ocrx_word' id='word_1_481b' title='bbox 856 1995 899 2015;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_475' title='bbox 1110 1994 1194 2017;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$36.74</span>
+			<span class='ocrx_word' id='word_1_476' title='bbox 1313 1994 1391 2017;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$36.01</span>
+			<span class='ocrx_word' id='word_1_477' title='bbox 1517 1994 1599 2017;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$23.76</span>
+			<span class='ocrx_word' id='word_1_478' title='bbox 1728 1994 1795 2017;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_479' title='bbox 1924 1994 2006 2017;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$23.76</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2035 2015 2058; baseline 0 -1; x_x_height 13.804245948791504; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_480' title='bbox 117 2036 306 2057;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-0311-05</span>
+			<span class='ocrx_word' id='word_1_481' title='bbox 382 2036 558 2057;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>LOPERAMIDE</span>
+			<span class='ocrx_word' id='word_1_482' title='bbox 570 2036 621 2057;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_483' title='bbox 631 2036 778 2057;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>CAPSULES</span>
+			<span class='ocrx_word' id='word_1_484' title='bbox 789 2036 846 2057;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>2MG</span>
+			<span class='ocrx_word' id='word_1_485' title='bbox 855 2036 899 2057;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>500</span>
+			<span class='ocrx_word' id='word_1_486' title='bbox 1102 2035 1200 2058;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$183.69</span>
+			<span class='ocrx_word' id='word_1_487' title='bbox 1305 2035 1404 2058;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$180.02</span>
+			<span class='ocrx_word' id='word_1_488' title='bbox 1510 2035 1607 2058;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$118.80</span>
+			<span class='ocrx_word' id='word_1_489' title='bbox 1728 2035 1795 2058;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_490' title='bbox 1916 2035 2015 2058;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$118.80</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2077 1999 2100; baseline 0 -2; x_x_height 13.804245948791504; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_491' title='bbox 117 2078 306 2098;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-7364-98</span>
+			<span class='ocrx_word' id='word_1_492' title='bbox 382 2078 525 2098;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>LOSARTAN</span>
+			<span class='ocrx_word' id='word_1_493' title='bbox 536 2078 692 2098;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>POTASSIUM</span>
+			<span class='ocrx_word' id='word_1_494' title='bbox 702 2078 753 2098;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TAB</span>
+			<span class='ocrx_word' id='word_1_495' title='bbox 763 2078 836 2098;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>25MG</span>
+			<span class='ocrx_word' id='word_1_496' title='bbox 844 2078 874 2098;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>90</span>
+			<span class='ocrx_word' id='word_1_497' title='bbox 1118 2077 1184 2100;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$8.33</span>
+			<span class='ocrx_word' id='word_1_498' title='bbox 1322 2077 1388 2100;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$8.16</span>
+			<span class='ocrx_word' id='word_1_499' title='bbox 1524 2077 1593 2100;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$4.44</span>
+			<span class='ocrx_word' id='word_1_500' title='bbox 1728 2077 1795 2100;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_501' title='bbox 1932 2077 1999 2100;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$4.44</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2118 1998 2142; baseline 0 -2; x_x_height 13.804245948791504; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_502' title='bbox 117 2119 306 2140;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-0872-02</span>
+			<span class='ocrx_word' id='word_1_503' title='bbox 381 2119 746 2140;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>MEDROXYPROGESTERONE</span>
+			<span class='ocrx_word' id='word_1_504' title='bbox 756 2119 876 2140;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_505' title='bbox 885 2119 966 2140;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>2.5MG</span>
+			<span class='ocrx_word' id='word_1_506' title='bbox 977 2119 1019 2140;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_507' title='bbox 1110 2118 1193 2142;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$14.18</span>
+			<span class='ocrx_word' id='word_1_508' title='bbox 1313 2118 1395 2142;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$13.90</span>
+			<span class='ocrx_word' id='word_1_509' title='bbox 1524 2118 1592 2142;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$9.80</span>
+			<span class='ocrx_word' id='word_1_510' title='bbox 1728 2118 1795 2142;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_511' title='bbox 1932 2118 1998 2142;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$9.80</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2160 2006 2183; baseline 0 -2; x_x_height 13.804245948791504; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_512' title='bbox 117 2161 306 2181;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-0873-02</span>
+			<span class='ocrx_word' id='word_1_513' title='bbox 381 2161 746 2181;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>MEDROXYPROGESTERONE</span>
+			<span class='ocrx_word' id='word_1_514' title='bbox 756 2161 876 2181;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_522b' title='bbox 886 2161 944 2181;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>5MG</span>
+			<span class='ocrx_word' id='word_1_523b' title='bbox 953 2161 997 2181;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_524b' title='bbox 1110 2160 1193 2183;x_wconf 0;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$21.43</span>
+			<span class='ocrx_word' id='word_1_518' title='bbox 1313 2160 1395 2183;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$21.00</span>
+			<span class='ocrx_word' id='word_1_519' title='bbox 1517 2160 1599 2183;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$10.95</span>
+			<span class='ocrx_word' id='word_1_520' title='bbox 1728 2160 1795 2183;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_521' title='bbox 1924 2160 2006 2183;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$10.95</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2202 2015 2225; baseline 0 -2; x_x_height 13.804245948791504; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_522' title='bbox 117 2203 306 2223;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-0171-78</span>
+			<span class='ocrx_word' id='word_1_523' title='bbox 381 2203 556 2224;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>MEFLOQUINE</span>
+			<span class='ocrx_word' id='word_1_524' title='bbox 568 2203 620 2223;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_525' title='bbox 629 2203 749 2223;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_526' title='bbox 761 2203 813 2223;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>USP</span>
+			<span class='ocrx_word' id='word_1_527' title='bbox 824 2203 913 2223;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>250MG</span>
+			<span class='ocrx_word' id='word_1_528' title='bbox 921 2203 950 2223;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>25</span>
+			<span class='ocrx_word' id='word_1_529' title='bbox 1102 2202 1200 2225;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$183.25</span>
+			<span class='ocrx_word' id='word_1_530' title='bbox 1305 2202 1404 2225;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$179.59</span>
+			<span class='ocrx_word' id='word_1_531' title='bbox 1510 2202 1607 2225;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$107.08</span>
+			<span class='ocrx_word' id='word_1_532' title='bbox 1728 2202 1795 2225;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_533' title='bbox 1916 2202 2015 2225;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$107.08</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2243 2006 2267; baseline 0 -2; x_x_height 13.804245948791504; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_534' title='bbox 117 2244 306 2265;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-0606-02</span>
+			<span class='ocrx_word' id='word_1_535' title='bbox 381 2244 551 2265;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>MEGESTROL</span>
+			<span class='ocrx_word' id='word_1_536' title='bbox 559 2244 685 2265;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>ACETATE</span>
+			<span class='ocrx_word' id='word_1_537' title='bbox 695 2244 815 2265;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_538' title='bbox 825 2244 898 2265;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>20MG</span>
+			<span class='ocrx_word' id='word_1_539' title='bbox 909 2244 952 2265;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_540' title='bbox 1110 2243 1193 2267;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$36.05</span>
+			<span class='ocrx_word' id='word_1_541' title='bbox 1313 2243 1395 2267;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$35.33</span>
+			<span class='ocrx_word' id='word_1_542' title='bbox 1517 2243 1599 2267;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$14.37</span>
+			<span class='ocrx_word' id='word_1_543' title='bbox 1728 2243 1795 2267;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_544' title='bbox 1924 2243 2006 2267;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$14.37</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2285 2007 2308; baseline 0 -2; x_x_height 13.804245948791504; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_545' title='bbox 117 2286 306 2306;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-0392-02</span>
+			<span class='ocrx_word' id='word_1_546' title='bbox 381 2286 546 2306;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>MEPERIDINE</span>
+			<span class='ocrx_word' id='word_1_547' title='bbox 557 2286 609 2306;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_548' title='bbox 618 2286 738 2306;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_549' title='bbox 751 2286 837 2306;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>100MG</span>
+			<span class='ocrx_word' id='word_1_550' title='bbox 848 2286 891 2306;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_551' title='bbox 1102 2285 1200 2308;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$144.86</span>
+			<span class='ocrx_word' id='word_1_552' title='bbox 1305 2285 1404 2308;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$141.96</span>
+			<span class='ocrx_word' id='word_1_553' title='bbox 1517 2285 1600 2308;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$99.94</span>
+			<span class='ocrx_word' id='word_1_554' title='bbox 1728 2285 1795 2308;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_555' title='bbox 1924 2285 2007 2308;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$99.94</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2327 2006 2350; baseline 0 -2; x_x_height 13.804245948791504; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_556' title='bbox 117 2328 306 2348;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00555-0381-02</span>
+			<span class='ocrx_word' id='word_1_557' title='bbox 381 2328 546 2348;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>MEPERIDINE</span>
+			<span class='ocrx_word' id='word_1_558' title='bbox 557 2328 609 2348;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_559' title='bbox 618 2328 738 2348;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_567b' title='bbox 749 2328 822 2348;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>50MG</span>
+			<span class='ocrx_word' id='word_1_568b' title='bbox 832 2328 875 2348;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_561' title='bbox 1110 2327 1194 2350;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$76.04</span>
+			<span class='ocrx_word' id='word_1_562' title='bbox 1313 2327 1395 2350;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$74.52</span>
+			<span class='ocrx_word' id='word_1_563' title='bbox 1517 2327 1599 2350;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$67.39</span>
+			<span class='ocrx_word' id='word_1_564' title='bbox 1728 2327 1795 2350;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_565' title='bbox 1924 2327 2006 2350;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$67.39</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2368 2006 2392; baseline 0 -3; x_x_height 13.804245948791504; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_566' title='bbox 117 2369 300 2389;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-7212-01</span>
+			<span class='ocrx_word' id='word_1_567' title='bbox 381 2369 540 2389;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>METFORMIN</span>
+			<span class='ocrx_word' id='word_1_568' title='bbox 551 2369 602 2389;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_569' title='bbox 613 2369 647 2389;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>ER</span>
+			<span class='ocrx_word' id='word_1_570' title='bbox 656 2369 777 2389;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_579b' title='bbox 788 2369 876 2389;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>750MG</span>
+			<span class='ocrx_word' id='word_1_580b' title='bbox 885 2369 929 2389;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_572' title='bbox 1110 2368 1194 2392;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$30.24</span>
+			<span class='ocrx_word' id='word_1_573' title='bbox 1313 2368 1396 2392;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$29.64</span>
+			<span class='ocrx_word' id='word_1_574' title='bbox 1516 2368 1599 2392;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$12.75</span>
+			<span class='ocrx_word' id='word_1_575' title='bbox 1728 2368 1795 2392;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_576' title='bbox 1924 2368 2006 2392;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$12.75</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2410 2006 2434; baseline 0 -3; x_x_height 13.804245948791504; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_577' title='bbox 117 2411 300 2431;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-2932-01</span>
+			<span class='ocrx_word' id='word_1_578' title='bbox 381 2411 565 2431;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>METHYLDOPA</span>
+			<span class='ocrx_word' id='word_1_579' title='bbox 575 2411 695 2431;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_589b' title='bbox 706 2411 795 2431;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>500MG</span>
+			<span class='ocrx_word' id='word_1_590b' title='bbox 804 2411 848 2431;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_581' title='bbox 1110 2410 1194 2434;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$40.74</span>
+			<span class='ocrx_word' id='word_1_582' title='bbox 1313 2410 1395 2434;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$39.93</span>
+			<span class='ocrx_word' id='word_1_583' title='bbox 1516 2410 1599 2434;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$29.87</span>
+			<span class='ocrx_word' id='word_1_584' title='bbox 1727 2410 1795 2434;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_585' title='bbox 1924 2410 2006 2434;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$29.87</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2451 2016 2479; baseline 0 -6; x_x_height 13.804245948791504; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_586' title='bbox 117 2452 300 2473;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-5295-01</span>
+			<span class='ocrx_word' id='word_1_587' title='bbox 381 2452 642 2473;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>METHYLPHENIDATE</span>
+			<span class='ocrx_word' id='word_1_588' title='bbox 653 2452 705 2473;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_589' title='bbox 716 2452 751 2473;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>ER</span>
+			<span class='ocrx_word' id='word_1_590' title='bbox 760 2452 815 2473;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>CAP</span>
+			<span class='ocrx_word' id='word_1_591' title='bbox 825 2452 883 2479;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>(CD)</span>
+			<span class='ocrx_word' id='word_1_592' title='bbox 893 2452 964 2473;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>10MG</span>
+			<span class='ocrx_word' id='word_1_593' title='bbox 975 2452 1018 2473;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_594' title='bbox 1102 2451 1200 2476;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$448.17</span>
+			<span class='ocrx_word' id='word_1_595' title='bbox 1305 2451 1399 2476;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$439.21</span>
+			<span class='ocrx_word' id='word_1_596' title='bbox 1509 2451 1608 2476;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$245.54</span>
+			<span class='ocrx_word' id='word_1_597' title='bbox 1727 2451 1795 2476;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_598' title='bbox 1916 2451 2016 2476;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$245.54</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2493 2016 2520; baseline 0 -6; x_x_height 13.804245948791504; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_599' title='bbox 117 2494 300 2514;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-5297-01</span>
+			<span class='ocrx_word' id='word_1_600' title='bbox 381 2494 642 2514;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>METHYLPHENIDATE</span>
+			<span class='ocrx_word' id='word_1_601' title='bbox 653 2494 705 2514;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_602' title='bbox 716 2494 751 2514;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>ER</span>
+			<span class='ocrx_word' id='word_1_603' title='bbox 760 2494 815 2514;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>CAP</span>
+			<span class='ocrx_word' id='word_1_604' title='bbox 825 2494 883 2520;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>(CD)</span>
+			<span class='ocrx_word' id='word_1_605' title='bbox 892 2494 964 2514;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>30MG</span>
+			<span class='ocrx_word' id='word_1_606' title='bbox 975 2494 1018 2514;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_607' title='bbox 1102 2493 1200 2517;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$448.17</span>
+			<span class='ocrx_word' id='word_1_608' title='bbox 1305 2493 1399 2517;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$439.21</span>
+			<span class='ocrx_word' id='word_1_619b' title='bbox 1509 2493 1608 2517;x_wconf 0;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$245.54</span>
+			<span class='ocrx_word' id='word_1_611' title='bbox 1727 2493 1795 2517;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_612' title='bbox 1916 2493 2016 2517;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$245.54</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2536 2015 2562; baseline 0 -6; x_x_height 13.804245948791504; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_613' title='bbox 117 2536 300 2556;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-5292-01</span>
+			<span class='ocrx_word' id='word_1_614' title='bbox 381 2536 642 2556;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>METHYLPHENIDATE</span>
+			<span class='ocrx_word' id='word_1_615' title='bbox 653 2536 705 2556;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_616' title='bbox 716 2536 751 2556;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>ER</span>
+			<span class='ocrx_word' id='word_1_617' title='bbox 760 2536 815 2556;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>CAP</span>
+			<span class='ocrx_word' id='word_1_618' title='bbox 825 2536 883 2562;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>(CD)</span>
+			<span class='ocrx_word' id='word_1_619' title='bbox 892 2536 964 2556;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>50MG</span>
+			<span class='ocrx_word' id='word_1_620' title='bbox 975 2536 1018 2556;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_621' title='bbox 1102 2536 1200 2559;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$755.35</span>
+			<span class='ocrx_word' id='word_1_622' title='bbox 1305 2536 1405 2559;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$740.24</span>
+			<span class='ocrx_word' id='word_1_623' title='bbox 1509 2536 1607 2559;x_wconf 0;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$332.23</span>
+			<span class='ocrx_word' id='word_1_625' title='bbox 1727 2536 1795 2559;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_626' title='bbox 1916 2536 2015 2559;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$332.23</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2577 1998 2601; baseline 0 -3; x_x_height 13.804245948791504; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_627' title='bbox 117 2578 300 2598;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-2203-01</span>
+			<span class='ocrx_word' id='word_1_628' title='bbox 381 2578 638 2598;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>METOCLOPRAMIDE</span>
+			<span class='ocrx_word' id='word_1_629' title='bbox 649 2578 702 2598;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_630' title='bbox 710 2578 831 2598;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_639b' title='bbox 843 2578 915 2598;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>10MG</span>
+			<span class='ocrx_word' id='word_1_640b' title='bbox 924 2578 968 2598;x_wconf 0;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_632' title='bbox 1118 2577 1184 2601;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$7.30</span>
+			<span class='ocrx_word' id='word_1_633' title='bbox 1321 2577 1388 2601;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$7.15</span>
+			<span class='ocrx_word' id='word_1_634' title='bbox 1524 2577 1592 2601;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$3.96</span>
+			<span class='ocrx_word' id='word_1_635' title='bbox 1727 2577 1795 2601;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_636' title='bbox 1931 2577 1998 2601;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$3.96</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2619 2006 2642; baseline 0 -3; x_x_height 13.804245948791504; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_637' title='bbox 117 2620 306 2639;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-2203-05</span>
+			<span class='ocrx_word' id='word_1_638' title='bbox 381 2620 638 2639;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>METOCLOPRAMIDE</span>
+			<span class='ocrx_word' id='word_1_639' title='bbox 649 2620 702 2639;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_640' title='bbox 710 2620 831 2639;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_641' title='bbox 843 2620 915 2639;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>10MG</span>
+			<span class='ocrx_word' id='word_1_642' title='bbox 922 2620 968 2639;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>500</span>
+			<span class='ocrx_word' id='word_1_643' title='bbox 1110 2619 1193 2642;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$34.88</span>
+			<span class='ocrx_word' id='word_1_644' title='bbox 1313 2619 1395 2642;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$34.18</span>
+			<span class='ocrx_word' id='word_1_645' title='bbox 1516 2619 1599 2642;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$15.65</span>
+			<span class='ocrx_word' id='word_1_646' title='bbox 1727 2619 1795 2642;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_647' title='bbox 1924 2619 2006 2642;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$15.65</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2661 1998 2684; baseline 0 -3; x_x_height 13.804245948791504; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_648' title='bbox 117 2661 300 2681;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-2204-01</span>
+			<span class='ocrx_word' id='word_1_649' title='bbox 381 2661 638 2681;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>METOCLOPRAMIDE</span>
+			<span class='ocrx_word' id='word_1_650' title='bbox 649 2661 702 2681;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_651' title='bbox 710 2661 831 2681;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_652' title='bbox 841 2661 898 2681;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>5MG</span>
+			<span class='ocrx_word' id='word_1_653' title='bbox 909 2661 952 2681;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>100</span>
+			<span class='ocrx_word' id='word_1_654' title='bbox 1118 2661 1184 2684;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$7.20</span>
+			<span class='ocrx_word' id='word_1_655' title='bbox 1322 2661 1388 2684;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$7.06</span>
+			<span class='ocrx_word' id='word_1_656' title='bbox 1524 2661 1592 2684;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$3.45</span>
+			<span class='ocrx_word' id='word_1_657' title='bbox 1727 2661 1795 2684;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_658' title='bbox 1932 2661 1998 2684;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$3.45</span>
+		</span>
+		<span class='ocr_line' title="bbox 117 2702 2007 2725; baseline 0 -2; x_x_height 13.804245948791504; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_659' title='bbox 117 2703 306 2723;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>00093-2204-05</span>
+			<span class='ocrx_word' id='word_1_660' title='bbox 381 2703 638 2723;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>METOCLOPRAMIDE</span>
+			<span class='ocrx_word' id='word_1_661' title='bbox 649 2703 702 2723;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>HCL</span>
+			<span class='ocrx_word' id='word_1_662' title='bbox 710 2703 831 2723;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>TABLETS</span>
+			<span class='ocrx_word' id='word_1_663' title='bbox 841 2703 898 2723;x_wconf 100;x_font NimbusSans' lang='eng' style='font-variant:small-caps;font-family:NimbusSans'>5MG</span>
+			<span class='ocrx_word' id='word_1_664' title='bbox 907 2703 952 2723;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>500</span>
+			<span class='ocrx_word' id='word_1_665' title='bbox 1110 2702 1193 2725;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$31.60</span>
+			<span class='ocrx_word' id='word_1_666' title='bbox 1313 2702 1395 2725;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$30.97</span>
+			<span class='ocrx_word' id='word_1_667' title='bbox 1516 2702 1600 2725;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$16.14</span>
+			<span class='ocrx_word' id='word_1_668' title='bbox 1727 2702 1795 2725;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$0.00</span>
+			<span class='ocrx_word' id='word_1_669' title='bbox 1924 2702 2007 2725;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>$16.14</span>
+		</span>
+		<span class='ocr_line' title="bbox 24 2820 2165 2856; baseline 0 -8; x_x_height 21; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_670' title='bbox 24 2820 141 2856;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>Highly</span>
+			<span class='ocrx_word' id='word_1_671' title='bbox 154 2820 375 2848;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>Confidential</span>
+			<span class='ocrx_word' id='word_1_672' title='bbox 1718 2820 2165 2856;x_wconf 100;x_font NimbusSans' lang='eng' style='font-family:NimbusSans'>TEVA_MDL_A_01439308</span>
+		</span>
+	</div>
+</body>
+</html>
