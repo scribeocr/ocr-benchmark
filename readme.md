@@ -8,33 +8,34 @@ A summary of recent benchmark results comparing between Tesseract.js and Scribe.
 
 | file | Tesseract.js Accuracy | Scribe.js Accuracy | Difference |
 | --- | --- | --- | --- |
-| chart_01.truth.hocr | 86.71% | 89.24% | 2.53% |
-| chart_02.truth.hocr | 80.41% | 88.66% | 8.25% |
-| deposition_01.truth.hocr | 92.63% | 99.65% | 7.02% |
-| deposition_02.truth.hocr | 81.48% | 97.88% | 16.40% |
+| chart_01.truth.hocr | 86.71% | 88.61% | 1.90% |
+| chart_02.truth.hocr | 80.41% | 89.69% | 9.28% |
+| deposition_01.truth.hocr | 92.63% | 99.77% | 7.13% |
+| deposition_02.truth.hocr | 81.48% | 98.94% | 17.46% |
 | filing_01.truth.hocr | 99.45% | 98.91% | -0.55% |
 | filing_03.truth.hocr | 97.68% | 98.84% | 1.16% |
 | form_01.truth.hocr | 55.32% | 54.41% | -0.91% |
 | multicol_01.truth.hocr | 91.50% | 90.80% | -0.71% |
 | multicol_02.truth.hocr | 91.30% | 95.35% | 4.05% |
 | multicol_03.truth.hocr | 95.00% | 95.13% | 0.13% |
-| multicol_04.truth.hocr | 94.31% | 93.07% | -1.24% |
+| multicol_04.truth.hocr | 94.31% | 93.56% | -0.74% |
 | multicol_05.truth.hocr | 97.09% | 97.09% | 0.00% |
 | multicol_06.truth.hocr | 91.48% | 93.89% | 2.41% |
 | multicol_07.truth.hocr | 95.03% | 95.98% | 0.96% |
 | multicol_08.truth.hocr | 97.10% | 97.89% | 0.79% |
 | receipt_03.truth.hocr | 98.36% | 96.72% | -1.64% |
+| singlecol_01.hocr | 97.65% | 100.00% | 2.35% |
 | slide_01.truth.hocr | 95.51% | 96.15% | 0.64% |
-| table_01.truth.hocr | 86.95% | 86.73% | -0.22% |
+| table_01.truth.hocr | 86.95% | 86.95% | 0.00% |
 | table_02.truth.hocr | 92.13% | 100.00% | 7.87% |
-| table_04.truth.hocr | 50.74% | 72.96% | 22.22% |
+| table_04.truth.hocr | 50.74% | 72.59% | 21.85% |
 | table_05.truth.hocr | 20.51% | 91.21% | 70.70% |
-| table_07.truth.hocr | 58.65% | 93.25% | 34.60% |
+| table_07.truth.hocr | 58.65% | 91.56% | 32.91% |
 | table_08.truth.hocr | 97.87% | 99.39% | 1.52% |
-| table_09.truth.hocr | 96.90% | 95.17% | -1.72% |
-| table_11.truth.hocr | 66.39% | 99.16% | 32.77% |
+| table_09.truth.hocr | 96.90% | 96.21% | -0.69% |
+| table_11.truth.hocr | 66.39% | 98.88% | 32.49% |
 | table_12.truth.hocr | 65.98% | 98.96% | 32.99% |
-| **Average** | **83.71%** | **92.94%** | **9.23%** |
+| **Average** | **84.23%** | **93.24%** | **9.01%** |
 
 # Running
 ### Generating HOCR for Test Corpus

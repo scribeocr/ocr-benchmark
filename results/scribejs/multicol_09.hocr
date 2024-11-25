@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title></title>
+	<meta name='font-metrics' content='{"SansDefault":{"normal":{"width":{"40":0.461538,"41":0.384615,"44":0.294118,"45":0.352941,"46":0.381356,"48":0.783281133127,"49":0.563725867647,"50":0.712074495356,"51":0.640866504644,"58":0.307692,"59":0.285714,"65":0.928571,"66":0.769231,"67":0.769231,"68":0.823529,"69":0.647059,"70":0.588235,"71":0.882353,"72":0.764706,"73":0.117647,"75":1.077465,"76":0.764706,"77":1.176471,"78":0.769231,"79":0.941176,"80":0.764706,"82":0.764706,"83":0.769231,"84":0.764706,"85":0.769231,"86":0.941176,"87":1.294118,"97":0.705882,"99":0.588235,"100":0.764706,"101":0.692308,"102":0.529412,"103":0.764706,"104":0.705882,"105":0.235294,"107":0.692308,"108":0.294118,"109":1.117647,"110":0.692308,"111":0.764706,"112":0.705882,"113":0.705882,"114":0.461538,"115":0.647059,"116":0.470588,"117":0.705882,"118":0.764706,"119":1.117647,"120":0.764706,"121":0.764706,"122":0.615385,"169":1.357143},"height":{"40":1.769231,"41":1.769231,"44":0.470588,"45":0.117647,"46":0.444444,"48":0.9969037523219999,"49":0.9583327573529999,"50":0.9969037523219999,"51":1.352941,"58":0.846154,"59":1.071429,"65":1.352941,"66":1.352941,"67":1.352941,"68":1.352941,"69":1.352941,"70":1.352941,"71":1.352941,"72":1.352941,"73":1.352941,"75":1.457746,"76":1.465686,"77":1.352941,"78":1.352941,"79":1.352941,"80":1.352941,"82":1.352941,"83":1.352941,"84":1.352941,"85":1.307692,"86":1.352941,"87":1.352941,"97":1,"99":1,"100":1.411765,"101":1,"102":1.411765,"103":1.352941,"104":1.411765,"105":1.411765,"107":1.384615,"108":1.411765,"109":1,"110":1,"111":1,"112":1.411765,"113":1.411765,"114":1,"115":1,"116":1.294118,"117":1.058824,"118":1,"119":1,"120":1,"121":1.411765,"122":1,"169":1.428571},"kerning":{"66,111":0.153846,"111,97":0.153846,"97,114":0.307692,"114,100":0.076923,"67,111":0.153846,"111,109":0.230769,"109,109":0.307692,"109,105":0.230769,"105,116":0.230769,"116,116":0.153846,"116,101":0.142857,"101,101":0.230769,"101,115":0.176471,"115,58":0.153846,"40,65":0,"65,41":0.076923,"65,117":0.153846,"117,100":0.230769,"100,105":0.230769,"40,66":0.153846,"66,41":0.076923,"79,114":0.230769,"114,103":0.153846,"103,97":0.076923,"97,110":0.235294,"110,105":0.230769,"105,122":0.153846,"122,97":0.153846,"97,116":0.153846,"116,105":0.117647,"105,111":0.176471,"111,110":0.214286,"110,100":0.235294,"69,120":0.117647,"120,101":0.076923,"101,99":0.176471,"99,117":0.230769,"117,116":0.117647,"105,118":0.230769,"118,101":0.117647,"109,112":0.307692,"112,101":0.176471,"101,110":0.235294,"110,115":0.176471,"115,97":0.153846,"111,114":0.235294,"114,112":0.230769,"112,111":0.214286,"114,97":0.117647,"71,111":0.230769,"111,118":0.058824,"101,114":0.235294,"114,110":0.153846,"110,97":0.176471,"110,99":0.235294,"99,101":0.176471,"78,111":0.235294,"105,110":0.235294,"110,103":0.176471,"68,101":0.176471,"110,111":0.176471,"111,116":0.230769,"67,104":0.176471,"104,97":0.176471,"97,105":0.176471,"105,114":0.235294,"80,114":0.176471,"114,101":0.117647,"115,105":0.176471,"105,100":0.235294,"100,101":0.176471,"110,116":0.176471,"69,113":0.176471,"113,117":0.235294,"117,105":0.235294,"105,112":0.235294,"112,109":0.235294,"109,101":0.235294,"75,46":0.190141,"86,105":0.176471,"105,99":0.235294,"87,111":0.117647,"114,108":0.176471,"108,100":0.230769,"100,119":0.117647,"119,105":0.117647,"83,116":0.230769,"116,114":0.176471,"101,103":0.230769,"103,105":0.230769,"83,111":0.176471,"111,117":0.235294,"117,114":0.235294,"114,99":0.058824,"99,105":0.176471,"83,101":0.176471,"105,97":0.176471,"97,108":0.176471,"71,114":0.235294,"114,111":0.058824,"117,112":0.235294,"82,46":0.254118,"72,117":0.294118,"117,109":0.235294,"109,97":0.176471,"82,101":0.176471,"115,111":0.117647,"104,105":0.235294,"105,101":0.176471,"101,102":0.117647,"101,118":0.117647,"101,108":0.235294,"108,111":0.117647,"111,112":0.235294,"79,102":0.176471,"102,102":-0.117647,"102,105":0.058824,"69,46":0.254597,"77,97":0.176471,"114,107":0.230769,"107,101":0.058824,"101,116":0.176471,"79,112":0.235294,"76,46":0.254902,"73,110":0.294118,"110,110":0.235294,"118,97":0.117647,"83,110":0.235294,"97,112":0.235294,"112,45":0.235294,"45,111":0.235294,"67,114":0.176471,"101,100":0.230769,"84,111":0,"111,111":0.176471,"111,108":0.176471,"108,115":0.117647,"69,110":0.235294,"110,118":0.176471,"118,105":0.117647,"110,109":0.235294,"116,97":0.117647,"108,44":0.176471,"111,99":0.235294,"71,46":0.31746,"111,100":0.235294,"100,117":0.235294,"117,99":0.176471,"99,116":0.176471,"97,103":0.176471,"103,101":0.176471,"101,109":0.235294,"68,105":0.176471,"116,111":0.117647,"82,97":0.176471,"112,105":0.176471,"110,117":0.235294,"117,111":0.176471,"117,115":0.176471,"73,109":0.294118,"112,114":0.176471,"70,105":0.176471,"83,46":0.253521,"117,102":0.176471,"102,97":0,"97,99":0.176471,"116,117":0.176471,"114,105":0.117647,"84,46":0.063717,"80,111":0.176471,"111,119":0.117647,"119,101":0.230769,"83,112":0.176471,"108,116":0.058824,"116,121":0.117647,"87,46":0.130435,"114,116":0.117647,"116,104":0.230769,"65,109":0.176471,"99,97":0.176471,"83,97":0.176471,"108,101":0.176471,"70,114":0.117647,"99,104":0.176471,"105,115":0.176471,"101,112":0.235294,"112,97":0.176471,"83,121":0.117647,"121,115":0.117647,"115,116":0.117647,"109,115":0.176471,"110,102":0.235294,"102,111":0.058824,"114,109":0.176471,"70,46":0.043478,"82,105":0.176471,"115,107":0.176471,"84,114":0.058824,"101,97":0.176471,"97,115":0.307692,"115,117":0.176471,"77,46":0.317797,"77,105":0.176471,"116,99":0.117647,"104,101":0.307692,"108,108":0.214286,"67,46":0.173913,"66,117":0.235294,"110,101":0.235294,"115,115":0.176471,"84,101":0,"104,110":0.235294,"111,103":0.176471,"103,121":0.117647,"116,44":0.176471,"71,101":0.235294,"117,110":0.307692,"115,101":0.176471,"99,114":0.235294,"114,121":0.117647,"50,48":0.284829256966,"48,50":0.213622619195,"50,51":0.284829256966,"99,111":0.153846,"100,59":0.285714,"65,108":0.230769,"105,103":0.142857,"103,104":0.214286,"104,116":0.214286,"116,115":0.214286,"114,118":0.142857,"65,115":0.117647,"86,46":0.12685,"84,97":0,"97,120":0.176471,"108,97":0.176471,"69,117":0.176471,"65,46":0.173913,"108,117":0.176471,"103,110":0.176471,"111,115":0.117647,"99,115":0.176471,"107,115":0.230769,"97,100":0.307692,"115,44":0.230769,"85,110":0.307692,"111,102":0.230769,"100,46":0.307692,"115,112":0.307692,"104,111":0.307692,"114,115":0.153846,"115,46":0.307692},"kerning2":{"66,111":0.15837100000000004,"111,97":0.14027199999999995,"97,114":0.23077000000000003,"114,100":0.004525000000000001,"67,111":0.11764700000000006,"111,109":0.19004500000000002,"109,109":0.26696799999999987,"109,105":0.226244,"105,116":0.22172000000000003,"116,116":0.14479699999999995,"116,101":0.13122099999999992,"101,101":0.15384599999999993,"101,115":0.1764699999999999,"115,58":0.15384599999999998,"40,65":-0.005493999999999999,"65,41":0.07692300000000002,"65,117":0.06334899999999999,"117,100":0.15837100000000004,"100,105":0.226244,"40,66":0.15384600000000004,"66,41":0.07692300000000002,"79,114":0.15384699999999996,"114,103":0.15837100000000004,"103,97":0.06334899999999999,"97,110":0.19004500000000002,"110,105":0.226244,"105,122":0.15384600000000004,"122,97":0.14027199999999995,"97,116":0.14479699999999995,"116,105":0.117647,"105,111":0.17647000000000002,"111,110":0.19004500000000002,"110,100":0.17647000000000002,"69,120":0.11764700000000006,"120,101":0.07239799999999996,"101,99":0.17647100000000004,"99,117":0.17647100000000004,"117,116":0.11764699999999995,"105,118":0.15837100000000004,"118,101":0.07692299999999996,"109,112":0.294118,"112,101":0.19004500000000002,"101,110":0.19004500000000002,"110,115":0.1764699999999999,"115,97":0.14027199999999995,"111,114":0.18552100000000005,"114,112":0.21719500000000003,"112,111":0.17647000000000002,"114,97":0.11764699999999995,"71,111":0.235294,"111,118":0.05882299999999996,"101,114":0.18552100000000005,"114,110":0.15384599999999993,"110,97":0.17647100000000004,"110,99":0.235294,"99,101":0.13122099999999992,"78,111":0.235294,"105,110":0.230769,"110,103":0.17647000000000002,"68,101":0.19004500000000002,"110,111":0.17647000000000002,"111,116":0.22172000000000003,"67,104":0.17647100000000004,"104,97":0.17647100000000004,"97,105":0.176471,"105,114":0.23077000000000003,"80,114":0.18552100000000005,"114,101":0.07239799999999996,"115,105":0.176471,"105,100":0.17647000000000002,"100,101":0.19004500000000002,"110,116":0.17647100000000004,"69,113":0.17647100000000004,"113,117":0.235294,"117,105":0.235294,"105,112":0.235294,"112,109":0.2352939999999999,"109,101":0.19004500000000002,"75,46":0.18906700000000004,"86,105":0.176471,"105,99":0.235294,"87,111":0.05882299999999996,"114,108":0.17647000000000002,"108,100":0.15837100000000004,"100,119":0.11764699999999984,"119,105":0.117647,"83,116":0.22172000000000003,"116,114":0.18552100000000005,"101,103":0.235294,"103,105":0.226244,"83,111":0.11764700000000006,"111,117":0.235294,"117,114":0.18552100000000005,"114,99":0.0588240000000001,"99,105":0.176471,"83,101":0.19004500000000002,"105,97":0.17647100000000004,"97,108":0.17647000000000002,"71,114":0.244344,"114,111":0.05882299999999996,"117,112":0.235294,"82,46":0.306144,"72,117":0.294118,"117,109":0.2352939999999999,"109,97":0.17647100000000004,"82,101":0.13122099999999992,"115,111":0.11764700000000006,"104,105":0.235294,"105,101":0.19004500000000002,"101,102":0.11764700000000006,"101,118":0.05882299999999996,"101,108":0.17647000000000002,"108,111":0.05882299999999996,"111,112":0.235294,"79,102":0.29411699999999996,"102,102":-0.117647,"102,105":0.05882399999999999,"69,46":0.31878500000000004,"77,97":0.17647100000000004,"114,107":0.230769,"107,101":0.013573999999999975,"101,116":0.17647100000000004,"79,112":0.294118,"76,46":0.31734100000000004,"73,110":0.30769199999999997,"110,110":0.24886799999999998,"118,97":0.11764699999999995,"83,110":0.19004500000000002,"97,112":0.235294,"112,45":0.21848799999999996,"45,111":0.235294,"67,114":0.18552100000000005,"101,100":0.16386500000000004,"84,111":-0.05882399999999999,"111,111":0.17647000000000002,"111,108":0.17647000000000002,"108,115":0.11764699999999995,"69,110":0.19004500000000002,"110,118":0.11764700000000006,"118,105":0.117647,"110,109":0.2352939999999999,"116,97":0.11764699999999995,"108,44":0.17647000000000002,"111,99":0.235294,"71,46":0.317057,"111,100":0.17647000000000002,"100,117":0.235294,"117,99":0.17647100000000004,"99,116":0.17647100000000004,"97,103":0.17647000000000002,"103,101":0.13122099999999992,"101,109":0.2352939999999999,"68,105":0.176471,"116,111":0.05882299999999996,"82,97":0.17647100000000004,"112,105":0.176471,"110,117":0.235294,"117,111":0.17647000000000002,"117,115":0.1764699999999999,"73,109":0.2941179999999999,"112,114":0.18552100000000005,"70,105":0.176471,"83,46":0.25244700000000003,"117,102":0.17647000000000002,"102,97":0,"97,99":0.17647100000000004,"116,117":0.17647100000000004,"114,105":0.117647,"84,46":0.12837900000000008,"80,111":0.11764700000000006,"111,119":0.11764699999999984,"119,101":0.230769,"83,112":0.235294,"108,116":0.05882399999999999,"116,121":0.11764700000000006,"87,46":0.009948000000000012,"114,116":0.11764699999999995,"116,104":0.14027199999999995,"65,109":0.17647100000000004,"99,97":0.17647100000000004,"83,97":0.17647100000000004,"108,101":0.13122099999999992,"70,114":0.06787399999999999,"99,104":0.17647100000000004,"105,115":0.1764699999999999,"101,112":0.235294,"112,97":0.17647100000000004,"83,121":0.05882299999999996,"121,115":0.11764699999999995,"115,116":0.11764699999999995,"109,115":0.1764699999999999,"110,102":0.17647000000000002,"102,111":0,"114,109":0.17647100000000004,"70,46":-0.07700799999999997,"82,105":0.176471,"115,107":0.24886799999999998,"84,114":0.009050000000000002,"101,97":0.17647100000000004,"97,115":0.276018,"115,117":0.17647100000000004,"77,46":0.31779700000000005,"77,105":0.176471,"116,99":0.11764700000000006,"104,101":0.230769,"108,108":0.205882,"67,46":0.09690500000000002,"66,117":0.235294,"110,101":0.19004500000000002,"115,115":0.1764699999999999,"84,101":0.013573999999999975,"104,110":0.24886799999999998,"111,103":0.17647000000000002,"103,121":0.11764700000000006,"116,44":0.17647000000000002,"71,101":0.24886799999999998,"117,110":0.30769199999999997,"115,101":0.19004500000000002,"99,114":0.18552100000000005,"114,121":0.05882299999999996,"50,48":0.28483060990699993,"48,50":0.21362261919500003,"50,51":0.28483060990700004,"99,111":0.15837100000000004,"100,59":0.28571499999999994,"65,108":0.16742,"105,103":0.16386500000000004,"103,104":0.22268900000000003,"104,116":0.24369799999999997,"116,115":0.21008399999999994,"114,118":0.16386500000000004,"65,115":0.11764699999999995,"86,46":0.126044,"84,97":0,"97,120":0.17647000000000002,"108,97":0.17647100000000004,"69,117":0.17647100000000004,"65,46":0.053427,"108,117":0.17647100000000004,"103,110":0.13122099999999992,"111,115":0.11764699999999995,"99,115":0.1764699999999999,"107,115":0.1990949999999999,"97,100":0.235294,"115,44":0.244344,"85,110":0.30769199999999997,"111,102":0.16289600000000004,"100,46":0.234029,"115,112":0.294118,"104,111":0.235294,"114,115":0.12217199999999995,"115,46":0.15710600000000002},"variants":{},"heightCaps":1.352941,"obs":1656,"obsCaps":216},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":1656},"Default":{"normal":{"width":{"38":1,"45":0.823529,"8212":0.823529},"height":{"38":1.294118,"45":0.117647,"8212":0.117647},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":32,"obsCaps":0},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":32}}'></meta>
+	<meta name='default-font' content='SansDefault'></meta>
+	<meta name='sans-font' content='Carlito'></meta>
+	<meta name='serif-font' content='NimbusRomNo9L'></meta>
+	<meta name='enable-opt' content='undefined'></meta>
+	<meta name='layout' content='[{"n":0,"default":true,"boxes":{}}]'></meta>
+	<meta name='layout-data-table' content='[{"n":0,"default":true,"tables":[]}]'></meta>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<meta name='ocr-system' content='scribeocr' />
+	<meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf ocrp_lang ocrp_dir ocrp_font ocrp_fsize'/>
+</head>
+<body>
+	<div class='ocr_page' title='bbox 0 0 2475 3225'>
+		<span class='ocr_line' title="bbox 302 2897 479 2915; baseline 0 0; x_x_height 13; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_0' title='bbox 302 2897 354 2915;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Board</span>
+			<span class='ocrx_word' id='word_1_1' title='bbox 362 2897 479 2915;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Committees:</span>
+		</span>
+		<span class='ocr_line' title="bbox 301 2930 492 2953; baseline 0 -4; x_x_height 13; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_2' title='bbox 301 2930 325 2953;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>(A)</span>
+			<span class='ocrx_word' id='word_1_3' title='bbox 338 2931 387 2949;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Audit</span>
+			<span class='ocrx_word' id='word_1_4' title='bbox 393 2931 492 2949;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Committee</span>
+		</span>
+		<span class='ocr_line' title="bbox 301 2963 835 2987; baseline 0 -5; x_x_height 13; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_5' title='bbox 301 2963 325 2986;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>(B)</span>
+			<span class='ocrx_word' id='word_1_6' title='bbox 339 2964 456 2987;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Organization</span>
+			<span class='ocrx_word' id='word_1_7' title='bbox 463 2964 496 2982;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>and</span>
+			<span class='ocrx_word' id='word_1_8' title='bbox 504 2964 590 2982;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Executive</span>
+			<span class='ocrx_word' id='word_1_9' title='bbox 597 2964 729 2987;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Compensation</span>
+			<span class='ocrx_word' id='word_1_10' title='bbox 736 2964 835 2982;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Committee</span>
+		</span>
+		<span class='ocr_line' title="bbox 301 2996 801 3020; baseline 0 -5; x_x_height 13; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_11' title='bbox 301 2996 324 3019;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>(C)</span>
+			<span class='ocrx_word' id='word_1_12' title='bbox 339 2998 429 3020;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Corporate</span>
+			<span class='ocrx_word' id='word_1_13' title='bbox 436 2998 543 3015;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Governance</span>
+			<span class='ocrx_word' id='word_1_14' title='bbox 550 2997 582 3015;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>and</span>
+			<span class='ocrx_word' id='word_1_15' title='bbox 590 2997 696 3020;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Nominating</span>
+			<span class='ocrx_word' id='word_1_16' title='bbox 702 2997 801 3015;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Committee</span>
+		</span>
+		<span class='ocr_line' title="bbox 305 3037 313 3045; baseline 0 0; x_x_height 10; x_asc_height 8">
+			<span class='ocrx_word' id='word_1_17' title='bbox 305 3037 313 3045;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>*</span>
+		</span>
+		<span class='ocr_line' title="bbox 339 3031 467 3049; baseline 0 0; x_x_height 13; x_asc_height 17">
+			<span class='ocrx_word' id='word_1_18' title='bbox 339 3032 413 3049;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Denotes</span>
+			<span class='ocrx_word' id='word_1_19' title='bbox 420 3031 467 3049;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Chair</span>
+		</span>
+		<span class='ocr_line' title="bbox 1090 381 1352 405; baseline 0 0; x_x_height 15.766666412353516; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_20' title='bbox 1090 381 1214 405;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS'>EUGENIO</span>
+			<span class='ocrx_word' id='word_1_21' title='bbox 1224 381 1352 405;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS'>AMADOR</span>
+		</span>
+		<span class='ocr_line' title="bbox 1090 426 1227 451; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_22' title='bbox 1090 426 1204 451;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>President</span>
+			<span class='ocrx_word' id='word_1_23' title='bbox 1213 440 1227 442;x_wconf 100' lang='eng'>—</span>
+		</span>
+		<span class='ocr_line' title="bbox 1090 466 1220 497; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_24' title='bbox 1090 466 1220 497;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Equipment</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 545 1349 570; baseline 0 -1; x_x_height 15.777777671813965; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_25' title='bbox 1089 545 1200 569;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>GOVIND</span>
+			<span class='ocrx_word' id='word_1_26' title='bbox 1212 546 1238 570;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>K.</span>
+			<span class='ocrx_word' id='word_1_27' title='bbox 1249 545 1349 569;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>ARORA</span>
+		</span>
+		<span class='ocr_line' title="bbox 1088 591 1284 616; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_28' title='bbox 1088 591 1138 615;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Vice</span>
+			<span class='ocrx_word' id='word_1_29' title='bbox 1148 591 1262 616;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_30' title='bbox 1270 605 1284 607;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1088 630 1333 660; baseline 0 -6; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_31' title='bbox 1088 630 1216 654;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Worldwide</span>
+			<span class='ocrx_word' id='word_1_32' title='bbox 1226 630 1333 660;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Strategic</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 670 1195 700; baseline 0 -6; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_33' title='bbox 1089 670 1195 700;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Sourcing</span>
+		</span>
+		<span class='ocr_line' title="bbox 1088 749 1308 779; baseline 0 -6; x_x_height 23; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_34' title='bbox 1088 749 1173 779;x_wconf 0;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>Iesus</span>
+			<span class='ocrx_word' id='word_1_35' title='bbox 1183 749 1308 773;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>arregui</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 795 1348 820; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_36' title='bbox 1089 795 1167 819;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Senior</span>
+			<span class='ocrx_word' id='word_1_37' title='bbox 1174 795 1224 819;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Vice</span>
+			<span class='ocrx_word' id='word_1_38' title='bbox 1234 795 1348 820;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>President</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 834 1279 859; baseline 0 -1; x_x_height 17; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_39' title='bbox 1089 834 1132 858;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>and</span>
+			<span class='ocrx_word' id='word_1_40' title='bbox 1143 834 1257 859;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>President</span>
+			<span class='ocrx_word' id='word_1_41' title='bbox 1265 848 1279 850;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 874 1312 905; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_42' title='bbox 1089 874 1231 898;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Commercial</span>
+			<span class='ocrx_word' id='word_1_43' title='bbox 1240 875 1312 905;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Group</span>
+		</span>
+		<span class='ocr_line' title="bbox 1088 954 1353 983; baseline 0 -6; x_x_height 15.666666984558105; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_44' title='bbox 1088 954 1166 977;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>ANUP</span>
+			<span class='ocrx_word' id='word_1_45' title='bbox 1178 954 1204 978;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>R.</span>
+			<span class='ocrx_word' id='word_1_46' title='bbox 1216 954 1353 983;x_wconf 0;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>BANERIEE</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 999 1370 1024; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_47' title='bbox 1089 999 1167 1023;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Senior</span>
+			<span class='ocrx_word' id='word_1_48' title='bbox 1174 999 1224 1023;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Vice</span>
+			<span class='ocrx_word' id='word_1_49' title='bbox 1234 999 1348 1024;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>President</span>
+			<span class='ocrx_word' id='word_1_50' title='bbox 1356 1013 1370 1015;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1090 1038 1358 1063; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_51' title='bbox 1090 1039 1173 1063;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Human</span>
+			<span class='ocrx_word' id='word_1_52' title='bbox 1184 1039 1306 1063;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Resources</span>
+			<span class='ocrx_word' id='word_1_53' title='bbox 1315 1038 1358 1062;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>and</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 1078 1406 1109; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_54' title='bbox 1089 1078 1152 1102;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Chief</span>
+			<span class='ocrx_word' id='word_1_55' title='bbox 1159 1078 1318 1109;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Development</span>
+			<span class='ocrx_word' id='word_1_56' title='bbox 1327 1078 1406 1102;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Officer</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 1157 1438 1182; baseline 0 -1; x_x_height 15.711111068725586; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_57' title='bbox 1089 1158 1171 1181;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>MARY</span>
+			<span class='ocrx_word' id='word_1_58' title='bbox 1181 1158 1204 1182;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>E.</span>
+			<span class='ocrx_word' id='word_1_59' title='bbox 1215 1157 1438 1181;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>BAUERSCHMIDT</span>
+		</span>
+		<span class='ocr_line' title="bbox 1088 1202 1284 1227; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_60' title='bbox 1088 1202 1138 1226;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Vice</span>
+			<span class='ocrx_word' id='word_1_61' title='bbox 1148 1202 1262 1227;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_62' title='bbox 1270 1216 1284 1218;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1090 1243 1306 1267; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_63' title='bbox 1090 1243 1173 1267;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Human</span>
+			<span class='ocrx_word' id='word_1_64' title='bbox 1184 1243 1306 1267;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Resources</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 1327 1371 1352; baseline 0 -1; x_x_height 15.727272987365723; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_65' title='bbox 1089 1327 1206 1351;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>SAMUEL</span>
+			<span class='ocrx_word' id='word_1_66' title='bbox 1217 1328 1240 1352;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>E.</span>
+			<span class='ocrx_word' id='word_1_67' title='bbox 1252 1327 1371 1351;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>BOTTUM</span>
+		</span>
+		<span class='ocr_line' title="bbox 1088 1373 1313 1398; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_68' title='bbox 1088 1373 1138 1397;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Vice</span>
+			<span class='ocrx_word' id='word_1_69' title='bbox 1148 1373 1262 1398;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>President</span>
+			<span class='ocrx_word' id='word_1_70' title='bbox 1270 1373 1313 1397;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>and</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 1412 1368 1442; baseline 0 -6; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_71' title='bbox 1089 1412 1152 1436;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Chief</span>
+			<span class='ocrx_word' id='word_1_72' title='bbox 1158 1412 1280 1442;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Marketing</span>
+			<span class='ocrx_word' id='word_1_73' title='bbox 1289 1412 1368 1436;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Officer</span>
+		</span>
+		<span class='ocr_line' title="bbox 1090 1491 1236 1515; baseline 0 0; x_x_height 15.714285850524902; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_74' title='bbox 1090 1492 1147 1515;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS'>IAIN</span>
+			<span class='ocrx_word' id='word_1_75' title='bbox 1160 1491 1236 1515;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS'>BOYD</span>
+		</span>
+		<span class='ocr_line' title="bbox 1088 1537 1284 1562; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_76' title='bbox 1088 1537 1138 1561;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Vice</span>
+			<span class='ocrx_word' id='word_1_77' title='bbox 1148 1537 1262 1562;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>President</span>
+			<span class='ocrx_word' id='word_1_78' title='bbox 1270 1551 1284 1553;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 1577 1392 1608; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_79' title='bbox 1089 1577 1223 1608;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Operations</span>
+			<span class='ocrx_word' id='word_1_80' title='bbox 1233 1577 1392 1608;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Development</span>
+		</span>
+		<span class='ocr_line' title="bbox 1090 1656 1393 1681; baseline 0 -1; x_x_height 15.690476417541504; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_81' title='bbox 1090 1657 1217 1680;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>BENNETT</span>
+			<span class='ocrx_word' id='word_1_82' title='bbox 1227 1657 1250 1681;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>L.</span>
+			<span class='ocrx_word' id='word_1_83' title='bbox 1262 1656 1393 1680;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>BRENTON</span>
+		</span>
+		<span class='ocr_line' title="bbox 1088 1701 1284 1726; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_84' title='bbox 1088 1701 1138 1725;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Vice</span>
+			<span class='ocrx_word' id='word_1_85' title='bbox 1148 1701 1262 1726;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_86' title='bbox 1270 1715 1284 1717;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1090 1741 1216 1766; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_87' title='bbox 1090 1741 1216 1766;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Innovation</span>
+		</span>
+		<span class='ocr_line' title="bbox 1088 1820 1349 1850; baseline 0 -6; x_x_height 23; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_88' title='bbox 1088 1820 1349 1850;x_wconf 0;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>Ioseph].burger</span>
+		</span>
+		<span class='ocr_line' title="bbox 1090 1866 1227 1891; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_89' title='bbox 1090 1866 1204 1891;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_90' title='bbox 1213 1880 1227 1882;x_wconf 100' lang='eng'>—</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 1905 1271 1936; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_91' title='bbox 1089 1906 1190 1936;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Snap-on</span>
+			<span class='ocrx_word' id='word_1_92' title='bbox 1200 1905 1271 1930;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Credit</span>
+		</span>
+		<span class='ocr_line' title="bbox 1088 1984 1422 2009; baseline 0 -1; x_x_height 15.743589401245117; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_93' title='bbox 1088 1984 1220 2008;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>TIMOTHY</span>
+			<span class='ocrx_word' id='word_1_94' title='bbox 1230 1985 1253 2009;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>L.</span>
+			<span class='ocrx_word' id='word_1_95' title='bbox 1264 1984 1422 2008;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>CHAMBERS</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 2030 1348 2055; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_96' title='bbox 1089 2030 1167 2054;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Senior</span>
+			<span class='ocrx_word' id='word_1_97' title='bbox 1174 2030 1224 2054;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Vice</span>
+			<span class='ocrx_word' id='word_1_98' title='bbox 1234 2030 1348 2055;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>President</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 2069 1279 2094; baseline 0 -1; x_x_height 17; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_99' title='bbox 1089 2069 1132 2093;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>and</span>
+			<span class='ocrx_word' id='word_1_100' title='bbox 1143 2069 1257 2094;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>President</span>
+			<span class='ocrx_word' id='word_1_101' title='bbox 1265 2083 1279 2085;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 2109 1342 2140; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_102' title='bbox 1089 2110 1190 2140;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Snap-on</span>
+			<span class='ocrx_word' id='word_1_103' title='bbox 1199 2109 1261 2133;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Tools</span>
+			<span class='ocrx_word' id='word_1_104' title='bbox 1270 2110 1342 2140;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Group</span>
+		</span>
+		<span class='ocr_line' title="bbox 1090 2188 1267 2212; baseline 0 0; x_x_height 15.833333015441895; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_105' title='bbox 1090 2189 1163 2212;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS'>RAUL</span>
+			<span class='ocrx_word' id='word_1_106' title='bbox 1173 2188 1267 2212;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS'>COLON</span>
+		</span>
+		<span class='ocr_line' title="bbox 1088 2234 1284 2259; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_107' title='bbox 1088 2234 1138 2258;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Vice</span>
+			<span class='ocrx_word' id='word_1_108' title='bbox 1148 2234 1262 2259;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>President</span>
+			<span class='ocrx_word' id='word_1_109' title='bbox 1270 2248 1284 2250;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1090 2273 1272 2301; baseline 0 -4; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_110' title='bbox 1090 2273 1272 2301;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Environmental,</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 2313 1365 2337; baseline 0 0; x_x_height 17; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_111' title='bbox 1089 2313 1162 2337;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Social</span>
+			<span class='ocrx_word' id='word_1_112' title='bbox 1170 2313 1213 2337;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>and</span>
+			<span class='ocrx_word' id='word_1_113' title='bbox 1223 2314 1365 2337;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Governance</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 2392 1380 2417; baseline 0 -1; x_x_height 15.75; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_114' title='bbox 1089 2392 1215 2416;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>MICHAEL</span>
+			<span class='ocrx_word' id='word_1_115' title='bbox 1225 2392 1253 2417;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>G.</span>
+			<span class='ocrx_word' id='word_1_116' title='bbox 1264 2392 1380 2416;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>GENTILE</span>
+		</span>
+		<span class='ocr_line' title="bbox 1090 2438 1227 2463; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_117' title='bbox 1090 2438 1204 2463;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_118' title='bbox 1213 2452 1227 2454;x_wconf 100' lang='eng'>—</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 2477 1275 2508; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_119' title='bbox 1089 2477 1223 2508;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Operations</span>
+			<span class='ocrx_word' id='word_1_120' title='bbox 1231 2477 1275 2501;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>and</span>
+		</span>
+		<span class='ocr_line' title="bbox 1090 2517 1350 2547; baseline 0 -6; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_121' title='bbox 1090 2517 1183 2542;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Product</span>
+			<span class='ocrx_word' id='word_1_122' title='bbox 1191 2518 1350 2547;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Management</span>
+		</span>
+		<span class='ocr_line' title="bbox 1089 2556 1342 2587; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_123' title='bbox 1089 2557 1190 2587;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Snap-on</span>
+			<span class='ocrx_word' id='word_1_124' title='bbox 1199 2556 1261 2580;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Tools</span>
+			<span class='ocrx_word' id='word_1_125' title='bbox 1270 2557 1342 2587;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Group</span>
+		</span>
+		<span class='ocr_line' title="bbox 1506 380 1730 410; baseline 0 -6; x_x_height 23; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_126' title='bbox 1506 380 1594 410;x_wconf 0;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>Iacob</span>
+			<span class='ocrx_word' id='word_1_127' title='bbox 1606 381 1628 405;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>L.</span>
+			<span class='ocrx_word' id='word_1_128' title='bbox 1639 380 1730 404;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>gunia</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 426 1625 451; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_129' title='bbox 1509 426 1603 451;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Director</span>
+			<span class='ocrx_word' id='word_1_130' title='bbox 1611 440 1625 442;x_wconf 0' lang='eng'>—</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 466 1722 497; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_131' title='bbox 1509 466 1575 497;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Rapid</span>
+			<span class='ocrx_word' id='word_1_132' title='bbox 1585 466 1722 491;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Continuous</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 506 1668 536; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_133' title='bbox 1509 506 1668 536;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Improvement</span>
+		</span>
+		<span class='ocr_line' title="bbox 1508 590 1807 620; baseline 0 -6; x_x_height 15.717948913574219; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_134' title='bbox 1508 590 1648 620;x_wconf 0;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>ROBERT].</span>
+			<span class='ocrx_word' id='word_1_135' title='bbox 1660 590 1807 614;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>HAMILTON</span>
+		</span>
+		<span class='ocr_line' title="bbox 1506 636 1703 661; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_136' title='bbox 1506 636 1556 660;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Vice</span>
+			<span class='ocrx_word' id='word_1_137' title='bbox 1567 636 1680 661;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_138' title='bbox 1689 650 1703 652;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 675 1599 699; baseline 0 0; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_139' title='bbox 1509 675 1599 699;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Finance</span>
+		</span>
+		<span class='ocr_line' title="bbox 1508 715 1761 746; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_140' title='bbox 1508 716 1608 746;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Snap-on</span>
+			<span class='ocrx_word' id='word_1_141' title='bbox 1617 715 1680 739;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Tools</span>
+			<span class='ocrx_word' id='word_1_142' title='bbox 1689 716 1761 746;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Group</span>
+		</span>
+		<span class='ocr_line' title="bbox 1507 794 1760 819; baseline 0 -1; x_x_height 15.777777671813965; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_143' title='bbox 1507 794 1584 818;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>GARY</span>
+			<span class='ocrx_word' id='word_1_144' title='bbox 1594 794 1620 819;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>S.</span>
+			<span class='ocrx_word' id='word_1_145' title='bbox 1633 794 1760 818;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>HENNING</span>
+		</span>
+		<span class='ocr_line' title="bbox 1506 840 1703 865; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_146' title='bbox 1506 840 1556 864;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Vice</span>
+			<span class='ocrx_word' id='word_1_147' title='bbox 1567 840 1680 865;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_148' title='bbox 1689 854 1703 856;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1508 879 1854 910; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_149' title='bbox 1508 879 1686 909;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Manufacturing</span>
+			<span class='ocrx_word' id='word_1_150' title='bbox 1695 879 1854 910;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Development</span>
+		</span>
+		<span class='ocr_line' title="bbox 1508 958 1757 983; baseline 0 -1; x_x_height 15.69444465637207; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_151' title='bbox 1508 959 1593 982;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>DAVID</span>
+			<span class='ocrx_word' id='word_1_152' title='bbox 1604 959 1627 983;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>T.</span>
+			<span class='ocrx_word' id='word_1_153' title='bbox 1639 958 1757 982;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>HIETPAS</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 1004 1645 1029; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_154' title='bbox 1509 1004 1623 1029;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_155' title='bbox 1631 1018 1645 1020;x_wconf 100' lang='eng'>—</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 1044 1823 1075; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_156' title='bbox 1509 1045 1582 1068;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Power</span>
+			<span class='ocrx_word' id='word_1_157' title='bbox 1589 1044 1633 1068;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>and</span>
+			<span class='ocrx_word' id='word_1_158' title='bbox 1642 1044 1754 1075;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Specialty</span>
+			<span class='ocrx_word' id='word_1_159' title='bbox 1761 1044 1823 1068;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Tools</span>
+		</span>
+		<span class='ocr_line' title="bbox 1506 1123 1757 1153; baseline 0 -6; x_x_height 23; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_160' title='bbox 1506 1124 1619 1153;x_wconf 0;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>Ieffrey</span>
+			<span class='ocrx_word' id='word_1_161' title='bbox 1628 1124 1662 1148;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>W.</span>
+			<span class='ocrx_word' id='word_1_162' title='bbox 1674 1123 1757 1147;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>howe</span>
+		</span>
+		<span class='ocr_line' title="bbox 1506 1168 1703 1193; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_163' title='bbox 1506 1168 1556 1192;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Vice</span>
+			<span class='ocrx_word' id='word_1_164' title='bbox 1567 1168 1680 1193;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_165' title='bbox 1689 1182 1703 1184;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 1208 1771 1233; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_166' title='bbox 1509 1208 1574 1233;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>North</span>
+			<span class='ocrx_word' id='word_1_167' title='bbox 1583 1208 1697 1232;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>American</span>
+			<span class='ocrx_word' id='word_1_168' title='bbox 1707 1208 1771 1232;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Sales</span>
+		</span>
+		<span class='ocr_line' title="bbox 1507 1247 1699 1277; baseline 0 -6; x_x_height 17; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_169' title='bbox 1507 1247 1551 1271;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>and</span>
+			<span class='ocrx_word' id='word_1_170' title='bbox 1562 1247 1699 1277;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Franchising</span>
+		</span>
+		<span class='ocr_line' title="bbox 1508 1287 1761 1318; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_171' title='bbox 1508 1288 1608 1318;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Snap-on</span>
+			<span class='ocrx_word' id='word_1_172' title='bbox 1617 1287 1680 1311;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Tools</span>
+			<span class='ocrx_word' id='word_1_173' title='bbox 1689 1288 1761 1318;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Group</span>
+		</span>
+		<span class='ocr_line' title="bbox 1508 1366 1701 1396; baseline 0 -6; x_x_height 23; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_174' title='bbox 1508 1366 1596 1390;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>holly</span>
+			<span class='ocrx_word' id='word_1_175' title='bbox 1605 1367 1624 1396;x_wconf 0;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>].</span>
+			<span class='ocrx_word' id='word_1_176' title='bbox 1634 1367 1701 1396;x_wconf 0;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>lUDT</span>
+		</span>
+		<span class='ocr_line' title="bbox 1506 1412 1703 1437; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_177' title='bbox 1506 1412 1556 1436;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Vice</span>
+			<span class='ocrx_word' id='word_1_178' title='bbox 1567 1412 1680 1437;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_179' title='bbox 1689 1426 1703 1428;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 1451 1599 1475; baseline 0 0; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_180' title='bbox 1509 1451 1599 1475;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Finance</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 1491 1719 1522; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_181' title='bbox 1509 1491 1585 1522;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Repair</span>
+			<span class='ocrx_word' id='word_1_182' title='bbox 1593 1492 1693 1522;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Systems</span>
+			<span class='ocrx_word' id='word_1_183' title='bbox 1702 1493 1719 1515;x_wconf 100' lang='eng'>&amp;</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 1530 1729 1561; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_184' title='bbox 1509 1530 1647 1555;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Information</span>
+			<span class='ocrx_word' id='word_1_185' title='bbox 1658 1531 1729 1561;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Group</span>
+		</span>
+		<span class='ocr_line' title="bbox 1506 1610 1831 1640; baseline 0 -6; x_x_height 23; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_186' title='bbox 1506 1611 1617 1640;x_wconf 0;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>Ieffrey</span>
+			<span class='ocrx_word' id='word_1_187' title='bbox 1627 1611 1645 1635;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>F.</span>
+			<span class='ocrx_word' id='word_1_188' title='bbox 1657 1610 1831 1634;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>kostrzewa</span>
+		</span>
+		<span class='ocr_line' title="bbox 1506 1655 1703 1680; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_189' title='bbox 1506 1655 1556 1679;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Vice</span>
+			<span class='ocrx_word' id='word_1_190' title='bbox 1567 1655 1680 1680;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_191' title='bbox 1689 1669 1703 1671;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 1695 1724 1725; baseline 0 -6; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_192' title='bbox 1509 1695 1558 1719;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Risk</span>
+			<span class='ocrx_word' id='word_1_193' title='bbox 1566 1696 1724 1725;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Management</span>
+		</span>
+		<span class='ocr_line' title="bbox 1507 1734 1674 1759; baseline 0 -1; x_x_height 17; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_194' title='bbox 1507 1734 1551 1758;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>and</span>
+			<span class='ocrx_word' id='word_1_195' title='bbox 1560 1735 1674 1759;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Treasurer</span>
+		</span>
+		<span class='ocr_line' title="bbox 1506 1813 1704 1843; baseline 0 -6; x_x_height 23; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_196' title='bbox 1506 1813 1557 1843;x_wconf 0;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>Ion</span>
+			<span class='ocrx_word' id='word_1_197' title='bbox 1569 1814 1603 1838;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>M.</span>
+			<span class='ocrx_word' id='word_1_198' title='bbox 1615 1814 1704 1837;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>larue</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 1859 1645 1884; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_199' title='bbox 1509 1859 1623 1884;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_200' title='bbox 1631 1873 1645 1875;x_wconf 100' lang='eng'>—</span>
+		</span>
+		<span class='ocr_line' title="bbox 1508 1899 1622 1924; baseline 0 -1; x_x_height 17; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_201' title='bbox 1508 1899 1604 1924;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Mitchell</span>
+			<span class='ocrx_word' id='word_1_202' title='bbox 1612 1906 1622 1923;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>1</span>
+		</span>
+		<span class='ocr_line' title="bbox 1506 1978 1775 2008; baseline 0 -6; x_x_height 23; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_203' title='bbox 1506 1979 1573 2008;x_wconf 0;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>Iune</span>
+			<span class='ocrx_word' id='word_1_204' title='bbox 1584 1978 1610 2003;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>C.</span>
+			<span class='ocrx_word' id='word_1_205' title='bbox 1622 1979 1775 2002;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>lemerand</span>
+		</span>
+		<span class='ocr_line' title="bbox 1506 2023 1732 2048; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_206' title='bbox 1506 2023 1556 2047;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Vice</span>
+			<span class='ocrx_word' id='word_1_207' title='bbox 1567 2023 1680 2048;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>President</span>
+			<span class='ocrx_word' id='word_1_208' title='bbox 1688 2023 1732 2047;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>and</span>
+		</span>
+		<span class='ocr_line' title="bbox 1508 2063 1806 2088; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_209' title='bbox 1508 2063 1570 2087;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Chief</span>
+			<span class='ocrx_word' id='word_1_210' title='bbox 1578 2063 1716 2088;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Information</span>
+			<span class='ocrx_word' id='word_1_211' title='bbox 1726 2063 1806 2087;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Officer</span>
+		</span>
+		<span class='ocr_line' title="bbox 1508 2142 1721 2167; baseline 0 -1; x_x_height 15.703703880310059; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_212' title='bbox 1508 2143 1584 2166;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>BRAD</span>
+			<span class='ocrx_word' id='word_1_213' title='bbox 1596 2143 1622 2167;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>R.</span>
+			<span class='ocrx_word' id='word_1_214' title='bbox 1635 2142 1721 2166;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>LEWIS</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 2188 1826 2213; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_215' title='bbox 1509 2188 1622 2213;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Executive</span>
+			<span class='ocrx_word' id='word_1_216' title='bbox 1630 2188 1680 2212;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Vice</span>
+			<span class='ocrx_word' id='word_1_217' title='bbox 1690 2188 1804 2213;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>President</span>
+			<span class='ocrx_word' id='word_1_218' title='bbox 1812 2202 1826 2204;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 2227 1759 2258; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_219' title='bbox 1509 2227 1617 2252;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Business</span>
+			<span class='ocrx_word' id='word_1_220' title='bbox 1626 2227 1759 2258;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Operations</span>
+		</span>
+		<span class='ocr_line' title="bbox 1507 2267 1698 2298; baseline 0 -7; x_x_height 17; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_221' title='bbox 1507 2267 1551 2291;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>and</span>
+			<span class='ocrx_word' id='word_1_222' title='bbox 1560 2267 1698 2298;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Technology</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 2306 1719 2337; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_223' title='bbox 1509 2306 1585 2337;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Repair</span>
+			<span class='ocrx_word' id='word_1_224' title='bbox 1593 2307 1693 2337;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Systems</span>
+			<span class='ocrx_word' id='word_1_225' title='bbox 1702 2308 1719 2330;x_wconf 100' lang='eng'>&amp;</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 2346 1729 2377; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_226' title='bbox 1509 2346 1647 2371;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Information</span>
+			<span class='ocrx_word' id='word_1_227' title='bbox 1658 2347 1729 2377;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Group</span>
+		</span>
+		<span class='ocr_line' title="bbox 1506 2425 1755 2450; baseline 0 -1; x_x_height 15.740740776062012; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_228' title='bbox 1506 2426 1630 2449;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>ANDREW</span>
+			<span class='ocrx_word' id='word_1_229' title='bbox 1641 2426 1668 2450;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>R.</span>
+			<span class='ocrx_word' id='word_1_230' title='bbox 1680 2425 1755 2449;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>LOBO</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 2471 1645 2496; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_231' title='bbox 1509 2471 1623 2496;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_232' title='bbox 1631 2485 1645 2487;x_wconf 100' lang='eng'>—</span>
+		</span>
+		<span class='ocr_line' title="bbox 1509 2510 1624 2535; baseline 0 -1; x_x_height 17; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_233' title='bbox 1509 2510 1624 2535;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Industrial</span>
+		</span>
+		<span class='ocr_line' title="bbox 1508 2589 1781 2614; baseline 0 -1; x_x_height 15.692307472229004; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_234' title='bbox 1508 2589 1633 2613;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>RICHARD</span>
+			<span class='ocrx_word' id='word_1_235' title='bbox 1644 2590 1667 2614;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>T.</span>
+			<span class='ocrx_word' id='word_1_236' title='bbox 1678 2590 1781 2613;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>MILLER</span>
+		</span>
+		<span class='ocr_line' title="bbox 1506 2635 1688 2663; baseline 0 -4; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_237' title='bbox 1506 2635 1556 2659;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Vice</span>
+			<span class='ocrx_word' id='word_1_238' title='bbox 1567 2635 1688 2663;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>President,</span>
+		</span>
+		<span class='ocr_line' title="bbox 1508 2675 1706 2700; baseline 0 -1; x_x_height 17; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_239' title='bbox 1508 2675 1601 2699;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>General</span>
+			<span class='ocrx_word' id='word_1_240' title='bbox 1610 2675 1706 2700;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Counsel</span>
+		</span>
+		<span class='ocr_line' title="bbox 1507 2714 1676 2745; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_241' title='bbox 1507 2714 1551 2738;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>and</span>
+			<span class='ocrx_word' id='word_1_242' title='bbox 1561 2715 1676 2745;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Secretary</span>
+		</span>
+		<span class='ocr_line' title="bbox 1086 2897 1615 2923; baseline 0 -6; x_x_height 14; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_243' title='bbox 1086 2897 1105 2917;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>©</span>
+			<span class='ocrx_word' id='word_1_244' title='bbox 1113 2903 1164 2922;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>2023</span>
+			<span class='ocrx_word' id='word_1_245' title='bbox 1173 2898 1260 2923;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Snap-on</span>
+			<span class='ocrx_word' id='word_1_246' title='bbox 1269 2897 1412 2923;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Incorporated;</span>
+			<span class='ocrx_word' id='word_1_247' title='bbox 1420 2897 1446 2917;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>All</span>
+			<span class='ocrx_word' id='word_1_248' title='bbox 1455 2897 1516 2922;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>rights</span>
+			<span class='ocrx_word' id='word_1_249' title='bbox 1524 2897 1615 2917;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>reserved</span>
+		</span>
+		<span class='ocr_line' title="bbox 1925 380 2066 410; baseline 0 -6; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_253b' title='bbox 1925 365 1997 415;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS'>JAMES</span>
+			<span class='ocrx_word' id='word_1_254b' title='bbox 2025 380 2066 404;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS'>NG</span>
+		</span>
+		<span class='ocr_line' title="bbox 1928 425 2064 450; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_251' title='bbox 1928 425 2041 450;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>President</span>
+			<span class='ocrx_word' id='word_1_252' title='bbox 2050 439 2064 441;x_wconf 100' lang='eng'>—</span>
+		</span>
+		<span class='ocr_line' title="bbox 1927 465 2174 496; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_253' title='bbox 1927 466 2027 496;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Snap-on</span>
+			<span class='ocrx_word' id='word_1_254' title='bbox 2036 465 2087 489;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Asia</span>
+			<span class='ocrx_word' id='word_1_255' title='bbox 2097 465 2174 489;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Pacific</span>
+		</span>
+		<span class='ocr_line' title="bbox 1927 544 2069 568; baseline 0 0; x_x_height 15.722222328186035; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_256' title='bbox 1927 545 2021 568;x_wconf 100;x_font Verdana' lang='eng' style='font-variant:small-caps;font-family:Verdana'>BENNY</span>
+			<span class='ocrx_word' id='word_1_257' title='bbox 2031 544 2069 568;x_wconf 100;x_font Verdana' lang='eng' style='font-variant:small-caps;font-family:Verdana'>OH</span>
+		</span>
+		<span class='ocr_line' title="bbox 1927 590 2065 614; baseline 0 0; x_x_height 17; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_258' title='bbox 1927 590 2041 614;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Chairman</span>
+			<span class='ocrx_word' id='word_1_259' title='bbox 2051 604 2065 606;x_wconf 0' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1927 629 2174 660; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_260' title='bbox 1927 630 2027 660;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Snap-on</span>
+			<span class='ocrx_word' id='word_1_261' title='bbox 2036 629 2087 653;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Asia</span>
+			<span class='ocrx_word' id='word_1_262' title='bbox 2097 629 2174 653;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Pacific</span>
+		</span>
+		<span class='ocr_line' title="bbox 1926 708 2198 733; baseline 0 -1; x_x_height 15.766666412353516; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_263' title='bbox 1926 709 2028 732;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>MARTY</span>
+			<span class='ocrx_word' id='word_1_264' title='bbox 2036 709 2062 733;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>V.</span>
+			<span class='ocrx_word' id='word_1_265' title='bbox 2073 708 2198 732;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>OZOLINS</span>
+		</span>
+		<span class='ocr_line' title="bbox 1925 754 2099 779; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_266' title='bbox 1925 754 1975 778;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Vice</span>
+			<span class='ocrx_word' id='word_1_267' title='bbox 1985 754 2099 779;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>President</span>
+		</span>
+		<span class='ocr_line' title="bbox 1926 794 2098 819; baseline 0 -1; x_x_height 17; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_268' title='bbox 1926 794 1970 818;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>and</span>
+			<span class='ocrx_word' id='word_1_269' title='bbox 1979 794 2098 819;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Controller</span>
+		</span>
+		<span class='ocr_line' title="bbox 1925 873 2172 903; baseline 0 -6; x_x_height 15.727272987365723; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_274b' title='bbox 1925 873 2000 897;x_wconf 0' lang='eng' style='font-variant:small-caps;'>ALDO</span>
+			<span class='ocrx_word' id='word_1_275b' title='bbox 2010 874 2029 903;x_wconf 0' lang='eng' style='font-variant:small-caps;'>J.</span>
+			<span class='ocrx_word' id='word_1_271' title='bbox 2041 873 2172 897;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>PAGLIARI</span>
+		</span>
+		<span class='ocr_line' title="bbox 1927 918 2207 943; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_277b' title='bbox 1927 918 2004 942;x_wconf 0;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Senior</span>
+			<span class='ocrx_word' id='word_1_278b' title='bbox 2011 918 2061 942;x_wconf 0;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Vice</span>
+			<span class='ocrx_word' id='word_1_273' title='bbox 2071 918 2207 943;x_wconf 0;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>President</span>
+		</span>
+		<span class='ocr_line' title="bbox 1928 958 2070 982; baseline 0 0; x_x_height 17; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_274' title='bbox 1928 958 2018 982;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Finance</span>
+			<span class='ocrx_word' id='word_1_275' title='bbox 2027 958 2070 982;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>and</span>
+		</span>
+		<span class='ocr_line' title="bbox 1927 997 2191 1021; baseline 0 0; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_276' title='bbox 1927 997 1989 1021;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Chief</span>
+			<span class='ocrx_word' id='word_1_277' title='bbox 1997 997 2103 1021;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Financial</span>
+			<span class='ocrx_word' id='word_1_278' title='bbox 2111 997 2191 1021;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Officer</span>
+		</span>
+		<span class='ocr_line' title="bbox 1927 1077 2245 1102; baseline 0 -1; x_x_height 15.777777671813965; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_279' title='bbox 1927 1077 2071 1101;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>NICHOLAS</span>
+			<span class='ocrx_word' id='word_1_280' title='bbox 2082 1078 2105 1102;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>T.</span>
+			<span class='ocrx_word' id='word_1_281' title='bbox 2117 1077 2245 1101;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>PINCHUK</span>
+		</span>
+		<span class='ocr_line' title="bbox 1927 1122 2094 1146; baseline 0 0; x_x_height 17; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_282' title='bbox 1927 1122 2041 1146;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Chairman</span>
+			<span class='ocrx_word' id='word_1_283' title='bbox 2051 1122 2094 1146;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>and</span>
+		</span>
+		<span class='ocr_line' title="bbox 1927 1162 2199 1187; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_284' title='bbox 1927 1162 1989 1186;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Chief</span>
+			<span class='ocrx_word' id='word_1_285' title='bbox 1997 1162 2110 1187;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Executive</span>
+			<span class='ocrx_word' id='word_1_286' title='bbox 2119 1162 2199 1186;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Officer</span>
+		</span>
+		<span class='ocr_line' title="bbox 1926 1247 2145 1272; baseline 0 -1; x_x_height 16; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_287' title='bbox 1926 1247 2018 1271;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>SCOTT</span>
+			<span class='ocrx_word' id='word_1_288' title='bbox 2028 1248 2055 1272;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>R.</span>
+			<span class='ocrx_word' id='word_1_289' title='bbox 2067 1247 2145 1271;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>RUGG</span>
+		</span>
+		<span class='ocr_line' title="bbox 1925 1292 2122 1317; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_290' title='bbox 1925 1292 1975 1316;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Vice</span>
+			<span class='ocrx_word' id='word_1_291' title='bbox 1985 1292 2099 1317;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_292' title='bbox 2108 1306 2122 1308;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1927 1333 2094 1363; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_293' title='bbox 1927 1333 2045 1363;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Corporate</span>
+			<span class='ocrx_word' id='word_1_294' title='bbox 2053 1333 2094 1356;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Tax</span>
+		</span>
+		<span class='ocr_line' title="bbox 1927 1411 2202 1436; baseline 0 -1; x_x_height 15.692307472229004; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_295' title='bbox 1927 1412 2011 1435;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>KEVIN</span>
+			<span class='ocrx_word' id='word_1_296' title='bbox 2024 1412 2046 1436;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>L.</span>
+			<span class='ocrx_word' id='word_1_304b' title='bbox 2057 1411 2202 1435;x_wconf 0;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>THATCHER</span>
+		</span>
+		<span class='ocr_line' title="bbox 1925 1457 2122 1482; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_299' title='bbox 1925 1457 1975 1481;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Vice</span>
+			<span class='ocrx_word' id='word_1_300' title='bbox 1985 1457 2099 1482;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_301' title='bbox 2108 1471 2122 1473;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1928 1496 2205 1527; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_302' title='bbox 1928 1496 2035 1521;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Business</span>
+			<span class='ocrx_word' id='word_1_303' title='bbox 2046 1496 2205 1527;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Development</span>
+		</span>
+		<span class='ocr_line' title="bbox 1926 1575 2192 1600; baseline 0 -1; x_x_height 15.733333587646484; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_304' title='bbox 1926 1575 2003 1599;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>SARA</span>
+			<span class='ocrx_word' id='word_1_305' title='bbox 2014 1576 2047 1600;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>M.</span>
+			<span class='ocrx_word' id='word_1_306' title='bbox 2057 1575 2192 1599;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>VERBSKY</span>
+		</span>
+		<span class='ocr_line' title="bbox 1925 1621 2122 1646; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_307' title='bbox 1925 1621 1975 1645;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Vice</span>
+			<span class='ocrx_word' id='word_1_308' title='bbox 1985 1621 2099 1646;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_309' title='bbox 2108 1635 2122 1637;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1928 1661 2143 1686; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_310' title='bbox 1928 1662 2024 1686;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Investor</span>
+			<span class='ocrx_word' id='word_1_311' title='bbox 2033 1661 2143 1686;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Relations</span>
+		</span>
+		<span class='ocr_line' title="bbox 1926 1741 2156 1770; baseline 0 -6; x_x_height 15.666666984558105; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_312' title='bbox 1926 1741 2156 1770;x_wconf 0;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>MARIA].VIEIRA</span>
+		</span>
+		<span class='ocr_line' title="bbox 1925 1785 2122 1810; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_313' title='bbox 1925 1785 1975 1809;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Vice</span>
+			<span class='ocrx_word' id='word_1_314' title='bbox 1985 1785 2099 1810;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_315' title='bbox 2108 1799 2122 1801;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1927 1825 2060 1856; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_316' title='bbox 1927 1825 2060 1856;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Operations</span>
+		</span>
+		<span class='ocr_line' title="bbox 1927 1864 2149 1895; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_317' title='bbox 1927 1864 2068 1888;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Commercial</span>
+			<span class='ocrx_word' id='word_1_318' title='bbox 2077 1865 2149 1895;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Group</span>
+		</span>
+		<span class='ocr_line' title="bbox 1925 1944 2173 1974; baseline 0 -6; x_x_height 15.740740776062012; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_319' title='bbox 1925 1944 2049 1968;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>THOMAS</span>
+			<span class='ocrx_word' id='word_1_320' title='bbox 2059 1945 2078 1974;x_wconf 0;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>].</span>
+			<span class='ocrx_word' id='word_1_321' title='bbox 2089 1945 2173 1968;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>WARD</span>
+		</span>
+		<span class='ocr_line' title="bbox 1927 1989 2185 2014; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_322' title='bbox 1927 1989 2004 2013;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Senior</span>
+			<span class='ocrx_word' id='word_1_323' title='bbox 2011 1989 2061 2013;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Vice</span>
+			<span class='ocrx_word' id='word_1_324' title='bbox 2071 1989 2185 2014;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>President</span>
+		</span>
+		<span class='ocr_line' title="bbox 1926 2029 2117 2054; baseline 0 -1; x_x_height 17; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_325' title='bbox 1926 2029 1970 2053;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>and</span>
+			<span class='ocrx_word' id='word_1_326' title='bbox 1980 2029 2094 2054;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>President</span>
+			<span class='ocrx_word' id='word_1_327' title='bbox 2103 2043 2117 2045;x_wconf 100' lang='eng'>-</span>
+		</span>
+		<span class='ocr_line' title="bbox 1928 2068 2138 2099; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_328' title='bbox 1928 2068 2003 2099;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Repair</span>
+			<span class='ocrx_word' id='word_1_329' title='bbox 2011 2069 2112 2099;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Systems</span>
+			<span class='ocrx_word' id='word_1_330' title='bbox 2121 2070 2138 2093;x_wconf 100' lang='eng'>&amp;</span>
+		</span>
+		<span class='ocr_line' title="bbox 1928 2108 2148 2139; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_331' title='bbox 1928 2108 2066 2133;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Information</span>
+			<span class='ocrx_word' id='word_1_332' title='bbox 2076 2109 2148 2139;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Group</span>
+		</span>
+		<span class='ocr_line' title="bbox 1926 2187 2178 2212; baseline 0 -1; x_x_height 15.696969985961914; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_333' title='bbox 1926 2188 2040 2211;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>MARIAN</span>
+			<span class='ocrx_word' id='word_1_334' title='bbox 2052 2188 2075 2212;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>T.</span>
+			<span class='ocrx_word' id='word_1_335' title='bbox 2085 2187 2178 2211;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>WELLS</span>
+		</span>
+		<span class='ocr_line' title="bbox 1928 2233 2064 2258; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_336' title='bbox 1928 2233 2041 2258;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_337' title='bbox 2050 2247 2064 2249;x_wconf 100' lang='eng'>—</span>
+		</span>
+		<span class='ocr_line' title="bbox 1927 2273 2068 2303; baseline 0 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_338' title='bbox 1927 2273 1977 2296;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS_Bold'>SNA</span>
+			<span class='ocrx_word' id='word_1_339' title='bbox 1986 2273 2068 2303;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Europe</span>
+		</span>
+		<span class='ocr_line' title="bbox 1925 2351 2124 2381; baseline 0 -6; x_x_height 23; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_340' title='bbox 1925 2351 1996 2381;x_wconf 0;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>Iohn</span>
+			<span class='ocrx_word' id='word_1_341' title='bbox 2007 2352 2035 2376;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>A.</span>
+			<span class='ocrx_word' id='word_1_342' title='bbox 2046 2351 2124 2375;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>wolf</span>
+		</span>
+		<span class='ocr_line' title="bbox 1928 2397 2064 2422; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_343' title='bbox 1928 2397 2041 2422;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_344' title='bbox 2050 2411 2064 2413;x_wconf 100' lang='eng'>—</span>
+		</span>
+		<span class='ocr_line' title="bbox 1927 2437 2104 2462; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_345' title='bbox 1927 2438 1981 2461;x_wconf 0;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>OEM</span>
+			<span class='ocrx_word' id='word_1_346' title='bbox 1991 2437 2104 2462;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Solutions</span>
+		</span>
+		<span class='ocr_line' title="bbox 1925 2516 2183 2546; baseline 0 -6; x_x_height 23; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_347' title='bbox 1925 2517 2064 2546;x_wconf 0;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>Ieffery].</span>
+			<span class='ocrx_word' id='word_1_348' title='bbox 2075 2516 2183 2540;x_wconf 0;x_font Verdana_Bold' lang='eng' style='font-variant:small-caps;font-family:Verdana_Bold'>zuehls</span>
+		</span>
+		<span class='ocr_line' title="bbox 1928 2561 2064 2586; baseline 0 -1; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_349' title='bbox 1928 2561 2041 2586;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>President</span>
+			<span class='ocrx_word' id='word_1_350' title='bbox 2050 2575 2064 2577;x_wconf 100' lang='eng'>—</span>
+		</span>
+		<span class='ocr_line' title="bbox 1928 2601 2067 2631; baseline 0 -6; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_351' title='bbox 1928 2601 2067 2631;x_wconf 100;x_font Verdana_Bold' lang='eng' style='font-family:Verdana_Bold'>Diagnostics</span>
+		</span>
+		<span class='ocr_line' title="bbox 1086 2945 2084 2968; baseline 0 -5; x_x_height 13; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_352' title='bbox 1086 2945 1167 2968;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Snap-on</span>
+			<span class='ocrx_word' id='word_1_353' title='bbox 1175 2950 1196 2963;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>as</span>
+			<span class='ocrx_word' id='word_1_354' title='bbox 1203 2945 1243 2963;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>well</span>
+			<span class='ocrx_word' id='word_1_355' title='bbox 1250 2950 1271 2963;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>as</span>
+			<span class='ocrx_word' id='word_1_356' title='bbox 1279 2945 1330 2963;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>other</span>
+			<span class='ocrx_word' id='word_1_357' title='bbox 1338 2945 1397 2963;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>marks</span>
+			<span class='ocrx_word' id='word_1_358' title='bbox 1405 2950 1434 2963;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>are</span>
+			<span class='ocrx_word' id='word_1_359' title='bbox 1442 2945 1562 2966;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>trademarks,</span>
+			<span class='ocrx_word' id='word_1_360' title='bbox 1572 2945 1671 2968;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>registered</span>
+			<span class='ocrx_word' id='word_1_361' title='bbox 1680 2945 1696 2963;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>in</span>
+			<span class='ocrx_word' id='word_1_362' title='bbox 1704 2945 1734 2963;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>the</span>
+			<span class='ocrx_word' id='word_1_363' title='bbox 1743 2945 1805 2963;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>United</span>
+			<span class='ocrx_word' id='word_1_364' title='bbox 1814 2945 1876 2963;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>States</span>
+			<span class='ocrx_word' id='word_1_365' title='bbox 1883 2945 1918 2963;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>and</span>
+			<span class='ocrx_word' id='word_1_366' title='bbox 1926 2945 1978 2963;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>other</span>
+			<span class='ocrx_word' id='word_1_367' title='bbox 1985 2945 2084 2966;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>countries,</span>
+		</span>
+		<span class='ocr_line' title="bbox 1086 2978 1874 3001; baseline 0 -5; x_x_height 13; x_asc_height 18">
+			<span class='ocrx_word' id='word_1_368' title='bbox 1086 2978 1104 2996;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>of</span>
+			<span class='ocrx_word' id='word_1_369' title='bbox 1111 2978 1192 3001;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Snap-on</span>
+			<span class='ocrx_word' id='word_1_370' title='bbox 1201 2978 1334 3001;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Incorporated.</span>
+			<span class='ocrx_word' id='word_1_371' title='bbox 1342 2978 1367 2996;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>All</span>
+			<span class='ocrx_word' id='word_1_372' title='bbox 1374 2978 1426 2996;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>other</span>
+			<span class='ocrx_word' id='word_1_373' title='bbox 1434 2978 1493 2996;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>marks</span>
+			<span class='ocrx_word' id='word_1_374' title='bbox 1501 2983 1530 2996;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>are</span>
+			<span class='ocrx_word' id='word_1_375' title='bbox 1539 2978 1598 2996;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>marks</span>
+			<span class='ocrx_word' id='word_1_385b' title='bbox 1606 2978 1624 2996;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>of</span>
+			<span class='ocrx_word' id='word_1_386b' title='bbox 1630 2978 1676 2996;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>their</span>
+			<span class='ocrx_word' id='word_1_377' title='bbox 1685 2978 1786 3001;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>respective</span>
+			<span class='ocrx_word' id='word_1_378' title='bbox 1795 2978 1874 2996;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>holders.</span>
+		</span>
+	</div>
+</body>
+</html>

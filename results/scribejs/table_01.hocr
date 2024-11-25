@@ -8,8 +8,8 @@
 	<meta name='sans-font' content='NimbusSans'></meta>
 	<meta name='serif-font' content='NimbusRomNo9L'></meta>
 	<meta name='enable-opt' content='undefined'></meta>
-	<meta name='layout' content='[{"default":true,"boxes":{}}]'></meta>
-	<meta name='layout-data-table' content='[{"default":true,"tables":[]}]'></meta>
+	<meta name='layout' content='[{"n":0,"default":true,"boxes":{}}]'></meta>
+	<meta name='layout-data-table' content='[{"n":0,"default":true,"tables":[]}]'></meta>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
 	<meta name='ocr-system' content='scribeocr' />
 	<meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf ocrp_lang ocrp_dir ocrp_font ocrp_fsize'/>
@@ -125,10 +125,10 @@
 			<span class='ocrx_word' id='word_1_96' title='bbox 738 356 937 376;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Pharmaceuticals</span>
 		</span>
 		<span class='ocr_line' title="bbox 382 417 1544 440; baseline 0 -5; x_asc_height 18">
-			<span class='ocrx_word' id='word_1_96b' title='bbox 378 404 484 445;x_wconf 0' lang='eng' style='font-style:italic;'>COMPANY</span>
-			<span class='ocrx_word' id='word_1_97b' title='bbox 496 404 590 445;x_wconf 0' lang='eng' style='font-style:italic;'>(TICKER)</span>
-			<span class='ocrx_word' id='word_1_98b' title='bbox 1096 417 1177 435;x_wconf 0' lang='eng'>rating</span>
-			<span class='ocrx_word' id='word_1_99b' title='bbox 1181 417 1218 440;x_wconf 0' lang='eng'>(as</span>
+			<span class='ocrx_word' id='word_1_96b' title='bbox 378 404 484 445;x_wconf 0;x_font Arial_Bold_Italic' lang='eng' style='font-style:italic;font-family:Arial_Bold_Italic'>COMPANY</span>
+			<span class='ocrx_word' id='word_1_97b' title='bbox 496 404 590 445;x_wconf 0;x_font Arial_Bold_Italic' lang='eng' style='font-style:italic;font-family:Arial_Bold_Italic'>(TICKER)</span>
+			<span class='ocrx_word' id='word_1_98b' title='bbox 1096 417 1177 435;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>rating</span>
+			<span class='ocrx_word' id='word_1_99b' title='bbox 1181 417 1218 440;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>(as</span>
 			<span class='ocrx_word' id='word_1_99' title='bbox 1223 417 1258 440;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-variant:small-caps;font-family:Arial_Bold'>OF)</span>
 			<span class='ocrx_word' id='word_1_100' title='bbox 1335 417 1407 435;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-variant:small-caps;font-family:Arial_Bold'>PRICE</span>
 			<span class='ocrx_word' id='word_1_101' title='bbox 1414 417 1544 440;x_wconf 100' lang='eng'>(11/04/2016)</span>
@@ -211,8 +211,8 @@
 			<span class='ocrx_word' id='word_1_160' title='bbox 662 820 833 845;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Biotechnology</span>
 		</span>
 		<span class='ocr_line' title="bbox 382 879 1544 903; baseline 0 -5; x_asc_height 19">
-			<span class='ocrx_word' id='word_1_163b' title='bbox 378 865 486 908;x_wconf 0' lang='eng'>COMPANY</span>
-			<span class='ocrx_word' id='word_1_164b' title='bbox 496 865 590 908;x_wconf 0' lang='eng'>(TICKER)</span>
+			<span class='ocrx_word' id='word_1_163b' title='bbox 378 865 486 908;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>COMPANY</span>
+			<span class='ocrx_word' id='word_1_164b' title='bbox 496 865 590 908;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>(TICKER)</span>
 			<span class='ocrx_word' id='word_1_162' title='bbox 1096 879 1177 898;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-variant:small-caps;font-family:Arial_Bold'>rating</span>
 			<span class='ocrx_word' id='word_1_163' title='bbox 1181 879 1218 903;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-variant:small-caps;font-family:Arial_Bold'>(AS</span>
 			<span class='ocrx_word' id='word_1_164' title='bbox 1223 879 1258 903;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-variant:small-caps;font-family:Arial_Bold'>OF)</span>
@@ -249,8 +249,8 @@
 			<span class='ocrx_word' id='word_1_186' title='bbox 1487 1035 1545 1057;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$7.55</span>
 		</span>
 		<span class='ocr_line' title="bbox 404 1061 1541 1086; baseline 0 -6; x_x_height 13; x_asc_height 18">
-			<span class='ocrx_word' id='word_1_191b' title='bbox 400 1057 436 1090;x_wconf 0' lang='eng'>Gw</span>
-			<span class='ocrx_word' id='word_1_192b' title='bbox 448 1062 620 1080;x_wconf 0' lang='eng'>Pharmaceuticals</span>
+			<span class='ocrx_word' id='word_1_191b' title='bbox 400 1057 436 1090;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Gw</span>
+			<span class='ocrx_word' id='word_1_192b' title='bbox 448 1062 620 1080;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Pharmaceuticals</span>
 			<span class='ocrx_word' id='word_1_188' title='bbox 628 1062 672 1080;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS'>PLC</span>
 			<span class='ocrx_word' id='word_1_189' title='bbox 679 1062 785 1086;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS'>(GWPH.O)</span>
 			<span class='ocrx_word' id='word_1_190' title='bbox 1107 1062 1261 1086;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>0(08/13/2015)</span>
@@ -283,7 +283,8 @@
 		</span>
 		<span class='ocr_line' title="bbox 404 1166 1544 1192; baseline 0 -6; x_asc_height 18">
 			<span class='ocrx_word' id='word_1_211' title='bbox 404 1168 471 1186;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Ocular</span>
-			<span class='ocrx_word' id='word_1_212' title='bbox 477 1168 634 1191;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>Therapeutix</span>
+			<span class='ocrx_word' id='word_1_216b' title='bbox 477 1168 600 1191;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>Therapeutix</span>
+			<span class='ocrx_word' id='word_1_217b' title='bbox 604 1168 634 1186;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>Inc</span>
 			<span class='ocrx_word' id='word_1_213' title='bbox 640 1168 740 1192;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>(OCUL.O)</span>
 			<span class='ocrx_word' id='word_1_214' title='bbox 1107 1168 1261 1192;x_wconf 0' lang='eng'>0(02/17/2016)</span>
 			<span class='ocrx_word' id='word_1_215' title='bbox 1487 1166 1544 1189;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$5.22</span>
@@ -291,8 +292,8 @@
 		<span class='ocr_line' title="bbox 405 1192 1544 1218; baseline 0 -6; x_x_height 13; x_asc_height 18">
 			<span class='ocrx_word' id='word_1_216' title='bbox 405 1194 495 1212;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Rockwell</span>
 			<span class='ocrx_word' id='word_1_217' title='bbox 504 1194 580 1212;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>Nbdical</span>
-			<span class='ocrx_word' id='word_1_223b' title='bbox 590 1194 619 1212;x_wconf 0' lang='eng'>Inc</span>
-			<span class='ocrx_word' id='word_1_224b' title='bbox 624 1194 713 1218;x_wconf 0' lang='eng'>(RMT1.0)</span>
+			<span class='ocrx_word' id='word_1_223b' title='bbox 590 1194 619 1212;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>Inc</span>
+			<span class='ocrx_word' id='word_1_224b' title='bbox 624 1194 713 1218;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>(RMT1.0)</span>
 			<span class='ocrx_word' id='word_1_219' title='bbox 1108 1194 1122 1212;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>U</span>
 			<span class='ocrx_word' id='word_1_220' title='bbox 1130 1194 1261 1218;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>(08/13/2015)</span>
 			<span class='ocrx_word' id='word_1_221' title='bbox 1486 1192 1544 1214;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$5.67</span>
@@ -343,7 +344,7 @@
 			<span class='ocrx_word' id='word_1_254' title='bbox 655 1426 685 1444;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Inc</span>
 			<span class='ocrx_word' id='word_1_255' title='bbox 690 1426 768 1450;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>(INFl.O)</span>
 			<span class='ocrx_word' id='word_1_256' title='bbox 1110 1426 1124 1444;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>E</span>
-			<span class='ocrx_word' id='word_1_262b' title='bbox 1130 1426 1261 1450;x_wconf 0' lang='eng'>(08/11/2016)</span>
+			<span class='ocrx_word' id='word_1_262b' title='bbox 1130 1426 1261 1450;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>(08/11/2016)</span>
 			<span class='ocrx_word' id='word_1_259' title='bbox 1487 1424 1544 1447;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$0.93</span>
 		</span>
 		<span class='ocr_line' title="bbox 405 1450 1544 1476; baseline 0 -6; x_x_height 13; x_asc_height 18">
@@ -416,8 +417,8 @@
 			<span class='ocrx_word' id='word_1_310' title='bbox 1461 1735 1544 1757;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$103.44</span>
 		</span>
 		<span class='ocr_line' title="bbox 404 1761 1544 1786; baseline 0 -5; x_x_height 14; x_asc_height 19">
-			<span class='ocrx_word' id='word_1_313b' title='bbox 404 1762 451 1781;x_wconf 0' lang='eng'>DBV</span>
-			<span class='ocrx_word' id='word_1_314b' title='bbox 454 1762 593 1786;x_wconf 0' lang='eng'>Technologies</span>
+			<span class='ocrx_word' id='word_1_313b' title='bbox 404 1762 451 1781;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>DBV</span>
+			<span class='ocrx_word' id='word_1_314b' title='bbox 454 1762 593 1786;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>Technologies</span>
 			<span class='ocrx_word' id='word_1_312' title='bbox 601 1762 731 1786;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>SA(DBVT.O)</span>
 			<span class='ocrx_word' id='word_1_313' title='bbox 1107 1762 1261 1786;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>0(09/15/2015)</span>
 			<span class='ocrx_word' id='word_1_314' title='bbox 1474 1761 1544 1783;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$34.67</span>
@@ -433,8 +434,8 @@
 		<span class='ocr_line' title="bbox 404 1814 1544 1839; baseline 0 -5; x_x_height 14; x_asc_height 18">
 			<span class='ocrx_word' id='word_1_321' title='bbox 404 1816 516 1839;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Galapagos</span>
 			<span class='ocrx_word' id='word_1_322' title='bbox 525 1816 659 1839;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>NV(GLPG.O)</span>
-			<span class='ocrx_word' id='word_1_327b' title='bbox 1107 1816 1120 1834;x_wconf 0' lang='eng'>0</span>
-			<span class='ocrx_word' id='word_1_328b' title='bbox 1130 1811 1261 1844;x_wconf 0' lang='eng'>(06/08/2015)</span>
+			<span class='ocrx_word' id='word_1_327b' title='bbox 1107 1816 1125 1834;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>0</span>
+			<span class='ocrx_word' id='word_1_328b' title='bbox 1130 1816 1261 1839;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>(06/08/2015)</span>
 			<span class='ocrx_word' id='word_1_324' title='bbox 1474 1814 1544 1836;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$58.48</span>
 		</span>
 		<span class='ocr_line' title="bbox 404 1840 1544 1865; baseline 0 -5; x_x_height 14; x_asc_height 18">
@@ -467,8 +468,8 @@
 		<span class='ocr_line' title="bbox 405 1919 1544 1945; baseline 0 -6; x_x_height 13; x_asc_height 18">
 			<span class='ocrx_word' id='word_1_345' title='bbox 405 1921 485 1939;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>Innoviva</span>
 			<span class='ocrx_word' id='word_1_346' title='bbox 493 1921 522 1939;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Inc</span>
-			<span class='ocrx_word' id='word_1_353b' title='bbox 530 1916 588 1949;x_wconf 0' lang='eng'>(INVA</span>
-			<span class='ocrx_word' id='word_1_354b' title='bbox 590 1921 614 1944;x_wconf 0' lang='eng'>O}</span>
+			<span class='ocrx_word' id='word_1_353b' title='bbox 528 1921 588 1944;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>(INVA</span>
+			<span class='ocrx_word' id='word_1_354b' title='bbox 590 1921 614 1944;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>O}</span>
 			<span class='ocrx_word' id='word_1_348' title='bbox 1108 1921 1122 1939;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>U</span>
 			<span class='ocrx_word' id='word_1_349' title='bbox 1130 1921 1261 1945;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>(08/14/2014)</span>
 			<span class='ocrx_word' id='word_1_350' title='bbox 1487 1919 1544 1941;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$9.64</span>
@@ -550,8 +551,8 @@
 			<span class='ocrx_word' id='word_1_408' title='bbox 1474 2157 1545 2179;x_wconf 100;x_font Arial_Italic' lang='eng' style='font-style:italic;font-family:Arial_Italic'>$55.25</span>
 		</span>
 		<span class='ocr_line' title="bbox 402 2183 1544 2208; baseline 0 -5; x_x_height 14; x_asc_height 19">
-			<span class='ocrx_word' id='word_1_414b' title='bbox 398 2180 468 2213;x_wconf 0' lang='eng'>Vertex</span>
-			<span class='ocrx_word' id='word_1_415b' title='bbox 477 2180 643 2213;x_wconf 0' lang='eng'>Pharmaceuticals</span>
+			<span class='ocrx_word' id='word_1_414b' title='bbox 402 2184 468 2203;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>Vertex</span>
+			<span class='ocrx_word' id='word_1_415b' title='bbox 472 2184 644 2203;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>Pharmaceuticals</span>
 			<span class='ocrx_word' id='word_1_410' title='bbox 652 2184 746 2208;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>(VRTXO}</span>
 			<span class='ocrx_word' id='word_1_411' title='bbox 1107 2184 1261 2208;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>0(10/01/2015)</span>
 			<span class='ocrx_word' id='word_1_412' title='bbox 1474 2183 1544 2205;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$78.96</span>

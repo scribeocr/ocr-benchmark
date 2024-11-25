@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title></title>
+	<meta name='font-metrics' content='{"SansDefault":{"normal":{"width":{"36":0.864266,"37":1.705263,"44":0.3241,"45":0.466667,"46":0.266667,"48":0.817204148387,"49":0.703704451852,"50":0.817204148387,"51":0.814285747619,"52":0.938272180247,"53":0.79753154321,"54":0.814285747619,"55":0.814285747619,"56":0.814285747619,"57":0.79753154321,"65":1,"66":0.933333,"67":0.933333,"68":0.954545,"69":0.772727,"70":0.772727,"71":1,"73":0.227273,"75":1,"76":0.666667,"77":1.083333,"78":0.954545,"79":1.115942,"80":0.866667,"82":0.916667,"83":0.866667,"84":0.944444,"97":0.733333,"98":0.863636,"99":0.733333,"100":0.863636,"101":0.8,"102":0.533333,"103":0.866667,"104":0.8,"105":0.235294,"106":0.454545,"108":0.266667,"109":1.333333,"110":0.8,"111":0.916667,"112":0.833333,"113":0.863636,"114":0.533333,"115":0.666667,"116":0.6,"117":0.8,"118":0.869565,"119":1.333333,"120":0.733333,"121":0.866667,"8220":0.6,"8221":0.6},"height":{"36":1.944598,"37":1.51579,"44":0.633166,"45":0.133333,"46":0.2,"48":1.266667,"49":1.266667,"50":1.225806855914,"51":1.266667,"52":1.266667,"53":1.266667,"54":1.266667,"55":1.221429254762,"56":1.266667,"57":1.294203073913,"65":1.266667,"66":1.266667,"67":1.333333,"68":1.266667,"69":1.227273,"70":1.272727,"71":1.333333,"73":1.266667,"75":1.266667,"76":1.222222,"77":1.25,"78":1.294118,"79":1.362319,"80":1.266667,"82":1.266667,"83":1.333333,"84":1.227273,"97":1,"98":1.4,"99":1,"100":1.4,"101":1,"102":1.4,"103":1.466667,"104":1.4,"105":1.333333,"106":1.772727,"108":1.4,"109":1,"110":1,"111":1,"112":1.4,"113":1.318182,"114":1,"115":1,"116":1.2,"117":0.941176,"118":0.954545,"119":0.954545,"120":0.933333,"121":1.333333,"8220":0.533333,"8221":0.466667},"kerning":{"70,105":0.166667,"105,110":0.266667,"110,97":0.266667,"97,110":0.291667,"110,99":0.266667,"99,105":0.2,"105,97":0.222222,"97,108":0.266667,"79,118":0.101449,"118,101":0.125,"101,114":0.235294,"114,118":0.072464,"118,105":0.133333,"105,101":0.2,"101,119":0.072464,"77,101":0.25,"101,116":0.133333,"116,114":0.176471,"114,105":0.117647,"105,99":0.166667,"99,115":0.125,"82,101":0.125,"101,118":0.083333,"101,110":0.266667,"110,117":0.266667,"117,101":0.208333,"101,115":0.2,"79,112":0.227273,"112,101":0.2,"114,97":0.133333,"97,116":0.2,"116,105":0.166667,"110,103":0.2,"99,111":0.133333,"111,109":0.266667,"109,101":0.2,"78,101":0.181818,"65,100":0.090909,"100,106":0.045455,"106,117":0.227273,"117,115":0.181818,"115,116":0.133333,"116,101":0.111111,"101,100":0.2,"69,66":0.227273,"66,73":0.227273,"73,84":0.181818,"84,68":0.181818,"68,65":0.045455,"69,97":0.181818,"97,114":0.266667,"114,110":0.136364,"110,105":0.266667,"103,115":0.090909,"68,105":0.181818,"105,108":0.227273,"108,117":0.181818,"117,116":0.181818,"83,104":0.227273,"104,97":0.266667,"114,101":0.066667,"70,114":0.136364,"101,101":0.2,"67,97":0.136364,"97,115":0.266667,"115,104":0.181818,"70,108":0.136364,"108,111":0.133333,"111,119":0.090909,"84,111":-0.045455,"111,116":0.133333,"116,97":0.2,"100,101":0.266667,"101,98":0.181818,"98,116":0.090909,"110,100":0.266667,"99,97":0.166667,"101,113":0.136364,"113,117":0.227273,"117,105":0.227273,"105,118":0.136364,"118,97":0.133333,"108,101":0.136364,"110,116":0.2,"116,115":0.133333,"104,111":0.238095,"111,114":0.2,"114,116":0.066667,"116,45":0.095238,"45,116":0.095238,"114,109":0.133333,"110,118":0.142857,"116,109":0.190476,"50,48":0.140740637037,"48,50":0.1266667,"50,51":0.1266667,"98,121":0.125,"83,101":0.125,"101,103":0.125,"103,109":0.166667,"51,57":0.16170270922,"57,37":0.137681636232,"83,116":0.133333,"103,105":0.166667,"67,111":0.133333,"114,112":0.111111,"112,111":0.2,"109,109":0.294118,"109,117":0.235294,"117,110":0.294118,"105,111":0.2,"111,110":0.2,"110,115":0.266667,"114,117":0.2,"117,99":0.266667,"99,116":0.2,"116,117":0.176471,"117,114":0.266667,"84,101":0.055556,"101,99":0.2,"99,104":0.222222,"104,110":0.277778,"110,111":0.2,"111,108":0.222222,"111,103":0.166667,"103,121":0.055556,"49,57":0.192753784058,"76,105":0.166667,"105,116":0.2,"105,103":0.166667,"103,97":0.111111,"115,117":0.2,"117,108":0.277778,"108,116":0.111111,"50,49":0.23456772839499998,"50,50":0.200000385965,"36,50":0.216066,"50,44":0.135714502381,"44,55":0.216066,"55,55":0.135714502381,"55,54":0.135714502381,"54,46":0.226189992857,"46,50":0.216066,"36,51":0.211055,"51,44":0.180952247619,"44,48":0.216066,"50,56":0.135714502381,"56,46":0.180952247619,"46,57":0.216066,"51,53":0.135714502381,"53,46":0.226189992857,"53,52":0.135714502381,"52,46":0.187654182716,"54,53":0.135714502381,"53,56":0.135714502381,"49,51":0.135714502381,"51,49":0.226189992857,"49,54":0.180952247619,"36,52":0.159292,"52,57":0.093827091358,"57,52":0.093827091358,"46,53":0.212389,"76,97":0.166667,"65,109":0.176471,"65,115":-0.111111,"115,105":0.2,"80,97":0.166667,"97,99":0.2,"105,102":0.111111,"102,105":0.133333,"69,117":0.176471,"114,111":0.066667,"111,112":0.235294,"101,44":0.176471,"116,104":0.2,"104,101":0.266667,"77,105":0.277778,"105,100":0.2,"100,100":0.222222,"100,108":0.277778,"65,102":0,"102,114":0.111111,"78,111":0.235294,"66,101":0.2,"110,110":0.333333,"119,105":0.133333,"109,112":0.266667,"112,97":0.2,"110,121":0.2,"103,101":0.133333,"112,114":0.266667,"115,101":0.2,"102,111":0.066667,"114,103":0.133333,"97,98":0.333333,"98,108":0.266667,"111,97":0.2,"101,109":0.266667,"111,102":0.133333,"101,104":0.2,"73,110":0.266667,"101,46":0.2,"121,101":0.133333,"101,97":0.2,"68,101":0.2,"99,101":0.133333,"109,98":0.333333,"98,101":0.2,"99,99":0.133333,"99,114":0.266667,"105,115":0.2,"114,100":0.133333,"100,117":0.333333,"116,111":0.133333,"8220,100":0.133333,"100,105":0.266667,"105,114":0.333333,"111,115":0.133333,"115,8221":0.2,"8220,115":0.2,"101,108":0.266667,"108,108":0.2,"108,105":0.2,"103,44":0.2,"110,101":0.266667,"97,100":0.266667,"100,109":0.333333,"109,105":0.266667,"101,120":0.2,"120,112":0.266667,"109,115":0.2,"115,46":0.2,"80,114":0.266667,"111,117":0.266667,"115,108":0.2,"108,121":0.133333,"121,44":0.066667,"115,97":0.2,"119,101":0.2,"8220,105":0.266667,"114,46":0,"46,8221":0.133333,"84,104":0.2,"97,112":0.266667,"112,112":0.266667,"112,108":0.266667,"115,112":0.266667,"98,97":0.2,"111,100":0.2,"110,102":0.2,"109,97":0.2,"116,46":0.133333,"101,102":0.133333,"102,101":0,"97,103":0.266667,"49,56":0.200000385965,"104,114":0.266667,"117,103":0.266667,"103,104":0.133333,"104,105":0.266667,"65,110":0.2,"117,97":0.266667,"101,112":0.2,"110,45":0.266667,"45,71":0.2,"71,65":0.2,"65,65":0.133333,"65,80":0.2,"109,111":0.2,"116,108":0.2,"108,97":0.2,"99,108":0.266667,"117,100":0.2,"8220,80":0.333333,"97,105":0.266667,"99,117":0.266667,"114,114":0.133333,"115,115":0.133333,"115,111":0.133333,"100,97":0.266667,"66,97":0.2,"70,111":0.133333,"49,48":0.19000005,"48,45":0.2533334,"45,75":0.2,"44,52":0.105528,"52,56":0.090476757143,"56,57":0.090476757143,"57,46":0.226189992857,"51,55":0.135714502381,"55,46":0.187654182716,"50,55":0.140740637037,"55,52":0.046913545679,"55,49":0.23456772839499998,"49,55":0.140740637037,"50,53":0.135714502381},"kerning2":{"70,105":0.223039,"105,110":0.266667,"110,97":0.266667,"97,110":0.266667,"110,99":0.266667,"99,105":0.181373,"105,97":0.266667,"97,108":0.26956500000000005,"79,118":0.10144900000000001,"118,101":0.13333299999999992,"101,114":0.2666670000000001,"114,118":0.07246399999999997,"118,105":0.127025,"105,101":0.19999999999999996,"101,119":0.07246399999999986,"77,101":0.28333300000000006,"101,116":0.13333300000000003,"116,114":0.20000000000000007,"114,105":0.117647,"105,99":0.15555600000000003,"99,115":0.16666599999999998,"82,101":0.15833299999999995,"101,118":0.08876799999999996,"101,110":0.19999999999999996,"110,117":0.266667,"117,101":0.24166699999999985,"101,115":0.19999999999999996,"79,112":0.2575759999999999,"112,101":0.19999999999999996,"114,97":0.13333399999999995,"97,116":0.13333300000000003,"116,105":0.16470600000000002,"110,103":0.20000000000000007,"99,111":0.15000000000000002,"111,109":0.266667,"109,101":0.19999999999999996,"78,101":0.24545499999999998,"65,100":0.09090900000000002,"100,106":0.04545500000000002,"106,117":0.24545499999999998,"117,115":0.19696899999999995,"115,116":0.12727299999999997,"116,101":0.13333299999999992,"101,100":0.13636400000000004,"69,66":0.20303099999999996,"66,73":0.22727199999999997,"73,84":0.19191999999999998,"84,68":0.18181899999999995,"68,65":0.0909089999999999,"69,97":0.22121199999999996,"97,114":0.284849,"114,110":0.15454499999999993,"110,105":0.264706,"103,115":0.15151499999999996,"68,105":0.264706,"105,108":0.27878800000000004,"108,117":0.19999999999999996,"117,116":0.17272700000000007,"83,104":0.24545499999999998,"104,97":0.266667,"114,101":0.06666699999999992,"70,114":0.19394,"101,101":0.19999999999999996,"67,97":0.17575799999999997,"97,115":0.26666599999999996,"115,104":0.19999999999999996,"70,108":0.233333,"108,111":0.08333299999999999,"111,119":0.12121199999999988,"84,111":-0.05303100000000005,"111,116":0.12727299999999997,"116,97":0.19999999999999996,"100,101":0.266667,"101,98":0.18181900000000006,"98,116":0.12727299999999997,"110,100":0.20303100000000007,"99,97":0.15555600000000003,"101,113":0.13636400000000004,"113,117":0.24545499999999998,"117,105":0.264706,"105,118":0.17589,"118,97":0.13333399999999995,"108,101":0.15454499999999993,"110,116":0.13333300000000003,"116,115":0.13333300000000003,"104,111":0.22619,"111,114":0.20000000000000007,"114,116":0.06666700000000003,"116,45":0.10476199999999997,"45,116":0.16190500000000008,"114,109":0.190477,"110,118":0.17805400000000005,"116,109":0.23809599999999986,"50,48":0.21489512321799997,"48,50":0.16344184301100007,"50,51":0.15682604127,"98,121":0.13333300000000003,"83,101":0.15833299999999995,"101,103":0.13333300000000003,"103,109":0.2083339999999998,"51,57":0.14573130501700005,"57,37":-0.08062450579699987,"83,116":0.13333300000000003,"103,105":0.16470600000000002,"67,111":0.15000000000000002,"114,112":0.11111099999999996,"112,111":0.15000000000000002,"109,109":0.25490199999999996,"109,117":0.25882399999999994,"117,110":0.25882399999999994,"105,111":0.21666599999999991,"111,110":0.19999999999999996,"110,115":0.26666599999999996,"114,117":0.13333299999999992,"117,99":0.266667,"99,116":0.13333300000000003,"116,117":0.14117599999999997,"117,114":0.2666670000000001,"84,101":0.033332999999999946,"101,99":0.19999999999999996,"99,104":0.19999999999999996,"104,110":0.19999999999999996,"110,111":0.21666599999999991,"111,108":0.233333,"111,103":0.13333300000000003,"103,121":-0.033333999999999975,"49,57":0.19377345099300003,"76,105":0.15359499999999998,"105,116":0.13333300000000003,"105,103":0.13333300000000003,"103,97":0.09999999999999998,"115,117":0.19999999999999996,"117,108":0.233333,"108,116":0.06666700000000003,"50,49":0.3283948197529999,"50,50":0.21489512321799997,"36,50":0.3711618516130001,"50,44":0.12828125238099997,"44,55":0.3200632523810001,"55,55":0.13571450238100002,"55,54":0.13571450238100002,"54,46":0.18571425238099998,"46,50":0.3711618516130001,"36,51":0.3200632523810001,"51,44":0.17351899761900003,"44,48":0.3711618516130001,"50,56":0.13571450238100002,"56,46":0.14047650714300003,"46,57":0.39083445679000006,"51,53":0.10723096155199996,"53,46":0.18571425238099998,"53,52":0.05696581499100006,"52,46":0.155554911111,"54,53":0.10723096155199996,"53,56":0.13571450238100002,"49,51":0.13571450238100002,"51,49":0.2010580529099999,"49,54":0.13571450238100002,"36,52":0.282966819753,"52,57":0.09382709135800005,"57,52":0.09382709135799994,"46,53":0.31751245678999995,"76,97":0.15555600000000003,"65,109":0.1372549999999999,"65,115":0,"115,105":0.16470600000000002,"80,97":0.15555600000000003,"97,99":0.19999999999999996,"105,102":0.13333400000000006,"102,105":0.09803899999999999,"69,117":0.19999999999999996,"114,111":0.08333299999999999,"111,112":0.23333400000000004,"101,44":0.146488,"116,104":0.14117599999999997,"104,101":0.266667,"77,105":0.264706,"105,100":0.13636400000000004,"100,100":0.19191999999999998,"100,108":0.233333,"65,102":0.022223000000000104,"102,114":0.07777800000000001,"78,111":0.25980400000000003,"66,101":0.19999999999999996,"110,110":0.266667,"119,105":0.16470600000000002,"109,112":0.23333400000000004,"112,97":0.19999999999999996,"110,121":0.20000000000000007,"103,101":0.13333299999999992,"112,114":0.2666670000000001,"115,101":0.19999999999999996,"102,111":0.01666599999999996,"114,103":0.13333300000000003,"97,98":0.26969699999999996,"98,108":0.26666599999999996,"111,97":0.19999999999999996,"101,109":0.266667,"111,102":0.13333400000000006,"101,104":0.19999999999999996,"73,110":0.266667,"101,46":0.2,"121,101":0.13333299999999992,"101,97":0.19999999999999996,"68,101":0.19999999999999996,"99,101":0.13333299999999992,"109,98":0.26969699999999996,"98,101":0.19999999999999996,"99,99":0.13333399999999995,"99,114":0.2666670000000001,"105,115":0.19999999999999996,"114,100":0.06969700000000001,"100,117":0.266667,"116,111":0.08333299999999999,"8220,100":0.13636400000000004,"100,105":0.29803899999999994,"105,114":0.333334,"111,115":0.13333300000000003,"115,8221":0.20000000000000007,"8220,115":0.19999999999999996,"101,108":0.26666599999999996,"108,108":0.2,"108,105":0.231373,"103,44":0.142567,"110,101":0.266667,"97,100":0.20303100000000007,"100,109":0.3333339999999998,"109,105":0.231373,"101,120":0.19999999999999996,"120,112":0.23333400000000004,"109,115":0.19999999999999996,"115,46":0.13333300000000003,"80,114":0.2666670000000001,"111,117":0.19999999999999996,"115,108":0.2,"108,121":0.13333300000000003,"121,44":0.009232999999999991,"115,97":0.19999999999999996,"119,101":0.19999999999999996,"8220,105":0.231373,"114,46":0,"46,8221":0.13333300000000003,"84,104":0.19999999999999996,"97,112":0.29999999999999993,"112,112":0.23333400000000004,"112,108":0.26666599999999996,"115,112":0.23333400000000004,"98,97":0.19999999999999996,"111,100":0.13636400000000004,"110,102":0.20000000000000007,"109,97":0.19999999999999996,"116,46":0.13333300000000003,"101,102":0.20000000000000007,"102,101":0,"97,103":0.26666599999999996,"49,56":0.1857149155390001,"104,114":0.2666670000000001,"117,103":0.26666599999999996,"103,104":0.13333299999999992,"104,105":0.231373,"65,110":0.19999999999999996,"117,97":0.266667,"101,112":0.23333400000000004,"110,45":0.266666,"45,71":0.19999999999999996,"71,65":0.19999999999999996,"65,65":0.19999999999999996,"65,80":0.20000000000000007,"109,111":0.21666599999999991,"116,108":0.2,"108,97":0.19999999999999996,"99,108":0.26666599999999996,"117,100":0.20303100000000007,"8220,80":0.333333,"97,105":0.29803899999999994,"99,117":0.19999999999999996,"114,114":0.13333400000000006,"115,115":0.13333300000000003,"115,111":0.15000000000000002,"100,97":0.266667,"66,97":0.19999999999999996,"70,111":0.08333299999999999,"49,48":0.13279610161300004,"48,45":0.22999985000000006,"45,75":0.19999999999999996,"44,52":0.22253181975299996,"52,56":0.09047675714299996,"56,57":0.10723096155199996,"57,46":0.18571425238099998,"51,55":0.13571450238100002,"55,46":0.155554911111,"50,55":0.170899978307,"55,52":0.04691354567899997,"55,49":0.23456772839499995,"49,55":0.170899978307,"50,53":0.15246870679000002},"variants":{},"heightCaps":1.266667,"obs":1233,"obsCaps":75},"italic":{"width":{"40":0.55,"41":0.55,"44":0.35,"97":0.85,"99":0.75,"100":0.95,"101":0.75,"104":0.8,"105":0.4,"108":0.4,"109":1.35,"110":0.85,"111":0.85,"112":0.95,"114":0.65,"115":0.7,"116":0.55,"120":0.95},"height":{"40":1.65,"41":1.65,"44":0.5,"97":1,"99":1,"100":1.4,"101":1,"104":1.35,"105":1.3,"108":1.4,"109":0.95,"110":0.95,"111":1,"112":1.35,"114":0.95,"115":1,"116":1.2,"120":0.9},"kerning":{"40,105":-0.05,"105,110":0.05,"109,105":0.15,"105,108":0.05,"108,108":0.1,"108,105":0.05,"105,111":0.05,"111,110":0.15,"110,115":0.1,"115,44":0,"101,120":0,"120,99":-0.05,"99,101":0.05,"101,112":0.1,"112,116":0.15,"112,101":0.15,"101,114":0.15,"115,104":0.1,"104,97":0.15,"97,114":0.1,"114,101":0,"100,97":0.05,"97,116":0.2,"116,97":0,"97,41":0},"kerning2":{"40,105":-0.050000000000000044,"105,110":0.050000000000000044,"109,105":0.15000000000000002,"105,108":0.04999999999999999,"108,108":0.04999999999999999,"108,105":0.04999999999999999,"105,111":0.050000000000000044,"111,110":0.09999999999999998,"110,115":0.10000000000000009,"115,44":0,"101,120":0,"120,99":-0.050000000000000044,"99,101":0.050000000000000044,"101,112":0.10000000000000009,"112,116":0.1499999999999999,"112,101":0.15000000000000002,"101,114":0.15000000000000002,"115,104":0.09999999999999998,"104,97":0.20000000000000007,"97,114":0.09999999999999998,"114,101":0,"100,97":0.050000000000000044,"97,116":0.19999999999999996,"116,97":0,"97,41":0},"variants":{},"heightCaps":0,"obs":31,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":1264}}'></meta>
+	<meta name='default-font' content='SansDefault'></meta>
+	<meta name='sans-font' content='Carlito'></meta>
+	<meta name='serif-font' content='NimbusRomNo9L'></meta>
+	<meta name='enable-opt' content='undefined'></meta>
+	<meta name='layout' content='[{"n":0,"default":true,"boxes":{}}]'></meta>
+	<meta name='layout-data-table' content='[{"n":0,"default":true,"tables":[]}]'></meta>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<meta name='ocr-system' content='scribeocr' />
+	<meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf ocrp_lang ocrp_dir ocrp_font ocrp_fsize'/>
+</head>
+<body>
+	<div class='ocr_page' title='bbox 0 0 2475 3225'>
+		<span class='ocr_line' title="bbox 166 253 1194 353; baseline 0 -2; x_x_height 69; x_asc_height 94">
+			<span class='ocrx_word' id='word_1_0' title='bbox 166 253 645 353;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Financial</span>
+			<span class='ocrx_word' id='word_1_1' title='bbox 681 256 1194 353;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Overview</span>
+		</span>
+		<span class='ocr_line' title="bbox 155 408 483 441; baseline 0.003049 -1; x_x_height 24; x_asc_height 30">
+			<span class='ocrx_word' id='word_1_2' title='bbox 155 408 330 441;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Financial</span>
+			<span class='ocrx_word' id='word_1_3' title='bbox 345 408 483 441;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Metrics</span>
+		</span>
+		<span class='ocr_line' title="bbox 173 488 693 523; baseline 0.001923 -8; x_x_height 20; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_4' title='bbox 173 488 209 521;x_wconf 100;x_font Verdana_Italic' lang='eng' style='font-style:italic;font-family:Verdana_Italic'>(in</span>
+			<span class='ocrx_word' id='word_1_5' title='bbox 219 488 344 521;x_wconf 100;x_font Verdana_Italic' lang='eng' style='font-style:italic;font-family:Verdana_Italic'>millions,</span>
+			<span class='ocrx_word' id='word_1_6' title='bbox 356 492 455 523;x_wconf 100;x_font Verdana_Italic' lang='eng' style='font-style:italic;font-family:Verdana_Italic'>except</span>
+			<span class='ocrx_word' id='word_1_7' title='bbox 461 496 514 523;x_wconf 100;x_font Verdana_Italic' lang='eng' style='font-style:italic;font-family:Verdana_Italic'>per</span>
+			<span class='ocrx_word' id='word_1_8' title='bbox 520 488 603 516;x_wconf 100;x_font Verdana_Italic' lang='eng' style='font-style:italic;font-family:Verdana_Italic'>share</span>
+			<span class='ocrx_word' id='word_1_9' title='bbox 613 488 693 521;x_wconf 100;x_font Verdana_Italic' lang='eng' style='font-style:italic;font-family:Verdana_Italic'>data)</span>
+		</span>
+		<span class='ocr_line' title="bbox 181 569 349 598; baseline 0.005952 0; x_x_height 22; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_10' title='bbox 181 569 349 598;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Revenues</span>
+		</span>
+		<span class='ocr_line' title="bbox 180 649 533 690; baseline -0.002833 -8; x_x_height 22; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_11' title='bbox 180 651 357 690;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Operating</span>
+			<span class='ocrx_word' id='word_1_12' title='bbox 369 651 496 682;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>income</span>
+			<span class='ocrx_word' id='word_1_13' title='bbox 508 649 533 671;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>‘1’</span>
+		</span>
+		<span class='ocr_line' title="bbox 181 735 380 766; baseline 0.005025 -1; x_x_height 22; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_14' title='bbox 181 737 240 766;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Net</span>
+			<span class='ocrx_word' id='word_1_15' title='bbox 252 735 380 766;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>income</span>
+		</span>
+		<span class='ocr_line' title="bbox 178 820 510 861; baseline -0.003012 -8; x_x_height 22; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_16' title='bbox 178 822 333 861;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Adjusted</span>
+			<span class='ocrx_word' id='word_1_17' title='bbox 348 825 474 852;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>EBITDA</span>
+			<span class='ocrx_word' id='word_1_18' title='bbox 485 820 510 842;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>@</span>
+		</span>
+		<span class='ocr_line' title="bbox 180 906 759 945; baseline 0.001727 -9; x_x_height 22; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_19' title='bbox 180 908 273 937;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-variant:small-caps;font-family:Trebuchet_MS'>GAAP</span>
+			<span class='ocrx_word' id='word_1_20' title='bbox 286 906 439 945;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Earnings</span>
+			<span class='ocrx_word' id='word_1_21' title='bbox 451 915 509 944;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>per</span>
+			<span class='ocrx_word' id='word_1_22' title='bbox 520 906 645 937;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Diluted</span>
+			<span class='ocrx_word' id='word_1_23' title='bbox 658 906 759 937;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Share</span>
+		</span>
+		<span class='ocr_line' title="bbox 178 988 857 1029; baseline 0 -8; x_x_height 22; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_24' title='bbox 178 990 333 1029;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Adjusted</span>
+			<span class='ocrx_word' id='word_1_25' title='bbox 348 990 500 1029;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Earnings</span>
+			<span class='ocrx_word' id='word_1_26' title='bbox 513 999 570 1028;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>per</span>
+			<span class='ocrx_word' id='word_1_27' title='bbox 582 990 706 1021;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Diluted</span>
+			<span class='ocrx_word' id='word_1_28' title='bbox 719 990 820 1021;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Share</span>
+			<span class='ocrx_word' id='word_1_29' title='bbox 832 988 857 1010;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>@</span>
+		</span>
+		<span class='ocr_line' title="bbox 181 1072 481 1105; baseline -0.003333 0; x_x_height 22; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_30' title='bbox 181 1076 254 1105;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Free</span>
+			<span class='ocrx_word' id='word_1_31' title='bbox 266 1074 349 1105;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Cash</span>
+			<span class='ocrx_word' id='word_1_32' title='bbox 363 1074 445 1105;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Flow</span>
+			<span class='ocrx_word' id='word_1_33' title='bbox 456 1072 481 1094;x_wconf 0;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>@</span>
+		</span>
+		<span class='ocr_line' title="bbox 179 1158 359 1189; baseline 0 0; x_x_height 22; x_asc_height 31">
+			<span class='ocrx_word' id='word_1_34' title='bbox 179 1158 267 1189;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Total</span>
+			<span class='ocrx_word' id='word_1_35' title='bbox 278 1158 359 1189;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>debt</span>
+		</span>
+		<span class='ocr_line' title="bbox 180 1242 649 1280; baseline 0 -7; x_x_height 22; x_asc_height 30">
+			<span class='ocrx_word' id='word_1_36' title='bbox 180 1242 262 1273;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Cash</span>
+			<span class='ocrx_word' id='word_1_37' title='bbox 275 1242 339 1273;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>and</span>
+			<span class='ocrx_word' id='word_1_38' title='bbox 352 1242 430 1273;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>cash</span>
+			<span class='ocrx_word' id='word_1_39' title='bbox 442 1242 649 1280;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>equivalents</span>
+		</span>
+		<span class='ocr_line' title="bbox 180 1324 641 1357; baseline 0.002169 -1; x_x_height 21; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_40' title='bbox 180 1326 373 1357;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Short-term</span>
+			<span class='ocrx_word' id='word_1_41' title='bbox 387 1326 604 1357;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>investments</span>
+			<span class='ocrx_word' id='word_1_42' title='bbox 616 1324 641 1346;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>©</span>
+		</span>
+		<span class='ocr_line' title="bbox 419 1461 952 1503; baseline 0.001876 -10; x_x_height 24; x_asc_height 31">
+			<span class='ocrx_word' id='word_1_43' title='bbox 419 1463 509 1494;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>2023</span>
+			<span class='ocrx_word' id='word_1_44' title='bbox 524 1463 709 1494;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Revenues</span>
+			<span class='ocrx_word' id='word_1_45' title='bbox 723 1461 767 1502;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>by</span>
+			<span class='ocrx_word' id='word_1_46' title='bbox 780 1462 952 1503;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Segment</span>
+		</span>
+		<span class='ocr_line' title="bbox 537 1624 951 1672; baseline 0 0; x_x_height 31.66666603088379; x_asc_height 47">
+			<span class='ocrx_word' id='word_1_47' title='bbox 537 1624 625 1672;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>9%</span>
+			<span class='ocrx_word' id='word_1_48' title='bbox 827 1624 951 1672;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>39%</span>
+		</span>
+		<span class='ocr_line' title="bbox 506 1689 1103 1721; baseline 0 -7; x_x_height 18; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_49' title='bbox 506 1690 627 1721;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Strategic</span>
+			<span class='ocrx_word' id='word_1_50' title='bbox 658 1689 662 1718;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>:</span>
+			<span class='ocrx_word' id='word_1_51' title='bbox 791 1689 795 1718;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>:</span>
+			<span class='ocrx_word' id='word_1_52' title='bbox 827 1691 963 1720;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Corporate</span>
+			<span class='ocrx_word' id='word_1_53' title='bbox 973 1690 1103 1714;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Finance&amp;</span>
+		</span>
+		<span class='ocr_line' title="bbox 395 1727 1010 1758; baseline 0 -8; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_54' title='bbox 395 1727 626 1751;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Communications</span>
+			<span class='ocrx_word' id='word_1_55' title='bbox 828 1727 1010 1758;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Restructuring</span>
+		</span>
+		<span class='ocr_line' title="bbox 229 1829 350 1877; baseline 0.008264 -1; x_x_height 30.000000476837158; x_asc_height 45">
+			<span class='ocrx_word' id='word_1_56b' title='bbox 229 1829 350 1877;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>11%</span>
+		</span>
+		<span class='ocr_line' title="bbox 224 1893 383 1925; baseline 0.006289 -8; x_x_height 18; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_58' title='bbox 224 1893 383 1925;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Technology</span>
+		</span>
+		<span class='ocr_line' title="bbox 348 2487 876 2535; baseline 0.001894 -1; x_asc_height 46">
+			<span class='ocrx_word' id='word_1_60' title='bbox 348 2487 471 2535;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>22%</span>
+			<span class='ocrx_word' id='word_1_61' title='bbox 755 2487 876 2535;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>19%</span>
+		</span>
+		<span class='ocr_line' title="bbox 340 2547 1059 2583; baseline 0 -8; x_x_height 18; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_62' title='bbox 340 2552 472 2576;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>Economic</span>
+			<span class='ocrx_word' id='word_1_63' title='bbox 512 2547 516 2575;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>f</span>
+			<span class='ocrx_word' id='word_1_62b' title='bbox 716 2552 865 2582;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>Forensic</span>
+			<span class='ocrx_word' id='word_1_66' title='bbox 874 2551 922 2576;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>and</span>
+			<span class='ocrx_word' id='word_1_67' title='bbox 934 2552 1059 2583;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Litigation</span>
+		</span>
+		<span class='ocr_line' title="bbox 328 2584 897 2621; baseline 0 -8; x_x_height 17; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_68' title='bbox 328 2589 473 2621;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Consulting</span>
+			<span class='ocrx_word' id='word_1_69' title='bbox 512 2584 516 2613;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>5</span>
+			<span class='ocrx_word' id='word_1_70' title='bbox 716 2590 720 2619;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>:</span>
+			<span class='ocrx_word' id='word_1_71' title='bbox 752 2589 897 2621;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Consulting</span>
+		</span>
+		<span class='ocr_line' title="bbox 1536 493 1964 521; baseline 0 -1; x_x_height 18.512821197509766; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_72' title='bbox 1536 493 1621 521;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>2021</span>
+			<span class='ocrx_word' id='word_1_73' title='bbox 1879 493 1964 521;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>2022</span>
+		</span>
+		<span class='ocr_line' title="bbox 1473 566 1957 604; baseline 0.002066 -7; x_x_height 18.512821197509766; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_74' title='bbox 1473 566 1615 604;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$2,776.2</span>
+			<span class='ocrx_word' id='word_1_75' title='bbox 1816 566 1957 604;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$3,028.9</span>
+		</span>
+		<span class='ocr_line' title="bbox 1504 650 1957 686; baseline 0.002208 -5; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_76' title='bbox 1504 650 1615 686;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$312.0</span>
+			<span class='ocrx_word' id='word_1_77' title='bbox 1847 650 1957 686;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$303.9</span>
+		</span>
+		<span class='ocr_line' title="bbox 1504 734 1957 770; baseline 0 -4; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_78' title='bbox 1504 734 1615 770;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$235.0</span>
+			<span class='ocrx_word' id='word_1_79' title='bbox 1847 734 1957 770;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$235.5</span>
+		</span>
+		<span class='ocr_line' title="bbox 1504 821 1957 857; baseline -0.00883 0; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_80' title='bbox 1504 821 1615 857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$354.0</span>
+			<span class='ocrx_word' id='word_1_81' title='bbox 1847 821 1957 857;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$357.6</span>
+		</span>
+		<span class='ocr_line' title="bbox 1525 905 1957 941; baseline -0.009259 0; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_82' title='bbox 1525 905 1614 941;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$6.65</span>
+			<span class='ocrx_word' id='word_1_83' title='bbox 1868 905 1957 941;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$6.58</span>
+		</span>
+		<span class='ocr_line' title="bbox 1525 989 1957 1025; baseline -0.002315 -4; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_84' title='bbox 1525 989 1615 1025;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$6.76</span>
+			<span class='ocrx_word' id='word_1_85' title='bbox 1868 989 1957 1025;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$6.77</span>
+		</span>
+		<span class='ocr_line' title="bbox 1504 1073 1957 1109; baseline 0 -5; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_86' title='bbox 1504 1073 1614 1109;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$286.9</span>
+			<span class='ocrx_word' id='word_1_87' title='bbox 1847 1073 1957 1109;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$135.7</span>
+		</span>
+		<span class='ocr_line' title="bbox 1504 1157 1957 1193; baseline 0 -4; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_88' title='bbox 1504 1157 1614 1193;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$316.2</span>
+			<span class='ocrx_word' id='word_1_89' title='bbox 1847 1157 1957 1193;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$316.2</span>
+		</span>
+		<span class='ocr_line' title="bbox 1504 1241 1957 1277; baseline -0.002208 -4; x_x_height 18.83333396911621; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_90' title='bbox 1504 1241 1614 1277;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$494.5</span>
+			<span class='ocrx_word' id='word_1_91' title='bbox 1847 1241 1957 1277;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>$491.7</span>
+		</span>
+		<span class='ocr_line' title="bbox 1544 1461 2036 1503; baseline 0 -9; x_x_height 24; x_asc_height 30">
+			<span class='ocrx_word' id='word_1_92' title='bbox 1544 1463 1634 1494;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>2023</span>
+			<span class='ocrx_word' id='word_1_93' title='bbox 1650 1463 1834 1494;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Revenues</span>
+			<span class='ocrx_word' id='word_1_94' title='bbox 1849 1461 1893 1502;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>by</span>
+			<span class='ocrx_word' id='word_1_95' title='bbox 1907 1461 2036 1503;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Region</span>
+		</span>
+		<span class='ocr_line' title="bbox 1739 1624 1824 1672; baseline 0.008197 0; x_x_height 29; x_asc_height 45">
+			<span class='ocrx_word' id='word_1_96' title='bbox 1739 1624 1824 1672;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>1%</span>
+		</span>
+		<span class='ocr_line' title="bbox 1642 1690 1825 1714; baseline 0.005464 -1; x_x_height 18; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_97' title='bbox 1642 1690 1706 1714;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Latin</span>
+			<span class='ocrx_word' id='word_1_98' title='bbox 1715 1690 1825 1714;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>America</span>
+		</span>
+		<span class='ocr_line' title="bbox 1454 1750 1543 1798; baseline 0 0; x_x_height 30.000000476837158; x_asc_height 47">
+			<span class='ocrx_word' id='word_1_99' title='bbox 1454 1750 1543 1798;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>6%</span>
+		</span>
+		<span class='ocr_line' title="bbox 1452 1814 1603 1839; baseline -0.006623 0; x_x_height 18; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_100' title='bbox 1452 1815 1506 1839;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Asia</span>
+			<span class='ocrx_word' id='word_1_101' title='bbox 1516 1814 1603 1839;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Pacific</span>
+		</span>
+		<span class='ocr_line' title="bbox 1357 2108 1480 2156; baseline 0.00813 -7; x_x_height 30.000000476837158; x_asc_height 47">
+			<span class='ocrx_word' id='word_1_102' title='bbox 1357 2108 1480 2156;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>28%</span>
+		</span>
+		<span class='ocr_line' title="bbox 1357 2172 1511 2203; baseline 0.006494 -7; x_x_height 17; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_103' title='bbox 1357 2174 1459 2203;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Europe,</span>
+			<span class='ocrx_word' id='word_1_104' title='bbox 1467 2172 1511 2197;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>the</span>
+		</span>
+		<span class='ocr_line' title="bbox 1357 2210 1511 2235; baseline 0.006494 -1; x_x_height 18; x_asc_height 24">
+			<span class='ocrx_word' id='word_1_105' title='bbox 1357 2210 1445 2235;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Middle</span>
+			<span class='ocrx_word' id='word_1_106' title='bbox 1455 2212 1511 2235;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>East</span>
+		</span>
+		<span class='ocr_line' title="bbox 1356 2247 1489 2272; baseline 0 -1; x_x_height 18; x_asc_height 25">
+			<span class='ocrx_word' id='word_1_107' title='bbox 1356 2247 1404 2272;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>and</span>
+			<span class='ocrx_word' id='word_1_108' title='bbox 1413 2247 1489 2272;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Africa</span>
+		</span>
+		<span class='ocr_line' title="bbox 1896 2487 2019 2535; baseline 0 -6; x_x_height 30.000000476837158; x_asc_height 47">
+			<span class='ocrx_word' id='word_1_109' title='bbox 1896 2487 2019 2535;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>65%</span>
+		</span>
+		<span class='ocr_line' title="bbox 1895 2551 2088 2576; baseline 0 -1; x_x_height 17; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_110' title='bbox 1895 2551 1970 2575;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>North</span>
+			<span class='ocrx_word' id='word_1_111' title='bbox 1978 2552 2088 2576;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>America</span>
+		</span>
+		<span class='ocr_line' title="bbox 156 2711 2142 2739; baseline 0 -7; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_112' title='bbox 156 2711 171 2726;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>W</span>
+			<span class='ocrx_word' id='word_1_113' title='bbox 180 2712 302 2739;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Beginning</span>
+			<span class='ocrx_word' id='word_1_114' title='bbox 308 2711 360 2732;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>with</span>
+			<span class='ocrx_word' id='word_1_115' title='bbox 368 2711 407 2732;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>the</span>
+			<span class='ocrx_word' id='word_1_112b' title='bbox 414 2717 467 2738;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>year</span>
+			<span class='ocrx_word' id='word_1_113b' title='bbox 473 2711 548 2732;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>ended</span>
+			<span class='ocrx_word' id='word_1_117' title='bbox 558 2711 722 2737;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>December</span>
+			<span class='ocrx_word' id='word_1_118' title='bbox 730 2713 793 2737;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>2023,</span>
+			<span class='ocrx_word' id='word_1_119' title='bbox 801 2711 840 2732;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>the</span>
+			<span class='ocrx_word' id='word_1_120' title='bbox 848 2712 964 2738;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Company</span>
+			<span class='ocrx_word' id='word_1_121' title='bbox 971 2711 1073 2739;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>changed</span>
+			<span class='ocrx_word' id='word_1_122' title='bbox 1082 2711 1120 2732;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>the</span>
+			<span class='ocrx_word' id='word_1_123' title='bbox 1129 2712 1284 2738;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>presentation</span>
+			<span class='ocrx_word' id='word_1_121b' title='bbox 1293 2711 1317 2732;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>of</span>
+			<span class='ocrx_word' id='word_1_122b' title='bbox 1323 2712 1416 2732;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>interest</span>
+			<span class='ocrx_word' id='word_1_125' title='bbox 1424 2712 1513 2732;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>income</span>
+			<span class='ocrx_word' id='word_1_126' title='bbox 1520 2717 1549 2732;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>on</span>
+			<span class='ocrx_word' id='word_1_127' title='bbox 1557 2711 1680 2739;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>forgivable</span>
+			<span class='ocrx_word' id='word_1_128' title='bbox 1689 2711 1752 2732;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>loans</span>
+			<span class='ocrx_word' id='word_1_129' title='bbox 1759 2717 1788 2732;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>on</span>
+			<span class='ocrx_word' id='word_1_128b' title='bbox 1797 2717 1838 2732;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>our</span>
+			<span class='ocrx_word' id='word_1_129b' title='bbox 1844 2711 2004 2732;x_wconf 0;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Consolidated</span>
+			<span class='ocrx_word' id='word_1_131' title='bbox 2013 2712 2142 2732;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Statement</span>
+		</span>
+		<span class='ocr_line' title="bbox 179 2753 2115 2781; baseline 0 -7; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_132' title='bbox 179 2753 203 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>of</span>
+			<span class='ocrx_word' id='word_1_133' title='bbox 209 2753 400 2780;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Comprehensive</span>
+			<span class='ocrx_word' id='word_1_134' title='bbox 409 2755 504 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Income.</span>
+			<span class='ocrx_word' id='word_1_134b' title='bbox 513 2755 552 2774;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>For</span>
+			<span class='ocrx_word' id='word_1_135b' title='bbox 557 2753 596 2774;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>the</span>
+			<span class='ocrx_word' id='word_1_136' title='bbox 603 2759 656 2780;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>year</span>
+			<span class='ocrx_word' id='word_1_137' title='bbox 663 2753 737 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>ended</span>
+			<span class='ocrx_word' id='word_1_138' title='bbox 747 2753 872 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>December</span>
+			<span class='ocrx_word' id='word_1_139b' title='bbox 878 2755 983 2779;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>31,2023,</span>
+			<span class='ocrx_word' id='word_1_141' title='bbox 992 2753 1087 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>accrued</span>
+			<span class='ocrx_word' id='word_1_142' title='bbox 1097 2754 1190 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>interest</span>
+			<span class='ocrx_word' id='word_1_143' title='bbox 1197 2754 1286 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>income</span>
+			<span class='ocrx_word' id='word_1_144' title='bbox 1294 2759 1322 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>on</span>
+			<span class='ocrx_word' id='word_1_145' title='bbox 1331 2753 1453 2781;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>forgivable</span>
+			<span class='ocrx_word' id='word_1_146' title='bbox 1462 2753 1525 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>loans</span>
+			<span class='ocrx_word' id='word_1_147' title='bbox 1534 2754 1550 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>is</span>
+			<span class='ocrx_word' id='word_1_148' title='bbox 1559 2753 1666 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>recorded</span>
+			<span class='ocrx_word' id='word_1_149' title='bbox 1676 2759 1701 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>as</span>
+			<span class='ocrx_word' id='word_1_150' title='bbox 1709 2759 1720 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>a</span>
+			<span class='ocrx_word' id='word_1_151' title='bbox 1729 2753 1846 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>reduction</span>
+			<span class='ocrx_word' id='word_1_152' title='bbox 1854 2756 1878 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>to</span>
+			<span class='ocrx_word' id='word_1_153' title='bbox 1885 2753 1924 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>the</span>
+			<span class='ocrx_word' id='word_1_154' title='bbox 1932 2753 2014 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>“direct</span>
+			<span class='ocrx_word' id='word_1_155' title='bbox 2021 2756 2084 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>costs</span>
+			<span class='ocrx_word' id='word_1_156' title='bbox 2092 2753 2115 2774;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>of</span>
+		</span>
+		<span class='ocr_line' title="bbox 180 2795 2138 2823; baseline 0 -7; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_157' title='bbox 180 2796 301 2816;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>revenues”</span>
+			<span class='ocrx_word' id='word_1_158' title='bbox 310 2795 354 2816;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>and</span>
+			<span class='ocrx_word' id='word_1_159' title='bbox 363 2795 460 2823;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>“selling,</span>
+			<span class='ocrx_word' id='word_1_160' title='bbox 468 2795 559 2823;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>general</span>
+			<span class='ocrx_word' id='word_1_161' title='bbox 567 2795 611 2816;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>and</span>
+			<span class='ocrx_word' id='word_1_162' title='bbox 620 2795 797 2816;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>administrative</span>
+			<span class='ocrx_word' id='word_1_163' title='bbox 805 2796 930 2822;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>expenses”</span>
+			<span class='ocrx_word' id='word_1_164' title='bbox 939 2795 981 2816;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>line</span>
+			<span class='ocrx_word' id='word_1_165' title='bbox 989 2796 1055 2816;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>items</span>
+			<span class='ocrx_word' id='word_1_166' title='bbox 1063 2795 1086 2816;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>of</span>
+			<span class='ocrx_word' id='word_1_167' title='bbox 1092 2796 1211 2823;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>operating</span>
+			<span class='ocrx_word' id='word_1_168' title='bbox 1218 2801 1338 2822;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>expenses.</span>
+			<span class='ocrx_word' id='word_1_169' title='bbox 1348 2795 1479 2822;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>Previously,</span>
+			<span class='ocrx_word' id='word_1_170' title='bbox 1487 2795 1553 2816;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>these</span>
+			<span class='ocrx_word' id='word_1_171' title='bbox 1560 2796 1714 2816;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>transactions</span>
+			<span class='ocrx_word' id='word_1_172' title='bbox 1721 2801 1780 2816;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>were</span>
+			<span class='ocrx_word' id='word_1_173' title='bbox 1788 2795 1896 2816;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>recorded</span>
+			<span class='ocrx_word' id='word_1_174' title='bbox 1904 2798 1928 2816;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>to</span>
+			<span class='ocrx_word' id='word_1_175' title='bbox 1936 2796 2042 2816;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>“interest</span>
+			<span class='ocrx_word' id='word_1_176' title='bbox 2050 2796 2138 2816;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>income</span>
+		</span>
+		<span class='ocr_line' title="bbox 180 2836 1868 2864; baseline 0 -7; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_177' title='bbox 180 2836 223 2857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>and</span>
+			<span class='ocrx_word' id='word_1_178' title='bbox 232 2836 313 2857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>other.”</span>
+			<span class='ocrx_word' id='word_1_179' title='bbox 321 2836 365 2857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>The</span>
+			<span class='ocrx_word' id='word_1_180' title='bbox 373 2836 460 2864;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>change</span>
+			<span class='ocrx_word' id='word_1_181' title='bbox 468 2837 488 2857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>in</span>
+			<span class='ocrx_word' id='word_1_182' title='bbox 497 2837 652 2863;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>presentation</span>
+			<span class='ocrx_word' id='word_1_183' title='bbox 662 2836 702 2857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>has</span>
+			<span class='ocrx_word' id='word_1_184' title='bbox 711 2836 769 2857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>been</span>
+			<span class='ocrx_word' id='word_1_185' title='bbox 778 2836 867 2863;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>applied</span>
+			<span class='ocrx_word' id='word_1_186' title='bbox 876 2842 905 2857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>on</span>
+			<span class='ocrx_word' id='word_1_187' title='bbox 914 2842 925 2857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>a</span>
+			<span class='ocrx_word' id='word_1_188' title='bbox 935 2837 1078 2863;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>prospective</span>
+			<span class='ocrx_word' id='word_1_189' title='bbox 1086 2836 1146 2857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>basis</span>
+			<span class='ocrx_word' id='word_1_190' title='bbox 1154 2836 1198 2857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>and</span>
+			<span class='ocrx_word' id='word_1_191' title='bbox 1208 2837 1266 2863;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>prior</span>
+			<span class='ocrx_word' id='word_1_192' title='bbox 1274 2836 1350 2863;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>period</span>
+			<span class='ocrx_word' id='word_1_193' title='bbox 1359 2836 1463 2857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>financial</span>
+			<span class='ocrx_word' id='word_1_194' title='bbox 1472 2836 1615 2857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>information</span>
+			<span class='ocrx_word' id='word_1_195' title='bbox 1624 2836 1664 2857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>has</span>
+			<span class='ocrx_word' id='word_1_196' title='bbox 1673 2839 1712 2857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>not</span>
+			<span class='ocrx_word' id='word_1_197' title='bbox 1720 2836 1778 2857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>been</span>
+			<span class='ocrx_word' id='word_1_198' title='bbox 1788 2839 1868 2857;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>recast.</span>
+		</span>
+		<span class='ocr_line' title="bbox 156 2889 2052 2918; baseline 0 -7; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_199' title='bbox 156 2889 172 2904;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>@</span>
+			<span class='ocrx_word' id='word_1_200' title='bbox 181 2890 258 2911;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>Please</span>
+			<span class='ocrx_word' id='word_1_201' title='bbox 267 2890 323 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>refer</span>
+			<span class='ocrx_word' id='word_1_202' title='bbox 329 2893 353 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>to</span>
+			<span class='ocrx_word' id='word_1_203' title='bbox 361 2896 431 2918;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>pages</span>
+			<span class='ocrx_word' id='word_1_204' title='bbox 440 2892 465 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>18</span>
+			<span class='ocrx_word' id='word_1_205' title='bbox 473 2890 569 2918;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>through</span>
+			<span class='ocrx_word' id='word_1_206' title='bbox 578 2892 605 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>22</span>
+			<span class='ocrx_word' id='word_1_207' title='bbox 612 2890 636 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>of</span>
+			<span class='ocrx_word' id='word_1_208' title='bbox 642 2890 685 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>this</span>
+			<span class='ocrx_word' id='word_1_209' title='bbox 692 2890 777 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Annual</span>
+			<span class='ocrx_word' id='word_1_210' title='bbox 786 2892 868 2917;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>Report</span>
+			<span class='ocrx_word' id='word_1_211' title='bbox 875 2890 909 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>for</span>
+			<span class='ocrx_word' id='word_1_212' title='bbox 915 2890 954 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>the</span>
+			<span class='ocrx_word' id='word_1_213' title='bbox 962 2890 1092 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>definitions</span>
+			<span class='ocrx_word' id='word_1_213b' title='bbox 1100 2890 1124 2911;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>of</span>
+			<span class='ocrx_word' id='word_1_214b' title='bbox 1130 2891 1255 2911;x_wconf 0;x_font Verdana' lang='eng' style='font-family:Verdana'>non-GAAP</span>
+			<span class='ocrx_word' id='word_1_215' title='bbox 1261 2890 1366 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>financial</span>
+			<span class='ocrx_word' id='word_1_216' title='bbox 1375 2896 1491 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>measures</span>
+			<span class='ocrx_word' id='word_1_217' title='bbox 1499 2890 1543 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>and</span>
+			<span class='ocrx_word' id='word_1_218' title='bbox 1551 2890 1590 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>the</span>
+			<span class='ocrx_word' id='word_1_219' title='bbox 1599 2890 1778 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>reconciliations</span>
+			<span class='ocrx_word' id='word_1_220' title='bbox 1785 2890 1809 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>of</span>
+			<span class='ocrx_word' id='word_1_221' title='bbox 1816 2891 1940 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>non-GAAP</span>
+			<span class='ocrx_word' id='word_1_222' title='bbox 1947 2890 2052 2911;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>financial</span>
+		</span>
+		<span class='ocr_line' title="bbox 181 2931 1013 2958; baseline 0 -6; x_x_height 15; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_223' title='bbox 181 2937 297 2952;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>measures</span>
+			<span class='ocrx_word' id='word_1_224' title='bbox 304 2934 328 2952;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>to</span>
+			<span class='ocrx_word' id='word_1_225' title='bbox 335 2931 374 2952;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>the</span>
+			<span class='ocrx_word' id='word_1_226' title='bbox 383 2934 443 2952;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>most</span>
+			<span class='ocrx_word' id='word_1_227' title='bbox 450 2931 542 2958;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>directly</span>
+			<span class='ocrx_word' id='word_1_228' title='bbox 549 2931 696 2958;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>comparable</span>
+			<span class='ocrx_word' id='word_1_229' title='bbox 703 2932 770 2952;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>GAAP</span>
+			<span class='ocrx_word' id='word_1_230' title='bbox 777 2931 881 2952;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>financial</span>
+			<span class='ocrx_word' id='word_1_231' title='bbox 890 2937 1013 2952;x_wconf 100;x_font Trebuchet_MS' lang='eng' style='font-family:Trebuchet_MS'>measures.</span>
+		</span>
+		<span class='ocr_line' title="bbox 156 2984 2146 3012; baseline 0 -6; x_x_height 15; x_asc_height 20">
+			<span class='ocrx_word' id='word_1_232' title='bbox 156 2984 172 2999;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>®</span>
+			<span class='ocrx_word' id='word_1_233' title='bbox 179 2985 223 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>The</span>
+			<span class='ocrx_word' id='word_1_234' title='bbox 232 2985 326 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>balance</span>
+			<span class='ocrx_word' id='word_1_235' title='bbox 334 2986 351 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>is</span>
+			<span class='ocrx_word' id='word_1_236' title='bbox 359 2985 463 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>included</span>
+			<span class='ocrx_word' id='word_1_237' title='bbox 472 2986 492 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>in</span>
+			<span class='ocrx_word' id='word_1_238' title='bbox 501 2985 605 3012;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>“Prepaid</span>
+			<span class='ocrx_word' id='word_1_239' title='bbox 614 2991 728 3012;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>expenses</span>
+			<span class='ocrx_word' id='word_1_240' title='bbox 736 2985 779 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>and</span>
+			<span class='ocrx_word' id='word_1_241' title='bbox 788 2985 854 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>other</span>
+			<span class='ocrx_word' id='word_1_242' title='bbox 860 2988 949 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>current</span>
+			<span class='ocrx_word' id='word_1_243' title='bbox 957 2986 1044 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>assets”</span>
+			<span class='ocrx_word' id='word_1_244' title='bbox 1052 2991 1081 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>on</span>
+			<span class='ocrx_word' id='word_1_245' title='bbox 1089 2985 1128 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>the</span>
+			<span class='ocrx_word' id='word_1_246' title='bbox 1136 2985 1296 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Consolidated</span>
+			<span class='ocrx_word' id='word_1_247' title='bbox 1306 2985 1401 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Balance</span>
+			<span class='ocrx_word' id='word_1_248' title='bbox 1409 2985 1491 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Sheets</span>
+			<span class='ocrx_word' id='word_1_249' title='bbox 1499 2986 1519 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>in</span>
+			<span class='ocrx_word' id='word_1_250' title='bbox 1527 2991 1568 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>our</span>
+			<span class='ocrx_word' id='word_1_251' title='bbox 1574 2985 1659 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Annual</span>
+			<span class='ocrx_word' id='word_1_252' title='bbox 1667 2987 1750 3012;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Report</span>
+			<span class='ocrx_word' id='word_1_253' title='bbox 1757 2991 1786 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>on</span>
+			<span class='ocrx_word' id='word_1_254' title='bbox 1795 2987 1856 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Form</span>
+			<span class='ocrx_word' id='word_1_255' title='bbox 1866 2987 1920 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>10-K</span>
+			<span class='ocrx_word' id='word_1_256b' title='bbox 1926 2985 1960 3006;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>for</span>
+			<span class='ocrx_word' id='word_1_257b' title='bbox 1966 2985 2005 3006;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>the</span>
+			<span class='ocrx_word' id='word_1_257' title='bbox 2011 2991 2064 3012;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>year</span>
+			<span class='ocrx_word' id='word_1_258' title='bbox 2071 2985 2146 3006;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>ended</span>
+		</span>
+		<span class='ocr_line' title="bbox 182 3027 417 3053; baseline 0 -5; x_x_height 15; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_260b' title='bbox 182 3027 306 3048;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>December</span>
+			<span class='ocrx_word' id='word_1_261b' title='bbox 312 3029 417 3053;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>31,2023.</span>
+		</span>
+		<span class='ocr_line' title="bbox 154 3074 787 3101; baseline 0 -6; x_x_height 14; x_asc_height 19">
+			<span class='ocrx_word' id='word_1_260' title='bbox 154 3076 178 3095;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>10</span>
+			<span class='ocrx_word' id='word_1_263b' title='bbox 221 3074 442 3101;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'> FTIConsulting,</span>
+			<span class='ocrx_word' id='word_1_264b' title='bbox 400 3070 445 3105;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Inc.</span>
+			<span class='ocrx_word' id='word_1_265b' title='bbox 516 3076 572 3095;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-variant:small-caps;font-family:DejaVu_Sans_Ultra-Light'>2023</span>
+			<span class='ocrx_word' id='word_1_266b' title='bbox 579 3076 681 3095;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-variant:small-caps;font-family:DejaVu_Sans_Ultra-Light'>ANNUAL</span>
+			<span class='ocrx_word' id='word_1_263' title='bbox 689 3076 787 3095;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-variant:small-caps;font-family:DejaVu_Sans_Ultra-Light'>REPORT</span>
+		</span>
+		<span class='ocr_line' title="bbox 2221 493 2306 521; baseline 0.011765 -1; x_x_height 18.952381134033203; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_264' title='bbox 2221 493 2306 521;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>2023</span>
+		</span>
+		<span class='ocr_line' title="bbox 2158 566 2300 604; baseline 0 -6; x_x_height 18.952381134033203; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_265' title='bbox 2158 566 2300 604;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>$3,489.2</span>
+		</span>
+		<span class='ocr_line' title="bbox 2189 650 2300 686; baseline 0.009009 -5; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_266' title='bbox 2189 650 2300 686;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>$377.6</span>
+		</span>
+		<span class='ocr_line' title="bbox 2189 734 2299 770; baseline 0.009091 -5; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_267' title='bbox 2189 734 2299 770;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>$274.9</span>
+		</span>
+		<span class='ocr_line' title="bbox 2189 821 2300 857; baseline 0.009009 -5; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_268' title='bbox 2189 821 2300 857;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>$424.8</span>
+		</span>
+		<span class='ocr_line' title="bbox 2210 905 2299 941; baseline 0 -5; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_269' title='bbox 2210 905 2299 941;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>$7.71</span>
+		</span>
+		<span class='ocr_line' title="bbox 2210 989 2299 1025; baseline 0 -5; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_270' title='bbox 2210 989 2299 1025;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>$7.71</span>
+		</span>
+		<span class='ocr_line' title="bbox 2189 1073 2299 1109; baseline 0.009091 -5; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_271' title='bbox 2189 1073 2299 1109;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>$174.9</span>
+		</span>
+		<span class='ocr_line' title="bbox 2189 1241 2299 1277; baseline -0.045455 -4; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_272' title='bbox 2189 1241 2299 1277;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>$303.2</span>
+		</span>
+		<span class='ocr_line' title="bbox 2210 1325 2299 1361; baseline 0.011236 -4; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_273' title='bbox 2210 1325 2299 1361;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>$25.5</span>
+		</span>
+	</div>
+</body>
+</html>

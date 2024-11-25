@@ -8,8 +8,8 @@
 	<meta name='sans-font' content='NimbusSans'></meta>
 	<meta name='serif-font' content='NimbusRomNo9L'></meta>
 	<meta name='enable-opt' content='undefined'></meta>
-	<meta name='layout' content='[{"default":true,"boxes":{}}]'></meta>
-	<meta name='layout-data-table' content='[{"default":true,"tables":[]}]'></meta>
+	<meta name='layout' content='[{"n":0,"default":true,"boxes":{}}]'></meta>
+	<meta name='layout-data-table' content='[{"n":0,"default":true,"tables":[]}]'></meta>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
 	<meta name='ocr-system' content='scribeocr' />
 	<meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf ocrp_lang ocrp_dir ocrp_font ocrp_fsize'/>
@@ -45,7 +45,7 @@
 		<span class='ocr_line' title="bbox 219 381 379 404; baseline 0 -1; x_asc_height 22">
 			<span class='ocrx_word' id='word_1_15' title='bbox 219 381 379 404;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-variant:small-caps;font-family:Arial_Bold'>APPROVED</span>
 		</span>
-		<span class='ocr_line' title="bbox 240 414 358 450; baseline -0.033898 0; x_x_height 18.33333110809326; x_asc_height 30">
+		<span class='ocr_line' title="bbox 240 414 358 450; baseline -0.033898 -4; x_x_height 18.33333110809326; x_asc_height 30">
 			<span class='ocrx_word' id='word_1_16' title='bbox 240 414 358 450;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>$23.90</span>
 		</span>
 		<span class='ocr_line' title="bbox 172 463 353 492; baseline -0.005525 -6; x_x_height 18; x_asc_height 23">
@@ -71,9 +71,9 @@
 		</span>
 		<span class='ocr_line' title="bbox 120 749 572 771; baseline 0 0; x_x_height 15.02721118927002; x_asc_height 22">
 			<span class='ocrx_word' id='word_1_28' title='bbox 120 749 165 771;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>iAD</span>
-			<span class='ocrx_word' id='word_1_26b' title='bbox 178 749 572 771;x_wconf 0' lang='eng'>1F4A0131A000000000100302</span>
+			<span class='ocrx_word' id='word_1_26b' title='bbox 178 749 572 771;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>1F4A0131A000000000100302</span>
 		</span>
-		<span class='ocr_line' title="bbox 176 783 580 806; baseline 0.002475 -1; x_x_height 15.02721118927002; x_asc_height 22">
+		<span class='ocr_line' title="bbox 176 783 580 806; baseline 0.002475 0; x_x_height 15.02721118927002; x_asc_height 22">
 			<span class='ocrx_word' id='word_1_31' title='bbox 176 783 580 806;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>7300000000400000000000000</span>
 		</span>
 		<span class='ocr_line' title="bbox 175 817 419 840; baseline 0 0; x_x_height 15.02721118927002; x_asc_height 22">
@@ -92,7 +92,7 @@
 			<span class='ocrx_word' id='word_1_38' title='bbox 175 958 327 981;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Contactless</span>
 		</span>
 		<span class='ocr_line' title="bbox 197 1025 400 1054; baseline 0 -6; x_x_height 17; x_asc_height 23">
-			<span class='ocrx_word' id='word_1_35b' title='bbox 197 1025 301 1048;x_wconf 0' lang='eng'>Verified</span>
+			<span class='ocrx_word' id='word_1_35b' title='bbox 197 1025 301 1048;x_wconf 0;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>Verified</span>
 			<span class='ocrx_word' id='word_1_41' title='bbox 311 1025 343 1054;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>by</span>
 			<span class='ocrx_word' id='word_1_42' title='bbox 354 1025 400 1048;x_wconf 100;x_font Trebuchet_MS_Bold' lang='eng' style='font-family:Trebuchet_MS_Bold'>PIN</span>
 		</span>

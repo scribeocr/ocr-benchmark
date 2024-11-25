@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title></title>
+	<meta name='font-metrics' content='{"SerifDefault":{"normal":{"width":{"36":0.809524,"38":1.45,"40":0.578947,"41":0.578947,"44":0.3,"45":0.5,"46":0.210526,"48":0.8999997999999999,"49":0.5310339999999999,"50":0.8999997999999999,"51":0.8000006,"52":0.9499993999999999,"53":0.7499996,"54":0.8500002,"55":0.8500002,"56":0.7499996,"57":0.8689659999999999,"58":0.25,"65":1.45,"66":1.238095,"67":1.25,"68":1.333333,"70":1.05,"71":1.4,"73":0.6,"76":1.190476,"77":1.75,"78":1.5,"79":1.35,"80":1.105263,"82":1.473684,"83":0.9,"84":1.15,"87":1.9,"97":0.85,"98":0.95,"99":0.8,"100":0.95,"101":0.8,"102":0.8,"103":0.947368,"104":1,"105":0.45,"106":0.55,"107":1,"108":0.5,"109":1.6,"110":1.05,"111":0.9,"112":1,"113":1,"114":0.7,"115":0.631579,"116":0.55,"117":1,"118":1,"119":1.45,"120":1,"121":1,"122":0.85,"8217":0.35,"8220":0.8,"8221":0.8},"height":{"36":1.65,"38":1.45,"40":1.9,"41":1.894737,"44":0.55,"45":0.15,"46":0.25,"48":1.4,"49":1.4,"50":1.4,"51":1.4499996,"52":1.4,"53":1.4499996,"54":1.4,"55":1.4499996,"56":1.4,"57":1.4499996,"58":1,"65":1.4,"66":1.333333,"67":1.45,"68":1.333333,"70":1.4,"71":1.45,"73":1.4,"76":1.4,"77":1.4,"78":1.4,"79":1.45,"80":1.473684,"82":1.473684,"83":1.45,"84":1.4,"87":1.45,"97":0.95,"98":1.5,"99":1,"100":1.5,"101":1,"102":1.45,"103":1.4,"104":1.45,"105":1.45,"106":1.9,"107":1.45,"108":1.45,"109":0.95,"110":0.95,"111":1,"112":1.4,"113":1.4,"114":0.95,"115":1,"116":1.25,"117":1,"118":0.95,"119":1,"120":0.95,"121":1.4,"122":0.95,"8217":0.55,"8220":0.5,"8221":0.5},"kerning":{"84,104":0.05,"104,101":0.1,"99,104":0.1,"104,97":0.1,"97,110":0.05,"110,103":0.05,"103,101":0.15,"105,110":0.1,"111,117":0.1,"117,114":0.05,"108,105":0.1,"105,97":0.15,"97,98":0,"98,105":0.15,"105,108":0.15,"105,116":0.1,"116,121":0.05,"102,111":-0.15,"111,114":0.1,"97,99":0.1,"99,113":0.15,"113,117":0,"117,105":0.1,"105,115":0.2,"115,105":0.15,"116,105":0.0625,"105,111":0.1,"111,110":0.1,"110,45":0.1,"45,114":0.1,"114,101":0.05,"101,108":0.105263,"108,97":0.1,"97,116":0.05,"116,101":0.1,"101,100":0.1,"99,111":0.1,"110,116":0.05,"101,110":0.05,"110,115":0.1,"105,100":0.15,"100,101":0.1,"101,114":0.095238,"114,97":0.05,"76,101":0.15,"101,118":0.1,"118,101":0.1,"115,116":0.1,"116,114":0,"114,117":-0.15,"117,109":0.05,"109,101":0.1,"116,115":0.15,"97,115":0.105263,"111,108":0.15,"108,108":0.1,"108,111":0.1,"111,119":0.1,"119,115":0.15,"115,58":0.25,"67,111":0.15,"66,97":0.142857,"97,108":0.05,"110,99":0.052632,"99,101":0.142857,"68,101":0.142857,"101,99":0.142857,"101,109":0.1,"109,98":0.095238,"98,101":0.142857,"51,49":0.3000004,"49,44":0.25454519999999997,"50,48":0.1500002,"48,50":0.10000060000000001,"65,100":0.1,"100,100":0.1,"100,105":0.1,"44,48":0.2,"48,57":0.1500002,"57,51":0.1448272,"65,99":0.1,"99,99":0.1,"99,114":0.1,"101,116":0.1,"101,120":0.1,"120,112":0,"112,101":0.15,"115,101":0.15,"50,44":0.24999939999999998,"44,55":0.2,"55,55":0.19310339999999998,"55,49":0.35,"82,101":0.052632,"101,97":0.157895,"115,117":0.1,"103,97":0.105263,"97,105":0.1,"40,51":0.157895,"51,44":0.3000004,"57,53":0.1999998,"53,41":0.24999939999999998,"80,97":0.157895,"97,121":0,"121,109":0.105263,"40,53":0.157895,"53,44":0.28965579999999996,"44,49":0.368421,"49,50":0.3000004,"50,50":0.1500002,"50,41":0.1500002,"70,111":0.15,"101,105":0.1,"105,103":0.15,"103,110":0.1,"99,117":0.05,"114,114":-0.1,"99,121":0.1,"115,108":0.15,"97,100":0.052632,"100,106":-0.15,"106,117":0.2,"117,115":0.15,"116,109":0.05,"40,54":0.157895,"54,53":0.1999998,"53,53":0.3000004,"50,49":0.35,"44,51":0.2,"51,55":0.2413796,"55,48":0.19310339999999998,"51,57":0.24999939999999998,"57,54":0.1500002,"110,100":0.05,"111,116":0.1,"116,104":0.05,"40,50":0.1,"49,55":0.35,"55,41":0.1500002,"49,52":0.3000004,"52,44":0.1999998,"44,57":0.190476,"57,56":0.1999998,"56,56":0.24999939999999998,"54,44":0.19310339999999998,"51,53":0.28965579999999996,"53,51":0.2413796,"51,41":0.2413796,"51,52":0.1999998,"52,56":0.1999998,"50,51":0.19310339999999998,"44,56":0.238095,"56,48":0.1999998,"48,49":0.35,"99,108":0.15,"108,117":0.05,"117,100":0.1,"83,71":0.2,"71,38":0.15,"38,65":0.1,"101,115":0.2,"115,111":0.15,"100,97":0.05,"83,116":0.15,"116,97":0.1,"111,102":0.157895,"111,109":0.15,"109,112":0,"112,114":0.1,"101,104":0.1,"105,118":0.1,"73,110":0.05,"101,46":0.2,"111,115":0.2,"115,115":0.2,"117,108":0.05,"108,116":0.05,"102,114":-0.2,"114,111":0.05,"102,97":-0.15,"105,114":0.05,"118,97":0.1,"117,101":0.1,"110,8217":0.1,"8217,115":0.25,"114,100":0.05,"97,114":0.05,"8220,79":0.15,"79,116":0.1,"40,108":0.1,"115,41":0.15,"41,44":0.2,"110,101":0.095238,"97,120":0.05,"120,8221":0.1,"52,46":0.1500002,"101,98":0.095238,"98,116":0.142857,"98,108":0.15,"108,101":0.15,"109,109":0.05,"109,97":0.1,"114,105":0.05,"105,122":0.15,"122,101":0.15,"112,111":0.15,"112,97":0.15,"110,121":0.05,"121,8217":0.2,"116,58":0.2,"110,118":0.05,"114,116":-0.15,"105,98":0.05,"78,111":0.1,"67,114":0.1,"70,97":0.15,"99,105":0.15,"84,111":0.142857,"101,102":0.15,"102,101":-0.15,"117,97":0.1,"40,49":0.3,"48,52":0.10000060000000001,"52,55":0.1500002,"76,111":0.142857,"103,45":0.15,"45,116":0.15,"114,109":0.142857,"116,44":0.047619,"119,101":0.15,"110,111":0.1,"50,46":0.24999939999999998,"79,110":0.1,"65,117":0,"117,103":0.1,"103,117":0.1,"48,44":0.1999998,"49,56":0.3999996,"56,44":0.24999939999999998,"97,103":0.105263,"103,103":0.105263,"103,114":0.052632,"101,103":0.157895,"105,112":0.05,"97,109":0.05,"109,111":0.1,"117,110":0.05,"36,51":0.2,"49,54":0.35,"54,46":0.24999939999999998,"46,51":0.25,"109,105":0.05,"110,46":0.15,"104,114":0.05,"103,104":0.05,"98,117":0.05,"114,115":0.1,"57,46":0.24999939999999998,"46,56":0.3,"56,54":0.1999998,"54,52":0.1500002,"52,51":0.1999998,"115,104":0.1,"116,111":0.05,"111,99":0.15,"99,107":0.05,"36,49":0.4,"48,48":0.1500002,"40,101":0.1,"101,113":0.1,"105,99":0.1,"97,112":0,"112,112":0.105263,"111,120":0.105263,"120,105":0.1,"105,109":0.105263,"108,121":0.05,"49,48":0.35,"49,46":0.3999996,"51,56":0.3000004,"107,41":0.1,"41,46":0.2,"67,101":0.15,"104,111":0.1,"108,100":0.1,"99,116":0.1,"101,121":0.1,"99,97":0.15,"110,97":0.1,"77,97":0.1,"49,53":0.35,"119,104":0.05,"104,105":0.1,"116,116":0.05,"116,108":0.05,"36,48":0.210526,"48,46":0.2413796,"46,53":0.263158,"115,46":0.210526,"53,46":0.24999939999999998,"119,97":0.1,"116,117":0.05,"117,116":0.05,"122,105":0.1,"114,99":0.05,"115,44":0.2,"121,46":0.15,"87,101":0.1,"108,115":0.15,"44,52":0.15,"52,54":0.1448272,"54,48":0.1448272,"55,52":0.1448272,"52,48":0.1448272,"70,84":0.15,"84,73":0.15,"110,110":0,"119,105":0.15,"121,44":0.15,"101,112":0.05,"120,99":0.1,"111,118":0.1,"36,50":0.15,"50,56":0.2413796,"105,117":0.1},"kerning2":{"84,104":0.050000000000000044,"104,101":0.09999999999999998,"99,104":0.10000000000000009,"104,97":0.09999999999999998,"97,110":0,"110,103":0.05263200000000001,"103,101":0.1499999999999999,"105,110":0.050000000000000044,"111,117":0.10000000000000009,"117,114":0.050000000000000044,"108,105":0.10000000000000003,"105,97":0.15000000000000002,"97,98":0,"98,105":0.14999999999999997,"105,108":0.09999999999999998,"105,116":0.09999999999999998,"116,121":0.050000000000000044,"102,111":-0.15000000000000002,"111,114":0.10000000000000009,"97,99":0.09999999999999998,"99,113":0.10000000000000009,"113,117":0,"117,105":0.10000000000000003,"105,115":0.16842100000000004,"115,105":0.14999999999999997,"116,105":0.10000000000000003,"105,111":0.15000000000000002,"111,110":0.050000000000000044,"110,45":0.09999999999999998,"45,114":0.10000000000000009,"114,101":0.04999999999999993,"101,108":0.09999999999999998,"108,97":0.10238100000000006,"97,116":0.04999999999999993,"116,101":0.09999999999999998,"101,100":0.10000000000000009,"99,111":0.09999999999999998,"110,116":0,"101,110":0.050000000000000044,"110,115":0.118421,"105,100":0.15000000000000013,"100,101":0.09999999999999998,"101,114":0.10000000000000009,"114,97":0.050000000000000044,"76,101":0.1499999999999999,"101,118":0.10000000000000009,"118,101":0.09999999999999998,"115,116":0.09999999999999998,"116,114":0,"114,117":0.1499999999999999,"117,109":0.04999999999999982,"109,101":0.09999999999999998,"116,115":0.118421,"97,115":0.118421,"111,108":0.09999999999999998,"108,108":0.09999999999999998,"108,111":0.09999999999999998,"111,119":0.10000000000000009,"119,115":0.118421,"115,58":0.25,"67,111":0.15000000000000002,"66,97":0.1976190000000001,"97,108":0.050000000000000044,"110,99":0.09473699999999996,"99,101":0.10476199999999991,"68,101":0.10476199999999991,"101,99":0.13749999999999996,"101,109":0.06666699999999981,"109,98":0.09761900000000012,"98,101":0.13749999999999996,"51,49":0.4689664000000001,"49,44":0.3275864,"50,48":0.15000019999999992,"48,50":0.1000006000000001,"65,100":0.10000000000000009,"100,100":0.10000000000000009,"100,105":0.10000000000000003,"44,48":0.20000020000000018,"48,57":0.18103399999999992,"57,51":0.1172401999999999,"65,99":0.09999999999999998,"99,99":0.09999999999999998,"99,114":0.10000000000000009,"101,116":0.04999999999999993,"101,120":0.10000000000000009,"120,112":0,"112,101":0.1499999999999999,"115,101":0.1499999999999999,"50,44":0.24999979999999994,"44,55":0.19999980000000006,"55,55":0.19999979999999984,"55,49":0.3189662000000001,"82,101":0.09473699999999996,"101,97":0.20263200000000003,"115,117":0.10000000000000009,"103,97":0.15000000000000002,"97,105":0.10000000000000003,"40,51":0.19999940000000005,"51,44":0.29999939999999997,"57,53":0.19999979999999995,"53,41":0.22105359999999996,"80,97":0.20263200000000003,"97,121":0.05263200000000001,"121,109":0.1368419999999999,"40,53":0.2500004,"53,44":0.2793102,"44,49":0.4163340000000001,"49,50":0.30000039999999994,"50,50":0.15000019999999992,"50,41":0.1710526,"70,111":0.15000000000000002,"101,105":0.14999999999999997,"105,103":0.10263200000000006,"103,110":0.050000000000000044,"99,117":0.050000000000000044,"114,114":-0.04999999999999993,"99,121":0.10000000000000009,"115,108":0.09999999999999998,"97,100":0.10000000000000009,"100,106":-0.15000000000000002,"106,117":0.19999999999999996,"117,115":0.118421,"116,109":0.04999999999999982,"40,54":0.2552628000000001,"54,53":0.19999979999999995,"53,53":0.30000039999999983,"50,49":0.4689664000000001,"44,51":0.1499994,"51,55":0.21206919999999996,"55,48":0.16206960000000004,"51,57":0.2810345999999999,"57,54":0.19999979999999984,"110,100":0.10000000000000009,"111,116":0.09999999999999998,"116,104":0.050000000000000044,"40,50":0.1000002000000001,"49,55":0.3999995999999999,"55,41":0.12105299999999997,"49,52":0.30000039999999994,"52,44":0.20000020000000002,"44,57":0.1310340000000001,"57,56":0.2500008,"56,56":0.30000039999999983,"54,44":0.1827592,"51,53":0.26379359999999985,"53,51":0.2137925999999999,"51,41":0.19346659999999993,"51,52":0.20000119999999988,"52,56":0.2500008,"50,51":0.1499988,"44,56":0.20238140000000004,"56,48":0.19999979999999995,"48,49":0.3189662000000001,"99,108":0.09999999999999998,"108,117":0.050000000000000044,"117,100":0.10000000000000009,"83,71":0.20000000000000018,"71,38":0.15000000000000013,"38,65":0.10000000000000009,"101,115":0.16842100000000004,"115,111":0.15000000000000002,"100,97":0.050000000000000044,"83,116":0.09999999999999998,"116,97":0.09999999999999998,"111,102":0.19999999999999996,"111,109":0.09999999999999987,"109,112":0,"112,114":0.10000000000000009,"101,104":0.10000000000000009,"105,118":0.10000000000000009,"73,110":0.050000000000000044,"101,46":0.23947400000000002,"111,115":0.16842100000000004,"115,115":0.16842100000000004,"117,108":0.050000000000000044,"108,116":0.04999999999999993,"102,114":-0.19999999999999996,"114,111":0.04999999999999993,"102,97":-0.15000000000000002,"105,114":0.050000000000000044,"118,97":0.09999999999999998,"117,101":0.09999999999999998,"110,8217":-0.04999999999999999,"8217,115":0.268421,"114,100":0.050000000000000044,"97,114":0.050000000000000044,"8220,79":0.1499999999999999,"79,116":0.09999999999999998,"40,108":0.09999999999999998,"115,41":0.12105299999999997,"41,44":0.2,"110,101":0.04999999999999993,"97,120":0,"120,8221":0.09999999999999998,"52,46":0.2894742,"101,98":0.09761900000000012,"98,116":0.211905,"98,108":0.131579,"108,101":0.09999999999999998,"109,109":0.04999999999999982,"109,97":0.09999999999999998,"114,105":0.04999999999999999,"105,122":0.15000000000000002,"122,101":0.09999999999999998,"112,111":0.15000000000000002,"112,97":0.15000000000000002,"110,121":0.050000000000000044,"121,8217":0.20000000000000007,"116,58":0.2,"110,118":0,"114,116":-0.10000000000000003,"105,98":0.050000000000000044,"78,111":0.09999999999999998,"67,114":0.10000000000000009,"70,97":0.15000000000000002,"99,105":0.14999999999999997,"84,111":0.09999999999999998,"101,102":0.19999999999999996,"102,101":-0.15000000000000002,"117,97":0.09999999999999998,"40,49":0.3189660000000001,"48,52":0.10000059999999988,"52,55":0.15000020000000003,"76,111":0.09999999999999998,"103,45":0.166667,"45,116":0.11666699999999997,"114,109":0.06666699999999981,"116,44":0.128571,"119,101":0.09999999999999998,"110,111":0.09999999999999998,"50,46":0.2894742,"79,110":0.050000000000000044,"65,117":0,"117,103":0.10263200000000006,"103,117":0.10000000000000009,"48,44":0.20000020000000002,"49,56":0.40000099999999983,"56,44":0.24999979999999994,"97,103":0.10526400000000002,"103,103":0.15789500000000012,"103,114":0.08947400000000005,"101,103":0.15789500000000012,"105,112":0.050000000000000044,"97,109":0.04999999999999982,"109,111":0.09999999999999998,"117,110":0,"36,51":0.19999940000000005,"49,54":0.34999999999999987,"54,46":0.23947459999999998,"46,51":0.2499994000000001,"109,105":0.04999999999999999,"110,46":0.139474,"104,114":0.050000000000000044,"103,104":0.050000000000000044,"98,117":0.050000000000000044,"114,115":0.06842099999999995,"57,46":0.23947459999999998,"46,56":0.3500004000000001,"56,54":0.19999979999999984,"54,52":0.10000059999999988,"52,51":0.1499988,"115,104":0.10000000000000009,"116,111":0.04999999999999993,"111,99":0.1499999999999999,"99,107":0.10000000000000009,"36,49":0.3689660000000001,"48,48":0.15000019999999992,"40,101":0.09999999999999998,"101,113":0.10000000000000009,"105,99":0.09999999999999998,"97,112":0,"112,112":0.1052630000000001,"111,120":0.1578949999999999,"120,105":0.10000000000000003,"105,109":0.1368419999999999,"108,121":0.050000000000000044,"49,48":0.35,"49,46":0.38947339999999997,"51,56":0.30000039999999983,"107,41":0.07105300000000003,"41,46":0.23947400000000002,"67,101":0.09999999999999998,"104,111":0.09999999999999998,"108,100":0.10000000000000009,"99,116":0.04999999999999993,"101,121":0.10000000000000009,"99,97":0.15000000000000002,"110,97":0.09999999999999998,"77,97":0.09999999999999998,"49,53":0.40000099999999983,"119,104":0.050000000000000044,"104,105":0.10000000000000003,"116,116":0.04999999999999993,"116,108":0.050000000000000044,"36,48":0.2578952,"48,46":0.23947459999999998,"46,53":0.3552634000000001,"115,46":0.21052700000000002,"53,46":0.2894742,"119,97":0.09999999999999998,"116,117":0.050000000000000044,"117,116":0.04999999999999993,"122,105":0.10000000000000003,"114,99":0.04999999999999993,"115,44":0.2,"121,46":0.139474,"87,101":0.09999999999999998,"108,115":0.16842100000000004,"44,52":0.15000060000000015,"52,54":0.11551679999999998,"54,48":0.11379339999999993,"55,52":0.0637937999999999,"52,48":0.11379339999999993,"70,84":0.15000000000000013,"84,73":0.09999999999999998,"110,110":0,"119,105":0.14999999999999997,"121,44":0.15000000000000002,"101,112":0.050000000000000044,"120,99":0.09999999999999998,"111,118":0.10000000000000009,"36,50":0.15000020000000014,"50,56":0.21551739999999997,"105,117":0.10000000000000009},"variants":{},"heightCaps":1.4,"obs":2193,"obsCaps":91},"italic":{"width":{"48":0.9000004999999999,"50":0.99999975,"51":0.9499993999999999,"67":1.35,"78":1.75,"98":0.95,"101":0.85,"105":0.55,"108":0.65,"110":1,"111":0.95,"114":0.8,"115":0.75,"116":0.6,"118":0.85},"height":{"48":1.45,"50":1.3999996499999998,"51":1.45,"67":1.45,"78":1.4,"98":1.45,"101":1,"105":1.45,"108":1.45,"110":0.95,"111":1,"114":0.95,"115":1,"116":1.25,"118":1},"kerning":{"50,48":0.14999959999999998,"48,50":0.05000035,"50,51":0.05000035,"67,111":-0.05,"111,110":0.1,"110,118":0.15,"118,101":0.05,"101,114":0.05,"114,116":0,"116,105":0,"105,98":0,"98,108":0.1,"108,101":-0.05,"78,111":-0.1,"111,116":0.05,"116,101":0,"101,115":0.05},"kerning2":{"50,48":0.1499996,"48,50":0.050000349999999916,"50,51":0.05000035000000003,"67,111":-0.04999999999999993,"111,110":0.10000000000000009,"110,118":0.15000000000000002,"118,101":0.09999999999999998,"101,114":0.04999999999999993,"114,116":0,"116,105":0,"105,98":0,"98,108":0.09999999999999998,"108,101":-0.04999999999999993,"78,111":-0.09999999999999998,"111,116":0.050000000000000044,"116,101":0,"101,115":0.050000000000000044},"variants":{},"heightCaps":1.45,"obs":20,"obsCaps":2},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":2213},"Default":{"normal":{"width":{"44":0.285714,"48":0,"49":0,"50":0,"51":0,"53":0,"54":0,"55":0,"56":0,"57":0,"8212":2.1},"height":{"44":0.52381,"48":0,"49":0,"50":0,"51":0,"53":0,"54":0,"55":0,"56":0,"57":0,"8212":0.1},"kerning":{"50,48":0,"48,44":0,"44,49":0.333333,"49,49":0,"49,56":0,"49,53":0,"53,44":0,"49,48":0,"51,44":0,"44,56":0.2,"56,49":0,"51,49":0,"49,54":0,"54,44":0,"44,50":0.15,"50,49":0,"49,57":0,"49,55":0,"55,50":0},"kerning2":{"50,48":0,"48,44":-0.285714,"44,49":0.857143,"49,49":0,"49,56":0,"49,53":0,"53,44":-0.285714,"49,48":0,"51,44":-0.285714,"44,56":1.05,"56,49":0,"51,49":0,"49,54":0,"54,44":-0.285714,"44,50":1.05,"50,49":0,"49,57":0,"49,55":0,"55,50":0},"variants":{},"heightCaps":0,"obs":44,"obsCaps":0},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":44}}'></meta>
+	<meta name='default-font' content='SerifDefault'></meta>
+	<meta name='sans-font' content='NimbusSans'></meta>
+	<meta name='serif-font' content='NimbusRomNo9L'></meta>
+	<meta name='enable-opt' content='undefined'></meta>
+	<meta name='layout' content='[{"n":0,"default":true,"boxes":{}}]'></meta>
+	<meta name='layout-data-table' content='[{"n":0,"default":true,"tables":[]}]'></meta>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<meta name='ocr-system' content='scribeocr' />
+	<meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf ocrp_lang ocrp_dir ocrp_font ocrp_fsize'/>
+</head>
+<body>
+	<div class='ocr_page' title='bbox 0 0 2475 3225'>
+		<span class='ocr_line' title="bbox 283 141 2227 179; baseline 0 -9; x_x_height 20; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_0' title='bbox 283 141 345 171;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>The</span>
+			<span class='ocrx_word' id='word_1_1' title='bbox 358 141 473 179;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>change</span>
+			<span class='ocrx_word' id='word_1_2' title='bbox 486 141 517 170;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>in</span>
+			<span class='ocrx_word' id='word_1_3' title='bbox 529 151 583 171;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>our</span>
+			<span class='ocrx_word' id='word_1_4' title='bbox 595 141 722 179;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>liability</span>
+			<span class='ocrx_word' id='word_1_5' title='bbox 735 141 782 171;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>for</span>
+			<span class='ocrx_word' id='word_1_6' title='bbox 794 141 1102 179;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>acquisition-related</span>
+			<span class='ocrx_word' id='word_1_7' title='bbox 1114 141 1288 179;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>contingent</span>
+			<span class='ocrx_word' id='word_1_8' title='bbox 1300 141 1523 171;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>consideration</span>
+			<span class='ocrx_word' id='word_1_9' title='bbox 1535 141 1582 171;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>for</span>
+			<span class='ocrx_word' id='word_1_10' title='bbox 1594 151 1648 171;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>our</span>
+			<span class='ocrx_word' id='word_1_11' title='bbox 1659 141 1752 171;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Level</span>
+			<span class='ocrx_word' id='word_1_12' title='bbox 1765 142 1781 171;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>3</span>
+			<span class='ocrx_word' id='word_1_13' title='bbox 1797 141 1940 171;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>financial</span>
+			<span class='ocrx_word' id='word_1_14' title='bbox 1952 141 2144 171;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>instruments</span>
+			<span class='ocrx_word' id='word_1_15' title='bbox 2157 141 2182 171;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>is</span>
+			<span class='ocrx_word' id='word_1_16' title='bbox 2195 151 2227 171;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>as</span>
+		</span>
+		<span class='ocr_line' title="bbox 171 191 302 221; baseline 0.007634 -1; x_x_height 20; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_17' title='bbox 171 191 302 221;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>follows:</span>
+		</span>
+		<span class='ocr_line' title="bbox 1884 301 2251 331; baseline 0 -7; x_x_height 16; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_18' title='bbox 1884 301 2041 331;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Contingent</span>
+			<span class='ocrx_word' id='word_1_19' title='bbox 2051 301 2251 325;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Consideration</span>
+		</span>
+		<span class='ocr_line' title="bbox 180 352 2287 389; baseline 0 -7; x_x_height 21; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_20' title='bbox 180 354 320 383;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Balance</span>
+			<span class='ocrx_word' id='word_1_21' title='bbox 333 356 366 382;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>at</span>
+			<span class='ocrx_word' id='word_1_22' title='bbox 377 354 556 383;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>December</span>
+			<span class='ocrx_word' id='word_1_23' title='bbox 568 354 618 389;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>31,</span>
+			<span class='ocrx_word' id='word_1_24' title='bbox 631 354 711 383;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2020</span>
+			<span class='ocrx_word' id='word_1_25' title='bbox 1841 352 1858 385;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$</span>
+			<span class='ocrx_word' id='word_1_26' title='bbox 2175 354 2287 389;x_wconf 100' lang='eng'>20,118</span>
+		</span>
+		<span class='ocr_line' title="bbox 227 411 2286 448; baseline 0 -7; x_x_height 20; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_27' title='bbox 227 412 389 442;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Additions</span>
+			<span class='ocrx_word' id='word_1_28' title='bbox 1841 411 1858 444;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$</span>
+			<span class='ocrx_word' id='word_1_29' title='bbox 2201 413 2286 448;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,093</span>
+		</span>
+		<span class='ocr_line' title="bbox 227 467 2284 509; baseline 0 -8; x_x_height 20; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_30' title='bbox 227 471 391 501;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Accretion</span>
+			<span class='ocrx_word' id='word_1_31' title='bbox 402 481 534 509;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>expense</span>
+			<span class='ocrx_word' id='word_1_32' title='bbox 546 467 573 489;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(1)</span>
+			<span class='ocrx_word' id='word_1_33' title='bbox 2196 472 2284 507;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2,771</span>
+		</span>
+		<span class='ocr_line' title="bbox 227 526 2302 569; baseline 0.000482 -9; x_x_height 19; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_34' title='bbox 227 532 494 561;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Remeasurement</span>
+			<span class='ocrx_word' id='word_1_35' title='bbox 506 531 577 569;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>gain</span>
+			<span class='ocrx_word' id='word_1_36' title='bbox 588 526 615 548;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(2)</span>
+			<span class='ocrx_word' id='word_1_37' title='bbox 2183 532 2302 568;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(3,095)</span>
+		</span>
+		<span class='ocr_line' title="bbox 227 590 2302 628; baseline 0 -9; x_x_height 19; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_38' title='bbox 227 591 387 628;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Payments</span>
+			<span class='ocrx_word' id='word_1_39' title='bbox 2183 590 2302 628;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(5,122)</span>
+		</span>
+		<span class='ocr_line' title="bbox 227 645 2302 688; baseline 0.000482 -9; x_x_height 19; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_40' title='bbox 227 650 356 688;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Foreign</span>
+			<span class='ocrx_word' id='word_1_41' title='bbox 368 660 512 688;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>currency</span>
+			<span class='ocrx_word' id='word_1_42' title='bbox 523 650 698 680;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>translation</span>
+			<span class='ocrx_word' id='word_1_43' title='bbox 710 650 891 688;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>adjustment</span>
+			<span class='ocrx_word' id='word_1_44' title='bbox 902 645 929 667;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>©)</span>
+			<span class='ocrx_word' id='word_1_45' title='bbox 2215 650 2302 688;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(655)</span>
+		</span>
+		<span class='ocr_line' title="bbox 180 708 2288 745; baseline 0 -7; x_x_height 21; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_46' title='bbox 180 710 320 739;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Balance</span>
+			<span class='ocrx_word' id='word_1_47' title='bbox 333 712 366 738;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>at</span>
+			<span class='ocrx_word' id='word_1_48' title='bbox 377 710 556 739;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>December</span>
+			<span class='ocrx_word' id='word_1_49' title='bbox 568 710 618 745;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>31,</span>
+			<span class='ocrx_word' id='word_1_50' title='bbox 631 710 710 739;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2021</span>
+			<span class='ocrx_word' id='word_1_51' title='bbox 1841 708 1858 741;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$</span>
+			<span class='ocrx_word' id='word_1_52' title='bbox 2180 710 2288 745;x_wconf 100' lang='eng'>15,110</span>
+		</span>
+		<span class='ocr_line' title="bbox 227 767 2288 804; baseline 0 -7; x_x_height 20; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_53' title='bbox 227 768 389 798;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Additions</span>
+			<span class='ocrx_word' id='word_1_54' title='bbox 1841 767 1858 800;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$</span>
+			<span class='ocrx_word' id='word_1_55' title='bbox 2198 769 2288 804;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>5,370</span>
+		</span>
+		<span class='ocr_line' title="bbox 227 823 2288 866; baseline 0 -8; x_x_height 20; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_56' title='bbox 227 828 391 858;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Accretion</span>
+			<span class='ocrx_word' id='word_1_57' title='bbox 402 838 534 866;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>expense</span>
+			<span class='ocrx_word' id='word_1_58' title='bbox 546 823 573 845;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(1)</span>
+			<span class='ocrx_word' id='word_1_59' title='bbox 2196 829 2288 864;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2,396</span>
+		</span>
+		<span class='ocr_line' title="bbox 227 888 2302 925; baseline 0.000482 -9; x_x_height 19; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_60' title='bbox 227 888 387 925;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Payments</span>
+			<span class='ocrx_word' id='word_1_61' title='bbox 2183 888 2302 924;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(7,671)</span>
+		</span>
+		<span class='ocr_line' title="bbox 227 942 2302 984; baseline 0 -9; x_x_height 20; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_62' title='bbox 227 946 356 984;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Foreign</span>
+			<span class='ocrx_word' id='word_1_63' title='bbox 368 956 512 984;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>currency</span>
+			<span class='ocrx_word' id='word_1_64' title='bbox 523 946 698 976;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>translation</span>
+			<span class='ocrx_word' id='word_1_65' title='bbox 710 946 891 984;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>adjustment</span>
+			<span class='ocrx_word' id='word_1_66' title='bbox 903 946 962 976;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>and</span>
+			<span class='ocrx_word' id='word_1_67' title='bbox 974 946 1058 976;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>other</span>
+			<span class='ocrx_word' id='word_1_68' title='bbox 1069 942 1096 964;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>©</span>
+			<span class='ocrx_word' id='word_1_69' title='bbox 2215 946 2302 984;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(217)</span>
+		</span>
+		<span class='ocr_line' title="bbox 180 1005 2287 1042; baseline 0 -7; x_x_height 21; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_70' title='bbox 180 1007 320 1036;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Balance</span>
+			<span class='ocrx_word' id='word_1_71' title='bbox 333 1009 366 1035;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>at</span>
+			<span class='ocrx_word' id='word_1_72' title='bbox 377 1007 556 1036;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>December</span>
+			<span class='ocrx_word' id='word_1_73' title='bbox 568 1007 618 1042;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>31,</span>
+			<span class='ocrx_word' id='word_1_74' title='bbox 631 1007 711 1036;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2022</span>
+			<span class='ocrx_word' id='word_1_75' title='bbox 1841 1005 1858 1038;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$</span>
+			<span class='ocrx_word' id='word_1_76' title='bbox 2180 1007 2287 1042;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>14,988</span>
+		</span>
+		<span class='ocr_line' title="bbox 227 1060 2287 1103; baseline 0.000485 -9; x_x_height 20; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_77' title='bbox 227 1065 391 1095;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Accretion</span>
+			<span class='ocrx_word' id='word_1_78' title='bbox 402 1075 534 1103;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>expense</span>
+			<span class='ocrx_word' id='word_1_79' title='bbox 546 1060 573 1082;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(1)</span>
+			<span class='ocrx_word' id='word_1_80' title='bbox 1841 1064 1858 1097;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$</span>
+			<span class='ocrx_word' id='word_1_81' title='bbox 2197 1066 2287 1101;x_wconf 100' lang='eng'>3,818</span>
+		</span>
+		<span class='ocr_line' title="bbox 227 1124 2302 1163; baseline 0.000482 -9; x_x_height 19; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_82' title='bbox 227 1126 387 1163;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Payments</span>
+			<span class='ocrx_word' id='word_1_83' title='bbox 1841 1124 1858 1157;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$</span>
+			<span class='ocrx_word' id='word_1_84' title='bbox 2183 1126 2302 1162;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(6,353)</span>
+		</span>
+		<span class='ocr_line' title="bbox 227 1179 2287 1222; baseline 0.000485 -9; x_x_height 20; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_85' title='bbox 227 1184 356 1222;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Foreign</span>
+			<span class='ocrx_word' id='word_1_86' title='bbox 368 1194 512 1222;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>currency</span>
+			<span class='ocrx_word' id='word_1_87' title='bbox 523 1184 698 1214;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>translation</span>
+			<span class='ocrx_word' id='word_1_88' title='bbox 710 1184 891 1222;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>adjustment</span>
+			<span class='ocrx_word' id='word_1_89' title='bbox 902 1179 929 1201;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>©)</span>
+			<span class='ocrx_word' id='word_1_90' title='bbox 1841 1183 1858 1216;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$</span>
+			<span class='ocrx_word' id='word_1_91' title='bbox 2229 1185 2287 1214;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>348</span>
+		</span>
+		<span class='ocr_line' title="bbox 180 1242 2284 1279; baseline 0 -7; x_x_height 21; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_92' title='bbox 180 1244 320 1273;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Balance</span>
+			<span class='ocrx_word' id='word_1_93' title='bbox 333 1246 366 1272;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>at</span>
+			<span class='ocrx_word' id='word_1_94' title='bbox 377 1244 556 1273;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>December</span>
+			<span class='ocrx_word' id='word_1_95' title='bbox 568 1244 618 1279;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>31,</span>
+			<span class='ocrx_word' id='word_1_96' title='bbox 631 1244 710 1273;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2023</span>
+			<span class='ocrx_word' id='word_1_97' title='bbox 1841 1242 1858 1275;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$</span>
+			<span class='ocrx_word' id='word_1_98' title='bbox 2180 1244 2284 1279;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>12,801</span>
+		</span>
+		<span class='ocr_line' title="bbox 170 1358 2145 1404; baseline 0.000506 -9; x_x_height 20; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_99' title='bbox 170 1358 199 1381;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(1)</span>
+			<span class='ocrx_word' id='word_1_100' title='bbox 319 1366 483 1396;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Accretion</span>
+			<span class='ocrx_word' id='word_1_101' title='bbox 495 1376 626 1404;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>expense</span>
+			<span class='ocrx_word' id='word_1_102' title='bbox 639 1366 664 1396;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>is</span>
+			<span class='ocrx_word' id='word_1_103' title='bbox 677 1366 819 1396;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>included</span>
+			<span class='ocrx_word' id='word_1_104' title='bbox 831 1366 862 1395;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>in</span>
+			<span class='ocrx_word' id='word_1_105' title='bbox 875 1367 988 1396;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>SG&amp;A</span>
+			<span class='ocrx_word' id='word_1_106' title='bbox 1000 1376 1148 1404;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>expenses</span>
+			<span class='ocrx_word' id='word_1_107' title='bbox 1161 1376 1201 1396;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>on</span>
+			<span class='ocrx_word' id='word_1_108' title='bbox 1212 1366 1261 1396;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_109' title='bbox 1274 1366 1492 1396;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Consolidated</span>
+			<span class='ocrx_word' id='word_1_110' title='bbox 1506 1367 1684 1396;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Statements</span>
+			<span class='ocrx_word' id='word_1_111' title='bbox 1697 1366 1735 1396;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_112' title='bbox 1742 1366 2001 1404;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Comprehensive</span>
+			<span class='ocrx_word' id='word_1_113' title='bbox 2014 1367 2145 1396;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Income.</span>
+		</span>
+		<span class='ocr_line' title="bbox 170 1445 2277 1491; baseline 0 -9; x_x_height 20; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_114' title='bbox 170 1445 199 1468;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>@</span>
+			<span class='ocrx_word' id='word_1_115' title='bbox 320 1454 587 1483;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Remeasurement</span>
+			<span class='ocrx_word' id='word_1_116' title='bbox 599 1453 669 1491;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>gain</span>
+			<span class='ocrx_word' id='word_1_117' title='bbox 681 1463 715 1483;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>or</span>
+			<span class='ocrx_word' id='word_1_118' title='bbox 726 1453 788 1483;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>loss</span>
+			<span class='ocrx_word' id='word_1_119' title='bbox 800 1453 944 1491;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>resulting</span>
+			<span class='ocrx_word' id='word_1_120' title='bbox 958 1453 1037 1483;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>from</span>
+			<span class='ocrx_word' id='word_1_121' title='bbox 1049 1463 1066 1482;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>a</span>
+			<span class='ocrx_word' id='word_1_122' title='bbox 1077 1453 1193 1491;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>change</span>
+			<span class='ocrx_word' id='word_1_123' title='bbox 1206 1453 1237 1482;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>in</span>
+			<span class='ocrx_word' id='word_1_124' title='bbox 1249 1453 1305 1482;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>fair</span>
+			<span class='ocrx_word' id='word_1_125' title='bbox 1316 1453 1404 1483;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>value</span>
+			<span class='ocrx_word' id='word_1_126' title='bbox 1417 1453 1455 1483;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_127' title='bbox 1462 1463 1500 1482;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>an</span>
+			<span class='ocrx_word' id='word_1_128' title='bbox 1512 1453 1716 1491;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>acquisition’s</span>
+			<span class='ocrx_word' id='word_1_129' title='bbox 1729 1453 1903 1491;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>contingent</span>
+			<span class='ocrx_word' id='word_1_130' title='bbox 1915 1453 2138 1483;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>consideration</span>
+			<span class='ocrx_word' id='word_1_131' title='bbox 2150 1453 2277 1491;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>liability</span>
+		</span>
+		<span class='ocr_line' title="bbox 320 1503 1828 1541; baseline -0.000663 -8; x_x_height 20; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_132' title='bbox 320 1503 345 1533;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>is</span>
+			<span class='ocrx_word' id='word_1_133' title='bbox 357 1503 502 1533;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>recorded</span>
+			<span class='ocrx_word' id='word_1_134' title='bbox 514 1503 545 1532;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>in</span>
+			<span class='ocrx_word' id='word_1_135' title='bbox 559 1504 671 1533;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>SG&amp;A</span>
+			<span class='ocrx_word' id='word_1_136' title='bbox 684 1513 831 1541;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>expenses</span>
+			<span class='ocrx_word' id='word_1_137' title='bbox 844 1513 884 1533;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>on</span>
+			<span class='ocrx_word' id='word_1_138' title='bbox 895 1503 944 1533;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_139' title='bbox 957 1503 1175 1533;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Consolidated</span>
+			<span class='ocrx_word' id='word_1_140' title='bbox 1189 1504 1367 1533;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Statements</span>
+			<span class='ocrx_word' id='word_1_141' title='bbox 1380 1503 1418 1533;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_142' title='bbox 1426 1503 1684 1541;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Comprehensive</span>
+			<span class='ocrx_word' id='word_1_143' title='bbox 1697 1504 1828 1533;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Income.</span>
+		</span>
+		<span class='ocr_line' title="bbox 170 1583 2188 1629; baseline -0.000496 -8; x_x_height 20; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_144' title='bbox 170 1583 199 1606;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>©</span>
+			<span class='ocrx_word' id='word_1_145' title='bbox 320 1591 448 1629;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Foreign</span>
+			<span class='ocrx_word' id='word_1_146' title='bbox 460 1601 604 1629;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>currency</span>
+			<span class='ocrx_word' id='word_1_147' title='bbox 615 1591 790 1621;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>translation</span>
+			<span class='ocrx_word' id='word_1_148' title='bbox 802 1591 998 1629;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>adjustments</span>
+			<span class='ocrx_word' id='word_1_149' title='bbox 1011 1601 1060 1621;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>are</span>
+			<span class='ocrx_word' id='word_1_150' title='bbox 1073 1591 1214 1621;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>included</span>
+			<span class='ocrx_word' id='word_1_151' title='bbox 1226 1591 1258 1620;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>in</span>
+			<span class='ocrx_word' id='word_1_152' title='bbox 1269 1591 1382 1621;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>“Other</span>
+			<span class='ocrx_word' id='word_1_153' title='bbox 1393 1591 1642 1629;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>comprehensive</span>
+			<span class='ocrx_word' id='word_1_154' title='bbox 1655 1591 1775 1621;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>income</span>
+			<span class='ocrx_word' id='word_1_155' title='bbox 1789 1591 1888 1629;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(loss),</span>
+			<span class='ocrx_word' id='word_1_156' title='bbox 1901 1596 1951 1621;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>net</span>
+			<span class='ocrx_word' id='word_1_157' title='bbox 1963 1591 2001 1621;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_158' title='bbox 2008 1592 2075 1620;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>tax”</span>
+			<span class='ocrx_word' id='word_1_159' title='bbox 2088 1601 2128 1621;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>on</span>
+			<span class='ocrx_word' id='word_1_160' title='bbox 2139 1591 2188 1621;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+		</span>
+		<span class='ocr_line' title="bbox 320 1641 1191 1679; baseline 0.001148 -9; x_x_height 20; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_161' title='bbox 320 1641 538 1671;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Consolidated</span>
+			<span class='ocrx_word' id='word_1_162' title='bbox 552 1642 730 1671;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Statements</span>
+			<span class='ocrx_word' id='word_1_163' title='bbox 743 1641 781 1671;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_164' title='bbox 788 1641 1047 1679;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Comprehensive</span>
+			<span class='ocrx_word' id='word_1_165' title='bbox 1060 1642 1191 1671;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Income.</span>
+		</span>
+		<span class='ocr_line' title="bbox 172 1728 317 1757; baseline 0.006897 -1; x_x_height 21; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_166' title='bbox 172 1728 219 1756;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>14.</span>
+			<span class='ocrx_word' id='word_1_167' title='bbox 232 1728 317 1757;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Debt</span>
+		</span>
+		<span class='ocr_line' title="bbox 283 1816 1431 1854; baseline 0.000871 -9; x_x_height 20; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_168' title='bbox 283 1816 345 1846;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>The</span>
+			<span class='ocrx_word' id='word_1_169' title='bbox 357 1816 436 1846;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>table</span>
+			<span class='ocrx_word' id='word_1_170' title='bbox 448 1816 549 1846;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>below</span>
+			<span class='ocrx_word' id='word_1_171' title='bbox 562 1816 757 1846;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>summarizes</span>
+			<span class='ocrx_word' id='word_1_172' title='bbox 770 1816 819 1846;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_173' title='bbox 832 1820 1030 1854;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>components</span>
+			<span class='ocrx_word' id='word_1_174' title='bbox 1043 1816 1081 1846;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_175' title='bbox 1088 1816 1137 1846;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_176' title='bbox 1150 1817 1339 1854;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Company’s</span>
+			<span class='ocrx_word' id='word_1_177' title='bbox 1352 1816 1431 1846;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>debt:</span>
+		</span>
+		<span class='ocr_line' title="bbox 1921 1926 2113 1955; baseline 0 -6; x_x_height 16; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_178' title='bbox 1921 1927 2064 1949;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>December</span>
+			<span class='ocrx_word' id='word_1_179' title='bbox 2074 1926 2113 1955;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>31,</span>
+		</span>
+		<span class='ocr_line' title="bbox 1841 1985 2192 2008; baseline 0 0; x_x_height 15.096302032470703; x_asc_height 23">
+			<span class='ocrx_word' id='word_1_180' title='bbox 1841 1985 1905 2008;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2023</span>
+			<span class='ocrx_word' id='word_1_181' title='bbox 2128 1985 2192 2008;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2022</span>
+		</span>
+		<span class='ocr_line' title="bbox 190 2036 2278 2073; baseline 0 -7; x_x_height 20; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_182' title='bbox 190 2038 269 2067;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2023</span>
+			<span class='ocrx_word' id='word_1_183' title='bbox 284 2037 478 2067;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Convertible</span>
+			<span class='ocrx_word' id='word_1_184' title='bbox 490 2038 586 2067;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Notes</span>
+			<span class='ocrx_word' id='word_1_185' title='bbox 1751 2036 1767 2069;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$</span>
+			<span class='ocrx_word' id='word_1_186' title='bbox 1951 2055 1993 2057;x_wconf 100' lang='eng'>—</span>
+			<span class='ocrx_word' id='word_1_187' title='bbox 2038 2036 2055 2069;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$</span>
+			<span class='ocrx_word' id='word_1_188' title='bbox 2146 2038 2278 2073;x_wconf 100' lang='eng'>316,219</span>
+		</span>
+		<span class='ocr_line' title="bbox 190 2096 2280 2134; baseline 0 -8; x_x_height 20; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_189' title='bbox 190 2096 293 2126;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Credit</span>
+			<span class='ocrx_word' id='word_1_190' title='bbox 304 2096 430 2134;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Facility</span>
+			<span class='ocrx_word' id='word_1_191' title='bbox 1950 2114 1992 2116;x_wconf 100' lang='eng'>—</span>
+			<span class='ocrx_word' id='word_1_192' title='bbox 2238 2114 2280 2116;x_wconf 100' lang='eng'>—</span>
+		</span>
+		<span class='ocr_line' title="bbox 237 2157 2278 2192; baseline 0.00049 -7; x_x_height 21; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_193' title='bbox 237 2157 331 2186;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Total</span>
+			<span class='ocrx_word' id='word_1_194' title='bbox 342 2157 420 2186;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>debt</span>
+			<span class='ocrx_word' id='word_1_195' title='bbox 1950 2174 1993 2176;x_wconf 100' lang='eng'>—</span>
+			<span class='ocrx_word' id='word_1_196' title='bbox 2146 2157 2278 2192;x_wconf 100' lang='eng'>316,219</span>
+		</span>
+		<span class='ocr_line' title="bbox 190 2215 2292 2253; baseline -0.000476 -8; x_x_height 20; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_197' title='bbox 190 2216 274 2245;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Less:</span>
+			<span class='ocrx_word' id='word_1_198' title='bbox 289 2215 425 2245;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>deferred</span>
+			<span class='ocrx_word' id='word_1_199' title='bbox 438 2215 508 2245;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>debt</span>
+			<span class='ocrx_word' id='word_1_200' title='bbox 520 2215 658 2245;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>issuance</span>
+			<span class='ocrx_word' id='word_1_201' title='bbox 671 2220 752 2245;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>costs</span>
+			<span class='ocrx_word' id='word_1_202' title='bbox 1951 2233 1993 2235;x_wconf 100' lang='eng'>—</span>
+			<span class='ocrx_word' id='word_1_203' title='bbox 2174 2215 2292 2253;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(1,047)</span>
+		</span>
+		<span class='ocr_line' title="bbox 237 2270 2278 2313; baseline 0 -9; x_x_height 21; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_204' title='bbox 237 2276 427 2313;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Long-term</span>
+			<span class='ocrx_word' id='word_1_205' title='bbox 440 2276 526 2311;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>debt,</span>
+			<span class='ocrx_word' id='word_1_206' title='bbox 539 2278 593 2305;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>net</span>
+			<span class='ocrx_word' id='word_1_207' title='bbox 605 2270 631 2292;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(1)</span>
+			<span class='ocrx_word' id='word_1_208' title='bbox 1751 2274 1767 2307;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$</span>
+			<span class='ocrx_word' id='word_1_209' title='bbox 1950 2293 1993 2295;x_wconf 100' lang='eng'>—</span>
+			<span class='ocrx_word' id='word_1_210' title='bbox 2038 2274 2055 2307;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$</span>
+			<span class='ocrx_word' id='word_1_211' title='bbox 2146 2276 2278 2311;x_wconf 100' lang='eng'>315,172</span>
+		</span>
+		<span class='ocr_line' title="bbox 170 2389 1736 2435; baseline -0.000639 -8; x_x_height 20; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_212' title='bbox 170 2389 199 2412;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>®</span>
+			<span class='ocrx_word' id='word_1_213' title='bbox 320 2397 415 2427;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>There</span>
+			<span class='ocrx_word' id='word_1_214' title='bbox 427 2407 506 2427;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>were</span>
+			<span class='ocrx_word' id='word_1_215' title='bbox 518 2407 558 2427;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>no</span>
+			<span class='ocrx_word' id='word_1_216' title='bbox 571 2401 687 2427;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>current</span>
+			<span class='ocrx_word' id='word_1_217' title='bbox 698 2397 833 2435;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>portions</span>
+			<span class='ocrx_word' id='word_1_218' title='bbox 846 2397 884 2427;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_219' title='bbox 891 2397 1054 2435;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>long-term</span>
+			<span class='ocrx_word' id='word_1_220' title='bbox 1066 2397 1136 2427;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>debt</span>
+			<span class='ocrx_word' id='word_1_221' title='bbox 1148 2407 1180 2427;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>as</span>
+			<span class='ocrx_word' id='word_1_222' title='bbox 1193 2397 1231 2427;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_223' title='bbox 1238 2397 1408 2427;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>December</span>
+			<span class='ocrx_word' id='word_1_218b' title='bbox 1420 2398 1468 2433;x_wconf 0;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>31,</span>
+			<span class='ocrx_word' id='word_1_226' title='bbox 1482 2398 1561 2427;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2023</span>
+			<span class='ocrx_word' id='word_1_227' title='bbox 1576 2397 1634 2427;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>and</span>
+			<span class='ocrx_word' id='word_1_228' title='bbox 1646 2398 1736 2427;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2022.</span>
+		</span>
+		<span class='ocr_line' title="bbox 169 2485 568 2514; baseline 0.002506 -1; x_x_height 20; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_229' title='bbox 169 2485 251 2514;x_wconf 100;x_font Times_New_Roman_Italic' lang='eng' style='font-style:italic;font-family:Times_New_Roman_Italic'>2023</span>
+			<span class='ocrx_word' id='word_1_230' title='bbox 265 2485 461 2514;x_wconf 100;x_font Times_New_Roman_Italic' lang='eng' style='font-style:italic;font-family:Times_New_Roman_Italic'>Convertible</span>
+			<span class='ocrx_word' id='word_1_231' title='bbox 470 2485 568 2514;x_wconf 100;x_font Times_New_Roman_Italic' lang='eng' style='font-style:italic;font-family:Times_New_Roman_Italic'>Notes</span>
+		</span>
+		<span class='ocr_line' title="bbox 283 2571 2216 2610; baseline 0 -9; x_x_height 20; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_232' title='bbox 283 2573 332 2602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>On</span>
+			<span class='ocrx_word' id='word_1_233' title='bbox 343 2573 463 2610;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>August</span>
+			<span class='ocrx_word' id='word_1_234' title='bbox 474 2573 523 2608;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>20,</span>
+			<span class='ocrx_word' id='word_1_235' title='bbox 537 2573 627 2608;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2018,</span>
+			<span class='ocrx_word' id='word_1_236' title='bbox 641 2582 687 2602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>we</span>
+			<span class='ocrx_word' id='word_1_237' title='bbox 700 2572 802 2602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>issued</span>
+			<span class='ocrx_word' id='word_1_238' title='bbox 814 2572 863 2602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_239' title='bbox 875 2573 954 2602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2023</span>
+			<span class='ocrx_word' id='word_1_240' title='bbox 970 2572 1164 2602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Convertible</span>
+			<span class='ocrx_word' id='word_1_241' title='bbox 1175 2573 1271 2602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Notes</span>
+			<span class='ocrx_word' id='word_1_242' title='bbox 1284 2572 1315 2601;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>in</span>
+			<span class='ocrx_word' id='word_1_243' title='bbox 1327 2582 1365 2601;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>an</span>
+			<span class='ocrx_word' id='word_1_244' title='bbox 1377 2576 1536 2610;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>aggregate</span>
+			<span class='ocrx_word' id='word_1_245' title='bbox 1547 2572 1695 2610;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>principal</span>
+			<span class='ocrx_word' id='word_1_246' title='bbox 1707 2577 1831 2602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>amount</span>
+			<span class='ocrx_word' id='word_1_247' title='bbox 1843 2572 1880 2602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_248' title='bbox 1889 2571 1997 2604;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$316.3</span>
+			<span class='ocrx_word' id='word_1_249' title='bbox 2012 2572 2139 2602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>million.</span>
+			<span class='ocrx_word' id='word_1_250' title='bbox 2154 2572 2216 2602;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>The</span>
+		</span>
+		<span class='ocr_line' title="bbox 170 2622 2190 2660; baseline -0.000495 -8; x_x_height 20; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_251' title='bbox 170 2623 248 2652;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2023</span>
+			<span class='ocrx_word' id='word_1_252' title='bbox 264 2622 458 2652;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Convertible</span>
+			<span class='ocrx_word' id='word_1_253' title='bbox 469 2623 565 2652;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Notes</span>
+			<span class='ocrx_word' id='word_1_254' title='bbox 578 2632 657 2652;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>were</span>
+			<span class='ocrx_word' id='word_1_255' title='bbox 670 2622 854 2652;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>convertible</span>
+			<span class='ocrx_word' id='word_1_256' title='bbox 867 2622 995 2660;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>through</span>
+			<span class='ocrx_word' id='word_1_257' title='bbox 1007 2622 1056 2652;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_258' title='bbox 1069 2622 1152 2652;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>close</span>
+			<span class='ocrx_word' id='word_1_259' title='bbox 1164 2622 1202 2652;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_260' title='bbox 1209 2622 1348 2652;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>business</span>
+			<span class='ocrx_word' id='word_1_261' title='bbox 1361 2632 1401 2652;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>on</span>
+			<span class='ocrx_word' id='word_1_262' title='bbox 1412 2623 1532 2660;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>August</span>
+			<span class='ocrx_word' id='word_1_263' title='bbox 1548 2623 1593 2658;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>14,</span>
+			<span class='ocrx_word' id='word_1_264' title='bbox 1606 2623 1685 2652;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2023</span>
+			<span class='ocrx_word' id='word_1_265' title='bbox 1700 2627 1729 2651;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>at</span>
+			<span class='ocrx_word' id='word_1_266' title='bbox 1741 2632 1758 2651;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>a</span>
+			<span class='ocrx_word' id='word_1_267' title='bbox 1769 2622 1951 2652;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>conversion</span>
+			<span class='ocrx_word' id='word_1_268' title='bbox 1962 2627 2022 2652;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>rate</span>
+			<span class='ocrx_word' id='word_1_269' title='bbox 2035 2622 2073 2652;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_270' title='bbox 2081 2623 2190 2652;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>9.8643</span>
+		</span>
+		<span class='ocr_line' title="bbox 171 2671 2241 2710; baseline 0 -9; x_x_height 20; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_271' title='bbox 171 2672 271 2702;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>shares</span>
+			<span class='ocrx_word' id='word_1_272' title='bbox 284 2672 322 2702;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_273' title='bbox 330 2682 384 2702;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>our</span>
+			<span class='ocrx_word' id='word_1_274' title='bbox 396 2682 540 2702;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>common</span>
+			<span class='ocrx_word' id='word_1_275' title='bbox 553 2672 638 2702;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>stock</span>
+			<span class='ocrx_word' id='word_1_276' title='bbox 649 2682 702 2710;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>per</span>
+			<span class='ocrx_word' id='word_1_277' title='bbox 715 2671 825 2708;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$1,000</span>
+			<span class='ocrx_word' id='word_1_278' title='bbox 837 2672 985 2710;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>principal</span>
+			<span class='ocrx_word' id='word_1_279' title='bbox 997 2676 1120 2702;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>amount</span>
+			<span class='ocrx_word' id='word_1_280' title='bbox 1132 2672 1170 2702;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_281' title='bbox 1177 2672 1226 2702;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_282' title='bbox 1238 2673 1317 2702;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2023</span>
+			<span class='ocrx_word' id='word_1_283' title='bbox 1332 2672 1527 2702;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Convertible</span>
+			<span class='ocrx_word' id='word_1_284' title='bbox 1538 2673 1634 2702;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Notes</span>
+			<span class='ocrx_word' id='word_1_285' title='bbox 1648 2672 1833 2710;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>(equivalent</span>
+			<span class='ocrx_word' id='word_1_286' title='bbox 1844 2677 1874 2702;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>to</span>
+			<span class='ocrx_word' id='word_1_287' title='bbox 1888 2682 1905 2701;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>a</span>
+			<span class='ocrx_word' id='word_1_288' title='bbox 1916 2672 2098 2702;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>conversion</span>
+			<span class='ocrx_word' id='word_1_289' title='bbox 2108 2672 2190 2710;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>price</span>
+			<span class='ocrx_word' id='word_1_290' title='bbox 2203 2672 2241 2702;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+		</span>
+		<span class='ocr_line' title="bbox 170 2721 2215 2760; baseline 0 -9; x_x_height 20; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_291' title='bbox 170 2722 409 2760;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>approximately</span>
+			<span class='ocrx_word' id='word_1_292' title='bbox 422 2721 552 2754;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$101.38</span>
+			<span class='ocrx_word' id='word_1_293' title='bbox 565 2732 619 2760;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>per</span>
+			<span class='ocrx_word' id='word_1_294' title='bbox 631 2722 716 2752;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>share</span>
+			<span class='ocrx_word' id='word_1_295' title='bbox 729 2722 766 2752;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_296' title='bbox 774 2732 918 2752;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>common</span>
+			<span class='ocrx_word' id='word_1_297' title='bbox 931 2722 1038 2759;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>stock).</span>
+			<span class='ocrx_word' id='word_1_298' title='bbox 1053 2722 1174 2752;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Certain</span>
+			<span class='ocrx_word' id='word_1_299' title='bbox 1185 2722 1305 2752;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>holders</span>
+			<span class='ocrx_word' id='word_1_300' title='bbox 1319 2722 1356 2752;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_301' title='bbox 1363 2722 1412 2752;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_302' title='bbox 1424 2723 1503 2752;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2023</span>
+			<span class='ocrx_word' id='word_1_303' title='bbox 1519 2722 1713 2752;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Convertible</span>
+			<span class='ocrx_word' id='word_1_304' title='bbox 1724 2723 1820 2752;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Notes</span>
+			<span class='ocrx_word' id='word_1_305' title='bbox 1834 2722 1949 2752;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>elected</span>
+			<span class='ocrx_word' id='word_1_306' title='bbox 1961 2727 1991 2752;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>to</span>
+			<span class='ocrx_word' id='word_1_307' title='bbox 2004 2727 2128 2752;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>convert</span>
+			<span class='ocrx_word' id='word_1_308' title='bbox 2139 2722 2215 2752;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>their</span>
+		</span>
+		<span class='ocr_line' title="bbox 170 2772 2268 2810; baseline -0.000477 -8; x_x_height 20; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_309' title='bbox 170 2773 248 2802;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2023</span>
+			<span class='ocrx_word' id='word_1_310' title='bbox 264 2772 458 2802;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Convertible</span>
+			<span class='ocrx_word' id='word_1_311' title='bbox 469 2773 565 2802;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Notes</span>
+			<span class='ocrx_word' id='word_1_312' title='bbox 577 2772 682 2802;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>before</span>
+			<span class='ocrx_word' id='word_1_313' title='bbox 695 2772 765 2810;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>they</span>
+			<span class='ocrx_word' id='word_1_314' title='bbox 776 2772 902 2802;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>became</span>
+			<span class='ocrx_word' id='word_1_315' title='bbox 914 2772 1174 2810;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>unconditionally</span>
+			<span class='ocrx_word' id='word_1_316' title='bbox 1187 2772 1371 2802;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>convertible</span>
+			<span class='ocrx_word' id='word_1_317' title='bbox 1384 2782 1425 2802;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>on</span>
+			<span class='ocrx_word' id='word_1_318' title='bbox 1436 2773 1511 2810;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>May</span>
+			<span class='ocrx_word' id='word_1_319' title='bbox 1527 2773 1572 2808;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>15,</span>
+			<span class='ocrx_word' id='word_1_320' title='bbox 1585 2773 1676 2808;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2023,</span>
+			<span class='ocrx_word' id='word_1_321' title='bbox 1689 2772 1790 2802;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>which</span>
+			<span class='ocrx_word' id='word_1_322' title='bbox 1801 2772 1932 2802;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>resulted</span>
+			<span class='ocrx_word' id='word_1_323' title='bbox 1944 2772 1975 2801;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>in</span>
+			<span class='ocrx_word' id='word_1_324' title='bbox 1987 2772 2035 2802;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_325' title='bbox 2049 2772 2218 2802;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>settlement</span>
+			<span class='ocrx_word' id='word_1_326' title='bbox 2230 2772 2268 2802;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+		</span>
+		<span class='ocr_line' title="bbox 170 2821 2180 2860; baseline 0 -9; x_x_height 19; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_327' title='bbox 170 2822 409 2860;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>approximately</span>
+			<span class='ocrx_word' id='word_1_328' title='bbox 422 2821 490 2854;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$0.5</span>
+			<span class='ocrx_word' id='word_1_329' title='bbox 504 2822 623 2852;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>million</span>
+			<span class='ocrx_word' id='word_1_330' title='bbox 635 2827 794 2860;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>aggregate</span>
+			<span class='ocrx_word' id='word_1_331' title='bbox 806 2822 953 2860;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>principal</span>
+			<span class='ocrx_word' id='word_1_332' title='bbox 966 2826 1089 2852;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>amount</span>
+			<span class='ocrx_word' id='word_1_333' title='bbox 1101 2822 1139 2852;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_334' title='bbox 1146 2822 1195 2852;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_335' title='bbox 1207 2823 1286 2852;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2023</span>
+			<span class='ocrx_word' id='word_1_336' title='bbox 1301 2822 1495 2852;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Convertible</span>
+			<span class='ocrx_word' id='word_1_337' title='bbox 1507 2823 1611 2852;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Notes.</span>
+			<span class='ocrx_word' id='word_1_338' title='bbox 1626 2822 1688 2852;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>The</span>
+			<span class='ocrx_word' id='word_1_339' title='bbox 1700 2822 1847 2860;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>principal</span>
+			<span class='ocrx_word' id='word_1_340' title='bbox 1860 2826 1983 2852;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>amount</span>
+			<span class='ocrx_word' id='word_1_341' title='bbox 1995 2822 2033 2852;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_342' title='bbox 2040 2822 2089 2852;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_343' title='bbox 2101 2823 2180 2852;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2023</span>
+		</span>
+		<span class='ocr_line' title="bbox 170 2871 2178 2910; baseline 0 -8; x_x_height 20; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_344' title='bbox 170 2872 364 2902;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Convertible</span>
+			<span class='ocrx_word' id='word_1_345' title='bbox 376 2873 471 2902;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Notes</span>
+			<span class='ocrx_word' id='word_1_346' title='bbox 485 2872 522 2902;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_347' title='bbox 531 2871 640 2904;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$315.8</span>
+			<span class='ocrx_word' id='word_1_348' title='bbox 654 2872 774 2902;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>million</span>
+			<span class='ocrx_word' id='word_1_349' title='bbox 785 2882 847 2902;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>was</span>
+			<span class='ocrx_word' id='word_1_350' title='bbox 862 2872 967 2902;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>settled</span>
+			<span class='ocrx_word' id='word_1_351' title='bbox 980 2872 1011 2901;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>in</span>
+			<span class='ocrx_word' id='word_1_352' title='bbox 1023 2872 1095 2902;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>cash</span>
+			<span class='ocrx_word' id='word_1_353' title='bbox 1107 2876 1135 2901;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>at</span>
+			<span class='ocrx_word' id='word_1_354' title='bbox 1147 2872 1287 2910;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>maturity</span>
+			<span class='ocrx_word' id='word_1_355' title='bbox 1299 2882 1339 2902;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>on</span>
+			<span class='ocrx_word' id='word_1_356' title='bbox 1350 2873 1470 2910;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>August</span>
+			<span class='ocrx_word' id='word_1_357' title='bbox 1486 2873 1530 2908;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>15,</span>
+			<span class='ocrx_word' id='word_1_358' title='bbox 1544 2873 1623 2902;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2023</span>
+			<span class='ocrx_word' id='word_1_359' title='bbox 1637 2872 1774 2910;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>utilizing</span>
+			<span class='ocrx_word' id='word_1_360' title='bbox 1788 2872 1917 2910;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>existing</span>
+			<span class='ocrx_word' id='word_1_361' title='bbox 1929 2872 2002 2902;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>cash</span>
+			<span class='ocrx_word' id='word_1_362' title='bbox 2013 2882 2178 2908;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>resources,</span>
+		</span>
+		<span class='ocr_line' title="bbox 170 2922 2268 2960; baseline 0 -9; x_x_height 20; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_363' title='bbox 170 2922 325 2960;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>including</span>
+			<span class='ocrx_word' id='word_1_364' title='bbox 338 2932 392 2952;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>our</span>
+			<span class='ocrx_word' id='word_1_365' title='bbox 404 2922 506 2952;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Credit</span>
+			<span class='ocrx_word' id='word_1_366' title='bbox 518 2922 651 2960;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Facility.</span>
+			<span class='ocrx_word' id='word_1_367' title='bbox 666 2923 722 2952;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>We</span>
+			<span class='ocrx_word' id='word_1_368' title='bbox 734 2922 799 2952;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>also</span>
+			<span class='ocrx_word' id='word_1_369' title='bbox 812 2922 914 2952;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>issued</span>
+			<span class='ocrx_word' id='word_1_370' title='bbox 930 2923 1090 2958;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>1,460,740</span>
+			<span class='ocrx_word' id='word_1_371' title='bbox 1104 2922 1205 2952;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>shares</span>
+			<span class='ocrx_word' id='word_1_372' title='bbox 1218 2922 1256 2952;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_373' title='bbox 1263 2923 1323 2951;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>FTI</span>
+			<span class='ocrx_word' id='word_1_374' title='bbox 1336 2922 1516 2960;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Consulting</span>
+			<span class='ocrx_word' id='word_1_375' title='bbox 1529 2932 1674 2952;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>common</span>
+			<span class='ocrx_word' id='word_1_376' title='bbox 1686 2922 1772 2952;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>stock</span>
+			<span class='ocrx_word' id='word_1_377' title='bbox 1783 2927 1813 2952;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>to</span>
+			<span class='ocrx_word' id='word_1_378' title='bbox 1826 2922 1946 2952;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>holders</span>
+			<span class='ocrx_word' id='word_1_379' title='bbox 1960 2922 1991 2951;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>in</span>
+			<span class='ocrx_word' id='word_1_380' title='bbox 2002 2922 2184 2952;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>connection</span>
+			<span class='ocrx_word' id='word_1_381' title='bbox 2195 2922 2268 2952;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>with</span>
+		</span>
+		<span class='ocr_line' title="bbox 170 2972 2172 3010; baseline 0.0005 -9; x_x_height 20; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_382' title='bbox 170 2972 218 3002;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_383' title='bbox 231 2972 413 3002;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>conversion</span>
+			<span class='ocrx_word' id='word_1_384' title='bbox 424 2972 462 3002;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_385' title='bbox 469 2972 545 3002;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>their</span>
+			<span class='ocrx_word' id='word_1_386' title='bbox 556 2973 635 3002;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>2023</span>
+			<span class='ocrx_word' id='word_1_387' title='bbox 650 2972 844 3002;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Convertible</span>
+			<span class='ocrx_word' id='word_1_388' title='bbox 856 2973 951 3002;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>Notes</span>
+			<span class='ocrx_word' id='word_1_389' title='bbox 965 2976 993 3001;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>at</span>
+			<span class='ocrx_word' id='word_1_390' title='bbox 1005 2972 1153 3010;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>maturity,</span>
+			<span class='ocrx_word' id='word_1_391' title='bbox 1166 2972 1267 3002;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>which</span>
+			<span class='ocrx_word' id='word_1_392' title='bbox 1278 2976 1445 3010;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>represents</span>
+			<span class='ocrx_word' id='word_1_393' title='bbox 1458 2972 1507 3002;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_394' title='bbox 1520 2982 1626 3002;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>excess</span>
+			<span class='ocrx_word' id='word_1_395' title='bbox 1639 2972 1677 3002;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_396' title='bbox 1683 2972 1732 3002;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_397' title='bbox 1745 2972 1927 3002;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>conversion</span>
+			<span class='ocrx_word' id='word_1_398' title='bbox 1938 2972 2026 3002;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>value</span>
+			<span class='ocrx_word' id='word_1_399' title='bbox 2039 2982 2112 3002;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>over</span>
+			<span class='ocrx_word' id='word_1_400' title='bbox 2123 2972 2172 3002;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+		</span>
+		<span class='ocr_line' title="bbox 169 3021 2258 3060; baseline 0.000479 -9; x_x_height 20; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_401' title='bbox 169 3022 316 3060;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>principal</span>
+			<span class='ocrx_word' id='word_1_402' title='bbox 328 3027 452 3052;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>amount</span>
+			<span class='ocrx_word' id='word_1_403' title='bbox 464 3022 502 3052;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>of</span>
+			<span class='ocrx_word' id='word_1_404' title='bbox 510 3021 619 3054;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>$280.3</span>
+			<span class='ocrx_word' id='word_1_405' title='bbox 633 3022 760 3052;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>million.</span>
+			<span class='ocrx_word' id='word_1_406' title='bbox 775 3022 837 3052;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>The</span>
+			<span class='ocrx_word' id='word_1_407' title='bbox 850 3022 1073 3052;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>consideration</span>
+			<span class='ocrx_word' id='word_1_408' title='bbox 1084 3022 1196 3052;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>related</span>
+			<span class='ocrx_word' id='word_1_409' title='bbox 1208 3027 1238 3052;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>to</span>
+			<span class='ocrx_word' id='word_1_410' title='bbox 1251 3022 1300 3052;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_411' title='bbox 1313 3022 1494 3052;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>conversion</span>
+			<span class='ocrx_word' id='word_1_412' title='bbox 1504 3022 1655 3060;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>premium</span>
+			<span class='ocrx_word' id='word_1_413' title='bbox 1667 3022 1769 3052;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>issued</span>
+			<span class='ocrx_word' id='word_1_414' title='bbox 1781 3026 1811 3052;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>to</span>
+			<span class='ocrx_word' id='word_1_415' title='bbox 1823 3022 1872 3052;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>the</span>
+			<span class='ocrx_word' id='word_1_416' title='bbox 1884 3022 2005 3052;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>holders</span>
+			<span class='ocrx_word' id='word_1_417' title='bbox 2018 3022 2087 3052;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>who</span>
+			<span class='ocrx_word' id='word_1_418' title='bbox 2101 3022 2216 3052;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>elected</span>
+			<span class='ocrx_word' id='word_1_419' title='bbox 2228 3027 2258 3052;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>to</span>
+		</span>
+		<span class='ocr_line' title="bbox 1218 3119 1256 3148; baseline 0 0; x_x_height 19.66666603088379; x_asc_height 29">
+			<span class='ocrx_word' id='word_1_420' title='bbox 1218 3119 1256 3148;x_wconf 100;x_font Times_New_Roman' lang='eng' style='font-family:Times_New_Roman'>77</span>
+		</span>
+	</div>
+</body>
+</html>

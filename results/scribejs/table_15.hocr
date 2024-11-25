@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title></title>
+	<meta name='font-metrics' content='{"SerifDefault":{"normal":{"width":{"65":1.157895,"76":0.684211,"97":0.684211,"99":0.736842,"101":0.789474,"103":0.789474,"108":0.105263,"110":0.736842,"111":0.842105,"121":0.789474},"height":{"65":1.421053,"76":1.421053,"97":1.052632,"99":1,"101":1,"103":1.368421,"108":1.473684,"110":1,"111":1,"121":1.368421},"kerning":{"76,111":0.105263,"111,99":0.157895,"99,97":0.157895,"97,108":0.263158,"65,103":0.157895,"103,101":0.105263,"101,110":0.210526,"110,99":0.210526,"99,121":0.157895},"kerning2":{"76,111":0.105263,"111,99":0.157895,"99,97":0.15789399999999998,"97,108":0.263158,"65,103":0.15789399999999998,"103,101":0.105263,"101,110":0.210526,"110,99":0.157895,"99,121":0.15789399999999998},"variants":{},"heightCaps":1.421053,"obs":11,"obsCaps":2},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":11},"SansDefault":{"normal":{"width":{"40":0.4375,"41":0.466667,"44":0.235294,"45":0.533333,"46":0.266667,"47":0.466667,"48":0.9333338,"49":0.5333327999999999,"50":0.9333338,"51":0.8909096,"52":0.9333338,"53":0.8909096,"54":0.9333338,"55":0.8666672,"56":0.8909096,"57":0.8666672,"58":0.266667,"65":1.25,"66":1,"67":1.2,"68":1.1,"69":1,"70":0.933333,"71":1.333333,"73":0.266667,"76":0.8125,"77":1.25,"78":1.133333,"79":1.25,"80":1.066667,"82":1.125,"83":1.0625,"84":1,"85":1,"89":1.2,"97":0.875,"98":0.882353,"99":0.866667,"100":0.866667,"101":0.875,"102":0.533333,"103":0.866667,"104":0.8,"105":0.2,"106":0.4,"107":0.8,"108":0.1875,"109":1.3125,"110":0.8,"111":0.933333,"112":0.8125,"114":0.533333,"115":0.8125,"116":0.529412,"117":0.8125,"118":0.933333,"120":0.95,"121":0.933333},"height":{"40":1.8,"41":1.8,"44":0.466667,"45":0.2,"46":0.2,"47":1.466667,"48":1.4666666,"49":1.4,"50":1.336363,"51":1.4,"52":1.4,"53":1.4,"54":1.4,"55":1.3333334,"56":1.4,"57":1.4,"58":1,"65":1.4,"66":1.421053,"67":1.466667,"68":1.3,"69":1.3125,"70":1.4,"71":1.466667,"73":1.421053,"76":1.421053,"77":1.3125,"78":1.4,"79":1.466667,"80":1.4,"82":1.421053,"83":1.4,"84":1.4,"85":1.35,"89":1.421053,"97":1.052632,"98":1.294118,"99":1,"100":1.4,"101":1,"102":1.4,"103":1.368421,"104":1.4,"105":1.3125,"106":1.8,"107":1.473684,"108":1.4,"109":1,"110":1,"111":1,"112":1.3125,"114":1,"115":1,"116":1.333333,"117":1,"118":1,"120":0.95,"121":1.35},"kerning":{"66,117":0.210526,"117,100":0.210526,"100,103":0.210526,"103,101":0.125,"101,116":0.0625,"76,101":0.052632,"101,103":0.157895,"103,105":0.210526,"105,115":0.210526,"115,108":0.210526,"108,97":0.210526,"97,116":0.157895,"105,118":0.210526,"118,101":0.105263,"65,110":0.157895,"110,97":0.210526,"97,108":0.2,"108,121":0.210526,"121,115":0.105263,"115,116":0.210526,"66,111":0.210526,"111,97":0.157895,"97,114":0.2,"114,100":0.105263,"111,102":0.105263,"70,111":0.133333,"111,114":0.2,"114,109":0.157895,"109,97":0.210526,"105,111":0.2,"111,110":0.2,"67,111":0.157895,"111,109":0.210526,"109,109":0.263158,"109,105":0.263158,"115,115":0.210526,"115,105":0.2,"65,115":0.157895,"115,101":0.15,"101,115":0.1,"115,109":0.210526,"109,101":0.133333,"101,110":0.2,"110,116":0.133333,"65,112":0.157895,"112,112":0.1875,"112,101":0.125,"101,97":0.157895,"108,115":0.125,"67,108":0.210526,"108,101":0.210526,"101,114":0.2,"114,107":0.157895,"116,104":0.133333,"104,101":0.2,"89,111":0.066667,"111,117":0.15,"117,116":0.133333,"116,105":0.117647,"79,112":0.2,"114,97":0.058824,"110,115":0.133333,"65,100":0.105263,"100,109":0.210526,"105,110":0.263158,"110,105":0.263158,"116,114":0.157895,"70,105":0.210526,"97,110":0.263158,"110,99":0.210526,"99,101":0.105263,"80,85":0.210526,"85,67":0.263158,"82,101":0.105263,"101,118":0.105263,"110,117":0.210526,"117,101":0.210526,"110,100":0.2,"83,117":0.2,"117,110":0.263158,"115,104":0.210526,"104,105":0.263158,"110,101":0.2,"79,114":0.263158,"100,105":0.25,"84,97":0.066667,"97,115":0.263158,"115,107":0.2,"114,99":0.05,"73,110":0.315789,"110,102":0.157895,"102,111":0.105263,"84,101":0,"101,99":0.133333,"99,104":0.210526,"104,110":0.263158,"110,111":0.210526,"111,108":0.210526,"108,111":0.263158,"111,103":0.157895,"103,121":0.157895,"84,111":0.058824,"111,116":0.058824,"116,97":0.066667,"70,117":0.2,"100,101":0.2,"101,100":0.133333,"57,51":0.1909096,"51,46":0.25454519999999997,"46,48":0.2,"48,53":0.1909096,"46,55":0.2,"55,51":0.1909096,"48,46":0.1909096,"46,54":0.2,"54,56":0.12727259999999999,"55,49":0.25454519999999997,"40,48":0.133333,"48,50":0.12727259999999999,"50,41":0.1909096,"78,111":0.133333,"110,45":0.133333,"45,79":0.133333,"110,103":0.176471,"80,111":0.133333,"111,115":0.133333,"105,116":0.125,"40,67":0.2,"67,65":0.066667,"65,80":0.133333,"80,47":0.066667,"47,79":0.133333,"79,116":0.066667,"114,41":0.133333,"40,49":0.266667,"49,46":0.4666662,"48,48":0.13333319999999999,"48,41":0.1999998,"78,101":0.117647,"57,50":0.12727259999999999,"50,46":0.1909096,"83,111":0.15,"117,114":0.2,"116,101":0.066667,"114,103":0.066667,"103,111":0.2,"111,118":0.066667,"114,110":0.133333,"110,109":0.266667,"108,58":0.266667,"70,101":0.133333,"49,53":0.3999996,"53,52":0.13333319999999999,"52,44":0.1999998,"44,48":0.2,"67,104":0.2,"104,97":0.133333,"50,57":0.1999998,"57,52":0.06666659999999999,"69,120":0.1,"120,112":0.15,"116,117":0.125,"114,101":0.0625,"99,111":-0.125,"114,121":-0.125,"49,54":0.3999996,"54,49":0.25454519999999997,"49,44":0.4454548,"44,57":0.2,"57,57":0.1909096,"57,54":0.13333319999999999,"71,101":0.133333,"50,51":0.12727259999999999,"51,44":0.1999998,"44,49":0.333333,"49,48":0.3999996,"48,44":0.1909096,"44,52":0.1875,"52,53":0.1999998,"53,57":0.1999998,"50,50":0.12727259999999999,"50,44":0.1999998,"44,56":0.2,"56,55":0.13333319999999999,"55,55":0.1909096,"55,44":0.1999998,"49,52":0.333333,"52,51":0.1909096,"40,50":0.133333,"44,51":0.2,"51,49":0.1999998,"54,41":0.1999998,"44,53":0.266667,"57,48":0.12727259999999999,"48,55":0.1909096,"55,57":0.1999998,"49,50":0.3818178,"51,54":0.12727259999999999,"44,54":0.176471,"54,48":0.063637,"48,54":0.12727259999999999,"54,44":0.25454519999999997,"56,51":0.12727259999999999,"44,50":0.125,"50,56":0.12727259999999999,"56,57":0.063637,"50,52":0.063637,"56,52":0.063637,"51,57":0.12727259999999999,"50,53":0.1909096,"53,53":0.12727259999999999,"53,56":0.063637,"56,44":0.1909096,"85,115":0.2,"83,97":0.133333,"114,105":0.125,"105,101":0.2,"56,54":0.12727259999999999,"54,54":0.12727259999999999,"56,49":0.26666639999999997,"49,49":0.5090903999999999,"49,51":0.4454548,"54,55":0.1909096,"52,50":0.13333319999999999,"50,48":0.13333319999999999,"53,48":0.12727259999999999,"48,57":0.13333319999999999,"52,57":0.1909096,"57,44":0.25454519999999997,"53,51":0.1909096,"51,48":0.12727259999999999,"70,114":0.1875,"66,101":0.125,"101,102":0.125,"102,105":0.0625,"116,115":0.0625,"55,50":0.13333319999999999,"52,55":0.1999998,"55,52":0.13333319999999999,"55,54":0.13333319999999999,"56,53":0.1999998,"48,51":0.13333319999999999,"53,44":0.1999998,"52,49":0.26666639999999997,"49,55":0.3999996,"53,54":0.13333319999999999,"45,80":0.2,"80,101":0.133333,"114,115":0,"115,111":0.133333,"110,110":0.2,"101,108":0.2,"83,101":0.133333,"114,118":-0.133333,"118,105":0.15,"105,99":0.1875,"57,55":0.1999998,"51,53":0.1999998,"40,57":0.2,"53,41":0.1999998,"51,51":0.12727259999999999,"67,97":0.125,"97,112":0.1875,"112,105":0.1875,"79,117":0.1875,"116,108":0.125,"97,121":0.125,"77,97":0.125,"105,97":0.125,"117,112":0.2,"112,108":0.1875,"108,105":0.1875,"57,49":0.26666639999999997,"48,49":0.26666639999999997,"54,57":0.1909096,"80,114":0.2,"114,111":0.066667,"103,114":0.2,"97,109":0.2,"111,106":0,"106,101":0.133333,"99,116":0.066667,"79,102":0.133333,"68,101":0.125,"101,112":0.1875,"112,116":0.0625,"48,52":0.12727259999999999,"51,55":0.1909096,"51,52":0.12727259999999999,"66,121":0.1,"68,105":0.2,"115,99":0.15,"99,114":0.2,"105,112":0.25,"57,53":0.1909096,"52,48":0.12727259999999999,"51,56":0.12727259999999999,"57,56":0.12727259999999999,"49,56":0.3999996,"84,104":0.133333,"44,55":0.266667,"54,50":0.13333319999999999,"52,54":0.13333319999999999,"76,111":0.066667,"111,99":0.066667,"99,97":0.066667,"65,103":0.066667,"103,110":0.266667,"99,121":0,"48,56":0.12727259999999999,"54,51":0.1909096,"49,57":0.4666662,"50,49":0.26666639999999997,"56,50":0.13333319999999999,"54,53":0.12727259999999999,"56,56":0.12727259999999999,"50,55":0.1999998,"98,121":0.058824},"kerning2":{"66,117":0.1875,"117,100":0.13333300000000003,"100,103":0.13333300000000003,"103,101":0.125,"101,116":0.05882299999999996,"76,101":-0.03289500000000001,"101,103":0.08070100000000002,"103,105":0.168421,"105,115":0.125,"115,108":0.128289,"108,97":0.125,"97,116":0.365325,"105,118":0.11929900000000004,"118,101":0.125,"65,110":0.09473699999999996,"110,97":0.019737000000000005,"97,108":0.21250000000000002,"108,121":0.11929900000000004,"121,115":0.0625,"115,116":0.20743,"66,111":0.11929900000000004,"111,97":-0.03289500000000001,"97,114":0.20000000000000007,"114,100":0.02807000000000004,"111,102":0.15087800000000007,"70,111":0.13333400000000006,"111,114":0.20000000000000007,"114,109":0.05592100000000011,"109,97":0.19166700000000003,"105,111":0.11929900000000004,"111,110":0.19999999999999996,"67,111":0.13333400000000006,"111,109":0.22083300000000006,"109,109":0.2875000000000001,"109,105":0.221053,"115,115":-0.02302599999999999,"115,105":0.168421,"65,115":0,"115,101":0.125,"101,115":0.125,"115,109":0.125,"109,101":0.125,"101,110":0.19999999999999996,"110,116":0.07058799999999998,"65,112":0.134868,"112,112":0.1875,"112,101":0.125,"101,97":0.125,"108,115":0.125,"67,108":0.21250000000000002,"108,101":0.19166700000000003,"101,114":0.20000000000000007,"114,107":0.13333299999999992,"116,104":0.09473699999999996,"104,101":0.19166700000000003,"89,111":0.13333400000000006,"111,117":0.1875,"117,116":0.07058799999999998,"116,105":0.13333299999999998,"79,112":0.25416700000000003,"114,97":0.05833299999999997,"110,115":0.128676,"65,100":0.02807000000000004,"100,109":0.1085529999999999,"105,110":0.19999999999999996,"110,105":0.221053,"116,114":0.09824600000000006,"70,105":0.168421,"97,110":0.19999999999999996,"110,99":0.08070100000000002,"99,101":0.07236799999999999,"80,85":0.210526,"85,67":0.11578900000000014,"82,101":0.0625,"101,118":0.01403500000000002,"110,117":0.134868,"117,101":0.125,"110,100":0.20000000000000007,"83,117":0.25416700000000003,"117,110":0.266667,"115,104":0.19999999999999996,"104,105":0.2,"110,101":0.19166700000000003,"79,114":0.25614100000000006,"100,105":0.2375,"84,97":0.125,"97,115":0.12083299999999997,"115,107":0.266667,"114,99":0.066666,"73,110":0.266667,"110,102":0.15087800000000007,"102,111":0.01403500000000002,"84,101":-0.08552599999999999,"101,99":0.13333300000000003,"99,104":0.14736799999999994,"104,110":0.19999999999999996,"110,111":0.11929900000000004,"111,108":0.128289,"108,111":0.17193000000000014,"111,103":0.13333300000000003,"103,121":0.01403500000000002,"84,111":0.06666700000000003,"111,116":0.05882299999999996,"116,97":0.06617600000000001,"70,117":0.25416700000000003,"100,101":0.2583329999999999,"101,100":0.13333300000000003,"57,51":0.12727259999999985,"51,46":0.1787878,"46,48":0.19999919999999993,"48,53":0.17575740000000006,"46,55":0.26666579999999995,"55,51":0.17575740000000006,"48,46":0.1787878,"46,54":0.19999919999999993,"54,56":0.12727259999999985,"55,49":0.2666678,"40,48":0.13333320000000004,"48,50":0.08484839999999982,"50,41":0.1696959999999999,"78,111":0.19999999999999996,"110,45":0.13333400000000006,"45,79":0.21666699999999994,"110,103":0.20000000000000007,"80,111":0.13333400000000006,"111,115":0.128676,"105,116":0.095588,"40,67":0.19999999999999996,"67,65":0.1499999999999999,"65,80":0.13333299999999992,"80,47":0.06666599999999995,"47,79":0.21666699999999994,"79,116":0.07058799999999998,"114,41":0.13333299999999998,"40,49":0.2666672000000001,"49,46":0.46666699999999994,"48,48":0.13333320000000004,"48,41":0.19999899999999998,"78,101":0.125,"57,50":0.08484839999999982,"50,46":0.24242339999999996,"83,111":0.21666699999999994,"117,114":0.2666670000000001,"116,101":0.125,"114,103":0.066666,"103,111":0.19999999999999996,"111,118":0.06666700000000003,"114,110":0.13333299999999992,"110,109":0.2875000000000001,"108,58":0.26666599999999996,"70,101":0.19166700000000003,"49,53":0.4424237999999999,"53,52":0.13333320000000004,"52,44":0.23137219999999997,"44,48":0.19999919999999993,"67,104":0.266667,"104,97":0.19166700000000003,"50,57":0.19999980000000006,"57,52":0.08484839999999982,"69,120":0.10000000000000009,"120,112":0.23750000000000004,"116,117":0.1875,"114,101":0.07499999999999996,"99,111":0.004167000000000032,"114,121":-0.12083299999999997,"49,54":0.3999995999999999,"54,49":0.23030420000000007,"49,44":0.4010689999999999,"44,57":0.19583280000000003,"57,57":0.15151499999999984,"57,54":0.13333320000000004,"71,101":0.19166700000000003,"50,51":0.12727259999999985,"51,44":0.21016079999999998,"44,49":0.3333342,"49,48":0.3999995999999999,"48,44":0.23137219999999997,"44,52":0.13333320000000004,"52,53":0.17575740000000006,"53,57":0.19999980000000006,"50,50":0.08484839999999982,"50,44":0.23137219999999997,"44,56":0.24242339999999996,"56,55":0.19999980000000006,"55,55":0.19999980000000006,"55,44":0.23137219999999997,"49,52":0.3999995999999999,"52,51":0.12727259999999985,"40,50":0.13333320000000004,"44,51":0.17159040000000003,"51,49":0.2939398000000001,"54,41":0.19999899999999998,"44,53":0.24242339999999996,"57,48":0.08484839999999982,"48,55":0.15151499999999984,"55,57":0.19999980000000006,"49,50":0.33939359999999996,"51,54":0.08484839999999982,"44,54":0.06666620000000001,"54,48":0.02121139999999999,"48,54":0.14848400000000006,"54,44":0.23137219999999997,"56,51":0.12727259999999985,"44,50":0.06666620000000001,"50,56":0.12727259999999985,"56,57":0.08787800000000001,"50,52":0.14848400000000006,"56,52":0.14848400000000006,"51,57":0.08787800000000001,"50,53":0.19090820000000008,"53,53":0.12727259999999985,"53,56":0.06363560000000001,"56,44":0.23137219999999997,"85,115":0.23750000000000004,"83,97":0.19166700000000003,"114,105":0.11249999999999999,"105,101":0.2583329999999999,"56,54":0.08484839999999982,"54,54":0.08484839999999982,"56,49":0.2666678,"49,49":0.5333342000000001,"49,51":0.3818178,"54,55":0.15151499999999984,"52,50":0.13333320000000004,"50,48":0.13333320000000004,"53,48":0.08484839999999982,"48,57":0.19999980000000006,"52,57":0.15151499999999984,"57,44":0.23137219999999997,"53,51":0.12727259999999985,"51,48":0.08484839999999982,"70,114":0.15416700000000005,"66,101":0.125,"101,102":0.09166700000000005,"102,105":0.04999999999999999,"116,115":0.0625,"55,50":0.13333320000000004,"52,55":0.19999980000000006,"55,52":0.13333320000000004,"55,54":0.13333320000000004,"56,53":0.17575740000000006,"48,51":0.17575740000000006,"53,44":0.21016079999999998,"52,49":0.2666678,"49,55":0.4666661999999999,"53,54":0.13333320000000004,"45,80":0.19999999999999996,"80,101":0.19166700000000003,"114,115":0.054166999999999965,"115,111":0.13333400000000006,"110,110":0.266667,"101,108":0.21250000000000002,"83,101":0.19166700000000003,"114,118":-0.13333299999999992,"118,105":0.2,"105,99":0.13333300000000003,"57,55":0.19999980000000006,"51,53":0.17575740000000006,"40,57":0.19999980000000006,"53,41":0.19999899999999998,"51,51":0.12727259999999985,"67,97":0.125,"97,112":0.1875,"112,105":0.175,"79,117":0.1875,"116,108":0.125,"97,121":0.06666700000000003,"77,97":0.125,"105,97":0.125,"117,112":0.25416700000000003,"112,108":0.1875,"108,105":0.175,"57,49":0.2666678,"48,49":0.2666678,"54,57":0.19999980000000006,"80,114":0.20000000000000007,"114,111":0.06666700000000003,"103,114":0.20000000000000007,"97,109":0.22083300000000006,"111,106":0,"106,101":0.19166700000000003,"99,116":0.003920999999999952,"79,102":0.13333400000000006,"68,101":0.125,"101,112":0.1875,"112,116":0.12058800000000003,"48,52":0.13333320000000004,"51,55":0.15151499999999984,"51,52":0.08484839999999982,"66,121":0.11666700000000008,"68,105":0.25,"115,99":0.13333300000000003,"99,114":0.2666670000000001,"105,112":0.3374999999999999,"57,53":0.12727259999999985,"52,48":0.08484839999999982,"51,56":0.12727259999999985,"57,56":0.12727259999999985,"49,56":0.4424237999999999,"84,104":0.13333299999999992,"44,55":0.26666579999999995,"54,50":0.13333320000000004,"52,54":0.13333320000000004,"76,111":0.13333400000000006,"111,99":0.066666,"99,97":0.125,"65,103":0.066666,"103,110":0.266667,"99,121":0,"48,56":0.12727259999999985,"54,51":0.12727259999999985,"49,57":0.4666661999999999,"50,49":0.2666678,"56,50":0.13333320000000004,"54,53":0.12727259999999985,"56,56":0.12727259999999985,"50,55":0.19999980000000006,"98,121":0.06666700000000003},"variants":{},"heightCaps":1.4,"obs":1341,"obsCaps":98},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":1341},"Default":{"normal":{"width":{"38":1.105263,"40":0.466667,"41":0.466667,"44":0.2,"45":0.5,"48":0,"49":0,"50":0,"51":0,"52":0,"53":0,"54":0,"55":0,"56":0,"57":0,"8211":1.015831,"8212":5.105263},"height":{"38":1.473684,"40":1.8,"41":1.8,"44":0.466667,"45":0.25,"48":0,"49":0,"50":0,"51":0,"52":0,"53":0,"54":0,"55":0,"56":0,"57":0,"8211":0.145119,"8212":0.157895},"kerning":{"40,49":0.266667,"49,53":0,"53,52":0,"52,44":0,"44,48":0.2,"48,48":0,"48,41":0,"51,52":0,"52,52":0,"44,49":0.333333,"53,48":0,"54,51":0,"51,56":0,"56,44":0,"49,54":0,"54,49":0,"49,44":0,"44,57":0.25,"57,57":0,"57,54":0,"52,56":0,"56,50":0,"50,44":0,"49,49":0,"49,48":0,"44,51":0.25,"51,54":0,"48,52":0,"40,50":0.133333,"50,49":0,"44,52":0.133333,"52,49":0,"49,50":0,"50,41":0,"40,52":0.125,"44,55":0.25,"55,49":0,"53,41":0,"51,44":0,"51,49":0,"49,56":0,"40,55":0.2,"44,54":0.2,"54,56":0,"56,49":0,"49,41":0,"54,44":0,"48,53":0,"53,49":0,"44,53":0.266667,"52,53":0,"56,54":0,"49,51":0,"51,57":0,"49,57":0,"52,50":0},"kerning2":{"40,49":0.8,"49,53":0,"53,52":0,"52,44":-0.2,"44,48":1.133333,"48,48":0,"48,41":-0.466667,"51,52":0,"52,52":0,"44,49":0.866667,"53,48":0,"54,51":0,"51,56":0,"56,44":-0.2,"49,54":0,"54,49":0,"49,44":-0.2,"44,57":1.0625,"57,57":0,"57,54":0,"52,56":0,"56,50":0,"50,44":-0.2,"49,49":0,"49,48":0,"44,51":1.133333,"51,54":0,"48,52":0,"40,50":1.066667,"50,49":0,"44,52":1.133333,"52,49":0,"49,50":0,"50,41":-0.466667,"40,52":1,"44,55":1.0625,"55,49":0,"53,41":-0.466667,"51,44":-0.2,"51,49":0,"49,56":0,"40,55":1.066667,"44,54":1.133333,"54,56":0,"56,49":0,"49,41":-0.466667,"54,44":-0.2,"48,53":0,"53,49":0,"44,53":1.133333,"52,53":0,"56,54":0,"49,51":0,"51,57":0,"49,57":0,"52,50":0},"variants":{},"heightCaps":0,"obs":141,"obsCaps":0},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":141}}'></meta>
+	<meta name='default-font' content='SansDefault'></meta>
+	<meta name='sans-font' content='NimbusSans'></meta>
+	<meta name='serif-font' content='NimbusRomNo9L'></meta>
+	<meta name='enable-opt' content='undefined'></meta>
+	<meta name='layout' content='[{"n":0,"default":true,"boxes":{}}]'></meta>
+	<meta name='layout-data-table' content='[{"n":0,"default":true,"tables":[]}]'></meta>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<meta name='ocr-system' content='scribeocr' />
+	<meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf ocrp_lang ocrp_dir ocrp_font ocrp_fsize'/>
+</head>
+<body>
+	<div class='ocr_page' title='bbox 0 0 2550 3300'>
+		<span class='ocr_line' title="bbox 220 225 2259 278; baseline 0 -1; x_x_height 34.44444274902344; x_asc_height 51">
+			<span class='ocrx_word' id='word_1_0' title='bbox 220 225 883 278;x_wconf 100;x_font Georgia' lang='eng' style='font-variant:small-caps;font-family:Georgia'>ORGANIZATIONAL</span>
+			<span class='ocrx_word' id='word_1_1' title='bbox 907 225 1354 278;x_wconf 100;x_font Georgia' lang='eng' style='font-variant:small-caps;font-family:Georgia'>STRUCTURE:</span>
+			<span class='ocrx_word' id='word_1_2' title='bbox 1379 225 1629 278;x_wconf 100;x_font Georgia' lang='eng' style='font-variant:small-caps;font-family:Georgia'>BOARD</span>
+			<span class='ocrx_word' id='word_1_3' title='bbox 1653 225 1743 278;x_wconf 100;x_font Georgia' lang='eng' style='font-variant:small-caps;font-family:Georgia'>OF</span>
+			<span class='ocrx_word' id='word_1_4' title='bbox 1767 225 2259 278;x_wconf 100;x_font Georgia' lang='eng' style='font-variant:small-caps;font-family:Georgia'>SUPERVISORS</span>
+		</span>
+		<span class='ocr_line' title="bbox 1844 368 2037 403; baseline 0 -7; x_x_height 19; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_5' title='bbox 1844 368 1915 397;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Local</span>
+			<span class='ocrx_word' id='word_1_6' title='bbox 1927 369 2037 403;x_wconf 100;x_font Georgia' lang='eng' style='font-family:Georgia'>Agency</span>
+		</span>
+		<span class='ocr_line' title="bbox 316 390 2107 443; baseline -0.000558 -24; x_x_height 19; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_7' title='bbox 316 391 419 426;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Budget</span>
+			<span class='ocrx_word' id='word_1_8' title='bbox 430 392 451 420;x_wconf 100' lang='eng'>&amp;</span>
+			<span class='ocrx_word' id='word_1_9' title='bbox 464 391 613 426;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Legislative</span>
+			<span class='ocrx_word' id='word_1_10' title='bbox 624 391 733 426;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Analyst</span>
+			<span class='ocrx_word' id='word_1_11' title='bbox 820 400 942 403;x_wconf 0' lang='eng'>——]</span>
+			<span class='ocrx_word' id='word_1_12' title='bbox 1085 390 1168 419;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Board</span>
+			<span class='ocrx_word' id='word_1_13' title='bbox 1181 391 1209 418;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>of</span>
+			<span class='ocrx_word' id='word_1_14' title='bbox 1220 391 1391 425;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Supervisors</span>
+			<span class='ocrx_word' id='word_1_15' title='bbox 1532 400 1629 403;x_wconf 100' lang='eng'>—</span>
+			<span class='ocrx_word' id='word_1_16' title='bbox 1772 415 1919 443;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Formation</span>
+			<span class='ocrx_word' id='word_1_17' title='bbox 1932 415 2107 443;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Commission</span>
+		</span>
+		<span class='ocr_line' title="bbox 324 572 2075 608; baseline -0.001142 -6; x_x_height 19; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_18' title='bbox 324 574 499 602;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Assessment</span>
+			<span class='ocrx_word' id='word_1_19' title='bbox 508 573 624 608;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Appeals</span>
+			<span class='ocrx_word' id='word_1_20' title='bbox 638 573 721 602;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Board</span>
+			<span class='ocrx_word' id='word_1_21' title='bbox 820 585 942 588;x_wconf 100' lang='eng'>—</span>
+			<span class='ocrx_word' id='word_1_22' title='bbox 1103 572 1178 601;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Clerk</span>
+			<span class='ocrx_word' id='word_1_23' title='bbox 1189 573 1218 600;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>of</span>
+			<span class='ocrx_word' id='word_1_24' title='bbox 1228 572 1274 601;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>the</span>
+			<span class='ocrx_word' id='word_1_25' title='bbox 1288 572 1371 601;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Board</span>
+			<span class='ocrx_word' id='word_1_26' title='bbox 1532 585 1629 588;x_wconf 100' lang='eng'>—</span>
+			<span class='ocrx_word' id='word_1_27' title='bbox 1802 572 1886 601;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Youth</span>
+			<span class='ocrx_word' id='word_1_28' title='bbox 1900 573 2075 601;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Commission</span>
+		</span>
+		<span class='ocr_line' title="bbox 448 773 2125 810; baseline -0.000596 -8; x_x_height 19; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_29' title='bbox 448 774 599 809;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Legislation</span>
+			<span class='ocrx_word' id='word_1_30' title='bbox 1156 776 1318 810;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Operations</span>
+			<span class='ocrx_word' id='word_1_31' title='bbox 1753 773 1967 802;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Administration</span>
+			<span class='ocrx_word' id='word_1_32' title='bbox 1980 774 2001 802;x_wconf 100' lang='eng'>&amp;</span>
+			<span class='ocrx_word' id='word_1_33' title='bbox 2014 774 2125 802;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Finance</span>
+		</span>
+		<span class='ocr_line' title="bbox 523 836 526 896; baseline 0 0; x_x_height 39.70588207244873; x_asc_height 60">
+			<span class='ocrx_word' id='word_1_34' title='bbox 523 836 526 896;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>I</span>
+		</span>
+		<span class='ocr_line' title="bbox 523 874 1904 942; baseline -0.001448 0; x_asc_height 44">
+			<span class='ocrx_word' id='word_1_35' title='bbox 523 898 526 942;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>I</span>
+			<span class='ocrx_word' id='word_1_36' title='bbox 1237 898 1240 942;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>l</span>
+			<span class='ocrx_word' id='word_1_37' title='bbox 1902 874 1904 940;x_wconf 0' lang='eng'>l</span>
+		</span>
+		<span class='ocr_line' title="bbox 384 968 1896 997; baseline -0.000661 -1; x_x_height 19; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_38' title='bbox 384 992 387 996;x_wconf 0' lang='eng'>.</span>
+			<span class='ocrx_word' id='word_1_39' title='bbox 495 992 498 996;x_wconf 0' lang='eng'>.</span>
+			<span class='ocrx_word' id='word_1_40' title='bbox 1096 969 1159 997;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>PUC</span>
+			<span class='ocrx_word' id='word_1_41' title='bbox 1173 969 1296 997;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Revenue</span>
+			<span class='ocrx_word' id='word_1_42' title='bbox 1310 968 1383 996;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Bond</span>
+			<span class='ocrx_word' id='word_1_43' title='bbox 1892 992 1896 995;x_wconf 0' lang='eng'>.</span>
+		</span>
+		<span class='ocr_line' title="bbox 293 991 2115 1049; baseline 0 -30; x_x_height 19; x_asc_height 28">
+			<span class='ocrx_word' id='word_1_44' title='bbox 293 991 424 1020;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Sunshine</span>
+			<span class='ocrx_word' id='word_1_45' title='bbox 436 991 587 1020;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Ordinance</span>
+			<span class='ocrx_word' id='word_1_46' title='bbox 597 991 661 1020;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Task</span>
+			<span class='ocrx_word' id='word_1_47' title='bbox 674 992 753 1019;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Force</span>
+			<span class='ocrx_word' id='word_1_48' title='bbox 1082 1014 1225 1049;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>CTT</span>
+			<span class='ocrx_word' id='word_1_49' title='bbox 1236 1015 1396 1043;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>—–—</span>
+			<span class='ocrx_word' id='word_1_50' title='bbox 1767 992 1934 1020;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Information</span>
+			<span class='ocrx_word' id='word_1_51' title='bbox 1945 991 2115 1026;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>Technology</span>
+		</span>
+		<span class='ocr_line' title="bbox 227 1227 1814 1280; baseline 0 -1; x_x_height 34.45454406738281; x_asc_height 51">
+			<span class='ocrx_word' id='word_1_52' title='bbox 227 1227 466 1280;x_wconf 100;x_font Georgia' lang='eng' style='font-variant:small-caps;font-family:Georgia'>TOTAL</span>
+			<span class='ocrx_word' id='word_1_53' title='bbox 490 1227 785 1280;x_wconf 100;x_font Georgia' lang='eng' style='font-variant:small-caps;font-family:Georgia'>BUDGET</span>
+			<span class='ocrx_word' id='word_1_54' title='bbox 804 1252 839 1257;x_wconf 100' lang='eng'>–</span>
+			<span class='ocrx_word' id='word_1_55' title='bbox 860 1227 1303 1280;x_wconf 100;x_font Georgia' lang='eng' style='font-variant:small-caps;font-family:Georgia'>HISTORICAL</span>
+			<span class='ocrx_word' id='word_1_56' title='bbox 1326 1227 1814 1280;x_wconf 100;x_font Georgia' lang='eng' style='font-variant:small-caps;font-family:Georgia'>COMPARISON</span>
+		</span>
+		<span class='ocr_line' title="bbox 251 1486 2245 1513; baseline 0.000502 -6; x_x_height 15; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_57' title='bbox 251 1486 313 1507;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Total</span>
+			<span class='ocrx_word' id='word_1_58' title='bbox 325 1486 418 1508;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Funded</span>
+			<span class='ocrx_word' id='word_1_59' title='bbox 1138 1486 1207 1508;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>93.05</span>
+			<span class='ocrx_word' id='word_1_60' title='bbox 1406 1486 1475 1508;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>93.73</span>
+			<span class='ocrx_word' id='word_1_61' title='bbox 1672 1486 1726 1508;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>0.68</span>
+			<span class='ocrx_word' id='word_1_62' title='bbox 1925 1486 1990 1508;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>93.71</span>
+			<span class='ocrx_word' id='word_1_63' title='bbox 2172 1486 2245 1513;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>(0.02)</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 1535 1994 1562; baseline 0.000574 -6; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_64' title='bbox 253 1535 437 1562;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Non-Operating</span>
+			<span class='ocrx_word' id='word_1_65' title='bbox 449 1535 562 1557;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Positions</span>
+			<span class='ocrx_word' id='word_1_66' title='bbox 573 1535 728 1562;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>(CAP/Other)</span>
+			<span class='ocrx_word' id='word_1_67' title='bbox 1135 1535 1207 1562;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>(1.00)</span>
+			<span class='ocrx_word' id='word_1_68' title='bbox 1403 1535 1476 1562;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>(1.00)</span>
+			<span class='ocrx_word' id='word_1_68b' title='bbox 1922 1535 1994 1562;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>(1.00)</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 1591 2244 1618; baseline -0.000502 -5; x_x_height 17; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_71' title='bbox 253 1591 297 1613;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Net</span>
+			<span class='ocrx_word' id='word_1_72' title='bbox 306 1591 439 1618;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Operating</span>
+			<span class='ocrx_word' id='word_1_73' title='bbox 450 1591 576 1613;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Positions</span>
+			<span class='ocrx_word' id='word_1_74' title='bbox 1137 1591 1207 1613;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>92.05</span>
+			<span class='ocrx_word' id='word_1_75' title='bbox 1406 1591 1476 1613;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>92.73</span>
+			<span class='ocrx_word' id='word_1_76' title='bbox 1672 1591 1726 1613;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>0.68</span>
+			<span class='ocrx_word' id='word_1_77' title='bbox 1924 1591 1991 1613;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>92.71</span>
+			<span class='ocrx_word' id='word_1_78' title='bbox 2172 1591 2244 1618;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>(0.02)</span>
+		</span>
+		<span class='ocr_line' title="bbox 231 1675 370 1702; baseline 0 0; x_x_height 20; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_79' title='bbox 231 1675 370 1702;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Sources</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 1733 2245 1760; baseline 0.000502 -6; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_80' title='bbox 253 1733 488 1760;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Intergovernmental:</span>
+			<span class='ocrx_word' id='word_1_81' title='bbox 500 1733 593 1755;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Federal</span>
+			<span class='ocrx_word' id='word_1_82' title='bbox 1376 1733 1475 1758;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>154,000</span>
+			<span class='ocrx_word' id='word_1_83' title='bbox 1626 1733 1726 1758;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>154,000</span>
+			<span class='ocrx_word' id='word_1_84' title='bbox 2124 1733 2245 1760;x_wconf 100' lang='eng'>(154,000)</span>
+		</span>
+		<span class='ocr_line' title="bbox 252 1782 1994 1809; baseline 0.000574 -6; x_x_height 15; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_85' title='bbox 252 1782 358 1809;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Charges</span>
+			<span class='ocrx_word' id='word_1_86' title='bbox 367 1782 401 1803;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>for</span>
+			<span class='ocrx_word' id='word_1_87' title='bbox 410 1782 517 1804;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>Services</span>
+			<span class='ocrx_word' id='word_1_88' title='bbox 1106 1782 1207 1807;x_wconf 100' lang='eng'>344,150</span>
+			<span class='ocrx_word' id='word_1_89' title='bbox 1374 1782 1475 1807;x_wconf 100' lang='eng'>638,150</span>
+			<span class='ocrx_word' id='word_1_90' title='bbox 1624 1782 1726 1807;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>294,000</span>
+			<span class='ocrx_word' id='word_1_91' title='bbox 1892 1782 1994 1807;x_wconf 100' lang='eng'>638,150</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 1831 1994 1858; baseline 0.000574 -6; x_x_height 16; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_92' title='bbox 253 1831 403 1858;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Expenditure</span>
+			<span class='ocrx_word' id='word_1_93' title='bbox 414 1831 533 1858;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Recovery</span>
+			<span class='ocrx_word' id='word_1_94' title='bbox 1107 1831 1207 1856;x_wconf 100' lang='eng'>161,996</span>
+			<span class='ocrx_word' id='word_1_95' title='bbox 1376 1831 1475 1856;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>161,996</span>
+			<span class='ocrx_word' id='word_1_96' title='bbox 1894 1831 1994 1856;x_wconf 100' lang='eng'>161,996</span>
+		</span>
+		<span class='ocr_line' title="bbox 252 1899 2244 1926; baseline 0.000502 -6; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_97' title='bbox 252 1899 351 1921;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>General</span>
+			<span class='ocrx_word' id='word_1_98' title='bbox 363 1899 424 1920;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Fund</span>
+			<span class='ocrx_word' id='word_1_99' title='bbox 1066 1899 1207 1924;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>23,100,459</span>
+			<span class='ocrx_word' id='word_1_100' title='bbox 1334 1899 1475 1924;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>22,877,143</span>
+			<span class='ocrx_word' id='word_1_101' title='bbox 1606 1899 1726 1926;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>(223,316)</span>
+			<span class='ocrx_word' id='word_1_102' title='bbox 1852 1899 1994 1924;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>23,590,079</span>
+			<span class='ocrx_word' id='word_1_103' title='bbox 2143 1899 2244 1924;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>712,936</span>
+		</span>
+		<span class='ocr_line' title="bbox 252 1951 2245 1977; baseline 0 -4; x_x_height 17; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_104' title='bbox 252 1951 363 1973;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Sources</span>
+			<span class='ocrx_word' id='word_1_105' title='bbox 372 1951 439 1973;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Total</span>
+			<span class='ocrx_word' id='word_1_106' title='bbox 1065 1951 1208 1977;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>23,606,605</span>
+			<span class='ocrx_word' id='word_1_107' title='bbox 1333 1951 1475 1977;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>23,831,289</span>
+			<span class='ocrx_word' id='word_1_108' title='bbox 1623 1951 1727 1977;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>224,684</span>
+			<span class='ocrx_word' id='word_1_109' title='bbox 1852 1951 1995 1977;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>24,390,225</span>
+			<span class='ocrx_word' id='word_1_110' title='bbox 2143 1951 2245 1977;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>558,936</span>
+		</span>
+		<span class='ocr_line' title="bbox 232 2035 752 2069; baseline -0.001923 -7; x_x_height 20; x_asc_height 27">
+			<span class='ocrx_word' id='word_1_111' title='bbox 232 2035 314 2062;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Uses</span>
+			<span class='ocrx_word' id='word_1_112' title='bbox 328 2049 338 2054;x_wconf 100' lang='eng'>-</span>
+			<span class='ocrx_word' id='word_1_113' title='bbox 349 2035 515 2069;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Operating</span>
+			<span class='ocrx_word' id='word_1_114' title='bbox 529 2035 752 2068;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Expenditures</span>
+		</span>
+		<span class='ocr_line' title="bbox 252 2093 2244 2118; baseline 0.000502 -4; x_x_height 15; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_115' title='bbox 252 2093 353 2115;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Salaries</span>
+			<span class='ocrx_word' id='word_1_116' title='bbox 1068 2093 1203 2118;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>12,866,811</span>
+			<span class='ocrx_word' id='word_1_117' title='bbox 1336 2093 1475 2118;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>13,367,420</span>
+			<span class='ocrx_word' id='word_1_118' title='bbox 1624 2093 1726 2118;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>500,609</span>
+			<span class='ocrx_word' id='word_1_119' title='bbox 1854 2093 1994 2118;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>13,849,530</span>
+			<span class='ocrx_word' id='word_1_120' title='bbox 2142 2093 2244 2118;x_wconf 100' lang='eng'>482,110</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 2142 2244 2169; baseline 0.000502 -6; x_x_height 16; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_121' title='bbox 253 2142 386 2169;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>Mandatory</span>
+			<span class='ocrx_word' id='word_1_122' title='bbox 396 2142 474 2169;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Fringe</span>
+			<span class='ocrx_word' id='word_1_123' title='bbox 485 2142 586 2164;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Benefits</span>
+			<span class='ocrx_word' id='word_1_124' title='bbox 1081 2142 1207 2167;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>4,672,474</span>
+			<span class='ocrx_word' id='word_1_125' title='bbox 1349 2142 1475 2167;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>4,876,285</span>
+			<span class='ocrx_word' id='word_1_126' title='bbox 1624 2142 1722 2167;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>203,811</span>
+			<span class='ocrx_word' id='word_1_127' title='bbox 1869 2142 1990 2167;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>5,053,541</span>
+			<span class='ocrx_word' id='word_1_128' title='bbox 2145 2142 2244 2167;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>177,256</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 2191 2245 2218; baseline 0.000502 -6; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_129' title='bbox 253 2191 440 2213;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Non-Personnel</span>
+			<span class='ocrx_word' id='word_1_130' title='bbox 451 2191 559 2213;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Services</span>
+			<span class='ocrx_word' id='word_1_131' title='bbox 1082 2191 1207 2216;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>5,297,359</span>
+			<span class='ocrx_word' id='word_1_132' title='bbox 1349 2191 1475 2216;x_wconf 100' lang='eng'>4,361,004</span>
+			<span class='ocrx_word' id='word_1_133' title='bbox 1606 2191 1726 2218;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>(936,355)</span>
+			<span class='ocrx_word' id='word_1_134' title='bbox 1868 2191 1994 2216;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>4,339,592</span>
+			<span class='ocrx_word' id='word_1_135' title='bbox 2140 2191 2245 2218;x_wconf 100' lang='eng'>(21,412)</span>
+		</span>
+		<span class='ocr_line' title="bbox 252 2240 2245 2267; baseline 0.000502 -6; x_x_height 16; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_136' title='bbox 252 2240 338 2267;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Capital</span>
+			<span class='ocrx_word' id='word_1_137' title='bbox 349 2240 431 2267;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Outlay</span>
+			<span class='ocrx_word' id='word_1_138' title='bbox 1376 2240 1475 2265;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>142,000</span>
+			<span class='ocrx_word' id='word_1_139' title='bbox 1626 2240 1726 2265;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>142,000</span>
+			<span class='ocrx_word' id='word_1_140' title='bbox 2124 2240 2245 2267;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>(142,000)</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 2289 2245 2316; baseline 0 -6; x_x_height 16; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_141' title='bbox 253 2289 366 2311;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Materials</span>
+			<span class='ocrx_word' id='word_1_142' title='bbox 376 2289 393 2311;x_wconf 100' lang='eng'>&amp;</span>
+			<span class='ocrx_word' id='word_1_143' title='bbox 403 2289 511 2316;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Supplies</span>
+			<span class='ocrx_word' id='word_1_144' title='bbox 1107 2289 1207 2314;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>176,916</span>
+			<span class='ocrx_word' id='word_1_145' title='bbox 1376 2289 1471 2314;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>172,201</span>
+			<span class='ocrx_word' id='word_1_146' title='bbox 1638 2289 1726 2316;x_wconf 100' lang='eng'>(4,715)</span>
+			<span class='ocrx_word' id='word_1_147' title='bbox 1894 2289 1994 2314;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>154,509</span>
+			<span class='ocrx_word' id='word_1_148' title='bbox 2140 2289 2245 2316;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>(17,692)</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 2338 2245 2365; baseline 0.000502 -6; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_149' title='bbox 253 2338 429 2365;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Programmatic</span>
+			<span class='ocrx_word' id='word_1_150' title='bbox 439 2338 540 2365;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Projects</span>
+			<span class='ocrx_word' id='word_1_151' title='bbox 1392 2338 1475 2363;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>12,000</span>
+			<span class='ocrx_word' id='word_1_152' title='bbox 1642 2338 1726 2363;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>12,000</span>
+			<span class='ocrx_word' id='word_1_153' title='bbox 2140 2338 2245 2365;x_wconf 100' lang='eng'>(12,000)</span>
+		</span>
+		<span class='ocr_line' title="bbox 252 2387 2244 2414; baseline 0.000502 -6; x_x_height 16; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_154' title='bbox 252 2387 360 2409;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Services</span>
+			<span class='ocrx_word' id='word_1_155' title='bbox 370 2387 400 2409;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Of</span>
+			<span class='ocrx_word' id='word_1_156' title='bbox 408 2387 479 2409;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Other</span>
+			<span class='ocrx_word' id='word_1_157' title='bbox 489 2387 560 2414;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Depts</span>
+			<span class='ocrx_word' id='word_1_158' title='bbox 1106 2387 1207 2412;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>593,045</span>
+			<span class='ocrx_word' id='word_1_159' title='bbox 1374 2387 1475 2412;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>900,379</span>
+			<span class='ocrx_word' id='word_1_160' title='bbox 1624 2387 1726 2412;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>307,334</span>
+			<span class='ocrx_word' id='word_1_161' title='bbox 1893 2387 1994 2412;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>993,053</span>
+			<span class='ocrx_word' id='word_1_162' title='bbox 2159 2387 2244 2412;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>92,674</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 2439 2245 2465; baseline 0 -4; x_x_height 17; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_163' title='bbox 253 2439 318 2461;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Uses</span>
+			<span class='ocrx_word' id='word_1_164' title='bbox 328 2439 394 2461;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Total</span>
+			<span class='ocrx_word' id='word_1_165' title='bbox 1065 2439 1208 2465;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>23,606,605</span>
+			<span class='ocrx_word' id='word_1_166' title='bbox 1333 2439 1475 2465;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>23,831,289</span>
+			<span class='ocrx_word' id='word_1_167' title='bbox 1623 2439 1727 2465;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>224,684</span>
+			<span class='ocrx_word' id='word_1_168' title='bbox 1852 2439 1995 2465;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>24,390,225</span>
+			<span class='ocrx_word' id='word_1_169' title='bbox 2143 2439 2245 2465;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>558,936</span>
+		</span>
+		<span class='ocr_line' title="bbox 232 2524 748 2558; baseline -0.001938 -7; x_x_height 20; x_asc_height 26">
+			<span class='ocrx_word' id='word_1_170' title='bbox 232 2524 314 2551;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Uses</span>
+			<span class='ocrx_word' id='word_1_171' title='bbox 328 2538 338 2543;x_wconf 100' lang='eng'>-</span>
+			<span class='ocrx_word' id='word_1_172' title='bbox 350 2524 393 2558;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>By</span>
+			<span class='ocrx_word' id='word_1_173' title='bbox 406 2524 541 2551;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Division</span>
+			<span class='ocrx_word' id='word_1_174' title='bbox 555 2524 748 2557;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Description</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 2583 2244 2610; baseline 0.000502 -6; x_x_height 16; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_175' title='bbox 253 2583 310 2605;x_wconf 0;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>BOS</span>
+			<span class='ocrx_word' id='word_1_176' title='bbox 319 2583 475 2605;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Assessment</span>
+			<span class='ocrx_word' id='word_1_177' title='bbox 483 2583 586 2610;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Appeals</span>
+			<span class='ocrx_word' id='word_1_178' title='bbox 597 2583 670 2604;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Board</span>
+			<span class='ocrx_word' id='word_1_179' title='bbox 1106 2583 1207 2608;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>958,404</span>
+			<span class='ocrx_word' id='word_1_180' title='bbox 1352 2583 1475 2608;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>1,397,390</span>
+			<span class='ocrx_word' id='word_1_181' title='bbox 1623 2583 1726 2608;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>438,986</span>
+			<span class='ocrx_word' id='word_1_182' title='bbox 1870 2583 1994 2608;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>1,490,697</span>
+			<span class='ocrx_word' id='word_1_183' title='bbox 2159 2583 2244 2608;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>93,307</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 2632 1994 2659; baseline 0.000574 -6; x_x_height 16; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_184' title='bbox 253 2632 310 2654;x_wconf 0;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>BOS</span>
+			<span class='ocrx_word' id='word_1_185' title='bbox 321 2632 410 2659;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Budget</span>
+			<span class='ocrx_word' id='word_1_186' title='bbox 419 2632 436 2654;x_wconf 100' lang='eng'>&amp;</span>
+			<span class='ocrx_word' id='word_1_187' title='bbox 447 2632 513 2659;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Legis</span>
+			<span class='ocrx_word' id='word_1_188' title='bbox 521 2632 627 2659;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Analysis</span>
+			<span class='ocrx_word' id='word_1_189' title='bbox 1082 2632 1207 2657;x_wconf 100' lang='eng'>3,121,318</span>
+			<span class='ocrx_word' id='word_1_190' title='bbox 1350 2632 1475 2657;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>3,204,318</span>
+			<span class='ocrx_word' id='word_1_191' title='bbox 1640 2632 1726 2657;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>83,000</span>
+			<span class='ocrx_word' id='word_1_192' title='bbox 1869 2632 1994 2657;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>3,204,318</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 2681 2244 2708; baseline 0.000502 -6; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_193' title='bbox 253 2681 310 2703;x_wconf 0;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>BOS</span>
+			<span class='ocrx_word' id='word_1_194' title='bbox 321 2681 386 2703;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Clerk</span>
+			<span class='ocrx_word' id='word_1_195' title='bbox 395 2681 425 2703;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Of</span>
+			<span class='ocrx_word' id='word_1_196' title='bbox 433 2681 481 2703;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>The</span>
+			<span class='ocrx_word' id='word_1_197' title='bbox 492 2681 565 2702;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Board</span>
+			<span class='ocrx_word' id='word_1_198' title='bbox 1082 2681 1207 2706;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>6,716,622</span>
+			<span class='ocrx_word' id='word_1_199' title='bbox 1350 2681 1471 2706;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>6,004,941</span>
+			<span class='ocrx_word' id='word_1_200' title='bbox 1606 2681 1726 2708;x_wconf 100' lang='eng'>(711,681)</span>
+			<span class='ocrx_word' id='word_1_201' title='bbox 1868 2681 1994 2706;x_wconf 100' lang='eng'>6,051,545</span>
+			<span class='ocrx_word' id='word_1_202' title='bbox 2158 2681 2244 2706;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>46,604</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 2730 2244 2757; baseline 0.000502 -6; x_x_height 15; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_203' title='bbox 253 2730 310 2752;x_wconf 0;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>BOS</span>
+			<span class='ocrx_word' id='word_1_204' title='bbox 321 2730 386 2752;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Local</span>
+			<span class='ocrx_word' id='word_1_205' title='bbox 396 2730 475 2757;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Agncy</span>
+			<span class='ocrx_word' id='word_1_206' title='bbox 486 2730 611 2752;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Formation</span>
+			<span class='ocrx_word' id='word_1_207' title='bbox 622 2730 703 2752;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Comm</span>
+			<span class='ocrx_word' id='word_1_208' title='bbox 1106 2730 1207 2755;x_wconf 100' lang='eng'>386,113</span>
+			<span class='ocrx_word' id='word_1_209' title='bbox 1374 2730 1475 2755;x_wconf 100' lang='eng'>396,196</span>
+			<span class='ocrx_word' id='word_1_210' title='bbox 1642 2730 1726 2755;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>10,083</span>
+			<span class='ocrx_word' id='word_1_211' title='bbox 1892 2730 1994 2755;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>408,630</span>
+			<span class='ocrx_word' id='word_1_212' title='bbox 2160 2730 2244 2755;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>12,434</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 2779 2240 2804; baseline 0.000503 -4; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_213' title='bbox 253 2779 310 2801;x_wconf 0;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>BOS</span>
+			<span class='ocrx_word' id='word_1_214' title='bbox 321 2779 438 2801;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Sunshine</span>
+			<span class='ocrx_word' id='word_1_215' title='bbox 448 2779 493 2801;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Ord</span>
+			<span class='ocrx_word' id='word_1_216' title='bbox 503 2779 565 2800;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Task</span>
+			<span class='ocrx_word' id='word_1_217' title='bbox 575 2779 645 2801;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Force</span>
+			<span class='ocrx_word' id='word_1_218' title='bbox 1107 2779 1207 2804;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>196,045</span>
+			<span class='ocrx_word' id='word_1_219' title='bbox 1374 2779 1475 2804;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>203,404</span>
+			<span class='ocrx_word' id='word_1_220' title='bbox 1656 2779 1726 2804;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>7,359</span>
+			<span class='ocrx_word' id='word_1_221' title='bbox 1892 2779 1994 2804;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>210,225</span>
+			<span class='ocrx_word' id='word_1_222' title='bbox 2174 2779 2240 2804;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>6,821</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 2828 2244 2855; baseline 0.000502 -6; x_x_height 15; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_223' title='bbox 253 2828 310 2850;x_wconf 0;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>BOS</span>
+			<span class='ocrx_word' id='word_1_224' title='bbox 321 2828 470 2855;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Supervisors</span>
+			<span class='ocrx_word' id='word_1_225' title='bbox 1068 2828 1203 2853;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>11,777,061</span>
+			<span class='ocrx_word' id='word_1_226' title='bbox 1336 2828 1475 2853;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>12,165,894</span>
+			<span class='ocrx_word' id='word_1_227' title='bbox 1624 2828 1726 2853;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>388,833</span>
+			<span class='ocrx_word' id='word_1_228' title='bbox 1855 2828 1994 2853;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>12,550,837</span>
+			<span class='ocrx_word' id='word_1_229' title='bbox 2143 2828 2244 2853;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>384,943</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 2877 2244 2902; baseline 0 -4; x_x_height 15; x_asc_height 21">
+			<span class='ocrx_word' id='word_1_230' title='bbox 253 2877 310 2899;x_wconf 0;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>BOS</span>
+			<span class='ocrx_word' id='word_1_231' title='bbox 320 2877 393 2898;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Youth</span>
+			<span class='ocrx_word' id='word_1_232' title='bbox 403 2877 558 2899;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>Commission</span>
+			<span class='ocrx_word' id='word_1_233' title='bbox 1105 2877 1207 2902;x_wconf 100' lang='eng'>451,042</span>
+			<span class='ocrx_word' id='word_1_234' title='bbox 1373 2877 1475 2902;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>459,146</span>
+			<span class='ocrx_word' id='word_1_235' title='bbox 1656 2877 1726 2902;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>8,104</span>
+			<span class='ocrx_word' id='word_1_236' title='bbox 1892 2877 1994 2902;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>473,973</span>
+			<span class='ocrx_word' id='word_1_237' title='bbox 2160 2877 2244 2902;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>14,827</span>
+		</span>
+		<span class='ocr_line' title="bbox 253 2928 2245 2955; baseline 0 -5; x_x_height 17; x_asc_height 22">
+			<span class='ocrx_word' id='word_1_238' title='bbox 253 2928 318 2950;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Uses</span>
+			<span class='ocrx_word' id='word_1_239' title='bbox 329 2928 361 2955;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>by</span>
+			<span class='ocrx_word' id='word_1_240' title='bbox 370 2928 478 2950;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Division</span>
+			<span class='ocrx_word' id='word_1_241' title='bbox 488 2928 555 2950;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Total</span>
+			<span class='ocrx_word' id='word_1_242' title='bbox 1065 2928 1208 2954;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>23,606,605</span>
+			<span class='ocrx_word' id='word_1_243' title='bbox 1333 2928 1475 2954;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>23,831,289</span>
+			<span class='ocrx_word' id='word_1_244' title='bbox 1623 2928 1727 2954;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>224,684</span>
+			<span class='ocrx_word' id='word_1_245' title='bbox 1852 2928 1995 2954;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>24,390,225</span>
+			<span class='ocrx_word' id='word_1_246' title='bbox 2143 2928 2245 2954;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>558,936</span>
+		</span>
+		<span class='ocr_line' title="bbox 230 3137 954 3186; baseline 0 -1; x_asc_height 36">
+			<span class='ocrx_word' id='word_1_247' title='bbox 230 3137 338 3186;x_wconf 100;x_font Verdana' lang='eng' style='font-family:Verdana'>116</span>
+			<span class='ocrx_word' id='word_1_248' title='bbox 363 3149 531 3185;x_wconf 100;x_font Verdana' lang='eng' style='font-variant:small-caps;font-family:Verdana'>BOARD</span>
+			<span class='ocrx_word' id='word_1_249' title='bbox 548 3149 612 3185;x_wconf 100;x_font Verdana' lang='eng' style='font-variant:small-caps;font-family:Verdana'>OF</span>
+			<span class='ocrx_word' id='word_1_250' title='bbox 629 3149 954 3185;x_wconf 100;x_font Verdana' lang='eng' style='font-variant:small-caps;font-family:Verdana'>SUPERVISORS</span>
+		</span>
+	</div>
+</body>
+</html>

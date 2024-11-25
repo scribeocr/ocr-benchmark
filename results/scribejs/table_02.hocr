@@ -8,8 +8,8 @@
 	<meta name='sans-font' content='NimbusSans'></meta>
 	<meta name='serif-font' content='NimbusRomNo9L'></meta>
 	<meta name='enable-opt' content='undefined'></meta>
-	<meta name='layout' content='[{"default":true,"boxes":{}}]'></meta>
-	<meta name='layout-data-table' content='[{"default":true,"tables":[]}]'></meta>
+	<meta name='layout' content='[{"n":0,"default":true,"boxes":{}}]'></meta>
+	<meta name='layout-data-table' content='[{"n":0,"default":true,"tables":[]}]'></meta>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
 	<meta name='ocr-system' content='scribeocr' />
 	<meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf ocrp_lang ocrp_dir ocrp_font ocrp_fsize'/>
@@ -81,18 +81,18 @@
 		</span>
 		<span class='ocr_line' title="bbox 31.5 190.5 932 205; baseline 0 -3; x_x_height 8.5; x_asc_height 11.5">
 			<span class='ocrx_word' id='word_1_47' title='bbox 32 191 109 205;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>01Aug2018</span>
-			<span class='ocrx_word' id='word_1_48b' title='bbox 123 191 182 205;x_wconf 0' lang='eng'>Incoming</span>
-			<span class='ocrx_word' id='word_1_49b' title='bbox 188 189 232 207;x_wconf 0' lang='eng'>Interac</span>
-			<span class='ocrx_word' id='word_1_50b' title='bbox 238 189 307 207;x_wconf 0' lang='eng'>e-Transfer</span>
+			<span class='ocrx_word' id='word_1_48b' title='bbox 123 191 182 205;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Incoming</span>
+			<span class='ocrx_word' id='word_1_49b' title='bbox 188 189 232 207;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Interac</span>
+			<span class='ocrx_word' id='word_1_50b' title='bbox 238 189 307 207;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>e-Transfer</span>
 			<span class='ocrx_word' id='word_1_49' title='bbox 767 191 803 202;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>14.54</span>
 			<span class='ocrx_word' id='word_1_50' title='bbox 828 191 902 204;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>101,583.92</span>
 			<span class='ocrx_word' id='word_1_51' title='bbox 913 191 932 202;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>EX</span>
 		</span>
 		<span class='ocr_line' title="bbox 31.5 207.5 932 222; baseline 0 -3; x_x_height 8.5; x_asc_height 11.5">
 			<span class='ocrx_word' id='word_1_52' title='bbox 32 208 109 222;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>01Aug2018</span>
-			<span class='ocrx_word' id='word_1_55b' title='bbox 123 208 182 222;x_wconf 0' lang='eng'>Incoming</span>
-			<span class='ocrx_word' id='word_1_56b' title='bbox 188 206 232 224;x_wconf 0' lang='eng'>Interac</span>
-			<span class='ocrx_word' id='word_1_57b' title='bbox 238 206 307 224;x_wconf 0' lang='eng'>e-Transfer</span>
+			<span class='ocrx_word' id='word_1_55b' title='bbox 123 208 182 222;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Incoming</span>
+			<span class='ocrx_word' id='word_1_56b' title='bbox 188 206 232 224;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Interac</span>
+			<span class='ocrx_word' id='word_1_57b' title='bbox 238 206 307 224;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>e-Transfer</span>
 			<span class='ocrx_word' id='word_1_54' title='bbox 757 208 803 219;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>400.00</span>
 			<span class='ocrx_word' id='word_1_55' title='bbox 828 208 902 221;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>101,183.92</span>
 			<span class='ocrx_word' id='word_1_56' title='bbox 913 208 932 219;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>EX</span>
@@ -109,9 +109,9 @@
 			<span class='ocrx_word' id='word_1_63' title='bbox 32 242 109 256;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>01Aug2018</span>
 			<span class='ocrx_word' id='word_1_64' title='bbox 122 242 178 253;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>Transfer</span>
 			<span class='ocrx_word' id='word_1_65' title='bbox 182 243 203 253;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>out</span>
-			<span class='ocrx_word' id='word_1_70b' title='bbox 211 243 224 253;x_wconf 0' lang='eng'>to</span>
-			<span class='ocrx_word' id='word_1_71b' title='bbox 228 242 256 253;x_wconf 0' lang='eng'>loan</span>
-			<span class='ocrx_word' id='word_1_72b' title='bbox 261 242 268 253;x_wconf 0' lang='eng'>7</span>
+			<span class='ocrx_word' id='word_1_70b' title='bbox 211 243 224 253;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>to</span>
+			<span class='ocrx_word' id='word_1_71b' title='bbox 228 242 256 253;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>loan</span>
+			<span class='ocrx_word' id='word_1_72b' title='bbox 261 242 268 253;x_wconf 0;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>7</span>
 			<span class='ocrx_word' id='word_1_67' title='bbox 645 242 702 255;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>1,500.00</span>
 			<span class='ocrx_word' id='word_1_68' title='bbox 836 242 902 255;x_wconf 100;x_font Arial_Bold' lang='eng' style='font-family:Arial_Bold'>70,269.42</span>
 			<span class='ocrx_word' id='word_1_69' title='bbox 912 248 917 250;x_wconf 100' lang='eng'>-</span>

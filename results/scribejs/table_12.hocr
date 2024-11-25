@@ -8,8 +8,8 @@
 	<meta name='sans-font' content='NimbusSans'></meta>
 	<meta name='serif-font' content='NimbusRomNo9L'></meta>
 	<meta name='enable-opt' content='undefined'></meta>
-	<meta name='layout' content='[{"default":true,"boxes":{}}]'></meta>
-	<meta name='layout-data-table' content='[{"default":true,"tables":[]}]'></meta>
+	<meta name='layout' content='[{"n":0,"default":true,"boxes":{}}]'></meta>
+	<meta name='layout-data-table' content='[{"n":0,"default":true,"tables":[]}]'></meta>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
 	<meta name='ocr-system' content='scribeocr' />
 	<meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf ocrp_lang ocrp_dir ocrp_font ocrp_fsize'/>
@@ -100,7 +100,7 @@
 			<span class='ocrx_word' id='word_1_65' title='bbox 382 383 650 402;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-variant:small-caps;font-family:DejaVu_Sans_Ultra-Light'>FLUDROCORTISONE</span>
 			<span class='ocrx_word' id='word_1_66' title='bbox 659 383 786 402;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-variant:small-caps;font-family:DejaVu_Sans_Ultra-Light'>ACETATE</span>
 			<span class='ocrx_word' id='word_1_67' title='bbox 795 383 847 402;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-variant:small-caps;font-family:DejaVu_Sans_Ultra-Light'>TAB</span>
-			<span class='ocrx_word' id='word_1_69b' title='bbox 856 383 937 402;x_wconf 0' lang='eng'>0.1MG</span>
+			<span class='ocrx_word' id='word_1_69b' title='bbox 856 383 937 402;x_wconf 0;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>0.1MG</span>
 			<span class='ocrx_word' id='word_1_70' title='bbox 946 383 990 402;x_wconf 100' lang='eng'>100</span>
 			<span class='ocrx_word' id='word_1_71' title='bbox 1110 382 1193 405;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>$54.88</span>
 			<span class='ocrx_word' id='word_1_72' title='bbox 1313 382 1395 405;x_wconf 100;x_font DejaVu_Sans_Ultra-Light' lang='eng' style='font-family:DejaVu_Sans_Ultra-Light'>$53.78</span>
@@ -378,7 +378,7 @@
 		</span>
 		<span class='ocr_line' title="bbox 117 1299 1999 1322; baseline 0 -2; x_x_height 13.785117149353027; x_asc_height 20">
 			<span class='ocrx_word' id='word_1_294' title='bbox 117 1300 306 1320;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>00093-8238-56</span>
-			<span class='ocrx_word' id='word_1_302b' title='bbox 382 1300 632 1320;x_wconf 0' lang='eng' style='font-variant:small-caps;'>IRBESARTAN/HCTZ</span>
+			<span class='ocrx_word' id='word_1_302b' title='bbox 382 1300 632 1320;x_wconf 0;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>IRBESARTAN/HCTZ</span>
 			<span class='ocrx_word' id='word_1_297' title='bbox 639 1300 759 1320;x_wconf 100;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>TABLETS</span>
 			<span class='ocrx_word' id='word_1_298' title='bbox 771 1300 963 1320;x_wconf 0' lang='eng' style='font-variant:small-caps;'>150MG/12.5MG</span>
 			<span class='ocrx_word' id='word_1_299' title='bbox 971 1300 1001 1320;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>30</span>
@@ -402,7 +402,7 @@
 		</span>
 		<span class='ocr_line' title="bbox 117 1382 1998 1406; baseline 0 -3; x_x_height 13.785117149353027; x_asc_height 20">
 			<span class='ocrx_word' id='word_1_315' title='bbox 117 1383 306 1403;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>00093-8232-56</span>
-			<span class='ocrx_word' id='word_1_322b' title='bbox 382 1383 632 1403;x_wconf 0' lang='eng' style='font-variant:small-caps;'>IRBESARTAN/HCTZ</span>
+			<span class='ocrx_word' id='word_1_322b' title='bbox 382 1383 632 1403;x_wconf 0;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>IRBESARTAN/HCTZ</span>
 			<span class='ocrx_word' id='word_1_318' title='bbox 639 1383 759 1403;x_wconf 100;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>TABLETS</span>
 			<span class='ocrx_word' id='word_1_319' title='bbox 770 1383 963 1403;x_wconf 0' lang='eng' style='font-variant:small-caps;'>300MG/12.5MG</span>
 			<span class='ocrx_word' id='word_1_320' title='bbox 971 1383 1001 1403;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>30</span>
@@ -441,6 +441,7 @@
 			<span class='ocrx_word' id='word_1_352b' title='bbox 380 1508 509 1534;x_wconf 0' lang='eng'>JINTELKR)</span>
 			<span class='ocrx_word' id='word_1_353b' title='bbox 519 1508 815 1534;x_wconf 0' lang='eng'>(NORETHINDRONE/EE)</span>
 			<span class='ocrx_word' id='word_1_354b' title='bbox 825 1508 914 1528;x_wconf 0' lang='eng'>1/0.005</span>
+			<span class='ocrx_word' id='word_1_355b' title='bbox 922 1508 952 1528;x_wconf 0' lang='eng'>90</span>
 			<span class='ocrx_word' id='word_1_348' title='bbox 922 1508 952 1528;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>90</span>
 			<span class='ocrx_word' id='word_1_349' title='bbox 1102 1508 1200 1531;x_wconf 100' lang='eng'>$210.85</span>
 			<span class='ocrx_word' id='word_1_350' title='bbox 1305 1508 1404 1531;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$206.63</span>
@@ -496,8 +497,8 @@
 			<span class='ocrx_word' id='word_1_394' title='bbox 553 1675 625 1695;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>1.5/30</span>
 			<span class='ocrx_word' id='word_1_395' title='bbox 635 1675 757 1701;x_wconf 0;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>(NOREAC</span>
 			<span class='ocrx_word' id='word_1_396' title='bbox 763 1675 822 1695;x_wconf 0;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>E/EE</span>
-			<span class='ocrx_word' id='word_1_401b' title='bbox 833 1675 839 1701;x_wconf 0' lang='eng'>)</span>
-			<span class='ocrx_word' id='word_1_402b' title='bbox 848 1675 877 1695;x_wconf 0' lang='eng'>63</span>
+			<span class='ocrx_word' id='word_1_401b' title='bbox 833 1675 839 1701;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>)</span>
+			<span class='ocrx_word' id='word_1_402b' title='bbox 848 1675 877 1695;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>63</span>
 			<span class='ocrx_word' id='word_1_398' title='bbox 1110 1674 1193 1697;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$64.48</span>
 			<span class='ocrx_word' id='word_1_399' title='bbox 1313 1674 1395 1697;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$63.19</span>
 			<span class='ocrx_word' id='word_1_400' title='bbox 1516 1674 1599 1697;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$26.15</span>
@@ -643,7 +644,7 @@
 			<span class='ocrx_word' id='word_1_514' title='bbox 756 2161 876 2181;x_wconf 100;x_font Arial' lang='eng' style='font-variant:small-caps;font-family:Arial'>TABLETS</span>
 			<span class='ocrx_word' id='word_1_522b' title='bbox 886 2161 944 2181;x_wconf 0' lang='eng' style='font-variant:small-caps;'>5MG</span>
 			<span class='ocrx_word' id='word_1_523b' title='bbox 953 2161 997 2181;x_wconf 0' lang='eng' style='font-variant:small-caps;'>100</span>
-			<span class='ocrx_word' id='word_1_524b' title='bbox 1110 2160 1193 2183;x_wconf 0' lang='eng'>$21.43</span>
+			<span class='ocrx_word' id='word_1_524b' title='bbox 1110 2160 1193 2183;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>$21.43</span>
 			<span class='ocrx_word' id='word_1_518' title='bbox 1313 2160 1395 2183;x_wconf 100' lang='eng'>$21.00</span>
 			<span class='ocrx_word' id='word_1_519' title='bbox 1517 2160 1599 2183;x_wconf 100' lang='eng'>$10.95</span>
 			<span class='ocrx_word' id='word_1_520' title='bbox 1728 2160 1795 2183;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$0.00</span>
@@ -770,7 +771,7 @@
 			<span class='ocrx_word' id='word_1_620' title='bbox 975 2536 1018 2556;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>100</span>
 			<span class='ocrx_word' id='word_1_621' title='bbox 1102 2536 1200 2559;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$755.35</span>
 			<span class='ocrx_word' id='word_1_622' title='bbox 1305 2536 1405 2559;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$740.24</span>
-			<span class='ocrx_word' id='word_1_632b' title='bbox 1509 2536 1607 2559;x_wconf 0' lang='eng'>$332.23</span>
+			<span class='ocrx_word' id='word_1_632b' title='bbox 1509 2536 1607 2559;x_wconf 0;x_font Arial' lang='eng' style='font-family:Arial'>$332.23</span>
 			<span class='ocrx_word' id='word_1_625' title='bbox 1727 2536 1795 2559;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$0.00</span>
 			<span class='ocrx_word' id='word_1_626' title='bbox 1916 2536 2015 2559;x_wconf 100;x_font Arial' lang='eng' style='font-family:Arial'>$332.23</span>
 		</span>

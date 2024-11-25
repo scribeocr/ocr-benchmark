@@ -5,11 +5,11 @@
 	<title></title>
 	<meta name='font-metrics' content='{"SerifDefault":{"normal":{"width":{"48":0,"49":0,"50":0,"51":0,"52":0,"53":0,"54":0,"55":0,"56":0,"57":0},"height":{"48":0,"49":0,"50":0,"51":0,"52":0,"53":0,"54":0,"55":0,"56":0,"57":0},"kerning":{"56,56":0,"49,52":0,"57,48":0,"57,49":0,"57,50":0,"57,52":0,"57,53":0,"57,56":0,"57,57":0,"49,48":0,"48,49":0,"48,50":0,"49,49":0,"48,53":0,"49,50":0,"48,54":0,"49,51":0,"48,55":0,"48,56":0,"49,53":0,"48,57":0,"49,54":0,"49,55":0,"49,56":0,"49,57":0,"50,48":0,"50,51":0,"50,49":0,"50,53":0,"50,50":0,"50,55":0,"50,56":0,"50,52":0,"51,48":0,"53,48":0,"51,49":0,"53,50":0,"51,50":0,"53,52":0,"51,52":0,"53,54":0,"51,56":0,"53,55":0,"51,57":0,"52,50":0,"54,51":0,"52,53":0,"54,52":0,"52,54":0,"54,56":0,"54,57":0,"52,56":0,"55,48":0,"52,57":0,"55,49":0,"55,52":0,"53,49":0,"55,53":0,"55,57":0,"56,48":0,"56,49":0,"56,51":0,"56,54":0,"56,55":0},"kerning2":{"56,56":0,"49,52":0,"57,48":0,"57,49":0,"57,50":0,"57,52":0,"57,53":0,"57,56":0,"57,57":0,"49,48":0,"48,49":0,"48,50":0,"49,49":0,"48,53":0,"49,50":0,"48,54":0,"49,51":0,"48,55":0,"48,56":0,"49,53":0,"48,57":0,"49,54":0,"49,55":0,"49,56":0,"49,57":0,"50,48":0,"50,51":0,"50,49":0,"50,53":0,"50,50":0,"50,55":0,"50,56":0,"50,52":0,"51,48":0,"53,48":0,"51,49":0,"53,50":0,"51,50":0,"53,52":0,"51,52":0,"53,54":0,"51,56":0,"53,55":0,"51,57":0,"52,50":0,"54,51":0,"52,53":0,"54,52":0,"52,54":0,"54,56":0,"54,57":0,"52,56":0,"55,48":0,"52,57":0,"55,49":0,"55,52":0,"53,49":0,"55,53":0,"55,57":0,"56,48":0,"56,49":0,"56,51":0,"56,54":0,"56,55":0},"variants":{},"heightCaps":0,"obs":205,"obsCaps":0},"italic":{"width":{"49":0,"53":0},"height":{"49":0,"53":0},"kerning":{"49,53":0},"kerning2":{"49,53":0},"variants":{},"heightCaps":0,"obs":2,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":207},"SansDefault":{"normal":{"width":{"46":0.461538,"78":1.384615,"80":1.076923,"84":1.076923,"97":1.076923,"98":1.076923,"101":1.076923,"108":0.461538,"111":1.076923,"114":0.923077,"116":0.846154},"height":{"46":0.461538,"78":1.461538,"80":1.461538,"84":1.384615,"97":1,"98":1.384615,"101":1.076923,"108":1.461538,"111":1.076923,"114":1.153846,"116":1.384615},"kerning":{"80,97":0.076923,"97,114":0.153846,"114,116":-0.153846,"78,111":0.153846,"111,46":0.153846,"84,97":0,"97,98":0.153846,"98,108":0.153846,"108,101":0.076923},"kerning2":{"80,97":0.07692299999999985,"97,114":0.15384600000000004,"114,116":-0.15384599999999993,"78,111":0.15384599999999993,"111,46":0.15384699999999996,"84,97":0,"97,98":0.15384599999999993,"98,108":0.15384699999999996,"108,101":0.07692299999999985},"variants":{},"heightCaps":1.461538,"obs":25,"obsCaps":7},"italic":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"smallCaps":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"bold":{"width":{},"height":{},"kerning":{},"kerning2":{},"variants":{},"heightCaps":0,"obs":0,"obsCaps":0},"obs":25}}'></meta>
 	<meta name='default-font' content='SerifDefault'></meta>
-	<meta name='sans-font' content='Carlito'></meta>
+	<meta name='sans-font' content='NimbusSans'></meta>
 	<meta name='serif-font' content='Century'></meta>
 	<meta name='enable-opt' content='undefined'></meta>
-	<meta name='layout' content='[{"default":true,"boxes":{}}]'></meta>
-	<meta name='layout-data-table' content='[{"default":true,"tables":[]}]'></meta>
+	<meta name='layout' content='[{"n":0,"default":true,"boxes":{}}]'></meta>
+	<meta name='layout-data-table' content='[{"n":0,"default":true,"tables":[]}]'></meta>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
 	<meta name='ocr-system' content='scribeocr' />
 	<meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf ocrp_lang ocrp_dir ocrp_font ocrp_fsize'/>
@@ -129,7 +129,7 @@
 			<span class='ocrx_word' id='word_1_81' title='bbox 772 812 807 838;x_wconf 0;x_font Times_New_Roman_Bold' lang='eng' style='font-family:Times_New_Roman_Bold'>14</span>
 			<span class='ocrx_word' id='word_1_82' title='bbox 818 810 847 838;x_wconf 0;x_font Times_New_Roman_Bold' lang='eng' style='font-family:Times_New_Roman_Bold'>A</span>
 			<span class='ocrx_word' id='word_1_83' title='bbox 1097 812 1152 840;x_wconf 100;x_font Times_New_Roman_Bold' lang='eng' style='font-family:Times_New_Roman_Bold'>102</span>
-			<span class='ocrx_word' id='word_1_59b' title='bbox 1381 812 1453 842;x_wconf 0' lang='eng'>13B</span>
+			<span class='ocrx_word' id='word_1_59b' title='bbox 1381 812 1453 842;x_wconf 0;x_font Times_New_Roman_Bold' lang='eng' style='font-family:Times_New_Roman_Bold'>13B</span>
 		</span>
 		<span class='ocr_line' title="bbox 504 852 1454 883; baseline 0.003158 -3; x_asc_height 28">
 			<span class='ocrx_word' id='word_1_86' title='bbox 504 852 538 880;x_wconf 100;x_font Times_New_Roman_Bold' lang='eng' style='font-family:Times_New_Roman_Bold'>11</span>
@@ -389,9 +389,9 @@
 		</span>
 		<span class='ocr_line' title="bbox 493 2144 1481 2174; baseline -0.001012 0; x_x_height 16; x_asc_height 28">
 			<span class='ocrx_word' id='word_1_280' title='bbox 493 2146 529 2174;x_wconf 100;x_font URW_Bookman_L_Bold' lang='eng' style='font-family:URW_Bookman_L_Bold'>81</span>
-			<span class='ocrx_word' id='word_1_193b' title='bbox 762 2144 836 2174;x_wconf 0' lang='eng'>14B</span>
+			<span class='ocrx_word' id='word_1_193b' title='bbox 762 2144 836 2174;x_wconf 0;x_font URW_Bookman_L_Bold' lang='eng' style='font-family:URW_Bookman_L_Bold'>14B</span>
 			<span class='ocrx_word' id='word_1_283' title='bbox 1089 2144 1143 2173;x_wconf 100;x_font URW_Bookman_L_Bold' lang='eng' style='font-family:URW_Bookman_L_Bold'>157</span>
-			<span class='ocrx_word' id='word_1_195b' title='bbox 1372 2144 1446 2174;x_wconf 0' lang='eng'>14B</span>
+			<span class='ocrx_word' id='word_1_195b' title='bbox 1372 2144 1446 2174;x_wconf 0;x_font URW_Bookman_L_Bold' lang='eng' style='font-family:URW_Bookman_L_Bold'>14B</span>
 			<span class='ocrx_word' id='word_1_286' title='bbox 1464 2156 1481 2172;x_wconf 0;x_font URW_Bookman_L_Bold' lang='eng' style='font-family:URW_Bookman_L_Bold'>r</span>
 		</span>
 		<span class='ocr_line' title="bbox 493 2186 1445 2235; baseline -0.00105 -19; x_asc_height 28">
@@ -424,7 +424,7 @@
 			<span class='ocrx_word' id='word_1_307' title='bbox 1105 2302 1114 2317;x_wconf 0;x_font URW_Bookman_L_Bold' lang='eng' style='font-family:URW_Bookman_L_Bold'>4</span>
 		</span>
 		<span class='ocr_line' title="bbox 1106 2499 1152 2520; baseline 0 -7; x_x_height 21">
-			<span class='ocrx_word' id='word_1_215b' title='bbox 1106 2499 1152 2520;x_wconf 0' lang='eng'>oo</span>
+			<span class='ocrx_word' id='word_1_215b' title='bbox 1106 2499 1152 2520;x_wconf 0;x_font URW_Bookman_L_Bold' lang='eng' style='font-family:URW_Bookman_L_Bold'>oo</span>
 		</span>
 	</div>
 </body>
