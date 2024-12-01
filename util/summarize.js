@@ -44,6 +44,10 @@ async function compareCSVFiles(filePath1, filePath2) {
     const data1 = await readAndExtractData(filePath1);
     const data2 = await readAndExtractData(filePath2);
 
+    if (data1.fileNames.length !== data2.fileNames.length) {
+      throw new Error('Number of files in the two CSVs do not match.');
+    }
+
     let markdown = '| file | percent correct in first file | percent correct in second file | difference |\n';
     markdown += '| --- | --- | --- | --- |\n';
 

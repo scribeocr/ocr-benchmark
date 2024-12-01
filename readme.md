@@ -10,13 +10,13 @@ A summary of recent benchmark results comparing between Tesseract.js and Scribe.
 | --- | --- | --- | --- |
 | chart_01.truth.hocr | 86.71% | 88.61% | 1.90% |
 | chart_02.truth.hocr | 80.41% | 89.69% | 9.28% |
-| deposition_01.truth.hocr | 92.63% | 99.77% | 7.13% |
+| deposition_01.truth.hocr | 92.63% | 99.65% | 7.02% |
 | deposition_02.truth.hocr | 81.48% | 98.94% | 17.46% |
 | filing_01.truth.hocr | 99.45% | 98.91% | -0.55% |
 | filing_03.truth.hocr | 97.68% | 98.84% | 1.16% |
 | form_01.truth.hocr | 55.32% | 54.41% | -0.91% |
 | multicol_01.truth.hocr | 91.50% | 90.80% | -0.71% |
-| multicol_02.truth.hocr | 91.30% | 95.35% | 4.05% |
+| multicol_02.truth.hocr | 91.30% | 95.20% | 3.90% |
 | multicol_03.truth.hocr | 95.00% | 95.13% | 0.13% |
 | multicol_04.truth.hocr | 94.31% | 93.56% | -0.74% |
 | multicol_05.truth.hocr | 97.09% | 97.09% | 0.00% |
@@ -33,9 +33,10 @@ A summary of recent benchmark results comparing between Tesseract.js and Scribe.
 | table_07.truth.hocr | 58.65% | 91.56% | 32.91% |
 | table_08.truth.hocr | 97.87% | 99.39% | 1.52% |
 | table_09.truth.hocr | 96.90% | 96.21% | -0.69% |
+| table_10.truth.hocr | 84.47% | 97.72% | 13.24% |
 | table_11.truth.hocr | 66.39% | 98.88% | 32.49% |
 | table_12.truth.hocr | 65.98% | 98.96% | 32.99% |
-| **Average** | **84.23%** | **93.24%** | **9.01%** |
+| **Average** | **84.24%** | **93.39%** | **9.15%** |
 
 # Running
 ### Generating HOCR for Test Corpus
@@ -54,6 +55,12 @@ node run_eval.js results/scribejs
 node run_eval.js results/tesseractjs_lstm
 ```
 The results are saved as `.csv` files in the `stats` directory.
+
+### Create Summary Table
+
+```sh
+node util/summarize.js stats/eval_stats_tesseractjs_lstm.csv stats/eval_stats_scribejs.csv
+```
 
 # Scope
 The corpus may include all printed documents that a user may need to digitize using OCR.  This includes most document types--books, forms, receipts, newspapers, etc. 

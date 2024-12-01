@@ -24,5 +24,6 @@ file,total,correct,incorrect,missed,extra,correctLowConf,incorrectHighConf
 "table_07.truth.hocr",237,139,36,62,8,8,14
 "table_08.truth.hocr",328,321,7,0,0,0,7
 "table_09.truth.hocr",290,281,9,0,0,4,4
+"table_10.truth.hocr",657,555,98,4,0,61,27
 "table_11.truth.hocr",357,237,26,94,0,7,5
 "table_12.truth.hocr",676,446,5,225,0,4,4
