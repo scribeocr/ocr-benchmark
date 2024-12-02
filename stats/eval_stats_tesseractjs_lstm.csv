@@ -17,9 +17,9 @@ file,total,correct,incorrect,missed,extra,correctLowConf,incorrectHighConf
 "receipt_03.truth.hocr",61,60,1,0,0,1,0
 "singlecol_01.hocr",298,291,7,0,0,2,3
 "slide_01.truth.hocr",156,149,4,3,0,6,2
-"table_01.truth.hocr",452,393,58,1,0,41,8
+"table_01.truth.hocr",452,392,59,1,0,40,8
 "table_02.truth.hocr",89,82,3,4,0,14,0
-"table_04.truth.hocr",270,137,16,117,0,7,10
+"table_04.truth.hocr",270,138,15,117,0,7,9
 "table_05.truth.hocr",273,56,125,92,0,29,113
 "table_07.truth.hocr",237,139,36,62,8,8,14
 "table_08.truth.hocr",328,321,7,0,0,0,7

@@ -128,7 +128,7 @@
 			<span class='ocrx_word' id='word_1_9_3' title='bbox 661 356 729 381;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Major</span>
 			<span class='ocrx_word' id='word_1_9_4' title='bbox 737 356 936 376;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharmaceuticals</span>
 		</span>
-		<span class='ocr_line' title="bbox 382 416 583 440; baseline 0 -5; x_asc_height 18">
+		<span class='ocr_line' title="bbox 382 416 587 440; baseline 0 -5; x_asc_height 18">
 			<span class='ocrx_word' id='word_1_10_1' title='bbox 382 417 490 435;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>COMPANY</span>
 			<span class='ocrx_word' id='word_1_10_2' title='bbox 495 416 587 440;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(TICKER)</span>
 		</span>
@@ -137,7 +137,7 @@
 			<span class='ocrx_word' id='word_1_11_2' title='bbox 1181 416 1217 440;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(AS</span>
 			<span class='ocrx_word' id='word_1_11_3' title='bbox 1223 416 1257 440;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>OF)</span>
 		</span>
-		<span class='ocr_line' title="bbox 1337 416 1541 440; baseline 0 -5; x_asc_height 18">
+		<span class='ocr_line' title="bbox 1337 416 1545 440; baseline 0 -5; x_asc_height 18">
 			<span class='ocrx_word' id='word_1_12_1a' title='bbox 1337 416 1406 440;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>PRICE*</span>
 			<span class='ocrx_word' id='word_1_12_1b' title='bbox 1414 416 1545 440;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(11/04/2016)</span>
 		</span>
@@ -257,19 +257,19 @@
 			<span class='ocrx_word' id='word_1_35_2' title='bbox 481 942 496 961;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>S</span>
 			<span class='ocrx_word' id='word_1_35_3' title='bbox 506 942 588 961;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Berens</span>
 		</span>
-		<span class='ocr_line' title="bbox 403 982 729 1006; baseline 0 -5; x_x_height 14; x_asc_height 18">
+		<span class='ocr_line' title="bbox 403 982 731 1006; baseline 0 -5; x_x_height 14; x_asc_height 18">
 			<span class='ocrx_word' id='word_1_36_1' title='bbox 403 983 501 1001;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Acceleron</span>
 			<span class='ocrx_word' id='word_1_36_2' title='bbox 511 983 592 1001;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Pharma</span>
 			<span class='ocrx_word' id='word_1_36_3' title='bbox 600 982 629 1001;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Inc</span>
 			<span class='ocrx_word' id='word_1_36_4' title='bbox 638 982 731 1006;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(XLRN.O)</span>
 		</span>
-		<span class='ocr_line' title="bbox 402 1009 747 1033; baseline -0.005682 -5; x_x_height 13; x_asc_height 19">
+		<span class='ocr_line' title="bbox 402 1009 749 1033; baseline -0.005682 -5; x_x_height 13; x_asc_height 19">
 			<span class='ocrx_word' id='word_1_37_1' title='bbox 402 1009 472 1028;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Akebia</span>
 			<span class='ocrx_word' id='word_1_37_2' title='bbox 478 1009 611 1032;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Therapeutics</span>
 			<span class='ocrx_word' id='word_1_37_3a' title='bbox 620 1009 650 1028;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Inc</span>
 			<span class='ocrx_word' id='word_1_37_3b' title='bbox 657 1009 749 1033;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(AKBAO)</span>
 		</span>
-		<span class='ocr_line' title="bbox 403 1036 628 1059; baseline 0 -5; x_x_height 13; x_asc_height 18">
+		<span class='ocr_line' title="bbox 403 1036 630 1059; baseline 0 -5; x_x_height 13; x_asc_height 18">
 			<span class='ocrx_word' id='word_1_38_1' title='bbox 403 1036 487 1059;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Cempra</span>
 			<span class='ocrx_word' id='word_1_38_2a' title='bbox 495 1036 523 1054;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Inc</span>
 			<span class='ocrx_word' id='word_1_38_2b' title='bbox 531 1036 630 1059;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(CEMP.O)</span>
@@ -321,23 +321,23 @@
 			<span class='ocrx_word' id='word_1_46_3' title='bbox 550 1239 641 1270;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(VSAR.O)</span>
 		</span>
 		<span class='ocr_line' title="bbox 1107 982 1261 1006; baseline 0 -5; x_asc_height 19">
-			<span class='ocrx_word' id='word_1_47_1a' title='bbox 1107 982 1124 1001;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>0</span>
+			<span class='ocrx_word' id='word_1_47_1a' title='bbox 1107 982 1124 1001;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>O</span>
 			<span class='ocrx_word' id='word_1_47_1b' title='bbox 1129 982 1261 1006;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(08/13/2015)</span>
 		</span>
 		<span class='ocr_line' title="bbox 1107 1009 1261 1033; baseline 0 -6; x_asc_height 18">
-			<span class='ocrx_word' id='word_1_48_1a' title='bbox 1107 1009 1124 1027;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>0</span>
+			<span class='ocrx_word' id='word_1_48_1a' title='bbox 1107 1009 1124 1027;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>O</span>
 			<span class='ocrx_word' id='word_1_48_1b' title='bbox 1130 1009 1261 1033;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(09/09/2015)</span>
 		</span>
 		<span class='ocr_line' title="bbox 1107 1036 1261 1060; baseline 0 -6; x_asc_height 18">
-			<span class='ocrx_word' id='word_1_49_1a' title='bbox 1107 1036 1125 1054;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>0</span>
+			<span class='ocrx_word' id='word_1_49_1a' title='bbox 1107 1036 1125 1054;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>O</span>
 			<span class='ocrx_word' id='word_1_49_1b' title='bbox 1130 1036 1261 1060;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(11/16/2015)</span>
 		</span>
 		<span class='ocr_line' title="bbox 1107 1062 1260 1085; baseline 0 -5; x_asc_height 18">
-			<span class='ocrx_word' id='word_1_50_1a' title='bbox 1107 1062 1124 1080;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>0</span>
+			<span class='ocrx_word' id='word_1_50_1a' title='bbox 1107 1062 1124 1080;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>O</span>
 			<span class='ocrx_word' id='word_1_50_1b' title='bbox 1129 1062 1260 1085;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(08/13/2015)</span>
 		</span>
 		<span class='ocr_line' title="bbox 1107 1088 1260 1112; baseline 0 -5; x_asc_height 19">
-			<span class='ocrx_word' id='word_1_51_1a' title='bbox 1107 1088 1124 1107;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>0</span>
+			<span class='ocrx_word' id='word_1_51_1a' title='bbox 1107 1088 1124 1107;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>O</span>
 			<span class='ocrx_word' id='word_1_51_1b' title='bbox 1129 1088 1260 1112;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(03/23/2016)</span>
 		</span>
 		<span class='ocr_line' title="bbox 1108 1114 1260 1138; baseline -0.016393 -5; x_asc_height 18">
@@ -349,7 +349,7 @@
 			<span class='ocrx_word' id='word_1_53_2' title='bbox 1130 1141 1261 1165;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(10/05/2015)</span>
 		</span>
 		<span class='ocr_line' title="bbox 1107 1167 1260 1191; baseline 0 -5; x_asc_height 18">
-			<span class='ocrx_word' id='word_1_54_1a' title='bbox 1107 1168 1124 1186;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>0</span>
+			<span class='ocrx_word' id='word_1_54_1a' title='bbox 1107 1168 1124 1186;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>O</span>
 			<span class='ocrx_word' id='word_1_54_1b' title='bbox 1130 1167 1260 1191;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(02/17/2016)</span>
 		</span>
 		<span class='ocr_line' title="bbox 1108 1193 1260 1218; baseline 0 -6; x_asc_height 19">
@@ -357,7 +357,7 @@
 			<span class='ocrx_word' id='word_1_55_2' title='bbox 1129 1193 1260 1218;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(08/13/2015)</span>
 		</span>
 		<span class='ocr_line' title="bbox 1107 1220 1261 1243; baseline 0 -5; x_asc_height 18">
-			<span class='ocrx_word' id='word_1_56_1a' title='bbox 1107 1220 1124 1238;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>0</span>
+			<span class='ocrx_word' id='word_1_56_1a' title='bbox 1107 1220 1124 1238;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>O</span>
 			<span class='ocrx_word' id='word_1_56_1b' title='bbox 1130 1220 1261 1243;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(09/07/2016)</span>
 		</span>
 		<span class='ocr_line' title="bbox 1110 1247 1261 1270; baseline 0 -5; x_asc_height 18">
@@ -503,7 +503,7 @@
 			<span class='ocrx_word' id='word_1_91_2' title='bbox 498 1736 547 1759;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Corp</span>
 			<span class='ocrx_word' id='word_1_91_3' title='bbox 553 1736 653 1760;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(CELG.O)</span>
 		</span>
-		<span class='ocr_line' title="bbox 406 1758 728 1786; baseline 0 -5; x_asc_height 19">
+		<span class='ocr_line' title="bbox 405 1758 728 1786; baseline 0 -5; x_asc_height 19">
 			<span class='ocrx_word' id='word_1_92_1' title='bbox 405 1762 453 1781;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>DBV</span>
 			<span class='ocrx_word' id='word_1_92_2' title='bbox 454 1758 590 1786;x_wconf 0;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Technologies</span>
 			<span class='ocrx_word' id='word_1_92_3' title='bbox 601 1762 728 1786;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>SA(DBVT.O)</span>
@@ -536,7 +536,7 @@
 			<span class='ocrx_word' id='word_1_97_2' title='bbox 540 1894 573 1912;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>Inc.</span>
 			<span class='ocrx_word' id='word_1_97_3' title='bbox 580 1887 672 1917;x_wconf 100;x_font SansDefault' lang='eng' style='font-family:SansDefault'>(IMGN.O)</span>
 		</span>
-		<span class='ocr_line' title="bbox 404 1920 611 1944; baseline 0 -5; x_x_height 14; x_asc_height 19">
+		<span class='ocr_line' title="bbox 404 1920 614 1944; baseline 0 -5; x_x_height 14; x_asc_height 19">
 			<span class='ocrx_word' id='word_1_98_1' title='bbox 404 1920 485 1939;x_wconf 100;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>Innoviva</span>
 			<span class='ocrx_word' id='word_1_98_2' title='bbox 492 1920 522 1939;x_wconf 100;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>Inc</span>
 			<span class='ocrx_word' id='word_1_98_3' title='bbox 528 1920 614 1944;x_wconf 100;x_font SerifDefault' lang='eng' style='font-family:SerifDefault'>(INVAO)</span>

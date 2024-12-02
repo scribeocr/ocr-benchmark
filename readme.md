@@ -26,9 +26,9 @@ A summary of recent benchmark results comparing between Tesseract.js and Scribe.
 | receipt_03.truth.hocr | 98.36% | 96.72% | -1.64% |
 | singlecol_01.hocr | 97.65% | 100.00% | 2.35% |
 | slide_01.truth.hocr | 95.51% | 96.15% | 0.64% |
-| table_01.truth.hocr | 86.95% | 86.95% | 0.00% |
+| table_01.truth.hocr | 86.73% | 87.17% | 0.44% |
 | table_02.truth.hocr | 92.13% | 100.00% | 7.87% |
-| table_04.truth.hocr | 50.74% | 72.59% | 21.85% |
+| table_04.truth.hocr | 51.11% | 72.96% | 21.85% |
 | table_05.truth.hocr | 20.51% | 91.21% | 70.70% |
 | table_07.truth.hocr | 58.65% | 91.56% | 32.91% |
 | table_08.truth.hocr | 97.87% | 99.39% | 1.52% |
@@ -36,7 +36,7 @@ A summary of recent benchmark results comparing between Tesseract.js and Scribe.
 | table_10.truth.hocr | 84.47% | 97.72% | 13.24% |
 | table_11.truth.hocr | 66.39% | 98.88% | 32.49% |
 | table_12.truth.hocr | 65.98% | 98.96% | 32.99% |
-| **Average** | **84.24%** | **93.39%** | **9.15%** |
+| **Average** | **84.24%** | **93.41%** | **9.17%** |
 
 # Running
 ### Generating HOCR for Test Corpus
