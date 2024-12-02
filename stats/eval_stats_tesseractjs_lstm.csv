@@ -14,6 +14,7 @@ file,total,correct,incorrect,missed,extra,correctLowConf,incorrectHighConf
 "multicol_06.truth.hocr",622,569,25,28,17,20,10
 "multicol_07.truth.hocr",523,497,17,9,15,13,7
 "multicol_08.truth.hocr",758,736,21,1,0,34,7
+"multicol_11.truth.hocr",650,645,5,0,0,7,3
 "receipt_03.truth.hocr",61,60,1,0,0,1,0
 "singlecol_01.hocr",298,291,7,0,0,2,3
 "slide_01.truth.hocr",156,149,4,3,0,6,2

@@ -15,14 +15,15 @@ A summary of recent benchmark results comparing between Tesseract.js and Scribe.
 | filing_01.truth.hocr | 99.45% | 98.91% | -0.55% |
 | filing_03.truth.hocr | 97.68% | 98.84% | 1.16% |
 | form_01.truth.hocr | 55.32% | 54.41% | -0.91% |
-| multicol_01.truth.hocr | 91.50% | 90.80% | -0.71% |
+| multicol_01.truth.hocr | 91.50% | 90.97% | -0.53% |
 | multicol_02.truth.hocr | 91.30% | 95.20% | 3.90% |
-| multicol_03.truth.hocr | 95.00% | 95.13% | 0.13% |
+| multicol_03.truth.hocr | 95.00% | 95.26% | 0.26% |
 | multicol_04.truth.hocr | 94.31% | 93.56% | -0.74% |
-| multicol_05.truth.hocr | 97.09% | 97.09% | 0.00% |
-| multicol_06.truth.hocr | 91.48% | 93.89% | 2.41% |
-| multicol_07.truth.hocr | 95.03% | 95.98% | 0.96% |
+| multicol_05.truth.hocr | 97.09% | 97.25% | 0.16% |
+| multicol_06.truth.hocr | 91.48% | 94.21% | 2.73% |
+| multicol_07.truth.hocr | 95.03% | 96.18% | 1.15% |
 | multicol_08.truth.hocr | 97.10% | 97.89% | 0.79% |
+| multicol_11.truth.hocr | 99.23% | 99.54% | 0.31% |
 | receipt_03.truth.hocr | 98.36% | 96.72% | -1.64% |
 | singlecol_01.hocr | 97.65% | 100.00% | 2.35% |
 | slide_01.truth.hocr | 95.51% | 96.15% | 0.64% |
@@ -33,10 +34,10 @@ A summary of recent benchmark results comparing between Tesseract.js and Scribe.
 | table_07.truth.hocr | 58.65% | 91.56% | 32.91% |
 | table_08.truth.hocr | 97.87% | 99.39% | 1.52% |
 | table_09.truth.hocr | 96.90% | 96.21% | -0.69% |
-| table_10.truth.hocr | 84.47% | 97.72% | 13.24% |
+| table_10.truth.hocr | 84.47% | 97.41% | 12.94% |
 | table_11.truth.hocr | 66.39% | 98.88% | 32.49% |
 | table_12.truth.hocr | 65.98% | 98.96% | 32.99% |
-| **Average** | **84.24%** | **93.41%** | **9.17%** |
+| **Average** | **84.76%** | **93.65%** | **8.89%** |
 
 # Running
 ### Generating HOCR for Test Corpus
